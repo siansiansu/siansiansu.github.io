@@ -1,6 +1,6 @@
 # siansiansu.github.io
 
-GitHub portfolio highlighting projects.
+GitHub portfolio highlights.
 
 ## Engineering
 
