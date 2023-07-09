@@ -19,5 +19,9 @@ GitHub portfolio highlights.
 - [cooking-for-engineers](https://github.com/siansiansu/cooking-for-engineers) - A Busy Engineer's Guide to Healthy Home Cooking.
 - [fitness-for-engineers](https://github.com/siansiansu/fitness-for-engineers) - My personal fitness goals.
 - [must-eat-in-taiwan](https://github.com/siansiansu/must-eat-in-taiwan) - A curated collection of Taiwan's top eateries.
+
+## Learning Languages
+
 - [oh-tai-gi](https://github.com/siansiansu/oh-tai-gi) - 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann.
 - [tsiau-a-e-mia](https://github.com/siansiansu/tsiau-a-e-mia) - 鳥仔 ê 名。
+- [anki-taigi](https://github.com/siansiansu/anki-taigi) - My Anki Flashcards to Learn Tâi-uân-uē.
