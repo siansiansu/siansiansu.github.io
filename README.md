@@ -25,6 +25,7 @@ GitHub portfolio highlights.
 ## Others
 
 - [cooking-for-engineers](https://github.com/siansiansu/cooking-for-engineers) - A busy engineer's guide to healthy home cooking.
+- [hhkb-unboxing](https://github.com/siansiansu/hhkb-unboxing) - HHKB Professional HYBRID Type-S unboxing.
 - [home-inspections-checklist](https://github.com/siansiansu/home-inspections-checklist) - A checklist for home inspections.
 - [siansiansu](https://github.com/siansiansu/siansiansu) - My public profile for GitHub.
 
