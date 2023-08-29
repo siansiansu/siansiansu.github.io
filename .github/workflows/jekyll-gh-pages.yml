@@ -29,6 +29,7 @@ jobs:
 
       - name: Run
         run: |
+          ls -la
           cp -r jekyll-theme/* .
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
