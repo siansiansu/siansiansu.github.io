@@ -22,9 +22,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Clone
+        uses: actions/checkout@v3
+        with:
+          repository: siansiansu/jekyll-theme
+
       - name: Run
         run: |
-          git clone git@github.com:siansiansu/jekyll-theme.git
           cp -r jekyll-theme/* .
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
