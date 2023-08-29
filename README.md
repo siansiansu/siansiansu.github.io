@@ -12,6 +12,13 @@
 - [terraform-etcd](https://github.com/siansiansu/terraform-etcd) - Deploy an etcd cluster with 3 nodes.
 - [terraform-redis](https://github.com/siansiansu/terraform-redis) - Manage Redis Enterprise with Terraform.
 
+## Languages Learning
+
+- [anki-nihongo](https://github.com/siansiansu/anki-nihongo) - My Anki flashcards to learn Japanese.
+- [anki-taigi](https://github.com/siansiansu/anki-taigi) - My Anki flashcards to learn Tâi-uân-uē.
+- [oh-tai-gi](https://github.com/siansiansu/oh-tai-gi) - 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann.
+- [tsiau-a-e-mia](https://github.com/siansiansu/tsiau-a-e-mia) - 鳥仔 ê 名 - 文字版。
+
 ## Game
 
 - [zelda-botw-100-completion](https://github.com/siansiansu/zelda-botw-100-completion) - The 100% breath of the wild guide.
@@ -24,11 +31,3 @@
 - [hhkb-unboxing](https://github.com/siansiansu/hhkb-unboxing) - HHKB Professional HYBRID Type-S unboxing.
 - [home-inspections-checklist](https://github.com/siansiansu/home-inspections-checklist) - A checklist for home inspections.
 - [siansiansu](https://github.com/siansiansu/siansiansu) - My public profile for GitHub.
-
-## Learning Languages
-
-- [anki-nihongo](https://github.com/siansiansu/anki-nihongo) - My Anki flashcards to learn Japanese.
-- [anki-taigi](https://github.com/siansiansu/anki-taigi) - My Anki flashcards to learn Tâi-uân-uē.
-- [oh-tai-gi](https://github.com/siansiansu/oh-tai-gi) - 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann.
-- [tsiau-a-e-mia](https://github.com/siansiansu/tsiau-a-e-mia) - 鳥仔 ê 名 - 文字版。
-
