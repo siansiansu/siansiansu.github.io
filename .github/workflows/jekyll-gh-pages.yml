@@ -24,16 +24,20 @@ jobs:
 
       - name: Run
         run: |
+          git clone git@github.com:siansiansu/jekyll-theme.git
+          cp -r jekyll-theme/* .
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
