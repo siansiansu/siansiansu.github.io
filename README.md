@@ -17,7 +17,6 @@
 ## Languages Learning
 
 - [anki-nihongo](https://github.com/siansiansu/anki-nihongo) - My Anki flashcards to learn Japanese.
-- [anki-taigi](https://github.com/siansiansu/anki-taigi) - My Anki flashcards to learn Tâi-uân-uē.
 - [oh-tai-gi](https://github.com/siansiansu/oh-tai-gi) - 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann.
 - [tsiau-a-e-mia](https://github.com/siansiansu/tsiau-a-e-mia) - 鳥仔 ê 名 - 文字版。
 
