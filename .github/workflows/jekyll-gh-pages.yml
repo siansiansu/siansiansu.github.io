@@ -8,7 +8,7 @@ on:
   repository_dispatch:
 
 env:
-  URL: https://siansiansu.github.io/${{ github.event.repository.name }}
+  URL: https:\/\/siansiansu.github.io\/${{ github.event.repository.name }}
   DESCRIPTION: GitHub Portfolio Highlights
 
 permissions:
