@@ -8,6 +8,7 @@ on:
   repository_dispatch:
 
 env:
+  URL: https:\/\/siansiansu.github.io\/
   DESCRIPTION: GitHub Portfolio Highlights
 
 permissions:
@@ -35,6 +36,7 @@ jobs:
       - name: Run
         run: |
           cp -r jekyll-theme/* .
+          sed -i "3s/.*/url: ${URL}/" _config.yml
           sed -i "4s/.*/description: ${DESCRIPTION}/" _config.yml
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
