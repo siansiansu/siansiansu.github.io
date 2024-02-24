@@ -7,7 +7,6 @@
 - [gcp-firewall-scanner](https://github.com/siansiansu/gcp-firewall-scanner) - A simple tool designed to scan GCP firewall rules and identify any unused rules.
 - [go-functional-options](https://github.com/siansiansu/go-functional-options) - golang functional options pattern.
 - [iterm2-preferences](https://github.com/siansiansu/iterm2-preferences) - My iTerm2 preferences.
-- [leetcode](https://github.com/siansiansu/leetcode) - Preparing for coding interviews.
 - [nvim](https://github.com/siansiansu/nvim) - My personal configuration for Neovim.
 - [redis-redisinsight](https://github.com/siansiansu/redis-redisinsight) - Offline memory analysis of Redis.
 - [terraform-cloud](https://github.com/siansiansu/terraform-cloud) - Apply Terraform with Terraform Cloud.
