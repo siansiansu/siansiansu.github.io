@@ -1,5 +1,8 @@
 # [GitHub Portfolio Highlights](https://github.com/siansiansu/siansiansu.github.io)
 
+[![hackmd-github-sync-badge](https://hackmd.io/qY9Ig4qiQEmOBBCNbRiiaA/badge)](https://hackmd.io/qY9Ig4qiQEmOBBCNbRiiaA)
+
+
 ## Engineering
 
 - [ansible-setup](https://github.com/siansiansu/ansible-setup) - This is an Ansible project for quick environment setup.
