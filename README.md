@@ -1,36 +1,41 @@
-# [GitHub Portfolio Highlights](https://github.com/siansiansu/siansiansu.github.io)
+# Website
 
-[![hackmd-github-sync-badge](https://hackmd.io/qY9Ig4qiQEmOBBCNbRiiaA/badge)](https://hackmd.io/qY9Ig4qiQEmOBBCNbRiiaA)
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+### Installation
 
-## Engineering
+```
+$ yarn
+```
 
-- [ansible-setup](https://github.com/siansiansu/ansible-setup) - This is an Ansible project for quick environment setup.
-- [cka-bookmarks](https://github.com/siansiansu/cka-bookmarks) - The Collection of Kubernetes Bookmarks for CKA / CKAD Exam Preparation.
-- [gcp-firewall-scanner](https://github.com/siansiansu/gcp-firewall-scanner) - A simple tool designed to scan GCP firewall rules and identify any unused rules.
-- [go-functional-options](https://github.com/siansiansu/go-functional-options) - golang functional options pattern.
-- [iterm2-preferences](https://github.com/siansiansu/iterm2-preferences) - My iTerm2 preferences.
-- [nvim](https://github.com/siansiansu/nvim) - My personal configuration for Neovim.
-- [redis-redisinsight](https://github.com/siansiansu/redis-redisinsight) - Offline memory analysis of Redis.
-- [terraform-cloud](https://github.com/siansiansu/terraform-cloud) - Apply Terraform with Terraform Cloud.
-- [terraform-etcd](https://github.com/siansiansu/terraform-etcd) - Deploy an etcd cluster with 3 nodes.
-- [terraform-redis](https://github.com/siansiansu/terraform-redis) - Manage Redis Enterprise with Terraform.
+### Local Development
 
-## Languages Learning
+```
+$ yarn start
+```
 
-- [anki-nihongo](https://github.com/siansiansu/anki-nihongo) - My Anki flashcards to learn Japanese.
-- [oh-tai-gi](https://github.com/siansiansu/oh-tai-gi) - 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann.
-- [tsiau-a-e-mia](https://github.com/siansiansu/tsiau-a-e-mia) - 鳥仔 ê 名 - 文字版。
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-## Game
+### Build
 
-- [zelda-botw-100-completion](https://github.com/siansiansu/zelda-botw-100-completion) - The 100% breath of the wild guide.
-- [zelda-botw-all-locatons](https://github.com/siansiansu/zelda-botw-all-locatons) - All locations in breath of the wild.
-- [zelda-skyward-sword-100-completion](https://github.com/siansiansu/zelda-skyward-sword-100-completion) - The 100% skyward sword guide.
+```
+$ yarn build
+```
 
-## Others
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-- [cooking-for-engineers](https://github.com/siansiansu/cooking-for-engineers) - A busy engineer's guide to healthy home cooking.
-- [hhkb-unboxing](https://github.com/siansiansu/hhkb-unboxing) - HHKB Professional HYBRID Type-S unboxing.
-- [home-inspections-checklist](https://github.com/siansiansu/home-inspections-checklist) - A checklist for home inspections.
-- [siansiansu](https://github.com/siansiansu/siansiansu) - My public profile for GitHub.
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
