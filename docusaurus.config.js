@@ -36,6 +36,8 @@ const config = {
     locales: ['en'],
   },
 
+  // themes: ['@docusaurus/theme-search-algolia'],
+
   presets: [
     [
       'classic',
@@ -83,12 +85,19 @@ const config = {
         },
         items: [
           {
+            to: '/docs/birdwatching',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            label: '賞鳥筆記',
+            position: 'left'
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   to: '/docs/gaming',
+          //   type: 'docSidebar',
+          //   sidebarId: 'gamingSidebar',
+          //   label: '遊戲',
+          //   position: 'left'
+          // },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -145,6 +154,9 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      // algolia: {
+      //   contextualSearch: true,
+      // },
     }),
 };
 
