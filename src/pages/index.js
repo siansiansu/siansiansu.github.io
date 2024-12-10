@@ -23,7 +23,7 @@ export function HomepageHeader() {
 
       <div className={styles.socialLinks}>
         <Link
-          href="https://github.com/yourusername"
+          href="https://github.com/siansiansu"
           className={styles.socialIcon}
           target="_blank"
           rel="noopener noreferrer"
@@ -31,7 +31,7 @@ export function HomepageHeader() {
           <FontAwesomeIcon icon={faGithub} size="lg" />
         </Link>
         <Link
-          href="https://linkedin.com/in/yourusername"
+          href="https://linkedin.com/in/minsian"
           className={styles.socialIcon}
           target="_blank"
           rel="noopener noreferrer"
@@ -39,7 +39,7 @@ export function HomepageHeader() {
           <FontAwesomeIcon icon={faLinkedin} size="lg" />
         </Link>
         <Link
-          href="https://instagram.com/yourusername"
+          href="https://instagram.com/siansiansu"
           className={styles.socialIcon}
           target="_blank"
           rel="noopener noreferrer"
@@ -47,7 +47,7 @@ export function HomepageHeader() {
           <FontAwesomeIcon icon={faInstagram} size="lg" />
         </Link>
         <Link
-          href="https://twitter.com/yourusername"
+          href="https://twitter.com/siansiansu"
           className={styles.socialIcon}
           target="_blank"
           rel="noopener noreferrer"
