@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tsiáu-á ê miâ',
+  title: 'Thâu-ia̍h',
   tagline: 'Tsia sī Bîn-hiân ê bāng-tsām',
   favicon: 'img/favicon.ico',
 
@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'siansiansu', // Usually your GitHub org/user name.
-  projectName: 'Tsiáu-á ê miâ', // Usually your repo name.
+  projectName: 'Thâu-ia̍h', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -32,8 +32,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-TW',
+    locales: ['zh-TW'],
   },
 
   // themes: ['@docusaurus/theme-search-algolia'],
@@ -78,9 +78,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Tsiáu-á ê miâ',
+        title: 'Thâu-ia̍h',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/logo.svg',
         },
         items: [

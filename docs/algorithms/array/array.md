@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_class_name: category-link
 ---
 
 # Array
@@ -7,7 +7,7 @@ sidebar_position: 2
 Basic Operations and Traversal
 ------------------------------
 
--   🟩 Position of robot after given movements [[Solution](./_collections/position-of-robot-after-given-movements.md)]
+-   🟩 Position of robot after given movements [[Solution](position-of-robot-after-given-movements.md)]
 -   🟩 [268\. Missing Number](https://leetcode.com/problems/missing-number/) \[[Solution](https://hackmd.io/@siansiansu/HkuQ0nOfR)\]
 -   🟩 [1437\. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) \[[Solution](https://hackmd.io/@siansiansu/S1dsoPdUA)\]
 -   🟩 [1550\. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) \[[Solution](https://hackmd.io/@siansiansu/SyQA7pyv0)\]
