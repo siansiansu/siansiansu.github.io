@@ -91,13 +91,13 @@ const config = {
             label: '賞鳥',
             position: 'left'
           },
-          // {
-          //   to: '/docs/gaming',
-          //   type: 'docSidebar',
-          //   sidebarId: 'gamingSidebar',
-          //   label: '遊戲',
-          //   position: 'left'
-          // },
+          {
+            to: '/docs/gaming',
+            type: 'docSidebar',
+            sidebarId: 'gamingSidebar',
+            label: '遊戲',
+            position: 'left'
+          },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
