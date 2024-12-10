@@ -13,7 +13,7 @@ export function HomepageHeader() {
     <div className={styles.profileContainer}>
       <div className={styles.imageWrapper}>
         <img
-          src="/img/profile.jpg"
+          src="@site/static/img/profile.jpg"
           alt="Profile"
           className={styles.profileImage}
         />
