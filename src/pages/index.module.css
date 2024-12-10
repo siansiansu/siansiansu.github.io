@@ -7,6 +7,11 @@
   padding: 2rem;
 }
 
+/* Dark mode for main content */
+[data-theme='dark'] .mainContent {
+  background-color: #1A1A1A;
+}
+
 .profileContainer {
   text-align: center;
   background-color: #ffffff;
@@ -16,6 +21,12 @@
   max-width: 480px;
   width: 100%;
   transition: transform 0.2s ease;
+}
+
+/* Dark mode for profile container */
+[data-theme='dark'] .profileContainer {
+  background-color: #222222;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
 }
 
 .imageWrapper {
@@ -41,11 +52,21 @@
   letter-spacing: -0.2px;
 }
 
+/* Dark mode for name */
+[data-theme='dark'] .name {
+  color: #FFFFFF;
+}
+
 .title {
   color: #717171;
   margin-bottom: 24px;
   font-size: 15px;
   font-weight: 400;
+}
+
+/* Dark mode for title */
+[data-theme='dark'] .title {
+  color: #EBEBEB;
 }
 
 .socialLinks {
@@ -68,10 +89,22 @@
   background-color: #F7F7F7;
 }
 
+/* Dark mode for social icons */
+[data-theme='dark'] .socialIcon {
+  color: #FFFFFF;
+  background-color: #333333;
+}
+
 .socialIcon:hover {
   color: #FF385C;
   background-color: #F0F0F0;
   transform: translateY(-2px);
+}
+
+/* Dark mode for social icons hover */
+[data-theme='dark'] .socialIcon:hover {
+  color: #FF385C;
+  background-color: #444444;
 }
 
 .bio {
@@ -80,6 +113,11 @@
   line-height: 1.5;
   margin-bottom: 24px;
   padding: 0 16px;
+}
+
+/* Dark mode for bio */
+[data-theme='dark'] .bio {
+  color: #EBEBEB;
 }
 
 .actionButtons {
@@ -112,6 +150,11 @@
     padding: 24px;
     box-shadow: none;
     border: 1px solid #EBEBEB;
+  }
+
+  /* Dark mode for mobile profile container */
+  [data-theme='dark'] .profileContainer {
+    border: 1px solid #333333;
   }
 
   .name {
