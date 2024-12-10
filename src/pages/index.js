@@ -1,30 +1,67 @@
+import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import Heading from '@theme/Heading';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub, faLinkedin, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
 import styles from './index.module.css';
 
-function HomepageHeader() {
+export function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="https://portaly.cc/siansiansu/support">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
+    <div className={styles.profileContainer}>
+      <img
+        src="/img/profile.jpg"
+        alt="Profile"
+        className={styles.profileImage}
+      />
+      <h1 className={styles.name}>Your Name</h1>
+      <p className={styles.title}>Software Engineer | Technical Writer</p>
+
+      <div className={styles.socialLinks}>
+        <Link
+          href="https://github.com/yourusername"
+          className={styles.socialIcon}
+        >
+          <FontAwesomeIcon icon={faGithub} size="2x" />
+        </Link>
+        <Link
+          href="https://linkedin.com/in/yourusername"
+          className={styles.socialIcon}
+        >
+          <FontAwesomeIcon icon={faLinkedin} size="2x" />
+        </Link>
+        <Link
+          href="https://instagram.com/yourusername"
+          className={styles.socialIcon}
+        >
+          <FontAwesomeIcon icon={faInstagram} size="2x" />
+        </Link>
+        <Link
+          href="https://twitter.com/yourusername"
+          className={styles.socialIcon}
+        >
+          <FontAwesomeIcon icon={faTwitter} size="2x" />
+        </Link>
       </div>
-    </header>
+
+      <div className={styles.actionButtons}>
+        <Link
+          to="https://www.buymeacoffee.com/yourusername"
+          className={clsx('button button--outline button--secondary', styles.coffeeButton)}
+        >
+          Buy Me a Coffee
+        </Link>
+      </div>
+
+      <div className={styles.bio}>
+        <p>
+          Passionate about building innovative solutions and sharing knowledge.
+          I love creating open-source projects and writing about technology.
+        </p>
+      </div>
+    </div>
   );
 }
 
@@ -32,11 +69,10 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={"Tōo-tsiáu"}
-      description="Tsia sī Bîn-hiân ê bāng-tsām">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
+      title={siteConfig.title}
+      description={siteConfig.tagline}>
+      <main className={styles.mainContent}>
+        <HomepageHeader />
       </main>
     </Layout>
   );
