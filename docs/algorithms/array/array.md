@@ -7,12 +7,12 @@ sidebar_class_name: category-link
 Basic Operations and Traversal
 ------------------------------
 
--   🟩 Position of robot after given movements [[Solution](position-of-robot-after-given-movements.md)]
--   🟩 [268\. Missing Number](https://leetcode.com/problems/missing-number/) \[[Solution](https://hackmd.io/@siansiansu/HkuQ0nOfR)\]
--   🟩 [1437\. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) \[[Solution](https://hackmd.io/@siansiansu/S1dsoPdUA)\]
--   🟩 [1550\. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) \[[Solution](https://hackmd.io/@siansiansu/SyQA7pyv0)\]
--   🟩 [1598\. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) \[[Solution](https://hackmd.io/@siansiansu/rJxXBsowA)\]
--   🟩 [1920\. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) \[[Solution](https://hackmd.io/@siansiansu/rJf1CK7HA)\]
+-   🟩 Position of robot after given movements [[Solution](./Position%20of%20robot%20after%20given%20movements.md)]
+-   🟩 [268\. Missing Number](https://leetcode.com/problems/missing-number/) [[Solution](./268.%20Missing%20Number.md)]
+-   🟩 [1437\. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) [[Solution](./1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.md]
+-   🟩 [1550\. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) [[Solution](./1550.%20Three%20Consecutive%20Odds.md)]
+-   🟩 [1598\. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) [[Solution](./1598.%20Crawler%20Log%20Folder.md)]
+-   🟩 [1920\. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) [[Solution](./1920.%20Build%20Array%20from%20Permutation.md)]
 
 Sorting and Searching
 ---------------------
@@ -22,43 +22,43 @@ Sorting and Searching
 Greedy Algorithm
 ----------------
 
--   🟥 [135\. Candy](https://leetcode.com/problems/candy/) \[[Solution](https://hackmd.io/@siansiansu/Hk19LItEA)\]
--   🟩 [2037\. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) \[[Solution](https://hackmd.io/@siansiansu/HktOwsdHC)\]
+-   🟥 [135\. Candy](https://leetcode.com/problems/candy/) [[Solution](./135.%20Candy.md)]
+-   🟩 [2037\. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) [[Solution](./2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.md)
 -   🟨 [2779\. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
--   🟨 Filter Installation Strategy \[[Solution](https://hackmd.io/@siansiansu/rkQj-RYHA)\]
--   🟨 Palindrome Minimization \[[Solution](https://hackmd.io/@siansiansu/rkv7RpYHA)\]
--   🟨 [3207\. Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/) \[[Solution](https://hackmd.io/@siansiansu/BJNztlvvC)\]
+-   🟨 Filter Installation Strategy [[Solution](./Filter%20Installation%20Strategy.md)
+-   🟨 Palindrome Minimization [[Solution](./Palindrome%20Minimization.md)
+-   🟨 [3207\. Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/) [[Solution](./3207.%20Maximum%20Points%20After%20Enemy%20Battles.md)
 
 Special Array Problems
 ----------------------
 
 ### Circular Array Problems
 
--   🟨 [3206\. Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) \[[Solution](https://hackmd.io/@siansiansu/r1TCokPw0)\]
--   🟨 [3208\. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) \[[Solution](https://hackmd.io/@siansiansu/B19zhlPv0)\]
+-   🟨 [3206\. Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) [[Solution](./3206.%20Alternating%20Groups%20I.md)
+-   🟨 [3208\. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) [[Solution](./3208.%20Alternating%20Groups%20II.md)
 -   🟨 [1823\. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 
 ### Counting and Statistics
 
 #### Practice Problems
 
--   🟨 [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) \[[Solution](https://hackmd.io/@siansiansu/rkcURttHA)\]
+-   🟨 [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) [[Solution](./MaxCounters.md)
 -   🟩 [1051\. Height Checker](https://leetcode.com/problems/height-checker/)
 
 ### Array Transformation
 
--   🟩 [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) \[[Solution](https://hackmd.io/@siansiansu/rkdypaHBA)\]
--   🟨 gameWinner \[[Solution](https://hackmd.io/@siansiansu/S15gop8BC)\]
+-   🟩 [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) [[Solution](./TapeEquilibrium.md)
+-   🟨 gameWinner [[Solution](https://hackmd.io/@siansiansu/S15gop8BC)]
 
 ### Set Operations
 
--   🟩 [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) \[[Solution](https://hackmd.io/@siansiansu/HJSxMzUBC)\]
--   🟨 [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) \[[Solution](https://hackmd.io/@siansiansu/rJ30aOFrA)\]
--   🟩 [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) \[[Solution](https://hackmd.io/@siansiansu/SyWKBTHBC)\]
+-   🟩 [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) [[Solution](./FrogRiverOne.md)
+-   🟨 [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) [[Solution](./MissingInteger.md)
+-   🟩 [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) [[Solution](./%20PermMissingElem.md)
 
 ### Cycle Detection
 
--   🟨 [Minimum Swaps to Sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1) \[[Solution](https://hackmd.io/@siansiansu/HJp4r6iIC)\]
+-   🟨 [Minimum Swaps to Sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1) [[Solution](./Minimum%20Swaps%20to%20Sort.md)
 
 Advanced Array Operations
 -------------------------

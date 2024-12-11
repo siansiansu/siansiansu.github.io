@@ -9,7 +9,7 @@ sidebar_position: 1
 Core Data Structures and Algorithms
 -----------------------------------
 
--   [Array](https://hackmd.io/@siansiansu/HkZhjlPVA)
+-   [Array](./array/)
 -   [Binary Tree](https://hackmd.io/@siansiansu/SkgL1WDER)
 -   [Graph](https://hackmd.io/@siansiansu/rJNP-WvVC)
 -   [HashMap](https://hackmd.io/@siansiansu/HyAc_-wEA)

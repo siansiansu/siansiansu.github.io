@@ -1,3 +1,7 @@
+---
+title: Position of robot after given movements
+---
+
 # Position of robot after given movements
 
 Assume that:
@@ -13,7 +17,7 @@ bool solution(string& moves)
 {
     int up = 0, down = 0;
     int left = 0, right = 0;
-    
+
     for (auto m : moves)
     {
         if (m == '<')

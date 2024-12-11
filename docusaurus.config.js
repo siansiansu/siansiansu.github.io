@@ -5,6 +5,8 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -32,8 +34,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-TW',
-    locales: ['zh-TW'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   // themes: ['@docusaurus/theme-search-algolia'],
@@ -45,6 +47,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -88,14 +92,14 @@ const config = {
             to: '/docs/taigi',
             type: 'docSidebar',
             sidebarId: 'taigiSidebar',
-            label: '台語',
+            label: '台語資源',
             position: 'left'
           },
           {
             to: '/docs/birdwatching',
             type: 'docSidebar',
             sidebarId: 'birdwatchingSidebar',
-            label: '賞鳥',
+            label: '賞鳥筆記',
             position: 'left'
           },
           {
@@ -109,7 +113,7 @@ const config = {
             to: '/docs/algorithms',
             type: 'docSidebar',
             sidebarId: 'algorithmsSidebar',
-            label: '演算法',
+            label: '演算法筆記',
             position: 'left'
           },
           {

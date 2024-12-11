@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import styles from './index.module.css';
 
 export function HomepageHeader() {
@@ -53,6 +54,13 @@ export function HomepageHeader() {
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faTwitter} size="lg" />
+        </Link>
+        <Link
+          href="mailto:minsiansu@gmail.com"
+          className={styles.socialIcon}
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faEnvelope} size="lg" />
         </Link>
       </div>
 
