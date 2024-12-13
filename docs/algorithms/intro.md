@@ -4,32 +4,30 @@ sidebar_position: 1
 
 # Data Structures and Algorithms
 
-[hackmd-github-sync-badge](https://hackmd.io/6QUr70BVQBSFIv3xs4zjsQ/badge)](https://hackmd.io/6QUr70BVQBSFIv3xs4zjsQ)
-
 Core Data Structures and Algorithms
 -----------------------------------
 
 -   [Array](./array/)
--   [Binary Tree](https://hackmd.io/@siansiansu/SkgL1WDER)
--   [Graph](https://hackmd.io/@siansiansu/rJNP-WvVC)
--   [HashMap](https://hackmd.io/@siansiansu/HyAc_-wEA)
--   [Linked List](https://hackmd.io/@siansiansu/H1K60lvNC)
--   [Queue](https://hackmd.io/@siansiansu/BygLsMbPEC)
--   [Stack](https://hackmd.io/@siansiansu/HkOu2lPEC)
--   [String](https://hackmd.io/@siansiansu/HkRmnewNR)
--   [Trie (Prefix Tree)](https://hackmd.io/@siansiansu/B1qHrIPdR)
+-   [Binary Tree](./binary-tree/)
+-   [Graph](./graph/)
+-   [HashMap](./hashmap/)
+-   [Linked List](./linked-list/)
+-   [Queue](./queue/)
+-   [Stack](./stack/)
+-   [String](./string/)
+-   [Trie (Prefix Tree)](./trie/)
 
 Advanced Topics
 ---------------
 
--   [Backtracking](https://hackmd.io/@siansiansu/ry9_aOkHR)
--   [Binary Search](https://hackmd.io/@siansiansu/rkTRebPVC)
--   [Bit Manipulation](https://hackmd.io/@siansiansu/BytEP-PVR)
--   [Design](https://hackmd.io/@siansiansu/BJ49PXOOA)
--   [Dynamic Programming](https://hackmd.io/@siansiansu/r1h46gwER)
--   [Greedy Algorithm](https://hackmd.io/@siansiansu/H1hSEbwN0)
--   [Intervals](https://hackmd.io/@siansiansu/ByBMN-wVA)
--   [Math](https://hackmd.io/@siansiansu/SJIiYWDNR)
+-   [Backtracking](./backtracking/)
+-   [Binary Search](./binary-search/)
+-   [Bit Manipulation](./bit/)
+-   [Design](./design/)
+-   [Dynamic Programming](./dp/)
+-   [Greedy Algorithm](./greedy/)
+-   [Intervals](./intervals/)
+-   [Math](./math/)
 -   [Matrix](https://hackmd.io/@siansiansu/HyMKqKXSR)
 -   [Prefix Sum](https://hackmd.io/@siansiansu/HJqYlr-HC)
 -   [Sliding Window](https://hackmd.io/@siansiansu/rkORjyXB0)
