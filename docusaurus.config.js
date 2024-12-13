@@ -126,6 +126,10 @@ const config = {
             label: '演算法筆記',
             position: 'left'
           },
+          {
+            type: 'search',
+            position: 'right',
+          },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
