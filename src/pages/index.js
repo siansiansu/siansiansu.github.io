@@ -66,19 +66,18 @@ export function HomepageHeader() {
 
       <div className={styles.bio}>
         <p>
-          Passionate about building innovative solutions and sharing knowledge.
-          I love creating open-source projects and writing about technology.
+        您若是佮意我 ê 演算法簿仔、賞鳥簿仔，抑是台語的推廣，歡迎請我啉一杯 ka-pi。
         </p>
       </div>
 
       <div className={styles.actionButtons}>
         <Link
-          to="https://www.buymeacoffee.com/yourusername"
+          to="https://portaly.cc/siansiansu/support"
           className={styles.coffeeButton}
           target="_blank"
           rel="noopener noreferrer"
         >
-          Support My Work
+          請我啉一杯 ka-pi ☕️
         </Link>
       </div>
     </div>

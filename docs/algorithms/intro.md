@@ -28,11 +28,11 @@ Advanced Topics
 -   [Greedy Algorithm](./greedy/)
 -   [Intervals](./intervals/)
 -   [Math](./math/)
--   [Matrix](https://hackmd.io/@siansiansu/HyMKqKXSR)
--   [Prefix Sum](https://hackmd.io/@siansiansu/HJqYlr-HC)
--   [Sliding Window](https://hackmd.io/@siansiansu/rkORjyXB0)
--   [Sorting](https://hackmd.io/@siansiansu/B1iGru1tC)
--   [Two Pointers](https://hackmd.io/@siansiansu/SJLEQ3eBA)
+-   [Matrix](./matrix/)
+-   [Prefix Sum](./prefix-sum/)
+-   [Sliding Window](./sliding-window/)
+-   [Sorting](./sorting/)
+-   [Two Pointers](./two-pointers/)
 
 Other Resources
 ---------------
