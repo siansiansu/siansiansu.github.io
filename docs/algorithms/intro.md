@@ -7,32 +7,32 @@ sidebar_position: 1
 Core Data Structures and Algorithms
 -----------------------------------
 
--   [Array](./array/)
--   [Binary Tree](./binary-tree/)
--   [Graph](./graph/)
--   [HashMap](./hashmap/)
--   [Linked List](./linked-list/)
--   [Queue](./queue/)
--   [Stack](./stack/)
--   [String](./string/)
--   [Trie (Prefix Tree)](./trie/)
+-   [Array](./core/array/)
+-   [Binary Tree](./core/binary-tree/)
+-   [Graph](./core/graph/)
+-   [HashMap](./core/hashmap/)
+-   [Linked List](./core/linked-list/)
+-   [Queue](./core/queue/)
+-   [Stack](./core/stack/)
+-   [String](./core/string/)
+-   [Trie (Prefix Tree)](./core/trie/)
 
 Advanced Topics
 ---------------
 
--   [Backtracking](./backtracking/)
--   [Binary Search](./binary-search/)
--   [Bit Manipulation](./bit/)
--   [Design](./design/)
--   [Dynamic Programming](./dp/)
--   [Greedy Algorithm](./greedy/)
--   [Intervals](./intervals/)
--   [Math](./math/)
--   [Matrix](./matrix/)
--   [Prefix Sum](./prefix-sum/)
--   [Sliding Window](./sliding-window/)
--   [Sorting](./sorting/)
--   [Two Pointers](./two-pointers/)
+-   [Backtracking](./advanced/backtracking/)
+-   [Binary Search](./advanced/binary-search/)
+-   [Bit Manipulation](./advanced/bit/)
+-   [Design](./advanced/design/)
+-   [Dynamic Programming](./advanced/dp/)
+-   [Greedy Algorithm](./advanced/greedy/)
+-   [Intervals](./advanced/intervals/)
+-   [Math](./advanced/math/)
+-   [Matrix](./advanced/matrix/)
+-   [Prefix Sum](./advanced/prefix-sum/)
+-   [Sliding Window](./advanced/sliding-window/)
+-   [Sorting](./advanced/sorting/)
+-   [Two Pointers](./advanced/two-pointers/)
 
 Other Resources
 ---------------
