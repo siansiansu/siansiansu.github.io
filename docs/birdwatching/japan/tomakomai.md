@@ -89,7 +89,7 @@ sidebar_position: 1
 
 bah-pau! hó-tsia̍h ê bah-pau!
 
-:::success
+:::info
 📍 道の駅ウトナイ湖的營業時間是 9 AM - 5 PM。
 :::
 
@@ -97,7 +97,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗殺貼紙。
 
-:::success
+:::info
 📍 道の駅ウトナイ湖展望台開放的時間是 9 AM - 5 PM。
 :::
 
@@ -109,7 +109,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 你們也懂正面鳥？！(請用`你剛剛攻擊我的村莊`的語氣講一遍)。
 
-:::success
+:::info
 📍 ウトナイ湖野生鳥獣保護センター每個禮拜一休館，營業時間是 9 AM - 5 PM。
 :::
 

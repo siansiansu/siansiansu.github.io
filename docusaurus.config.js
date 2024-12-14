@@ -100,7 +100,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/tsiaua',
+            to: '/docs/tsiau-a-e-mia',
             type: 'docSidebar',
             sidebarId: 'tsiauaSidebar',
             label: '鳥仔 ê 名',
@@ -110,21 +110,21 @@ const config = {
             to: '/docs/birdwatching',
             type: 'docSidebar',
             sidebarId: 'birdwatchingSidebar',
-            label: '賞鳥筆記',
+            label: '賞鳥簿仔',
             position: 'left'
           },
           {
             to: '/docs/ebird',
             type: 'docSidebar',
             sidebarId: 'ebirdSidebar',
-            label: 'eBird',
+            label: 'eBird 家私',
             position: 'left'
           },
           {
             to: '/docs/algorithms',
             type: 'docSidebar',
             sidebarId: 'algorithmsSidebar',
-            label: '演算法筆記',
+            label: '演算法簿仔',
             position: 'left'
           },
           {

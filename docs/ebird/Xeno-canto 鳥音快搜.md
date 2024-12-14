@@ -6,7 +6,7 @@ tags: [side-projects]
 
 # Xeno-canto 鳥音快搜
 
-:::success
+:::info
 📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/xeno-canto-bird-sounds/fogelmchjlfpdkhbdikigjnimkbgalbj)
 :::
 

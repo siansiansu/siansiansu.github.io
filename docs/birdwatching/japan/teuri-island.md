@@ -117,7 +117,7 @@ sidebar_position: 1
 
 總車程大約是三個小時，當窗外的景色變成海之後，就代表快要到`羽幌`了。
 
-:::success
+:::info
 📍 完整的巴士路線地圖請點擊[這裡](https://www.google.com/maps/d/viewer?mid=1ORkGVxz_XtF2nVgEJyxoAdXapB0&msa=0&ll=43.297614559034834%2C141.4460531734332&spn=0.041408%2C0.076647&iwloc=0004c78177c49e634f0fd&z=13)
 
 :::
@@ -268,7 +268,7 @@ sidebar_position: 1
 
 天還沒亮我就起床，準備到附近的`羽幌公園`賞鳥，上圖是我走的路線。
 
-:::success
+:::info
 上班 ⭢ 睡到 10 點還在賴床，還睡不飽
 
 賞鳥 ⭢ 天還沒亮就從床上爬起來
@@ -322,7 +322,7 @@ sidebar_position: 1
 
 上圖是[厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)，後面繞過去有個鎮魂碑，在這裡靜靜的等一下，會有很多鳥。
 
-:::success
+:::info
 📍 請抱著敬畏的心，不要打擾到當地的神明喔！
 :::
 
@@ -380,7 +380,7 @@ sidebar_position: 1
 
 `天売郵便局`可以買明信片和蓋紀念章。
 
-:::success
+:::info
 📍 在島上作客的時候，請不要打擾到當地的居民喔！
 :::
 
@@ -467,7 +467,7 @@ sidebar_position: 1
 
 預約完成後會收到確認信。
 
-:::success
+:::info
 📍 ウトウの帰巣請在這裡預約，不需要帶手電筒，不要晚上自己去！
 :::
 
@@ -483,7 +483,7 @@ sidebar_position: 1
 
 從船上往天売島看。
 
-:::success
+:::info
 📍 除了在網站預約外，我們也另外跟民宿老闆說明我們有預約當地導覽的行程，因為我們不會說日語，請他們幫我們注意一下。
 :::
 

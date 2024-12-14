@@ -96,3 +96,58 @@ html {
   color: var(--ifm-color-primary);
   text-decoration: none;
 }
+
+/* Sidebar item styles */
+.menu__link {
+  font-size: 14px;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  margin: 0.2rem 0;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  color: var(--ifm-color-gray-600);
+}
+
+/* Hover state - only change background and text color */
+.menu__link:hover {
+  background-color: var(--ifm-color-gray-100);
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+/* Active state */
+.menu__link--active {
+  font-weight: 600;
+  background-color: rgba(255, 56, 92, 0.1);
+  color: var(--ifm-color-primary);
+}
+
+/* Category styles */
+.menu__link--sublist {
+  font-weight: 600;
+  color: var(--ifm-color-gray-700);
+}
+
+/* Dark mode styles */
+[data-theme='dark'] .menu__link {
+  color: var(--ifm-color-gray-300);
+}
+
+[data-theme='dark'] .menu__link:hover {
+  background-color: var(--ifm-color-gray-800);
+  color: var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .menu__link--sublist {
+  color: var(--ifm-color-gray-200);
+}
+
+/* Nested items styles */
+.menu__list .menu__list {
+  padding-left: 1rem;
+  border-left: 2px solid var(--ifm-color-gray-200);
+  margin-left: 1rem;
+}
+
+[data-theme='dark'] .menu__list .menu__list {
+  border-left-color: var(--ifm-color-gray-800);
+}
