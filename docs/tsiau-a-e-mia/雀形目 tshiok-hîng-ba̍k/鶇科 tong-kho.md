@@ -2,7 +2,7 @@
 
 ## [橙頭地鶇 オレンジジツグミ Orange-headed Thrush](https://ebird.org/species/orhthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/106096330/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/106096330/medium.jpg)
 
 (c) Ravisara Jayamanna, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [白眉地鶇 マミジロ Siberian Thrush](https://ebird.org/species/sibthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/3847465/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/3847465/medium.jpg)
 
 (c) Julien Renoult, some rights reserved (CC BY)
 
@@ -20,7 +20,7 @@
 
 ## [白氏地鶇 トラツグミ White's Thrush](https://ebird.org/species/scathr2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/60311795/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/60311795/medium.jpg)
 
 (c) sunmr, some rights reserved (CC BY-NC)
 
@@ -31,7 +31,7 @@
 
 ## [虎斑地鶇 ミナミトラツグミ Scaly Thrush](https://ebird.org/species/scathr8/)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/38397378/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/38397378/medium.jpg)
 
 (c) karoconniff, some rights reserved (CC BY-NC)
 
@@ -43,7 +43,7 @@
 
 ## [烏灰鶇 クロツグミ Japanese Thrush](https://ebird.org/species/japthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/366389332/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/366389332/large.jpg)
 
 © lhurteau, some rights reserved (CC-BY-NC)
 
@@ -53,7 +53,7 @@
 
 ## [中國黑鶇 クロウタドリ Chinese Blackbird](https://ebird.org/species/chibla1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/68305720/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/68305720/medium.jpg)
 
 (c) nanan, some rights reserved (CC BY-NC)
 
@@ -62,7 +62,7 @@
 
 ## [白眉鶇 マミチャジナイ Eyebrowed Thrush](https://ebird.org/species/eyethr)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/173473959/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/173473959/medium.jpg)
 
 (c) Chuangzao, some rights reserved (CC BY-NC)
 
@@ -71,7 +71,7 @@
 
 ## [白腹鶇 シロハラ Pale Thrush](https://ebird.org/species/palthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/20690/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/20690/medium.jpg)
 
 (c) Nash Chou, some rights reserved (CC BY-NC)
 
@@ -80,7 +80,7 @@
 
 ## [赤腹鶇 アカハラ Brown-headed Thrush](https://ebird.org/species/brhthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2740964/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2740964/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -89,7 +89,7 @@
 
 ## [斑點鶇 ツグミ Dusky Thrush](https://ebird.org/species/dusthr2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/13458116/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/13458116/medium.jpeg)
 
 (c) belvedere04, some rights reserved (CC BY)
 
@@ -98,7 +98,7 @@
 
 ## [紅尾鶇 ハチジョウツグミ Naumann's Thrush](https://ebird.org/species/dusthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/57172003/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/57172003/medium.jpeg)
 
 (c) johnallcock, some rights reserved (CC BY-NC)
 
@@ -107,7 +107,7 @@
 
 ## [白頭鶇 タイワンツグミ Taiwan Thrush](https://ebird.org/species/islthr24)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/88811191/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/88811191/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 

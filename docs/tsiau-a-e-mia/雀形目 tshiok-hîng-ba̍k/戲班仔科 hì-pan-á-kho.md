@@ -2,7 +2,7 @@
 
 ## [灰喉山椒鳥 ベニサンショウクイ Gray-chinned Minivet](https://ebird.org/species/gycmin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/11264485/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/11264485/medium.jpg)
 
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 
@@ -13,7 +13,7 @@
 
 ## [赤紅山椒鳥 シュイロサンショウクイ Scarlet Minivet](https://ebird.org/species/scamin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/37688969/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/37688969/medium.jpeg)
 
 (c) Dmitry Ivanov, some rights reserved (CC BY-NC)
 
@@ -24,7 +24,7 @@
 
 ## [琉球山椒鳥 リュウキュウサンショウクイ Ryukyu Minivet](https://ebird.org/species/ryumin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/111118598/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/111118598/medium.jpeg)
 
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 
@@ -35,7 +35,7 @@
 
 ## [灰山椒鳥 サンショウクイ Ashy Minivet](https://ebird.org/species/ashmin1/)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2741018/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2741018/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -46,7 +46,7 @@
 
 ## [小灰山椒鳥 チャイロサンショウクイ Brown-rumped Minivet](https://ebird.org/species/brrmin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/8307918/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/8307918/medium.jpg)
 
 (c) Cat Abbott, some rights reserved (CC BY-NC)
 
@@ -59,7 +59,7 @@
 
 ## [花翅山椒鳥 オオオニサンショウクイ Large Cuckooshrike](https://ebird.org/species/larcus1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/large.jpeg)
 
 © reginchen, some rights reserved (CC-BY-NC)
 
@@ -70,7 +70,7 @@
 
 ## [粉紅山椒鳥 モモイロサンショウクイ Rosy Minivet](https://ebird.org/species/rosmin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/354662864/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/354662864/large.jpeg)
 
 © jayaprakash Singha, some rights reserved (CC-BY-NC)
 

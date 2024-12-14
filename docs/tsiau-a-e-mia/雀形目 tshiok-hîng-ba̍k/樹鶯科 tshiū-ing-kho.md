@@ -2,7 +2,7 @@
 
 ## [日本樹鶯 ウグイス Japanese Bush Warbler](https://ebird.org/species/jabwar)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/112707405/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/112707405/medium.jpg)
 
 (c) Tristan Scholze, some rights reserved (CC BY-NC)
 
@@ -10,7 +10,7 @@
 
 ## [遠東樹鶯 チョウセンウグイス Manchurian Bush Warbler](https://ebird.org/species/manbuw1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/137092803/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/137092803/medium.jpg)
 
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 
@@ -19,7 +19,7 @@
 
 ## [小鶯 タイワンコウグイス Brownish-flanked Bush Warbler](https://ebird.org/species/bfbwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/24590989/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/24590989/medium.jpeg)
 
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 
@@ -28,7 +28,7 @@
 
 ## [深山鶯 ミヤマウグイス Yellowish-bellied Bush Warbler](https://ebird.org/species/ybbwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/89035943/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/89035943/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 
@@ -36,7 +36,7 @@
 
 ## [短尾鶯 ヤブサメ Asian Stubtail](https://ebird.org/species/asistu1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/306929514/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/306929514/large.jpg)
 
 © Chuan Xuan, some rights reserved (CC-BY-NC)
 
@@ -45,7 +45,7 @@
 
 ## [棕面鶯 コシジロムシクイ Rufous-faced Warbler](https://ebird.org/species/rufwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/12865244/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/12865244/medium.jpg)
 
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 

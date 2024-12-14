@@ -2,7 +2,7 @@
 
 ## [小鸊鷉 カイツブリ Little Grebe](https://ebird.org/species/litgre1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/173551179/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/173551179/medium.jpg)
 
 (c) Chuangzao, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [黑頸鸊鷉 ハジロカイツブリ Eared Grebe](https://ebird.org/species/eargre)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1936398/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1936398/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -20,7 +20,7 @@
 
 ## [角鸊鷉 ミミカイツブリ Horned Grebe](https://ebird.org/species/horgre)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/199229290/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/199229290/medium.jpg)
 
  (c) brian stahls, some rights reserved (CC BY-NC)
 
@@ -29,7 +29,7 @@
 
 ## [冠鸊鷉 カンムリカイツブリ Great Crested Grebe](https://ebird.org/species/grcgre1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/132117/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/132117/medium.jpg)
 
 (c) Chris Moody, some rights reserved (CC BY-NC)
 
@@ -38,7 +38,7 @@
 
 ## [赤頸鸊鷉 アカエリカイツブリ Red-necked Grebe](https://ebird.org/species/rengre)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/13021297/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/13021297/medium.jpg)
 
 (c) kha, some rights reserved (CC BY-NC)
 

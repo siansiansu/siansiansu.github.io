@@ -2,7 +2,7 @@
 
 ## [彩䴉 ブロンズトキ Glossy Ibis](https://ebird.org/species/gloibi)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/29367762/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/29367762/medium.jpg)
 
 (c) bwood708, some rights reserved (CC BY-NC)
 
@@ -10,7 +10,7 @@
 
 ## [朱鷺 トキ Crested Ibis](https://ebird.org/species/creibi1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/85404012/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/85404012/medium.jpeg)
 
 (c) Jay, some rights reserved (CC BY-NC)
 
@@ -31,7 +31,7 @@
 
 ## [埃及聖䴉 African Sacred Ibis](https://ebird.org/species/sacibi2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/358607580/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/358607580/medium.jpg)
 
 (c) Federico Moroni, some rights reserved (CC BY-NC)
 
@@ -39,7 +39,7 @@
 
 ## [黑面琵鷺 クロツラヘラサギ Black-faced Spoonbill](https://ebird.org/species/blfspo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/178839289/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/178839289/medium.jpeg)
 
 (c) Hong, some rights reserved (CC BY-NC)
 
@@ -54,7 +54,7 @@
 
 ## [白琵鷺 ヘラサギ Eurasian Spoonbill](https://ebird.org/species/eurspo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/166959755/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/166959755/medium.jpg)
 
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 

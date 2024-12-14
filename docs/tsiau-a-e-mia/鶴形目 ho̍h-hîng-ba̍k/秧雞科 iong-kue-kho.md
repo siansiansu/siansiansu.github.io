@@ -2,7 +2,7 @@
 
 ## [灰腳秧雞 オオクイナ Slaty-legged Crake](https://ebird.org/species/sllcra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/80007025/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/80007025/medium.jpg)
 
 (c) Sharma BC, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [紅腳秧雞 ナンヨウオオクイナ Red-legged Crake](https://ebird.org/species/relcra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/13561160/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/13561160/medium.jpeg)
 
 (c) tanhk, some rights reserved (CC BY-NC)
 
@@ -22,7 +22,7 @@
 
 ## [緋秧雞 ヒクイナ Ruddy-breasted Crake](https://ebird.org/species/rubcra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/89570100/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/89570100/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 
@@ -38,7 +38,7 @@
 
 ## [斑脇秧雞 コウライクイナ Band-bellied Crake](https://ebird.org/species/babcra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg)
 
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 
@@ -49,7 +49,7 @@
 
 ## [小秧雞 ヒメクイナ Baillon's Crake](https://ebird.org/species/baicra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -60,7 +60,7 @@
 
 ## [灰頭紫水雞 ハイガシラセイケイ Gray-headed Swamphen](https://ebird.org/species/purswa3)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/344911929/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/344911929/medium.jpg)
 
 (c) cdewerowe, some rights reserved (CC BY-NC)
 
@@ -73,7 +73,7 @@
 
 ## [灰胸秧雞 ハシナガクイナ Slaty-breasted Rail](https://ebird.org/species/slbrai1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/11787275/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/11787275/medium.jpeg)
 
 (c) Catalina Tong, some rights reserved (CC BY-NC)
 
@@ -81,7 +81,7 @@
 
 ## [白腹秧雞 シロハラクイナ White-breasted Waterhen](https://ebird.org/species/whbwat1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg)
 
 (c) bscrl, some rights reserved (CC BY-NC)
 
@@ -96,7 +96,7 @@
 
 ## [董雞 ツルクイナ Watercock](https://ebird.org/species/waterc1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1513783/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1513783/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -104,7 +104,7 @@
 
 ## [白冠雞 オオバン Eurasian Coot](https://www.instagram.com/p/CmT0vf3vPS9/)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg)
 
 (c) Wei Li Jiang, some rights reserved (CC BY-NC)
 
@@ -114,7 +114,7 @@
 
 ## [紅冠水雞 バン Eurasian Moorhen](https://www.instagram.com/p/Cb5-RQbvBo6/)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg)
 
 (c) Alexis Lours, some rights reserved (CC BY)
 

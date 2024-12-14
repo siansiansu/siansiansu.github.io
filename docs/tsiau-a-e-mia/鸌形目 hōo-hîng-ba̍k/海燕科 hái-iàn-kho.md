@@ -2,7 +2,7 @@
 
 ## [白腰叉尾海燕 コシジロウミツバメ Leach's Storm-Petrel](https://ebird.org/species/lcspet)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/97169797/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/97169797/medium.jpg)
 
 (c) pleasantbaymac, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [黑叉尾海燕 ヒメクロウミツバメ Swinhoe's Storm-Petrel](https://ebird.org/species/swspet)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/26332137/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/26332137/medium.jpeg)
 
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 
@@ -24,7 +24,7 @@
 
 ## [褐翅叉尾海燕 オーストンウミツバメ Tristram's Storm-Petrel](https://ebird.org/species/trspet)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/279914354/original.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/279914354/original.jpg)
 
 © Tony Palliser, some rights reserved (CC-BY-NC)
 
@@ -32,7 +32,7 @@
 
 ## [日本叉尾海燕 クロウミツバメ Matsudaira's Storm-Petrel](https://ebird.org/species/maspet2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/232431/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/232431/medium.jpg)
 
 (c) Tony Morris, some rights reserved (CC BY-NC)
 

@@ -2,7 +2,7 @@
 
 ## [蠣鴴 ミヤコドリ Eurasian Oystercatcher](https://ebird.org/species/euroys1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1940433/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1940433/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 

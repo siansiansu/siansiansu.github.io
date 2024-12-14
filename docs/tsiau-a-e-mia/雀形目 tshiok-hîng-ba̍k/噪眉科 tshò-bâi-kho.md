@@ -2,7 +2,7 @@
 
 ## [白耳畫眉 ミミジロチメドリ White-eared Sibia](https://ebird.org/species/whesib1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/12865025/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/12865025/medium.jpg)
 
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 
@@ -13,7 +13,7 @@
 
 ## [繡眼畫眉 メジロチメドリ Morrison's Fulvetta](https://ebird.org/species/gycful1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/22548808/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/22548808/medium.jpeg)
 
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 
@@ -25,7 +25,7 @@
 
 ## [紋翼畫眉 シマドリ Taiwan Barwing](https://ebird.org/species/taibar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/157704368/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/157704368/medium.jpeg)
 
 (c) Redbird Wu, some rights reserved (CC BY)
 
@@ -36,7 +36,7 @@
 
 ## [台灣噪眉 タイワンキンバネガビチョウ White-whiskered Laughingthrush](https://ebird.org/species/whwlau1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/89028148/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/89028148/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 
@@ -47,7 +47,7 @@
 
 ## [台灣畫眉 タイワンガビチョウ Taiwan Hwamei](https://ebird.org/species/taihwa1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/33420231/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/33420231/medium.jpg)
 
 (c) sunmr, some rights reserved (CC BY-NC)
 
@@ -57,7 +57,7 @@
 
 ## [中國畫眉 ガビチョウ Chinese Hwamei](https://ebird.org/species/melthr)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/26597643/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/26597643/medium.jpg)
 
 (c) John Clough, some rights reserved (CC BY-NC)
 

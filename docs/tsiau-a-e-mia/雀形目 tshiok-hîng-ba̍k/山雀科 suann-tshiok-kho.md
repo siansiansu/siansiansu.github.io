@@ -2,7 +2,7 @@
 
 ## [黃山雀 タイワンシジュウカラ Taiwan Yellow Tit](https://ebird.org/species/yeltit2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/358192307/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/358192307/large.jpg)
 
 © huaitech, some rights reserved (CC-BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [黃腹山雀 キバラガラ Yellow-bellied Tit](https://ebird.org/species/yebtit4)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/12521301/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/12521301/medium.jpeg)
 
 (c) andriy, some rights reserved (CC BY-NC)
 
@@ -19,7 +19,7 @@
 
 ## [赤腹山雀 タイワンヤマガラ Chestnut-bellied Tit](https://ebird.org/species/vartit3)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/90712077/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/90712077/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 
@@ -28,7 +28,7 @@
 
 ## [雜色山雀 ヤマガラ Varied Tit](https://ebird.org/species/vartit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/58182987/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/58182987/medium.jpg)
 
 (c) Bird Explorers, some rights reserved (CC BY-NC)
 
@@ -37,7 +37,7 @@
 
 ## [白頰山雀 シジュウカラ Japanese Tit](https://ebird.org/species/gretit4)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2744133/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2744133/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -47,7 +47,7 @@
 
 ## [青背山雀 キバラシジュウカラ Green-backed Tit](https://ebird.org/species/grbtit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/13384954/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/13384954/medium.jpg)
 
 (c) Scott Bowers, some rights reserved (CC BY-NC)
 
@@ -56,7 +56,7 @@
 
 ## [煤山雀 ヒガラ Coal Tit](https://ebird.org/species/coatit2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/336291168/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/336291168/medium.jpg)
 
 (c) Leonid, some rights reserved (CC BY-NC)
 

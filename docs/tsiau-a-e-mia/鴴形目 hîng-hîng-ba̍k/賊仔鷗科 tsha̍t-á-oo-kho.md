@@ -2,7 +2,7 @@
 
 ## [短尾賊鷗 クロトウゾクカモメ Parasitic Jaeger](https://ebird.org/species/parjae)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/208289/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/208289/medium.jpg)
 
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [長尾賊鷗 シロハラトウゾクカモメ Long-tailed Jaeger](https://ebird.org/species/lotjae)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/19757/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/19757/medium.jpg)
 
 (c) Bill Bouton, some rights reserved (CC BY-NC)
 
@@ -20,7 +20,7 @@
 
 ## [中賊鷗 トウゾクカモメ Pomarine Jaeger](https://ebird.org/species/pomjae)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/19752/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/19752/medium.jpg)
 
 (c) jomilo75, some rights reserved (CC BY)
 

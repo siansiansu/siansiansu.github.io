@@ -2,7 +2,7 @@
 
 ## [河烏 カワガラス Brown Dipper](https://ebird.org/species/brodip1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/182429084/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/182429084/medium.jpeg)
 
 (c) Olga Sivokon, some rights reserved (CC BY-NC)
 

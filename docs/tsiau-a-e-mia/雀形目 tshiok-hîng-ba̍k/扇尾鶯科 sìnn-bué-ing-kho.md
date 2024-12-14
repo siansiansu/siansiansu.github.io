@@ -2,7 +2,7 @@
 
 ## [褐頭鷦鶯 アジアマミハウチワドリ Plain Prinia](https://ebird.org/species/plapri1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/90040125/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/90040125/medium.jpg)
 
 (c) Uday Agashe, some rights reserved (CC BY-NC)
 
@@ -18,7 +18,7 @@
 
 ## [斑紋鷦鶯 Striped Prinia](https://ebird.org/species/strpri8)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/36122856/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/36122856/medium.jpeg)
 
 (c) breeze-lin, some rights reserved (CC BY-NC)
 
@@ -33,7 +33,7 @@
 
 ## [灰頭鷦鶯 アオハウチワドリ Yellow-bellied Prinia](https://ebird.org/species/yebpri1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/293220944/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/293220944/medium.jpg)
 
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 
@@ -48,7 +48,7 @@
 
 ## [黃頭扇尾鶯 タイワンセッカ Golden-headed Cisticola](https://ebird.org/species/gohcis1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/56925736/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/56925736/medium.jpg)
 
 (c) Ron Greer, some rights reserved (CC BY-NC)
 
@@ -62,7 +62,7 @@
 
 ## [棕扇尾鶯 セッカ Zitting Cisticola](https://ebird.org/species/zitcis1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/32875519/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/32875519/medium.jpg)
 
 (c) Bird Explorers, some rights reserved (CC BY-NC)
 
@@ -76,7 +76,7 @@
 
 ## [長尾縫葉鶯 オナガサイホウチョウ Common Tailorbird](https://ebird.org/species/comtai1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/56547209/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/56547209/medium.jpeg)
 
 (c) tonipons, some rights reserved (CC BY-NC)
 

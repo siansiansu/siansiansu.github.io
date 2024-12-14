@@ -2,7 +2,7 @@
 
 ## [叉尾鷗 クビワカモメ Sabine's Gull](https://ebird.org/species/sabgul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/154354360/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/154354360/medium.jpeg)
 
 (c) Jenny Sweatt, some rights reserved (CC BY-NC)
 
@@ -13,7 +13,7 @@
 
 ## [黑嘴鷗 ズグロカモメ Saunders's Gull](https://ebird.org/species/saugul2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/107924891/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/107924891/medium.jpg)
 
 (c) Xavier Rufray, some rights reserved (CC BY-NC)
 
@@ -24,7 +24,7 @@
 
 ## [小鷗 ヒメカモメ Little Gull](https://ebird.org/species/litgul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/126657733/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/126657733/medium.jpg)
 
 (c) vyatka, some rights reserved (CC BY-NC)
 
@@ -35,7 +35,7 @@
 
 ## [澳洲紅嘴鷗 ギンカモメ Silver Gull](https://ebird.org/species/silgul2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/110111288/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/110111288/medium.jpeg)
 
 (c) marlenekraml, some rights reserved (CC BY-NC)
 
@@ -46,7 +46,7 @@
 
 ## [細嘴鷗 ハシボソカモメ Slender-billed Gull](https://ebird.org/species/slbgul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/54643232/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/54643232/medium.jpeg)
 
 (c) Mina Zaki, some rights reserved (CC BY-NC)
 
@@ -57,7 +57,7 @@
 
 ## [紅嘴鷗 ユリカモメ Black-headed Gull](https://ebird.org/species/bkhgul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/198109587/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/198109587/medium.jpg)
 
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 
@@ -68,7 +68,7 @@
 
 ## [棕頭鷗 チャガシラカモメ Brown-headed Gull](https://ebird.org/species/bnhgul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/72507/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/72507/medium.jpg)
 
 (c) Ariful Haque Bhuiyan, some rights reserved (CC BY)
 
@@ -81,7 +81,7 @@
 
 ## [遺鷗 ゴビズキンカモメ Relict Gull](https://ebird.org/species/relgul2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/33928445/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/33928445/medium.jpg)
 
 (c) Lonelyshrimp, some rights reserved (CC BY)
 
@@ -92,7 +92,7 @@
 
 ## [笑鷗 ワライカモメ Laughing Gull](https://ebird.org/species/laugul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/4196757/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/4196757/medium.jpg)
 
 (c) José Antonio Linage Espinosa, some rights reserved (CC BY-NC)
 
@@ -104,7 +104,7 @@
 
 ## [弗氏鷗 アメリカズグロカモメ Franklin's Gull](https://ebird.org/species/fragul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/67118059/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/67118059/medium.jpg)
 
 (c) georg32sea, some rights reserved (CC BY-NC)
 
@@ -117,7 +117,7 @@
 
 ## [黑尾鷗 ウミネコ Black-tailed Gull](https://ebird.org/species/bktgul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/13587782/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/13587782/medium.jpeg)
 
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 
@@ -130,7 +130,7 @@
 
 ## [普通海鷗 カモメ Common Gull](https://ebird.org/species/mewgul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/77441367/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/77441367/medium.jpg)
 
 (c) Wolfgang Bettighofer, some rights reserved (CC BY-NC)
 
@@ -141,7 +141,7 @@
 
 ## [三趾鷗 ミツユビカモメ Black-legged Kittiwake](https://ebird.org/species/bklkit)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/156155653/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/156155653/medium.jpg)
 
 (c) davey59, some rights reserved (CC BY-NC)
 
@@ -153,7 +153,7 @@
 
 ## [銀鷗 セグロカモメ Herring Gull](https://ebird.org/species/hergul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/198439202/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/198439202/medium.jpeg)
 
 (c) Andrew Thompson, some rights reserved (CC BY-NC)
 
@@ -165,7 +165,7 @@
 
 ## [裏海銀鷗 カスピセグロカモメ Caspian Gull](https://ebird.org/species/casgul2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/62750826/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/62750826/medium.jpeg)
 
 (c) tonipons, some rights reserved (CC BY-NC)
 
@@ -177,7 +177,7 @@
 
 ## [小黑背鷗 ニシセグロカモメ Lesser Black-backed Gull](https://ebird.org/species/lbbgul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/8849/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/8849/medium.jpg)
 
 (c) Andrew, some rights reserved (CC BY-NC)
 
@@ -189,7 +189,7 @@
 
 ## [灰背鷗 オオセグロカモメ Slaty-backed Gull](https://ebird.org/species/slbgul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/102493122/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/102493122/medium.jpeg)
 
 (c) Christoph Moning, some rights reserved (CC BY)
 
@@ -201,7 +201,7 @@
 
 ## [北極鷗 シロカモメ Glaucous Gull](https://ebird.org/species/glagul)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/11832486/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/11832486/medium.jpg)
 
 (c) Paul Tavares, some rights reserved (CC BY-NC)
 
@@ -213,7 +213,7 @@
 
 ## [漁鷗 オオズグロカモメ Pallas's Gull](https://ebird.org/species/gbhgul2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/3084594/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/3084594/medium.jpg)
 
 (c) Ketan Aloni, some rights reserved (CC BY-NC)
 
@@ -225,7 +225,7 @@
 
 ## [玄燕鷗 クロアジサシ Brown Noddy](https://ebird.org/species/brnnod)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/212723513/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/212723513/medium.jpeg)
 
 (c) JeffreyGammon, some rights reserved (CC BY-NC)
 
@@ -236,7 +236,7 @@
 
 ## [黑玄燕鷗 ヒメクロアジサシ Black Noddy](https://ebird.org/species/blknod)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/60534938/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/60534938/medium.jpeg)
 
 (c) Thomas Mesaglio, some rights reserved (CC BY)
 
@@ -247,7 +247,7 @@
 
 ## [小燕鷗 コアジサシ Little Tern](https://ebird.org/species/litter1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/359001681/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/359001681/medium.jpg)
 
 (c) Andrey Gulivanov, some rights reserved (CC BY)
 
@@ -258,7 +258,7 @@
 
 ## [烏領燕鷗 セグロアジサシ Sooty Tern](https://ebird.org/species/sooter1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/79439135/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/79439135/medium.jpg)
 
 (c) Chris Clarke, some rights reserved (CC BY-NC)
 
@@ -269,7 +269,7 @@
 
 ## [白眉燕鷗 マミジロアジサシ Bridled Tern](https://ebird.org/species/briter1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/38458533/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/38458533/medium.jpg)
 
 (c) Donna Pomeroy, some rights reserved (CC BY-NC)
 
@@ -280,7 +280,7 @@
 
 ## [白腰燕鷗 コシジロアジサシ Aleutian Tern](https://ebird.org/species/aleter1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/8136949/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/8136949/medium.jpg)
 
 (c) Donna Pomeroy, some rights reserved (CC BY-NC)
 
@@ -291,7 +291,7 @@
 
 ## [普通燕鷗 アジサシ Common Tern](https://ebird.org/species/comter)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/47481363/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/47481363/medium.jpg)
 
 (c) matthew_wills, some rights reserved (CC BY-NC)
 
@@ -301,7 +301,7 @@
 
 ## [紅燕鷗 ベニアジサシ Roseate Tern](https://ebird.org/species/roster)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/23509775/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/23509775/medium.jpeg)
 
 (c) KO Ka Ho, some rights reserved (CC BY-NC)
 
@@ -312,7 +312,7 @@
 
 ## [蒼燕鷗 エリグロアジサシ Black-naped Tern](https://ebird.org/species/blnter1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/83716581/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/83716581/medium.jpeg)
 
 (c) Ryan Yue Wah Chan, some rights reserved (CC BY-NC)
 
@@ -324,7 +324,7 @@
 
 ## [鳳頭燕鷗 オオアジサシ Great Crested Tern](https://ebird.org/species/grcter1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/122688094/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/122688094/medium.jpeg)
 
 (c) Bird Explorers, some rights reserved (CC BY-NC)
 
@@ -336,7 +336,7 @@
 
 ## [小鳳頭燕鷗 ベンガルアジサシ Lesser Crested Tern](https://ebird.org/species/lecter2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/322964368/medium.png)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/322964368/medium.png)
 
 (c) Joel Poyitt, some rights reserved (CC BY-NC)
 
@@ -348,7 +348,7 @@
 
 ## [黑嘴端鳳頭燕鷗 ヒガシシナアジサシ Chinese Crested Tern](https://ebird.org/species/chcter2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/102382454/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/102382454/medium.jpeg)
 
 (c) Christoph Moning, some rights reserved (CC BY)
 
@@ -360,7 +360,7 @@
 
 ## [白嘴端鳳頭燕鷗 サンドイッチアジサシ Sandwich Tern](https://ebird.org/species/santer1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/41916029/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/41916029/medium.jpeg)
 
 (c) Curtis Eckerman, some rights reserved (CC BY-NC)
 
@@ -372,7 +372,7 @@
 
 ## [裏海燕鷗 オニアジサシ Caspian Tern](https://ebird.org/species/caster1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/35795285/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/35795285/medium.jpg)
 
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 
@@ -383,7 +383,7 @@
 
 ## [鷗嘴燕鷗 ハシブトアジサシ Gull-billed Tern](https://ebird.org/species/gubter2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1927698/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1927698/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -395,7 +395,7 @@
 
 ## [黑浮鷗 ハシグロクロハラアジサシ Black Tern](https://ebird.org/species/blkter)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/200142428/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/200142428/medium.jpg)
 
 (c) nancylightfoot, some rights reserved (CC BY-NC)
 
@@ -406,7 +406,7 @@
 
 ## [白翅黑燕鷗 ハジロクロハラアジサシ White-winged Tern](https://ebird.org/species/whwter)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/112901711/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/112901711/medium.jpg)
 
 (c) Ренат Рахматуллин, some rights reserved (CC BY-NC)
 
@@ -417,7 +417,7 @@
 
 ## [黑腹燕鷗 クロハラアジサシ Whiskered Tern](https://ebird.org/species/whiter2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1927693/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1927693/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 

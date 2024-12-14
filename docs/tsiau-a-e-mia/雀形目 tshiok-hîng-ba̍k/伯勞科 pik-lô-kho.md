@@ -2,7 +2,7 @@
 
 ## [虎紋伯勞 チゴモズ Tiger Shrike](https://ebird.org/species/tigshr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2741359/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2741359/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -11,7 +11,7 @@
 
 ## [紅背伯勞 セアカモズ Red-backed Shrike](https://ebird.org/species/rebshr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg)
 
 (c) Radovan Václav, some rights reserved (CC BY-NC)
 
@@ -20,7 +20,7 @@
 
 ## [紅尾伯勞 アカモズ Brown Shrike](https://ebird.org/species/brnshr)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/209577632/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/209577632/medium.jpeg)
 
 (c) Afsar Nayakkan, some rights reserved (CC BY)
 
@@ -30,7 +30,7 @@
 
 ## [紅頭伯勞 モズ Bull-headed Shrike](https://ebird.org/species/buhshr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/12428902/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/12428902/medium.jpg)
 
 (c) Alexander Ganse, some rights reserved (CC BY-NC)
 
@@ -39,7 +39,7 @@
 
 ## [棕背伯勞 タカサゴモズ Long-tailed Shrike](https://ebird.org/species/lotshr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/60942640/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/60942640/medium.jpg)
 
 (c) Luan Mai Sy, some rights reserved (CC BY-NC)
 
@@ -50,7 +50,7 @@
 
 ## [喫尾伯勞 オオカラモズ Chinese Gray Shrike](https://ebird.org/species/chgshr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg)
 
 (c) Yongchul Kim, some rights reserved (CC BY-NC)
 

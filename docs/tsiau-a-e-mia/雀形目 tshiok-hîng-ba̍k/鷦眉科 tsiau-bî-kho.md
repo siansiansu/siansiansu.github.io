@@ -2,7 +2,7 @@
 
 ## [台灣鷦眉 タイワンサザイチメドリ Taiwan Cupwing](https://ebird.org/species/taiwrb1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/89046451/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/89046451/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 

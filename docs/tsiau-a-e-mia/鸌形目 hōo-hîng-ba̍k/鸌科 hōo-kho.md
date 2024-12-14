@@ -2,7 +2,7 @@
 
 ## [灰水薙鳥 ハイイロミズナギドリ Sooty Shearwater](https://ebird.org/species/sooshe)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/228400/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/228400/medium.jpg)
 
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 
@@ -15,7 +15,7 @@
 
 ## [短尾水薙鳥 ハシボソミズナギドリ Short-tailed Shearwater](https://ebird.org/species/shtshe)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/12836629/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/12836629/medium.jpg)
 
 (c) Simon Grove, some rights reserved (CC BY-NC)
 
@@ -29,7 +29,7 @@
 
 ## [長尾水薙鳥 オナガミズナギドリ Wedge-tailed Shearwater](https://ebird.org/species/wetshe)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/20021/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/20021/medium.jpg)
 
 (c) Marj Kibby, some rights reserved (CC BY-NC)
 
@@ -45,7 +45,7 @@
 
 ## [大水薙鳥 オオミズナギドリ Streaked Shearwater](https://ebird.org/species/strshe)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/363917117/original.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/363917117/original.jpg)
 
 © Shanda Huang, some rights reserved (CC-BY-NC)
 
@@ -57,7 +57,7 @@
 
 ## [克島圓尾穴鳥 カワリシロハラミズナギドリ Kermadec Petrel](https://ebird.org/species/kerpet)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/258918791/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/258918791/medium.jpg)
 
 (c) Steve Murray, some rights reserved (CC BY-NC)
 
@@ -65,7 +65,7 @@
 
 ## [黑背白腹穴鳥 セグロシロハラミズナギドリ Tahiti Petrel](https://ebird.org/species/tahpet1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/258933661/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/258933661/medium.jpg)
 
 (c) Steve Murray, some rights reserved (CC BY-NC)
 
@@ -73,7 +73,7 @@
 
 ## [白腹穴鳥 シロハラミズナギドリ Bonin Petrel](https://ebird.org/species/bonpet)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/255033022/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/255033022/large.jpeg)
 
 © Curtis Mahon, some rights reserved (CC-BY-NC)
 
@@ -86,7 +86,7 @@
 
 ## [穴鳥 アナドリ Bulwer's Petrel](https://ebird.org/species/bulpet)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/57227802/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/57227802/medium.jpg)
 
 (c) Paul Bowyer, some rights reserved (CC BY-NC)
 

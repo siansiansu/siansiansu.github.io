@@ -4,7 +4,7 @@
 
 ## [翠鳥 カワセミ Common Kingfisher](https://ebird.org/species/comkin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg)
 
 (c) Tobias Polzer, some rights reserved (CC BY-NC)
 
@@ -19,7 +19,7 @@
 
 ## [蒼翡翠 アオショウビン White-throated Kingfisher](https://ebird.org/species/whtkin2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg)
 
 (c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)
 
@@ -38,7 +38,7 @@
 
 ## [斑翡翠 ヒメヤマセミ Pied Kingfisher](https://ebird.org/species/piekin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg)
 
 (c) Koshy Koshy, some rights reserved (CC BY)
 
@@ -55,7 +55,7 @@
 
 ## [黑頭翡翠 ヤマショウビン Black-capped Kingfisher](https://ebird.org/species/blckin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG)
 
 (c) Carmelo López Abad, some rights reserved (CC BY-NC)
 
@@ -72,7 +72,7 @@
 
 ## [赤翡翠 アカショウビン Ruddy Kingfisher](https://ebird.org/species/rudkin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg)
 
 (c) David Bishop, some rights reserved (CC BY-NC)
 
@@ -93,7 +93,7 @@
 
 ## [白領翡翠 ナンヨウショウビン Collared Kingfisher](https://ebird.org/species/colkin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg)
 
 (c) 蔡志偉, some rights reserved (CC BY-NC)
 

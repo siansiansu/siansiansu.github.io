@@ -2,7 +2,7 @@
 
 ## [綠畫眉 アオチメドリ White-bellied Erpornis](https://ebird.org/species/whbyuh1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/10090050/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/10090050/medium.jpeg)
 
 (c) robbythai, some rights reserved (CC BY-NC)
 

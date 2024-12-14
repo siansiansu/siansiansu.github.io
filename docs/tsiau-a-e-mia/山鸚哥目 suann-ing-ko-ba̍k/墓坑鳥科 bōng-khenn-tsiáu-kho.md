@@ -2,7 +2,7 @@
 
 ## [戴勝 ヤツガシラ Eurasian Hoopoe](https://ebird.org/species/hoopoe)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/252322419/medium.png)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/252322419/medium.png)
 
 (c) Noam Markus, some rights reserved (CC BY-NC)
 

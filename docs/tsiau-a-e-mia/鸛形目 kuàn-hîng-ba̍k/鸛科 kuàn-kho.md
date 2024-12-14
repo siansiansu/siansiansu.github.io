@@ -2,7 +2,7 @@
 
 ## [黑鸛 ナベコウ Black Stork](https://ebird.org/species/blasto1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/198512143/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/198512143/medium.jpg)
 
 (c) David Cook, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [東方白鸛 コウノトリ Oriental Stork](https://ebird.org/species/oristo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/754972/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/754972/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 

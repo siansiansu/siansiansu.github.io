@@ -2,7 +2,7 @@
 
 ## [岩鷚 イワヒバリ Alpine Accentor](https://ebird.org/species/alpacc1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/43962743/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/43962743/medium.jpg)
 
 (c) Kinmatsu Lin, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [棕眉山岩鷚 ヤマヒバリ Siberian Accentor](https://ebird.org/species/sibacc)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2743860/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2743860/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 

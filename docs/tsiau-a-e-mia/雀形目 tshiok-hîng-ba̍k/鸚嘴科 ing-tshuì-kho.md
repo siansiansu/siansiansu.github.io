@@ -2,7 +2,7 @@
 
 ## [褐頭花翼 タイワンチメドリ Taiwan Fulvetta](https://ebird.org/species/taiful1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/large.jpeg)
 
 © Allen Lyu, some rights reserved (CC-BY-NC)
 
@@ -12,7 +12,7 @@
 
 ## [黃羽鸚嘴 キンイロダルマエナガ Golden Parrotbill](https://ebird.org/species/golpar2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2683250/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2683250/medium.jpg)
 
 (c) Ron Knight, some rights reserved (CC BY)
 
@@ -21,7 +21,7 @@
 
 ## [粉紅鸚嘴 ダルマエナガ Vinous-throated Parrotbill](https://ebird.org/species/vitpar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2619096/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2619096/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 

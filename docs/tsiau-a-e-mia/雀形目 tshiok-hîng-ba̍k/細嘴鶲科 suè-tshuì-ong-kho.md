@@ -2,7 +2,7 @@
 
 ## [方尾鶲 ハイガシラヒタキ Gray-headed Canary-Flycatcher](https://ebird.org/species/gyhcaf1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/233959471/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/233959471/medium.jpeg)
 
 (c) Chitra Shanker, some rights reserved (CC BY-NC)
 

@@ -2,7 +2,7 @@
 
 ## [棕三趾鶉 ミフウズラ Barred Buttonquail](https://ebird.org/species/barbut1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/285858277/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/285858277/medium.jpg)
 
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [林三趾鶉 ヒメミフウズラ Small Buttonquail](https://ebird.org/species/smabut2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/13349981/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/13349981/medium.jpeg)
 
 (c) copper, some rights reserved (CC BY-NC)
 
@@ -20,7 +20,7 @@
 
 ## [黃腳三趾鶉 チョウセンミフウズラ Yellow-legged Buttonquail](https://ebird.org/species/yelbut1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/65964213/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/65964213/medium.jpeg)
 
 (c) benjamynweil, some rights reserved (CC BY-NC)
 

@@ -2,7 +2,7 @@
 
 ## [黃雀 マヒワ Eurasian Siskin](https://ebird.org/species/eursis)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/177544237/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/177544237/medium.jpg)
 
 (c) Mikhail Ezdakov, some rights reserved (CC BY-NC)
 
@@ -10,7 +10,7 @@
 
 ## [金翅雀 カワラヒワ Oriental Greenfinch](https://ebird.org/species/origre)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/34996415/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/34996415/medium.jpg)
 
 (c) Aaron Maizlish, some rights reserved (CC BY-NC)
 
@@ -18,7 +18,7 @@
 
 ## [花雀 アトリ Brambling](https://ebird.org/species/brambl)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/43710488/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/43710488/medium.jpg)
 
 (c) Геннадий, some rights reserved (CC BY-NC)
 
@@ -27,7 +27,7 @@
 
 ## [台灣朱雀 タイワンマシコ Taiwan Rosefinch](https://ebird.org/species/vinros3)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/88986493/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/88986493/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 
@@ -37,7 +37,7 @@
 
 ## [長尾朱雀 ベニマシコ Long-tailed Rosefinch](https://ebird.org/species/lotros1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/114324712/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/114324712/medium.jpeg)
 
 (c) zametnya, some rights reserved (CC BY-NC)
 
@@ -47,7 +47,7 @@
 
 ## [灰鷽 タイワンウソ Taiwan Bullfinch](https://ebird.org/species/gyhbul5)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/101854380/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/101854380/medium.jpeg)
 
 (c) Christoph Moning, some rights reserved (CC BY)
 
@@ -55,7 +55,7 @@
 
 ## [褐鷽 チャイロウソ Brown Bullfinch](https://ebird.org/species/brobul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/113793253/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/113793253/medium.jpg)
 
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
 
@@ -63,7 +63,7 @@
 
 ## [臘嘴雀 シメ Hawfinch](https://ebird.org/species/hawfin)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/186241177/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/186241177/medium.jpg)
 
 (c) dirkey, some rights reserved (CC BY-NC)
 
@@ -71,7 +71,7 @@
 
 ## [小桑鳲 コイカル Yellow-billed Grosbeak](https://ebird.org/species/yebgro1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/107918215/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/107918215/medium.jpg)
 
 (c) Xavier Rufray, some rights reserved (CC BY-NC)
 
@@ -79,7 +79,7 @@
 
 ## [桑鳲 イカル Japanese Grosbeak](https://ebird.org/species/japgro1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/90052009/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/90052009/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 

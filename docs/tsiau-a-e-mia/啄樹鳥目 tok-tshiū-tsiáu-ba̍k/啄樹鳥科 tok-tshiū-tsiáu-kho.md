@@ -2,20 +2,30 @@
 
 ## [大斑啄木鳥 アカゲラ Great Spotted Woodpecker](https://ebird.org/species/grswoo)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/medium.jpeg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Elio Giacone, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [英] 大斑啄樹鳥 tuā-pan tok-tshiū-tsiáu
 - 🎯 [英] 大斑啄木鳥 tuā-pan tok-bo̍k-tsiáu
 - ✳️ [台] 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ [台] 啄樹鳥 tok-tshiū-tsiáu
 
+:::
+
 ## [小啄木 ハイガシラコゲラ Gray-capped Pygmy Woodpecker](https://ebird.org/species/gycwoo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/6453421/medium.jpeg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/6453421/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) David J Barton, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [日][華] 小啄樹鳥 sió-tok-chhiū-chiáu
 - 🎯 [日][華] 小啄木鳥 sió-tok-bo̍k-tsiáu
@@ -24,11 +34,17 @@
 - ✳️ [台] 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ [台] 啄樹鳥 tok-tshiū-tsiáu
 
+:::
+
 ## [花腹啄木鳥 タケアオゲラ Laced Woodpecker](https://ebird.org/species/lacwoo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/106543914/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/106543914/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) manojmcn, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [華] 花腹啄樹鳥 hue-pak-tok-tshiū-tsiáu
 - 🎯 [華] 花腹啄木鳥 hue-pak-tok-bo̍k-tsiáu
@@ -37,22 +53,34 @@
 - ✳️ [台] 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ [台] 啄樹鳥 tok-tshiū-tsiáu
 
+:::
+
 ## [大赤啄木 オオアカゲラ White-backed Woodpecker](https://ebird.org/species/whbwoo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/176734085/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/176734085/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Frank Lin, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [華][日] 大紅啄木鳥 tuā-âng-tok-bo̍k-tsiáu
 - 🎯 [華][日] 大紅啄樹鳥 tuā-âng-tok-tshiū-tsiáu
 - ✳️ [台] 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ [台] 啄樹鳥 tok-tshiū-tsiáu
 
+:::
+
 ## [地啄木 アリスイ Eurasian Wryneck](https://ebird.org/species/eurwry)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/28924761/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/28924761/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Геннадий, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [華] 地啄木 tē-tok-bo̍k
 - 🎯 [華] 地啄木鳥 tē-tok-bo̍k-tsiáu
@@ -62,11 +90,17 @@
 - ✳️ [台] 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ [台] 啄樹鳥 tok-tshiū-tsiáu
 
+:::
+
 ## [綠啄木 ヤマゲラ Gray-headed Woodpecker](https://ebird.org/species/gyfwoo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/256070097/medium.jpeg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/256070097/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Павел, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [華] 青啄木鳥 tshenn-tok-bo̍k-tsiáu
 - 🎯 [華] 青啄樹鳥 tshenn-tok-tshiū-tsiáu
@@ -74,3 +108,5 @@
 - 🎯 [日] 山啄樹鳥 suann-tok-tshiū-tsiáu
 - ✳️ [台] 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ [台] 啄樹鳥 tok-tshiū-tsiáu
+
+:::

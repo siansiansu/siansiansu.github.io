@@ -2,7 +2,7 @@
 
 ## [高蹺鴴 セイタカシギ Black-winged Stilt](https://ebird.org/species/bkwsti)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/20455456/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/20455456/medium.jpg)
 
 (c) Paolo, some rights reserved (CC BY)
 
@@ -14,7 +14,7 @@
 
 ## [反嘴鴴 ソリハシセイタカシギ Pied Avocet](https://ebird.org/species/pieavo1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/15387682/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/15387682/medium.jpg)
 
 (c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC),
 

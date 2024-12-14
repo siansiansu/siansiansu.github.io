@@ -2,7 +2,7 @@
 
 ## [草鵐 ホオジロ Meadow Bunting](https://ebird.org/species/meabun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/31614603/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/31614603/medium.jpg)
 
 (c) David Tan, some rights reserved (CC BY-NC)
 
@@ -11,7 +11,7 @@
 
 ## [野鵐 ノジコ Yellow Bunting](https://ebird.org/species/yelbun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/21671498/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/21671498/medium.jpeg)
 
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 
@@ -21,7 +21,7 @@
 
 ## [黃喉鵐 ミヤマホオジロ Yellow-throated Bunting](https://ebird.org/species/yetbun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/119429801/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/119429801/medium.jpeg)
 
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 
@@ -30,7 +30,7 @@
 
 ## [赤胸鵐 ホオアカ Chestnut-eared Bunting](https://ebird.org/species/chebun2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/137092573/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/137092573/medium.jpg)
 
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 
@@ -39,7 +39,7 @@
 
 ## [小鵐 コホオアカ Little Bunting](https://ebird.org/species/litbun)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1939350/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1939350/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -48,7 +48,7 @@
 
 ## [白眉鵐 シロハラホオジロ Tristram's Bunting](https://ebird.org/species/tribun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2740948/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2740948/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -57,7 +57,7 @@
 
 ## [田鵐 カシラダカ Rustic Bunting](https://ebird.org/species/rusbun)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2616822/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2616822/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -66,7 +66,7 @@
 
 ## [黃眉鵐 キマユホオジロ Yellow-browed Bunting](https://ebird.org/species/yebbun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/26834054/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/26834054/medium.jpeg)
 
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 
@@ -75,7 +75,7 @@
 
 ## [金鵐 シマアオジ Yellow-breasted Bunting](https://ebird.org/species/yebbun)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/57723251/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/57723251/medium.jpg)
 
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 
@@ -84,7 +84,7 @@
 
 ## [鏽鵐 シマノジコ Chestnut Bunting](https://ebird.org/species/chebun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2741161/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2741161/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -93,7 +93,7 @@
 
 ## [灰頭黑臉鵐 シベリアアオジ Black-faced Bunting](https://ebird.org/species/bkfbun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/39709866/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/39709866/medium.jpeg)
 
 (c) 茶棚, some rights reserved (CC BY-NC)
 
@@ -102,7 +102,7 @@
 
 ## [葦鵐 シベリアジュリン Pallas's Bunting](https://ebird.org/species/palbun)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2619175/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2619175/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -111,7 +111,7 @@
 
 ## [冠鵐 レンジャクノジコ Crested Bunting](https://ebird.org/species/crebun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/111947060/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/111947060/medium.jpg)
 
 (c) Jayant M Deshpande, some rights reserved (CC BY-NC)
 
@@ -121,7 +121,7 @@
 
 ## [紅頸葦鵐 コジュリン Ochre-rumped Bunting](https://ebird.org/species/ocrbun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2681471/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2681471/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -130,7 +130,7 @@
 
 ## [黑頭鵐 ズグロチャキンチョウ Black-headed Bunting](https://ebird.org/species/blhbun1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/3777512/medium.JPG)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/3777512/medium.JPG)
 
 (c) Ani Sarkisyan, some rights reserved (CC BY)
 
@@ -139,7 +139,7 @@
 
 ## [白頭鵐 シラガホオジロ Pine Bunting](https://ebird.org/species/pinbun)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2820666/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2820666/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -148,7 +148,7 @@
 
 ## [黃喉黑臉鵐 アオジ Masked Bunting](https://ebird.org/species/bkfbun2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2820666/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2820666/medium.jpg)
 
 Masked Bunting
 

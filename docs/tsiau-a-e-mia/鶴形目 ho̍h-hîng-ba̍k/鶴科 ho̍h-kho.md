@@ -2,7 +2,7 @@
 
 ## [白鶴 ソデグロヅル Siberian Crane](https://ebird.org/species/sibcra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/42649395/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/42649395/medium.jpg)
 
 (c) Andy Lazere, some rights reserved (CC BY-NC)
 
@@ -13,7 +13,7 @@
 
 ## [簑羽鶴 アネハヅル Demoiselle Crane](https://ebird.org/species/demcra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1961995/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1961995/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -22,7 +22,7 @@
 
 ## [灰鶴 クロヅル Common Crane](https://ebird.org/species/comcra)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/187719701/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/187719701/medium.jpg)
 
 (c) Blondinrikard Fröberg, some rights reserved (CC BY)
 
@@ -31,7 +31,7 @@
 
 ## [白頭鶴 ナベヅル Hooded Crane](https://ebird.org/species/hoocra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/102489261/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/102489261/medium.jpeg)
 
 (c) Christoph Moning, some rights reserved (CC BY)
 
@@ -40,7 +40,7 @@
 
 ## [丹頂鶴 タンチョウ Red-crowned Crane](https://ebird.org/species/reccra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/122932380/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/122932380/medium.jpg)
 
 (c) naturepower2021, some rights reserved (CC BY-NC)
 
@@ -50,7 +50,7 @@
 
 ## [白枕鶴 マナヅル White-naped Crane](https://ebird.org/species/whncra1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/102488482/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/102488482/medium.jpeg)
 
 (c) Christoph Moning, some rights reserved (CC BY)
 

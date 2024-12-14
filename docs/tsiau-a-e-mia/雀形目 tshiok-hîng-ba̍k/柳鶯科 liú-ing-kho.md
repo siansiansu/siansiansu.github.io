@@ -2,7 +2,7 @@
 
 ## [黃眉柳鶯 キマユムシクイ Yellow-browed Warbler](https://ebird.org/species/yebwar3)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2781613/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2781613/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -10,7 +10,7 @@
 
 ## [巨嘴柳鶯 カラフトムジセッカ Radde's Warbler](https://ebird.org/species/radwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/249330452/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/249330452/medium.jpg)
 
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 
@@ -18,7 +18,7 @@
 
 ## [淡腳柳鶯 アムールムシクイ Pale-legged Leaf Warbler](https://ebird.org/species/pllwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/353559770/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/353559770/large.jpg)
 
 © Phakawat Kittikhunodom, some rights reserved (CC-BY-NC)
 
@@ -26,7 +26,7 @@
 
 ## [極北柳鶯 コムシクイ Arctic Warbler](https://ebird.org/species/arcwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2678358/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2678358/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -34,7 +34,7 @@
 
 ## [庫頁島柳鶯 エゾムシクイ Sakhalin Leaf Warbler](https://ebird.org/species/salwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/234130515/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/234130515/large.jpg)
 
 © Sam Hambly, some rights reserved (CC-BY-NC)
 
@@ -42,7 +42,7 @@
 
 ## [日本柳鶯 メボソムシクイ Japanese Leaf Warbler](https://ebird.org/species/arcwar3)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/338161531/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/338161531/large.jpg)
 
 © James Eaton, some rights reserved (CC-BY-NC)
 
@@ -50,7 +50,7 @@
 
 ## [堪察加柳鶯 オオムシクイ Kamchatka Leaf Warbler](https://ebird.org/species/arcwar2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/18110426/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/18110426/medium.jpeg)
 
 (c) andriy, some rights reserved (CC BY-NC)
 
@@ -58,7 +58,7 @@
 
 ## [雙斑綠柳鶯 フタオビムシクイ Two-barred Warbler](https://ebird.org/species/grewar2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/213560301/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/213560301/medium.jpg)
 
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 
@@ -66,7 +66,7 @@
 
 ## [黃腰柳鶯 カラフトムシクイ Pallas's Leaf Warbler](https://ebird.org/species/palwar5)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/91060625/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/91060625/medium.jpeg)
 
 (c) Christoph Moning, some rights reserved (CC BY)
 
@@ -74,7 +74,7 @@
 
 ## [哈氏冠紋柳鶯 ハルテルトムシクイ Hartert's Leaf Warbler](https://ebird.org/species/harlew1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/11603923/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/11603923/medium.jpeg)
 
 (c) thelittleman, some rights reserved (CC BY-NC)
 
@@ -82,7 +82,7 @@
 
 ## [克氏冠紋柳鶯 クラウディアムシクイ Claudia's Leaf Warbler](https://ebird.org/species/clalew1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/134811914/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/134811914/medium.jpeg)
 
 (c) 茶棚, some rights reserved (CC BY-NC)
 
@@ -90,7 +90,7 @@
 
 ## [冠羽柳鶯 センダイムシクイ Eastern Crowned Warbler](https://ebird.org/species/eacwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/24401331/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/24401331/medium.jpeg)
 
 (c) andriy, some rights reserved (CC BY-NC)
 
@@ -98,7 +98,7 @@
 
 ## [飯島柳鶯 イイジマムシクイ Ijima's Leaf Warbler](https://ebird.org/species/ijlwar1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/43795243/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/43795243/medium.jpg)
 
 (c) Roman, some rights reserved (CC BY-NC)
 
@@ -106,7 +106,7 @@
 
 ## [黑眉柳鶯 マユグロムシクイ Sulphur-breasted Warbler](https://ebird.org/species/subwar3)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/3859189/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/3859189/medium.jpg)
 
 (c) Julien Renoult, some rights reserved (CC BY)
 

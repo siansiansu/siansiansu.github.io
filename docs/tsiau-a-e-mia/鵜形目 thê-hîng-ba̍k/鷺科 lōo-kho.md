@@ -2,7 +2,7 @@
 
 ## [黑冠麻鷺 ズグロミゾゴイ Malayan Night-Heron](https://ebird.org/species/manher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/60995427/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/60995427/medium.jpeg)
 
 no rights reserved, uploaded by 葉子
 
@@ -16,7 +16,7 @@ no rights reserved, uploaded by 葉子
 
 ## [麻鷺 ミゾゴイ Japanese Night Heron](https://ebird.org/species/janher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/359441888/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/359441888/large.jpg)
 
 © かわう, some rights reserved (CC-BY-NC)
 
@@ -28,7 +28,7 @@ no rights reserved, uploaded by 葉子
 
 ## [大麻鷺 サンカノゴイ Great Bittern](https://ebird.org/species/grebit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/60579218/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/60579218/medium.jpg)
 
 (c) Tatyana Zarubo, some rights reserved (CC BY-NC)
 
@@ -38,7 +38,7 @@ no rights reserved, uploaded by 葉子
 
 ## [黃頸黑鷺 タカサゴクロサギ Black Bittern](https://ebird.org/species/blabit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/131272058/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/131272058/medium.jpg)
 
 (c) Seth Miller, some rights reserved (CC BY-NC)
 
@@ -47,7 +47,7 @@ no rights reserved, uploaded by 葉子
 
 ## [黃小鷺 ヨシゴイ Yellow Bittern](https://ebird.org/species/yelbit)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/155666451/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/155666451/medium.jpg)
 
 (c) Gavin Goodyear, some rights reserved (CC BY-NC)
 
@@ -58,7 +58,7 @@ no rights reserved, uploaded by 葉子
 
 ## [秋小鷺 オオヨシゴイ Schrenck's Bittern](https://ebird.org/species/schbit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/182943626/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/182943626/medium.jpeg)
 
 (c) kenny_well, some rights reserved (CC BY-NC)
 
@@ -68,7 +68,7 @@ no rights reserved, uploaded by 葉子
 
 ## [栗小鷺 リュウキュウヨシゴイ Cinnamon Bittern](https://ebird.org/species/cinbit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/49444185/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/49444185/medium.jpg)
 
 (c) subhashc, some rights reserved (CC BY-NC)
 
@@ -79,7 +79,7 @@ no rights reserved, uploaded by 葉子
 
 ## [綠簑鷺 ササゴイ Striated Heron](https://ebird.org/species/strher)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/166334459/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/166334459/medium.jpg)
 
 (c) Ad Konings, some rights reserved (CC BY-NC)
 
@@ -92,7 +92,7 @@ no rights reserved, uploaded by 葉子
 
 ## [夜鷺 ゴイサギ Black-crowned Night Heron](https://ebird.org/species/bcnher)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/49357930/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/49357930/medium.jpg)
 
 no rights reserved, uploaded by Kyle Nessen
 
@@ -103,7 +103,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [棕夜鷺 ハシブトゴイ Nankeen Night Heron](https://ebird.org/species/runher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/29852321/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/29852321/medium.jpg)
 
 (c) David McCorquodale, some rights reserved (CC BY)
 
@@ -114,7 +114,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [池鷺 アカガシラサギ Chinese Pond-Heron](https://ebird.org/species/chpher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/186374254/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/186374254/medium.jpg)
 
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 
@@ -124,7 +124,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [爪哇池鷺 ジャワアカガシラサギ Javan Pond-Heron](https://ebird.org/species/japher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/188717524/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/188717524/medium.jpg)
 
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 
@@ -134,7 +134,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [白臉鷺 カオジロサギ White-faced Heron](https://ebird.org/species/whfher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/42986215/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/42986215/medium.jpeg)
 
 (c) Jacqui Geux, some rights reserved (CC BY)
 
@@ -142,7 +142,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [岩鷺 クロサギ Pacific Reef-Heron](https://ebird.org/species/pacreh1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/29852525/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/29852525/medium.jpeg)
 
 (c) Bridget Spencer, some rights reserved (CC BY-NC)
 
@@ -153,7 +153,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [唐白鷺 カラシラサギ Chinese Egret](https://ebird.org/species/chiegr)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/363689330/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/363689330/large.jpeg)
 
 © Gerard van de Wiel, some rights reserved (CC-BY-NC)
 
@@ -170,7 +170,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [小白鷺 コサギ Little Egret](https://ebird.org/species/litegr)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/205293169/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/205293169/medium.jpg)
 
 (c) Bengt Nyman, some rights reserved (CC BY)
 
@@ -185,7 +185,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [黃頭鷺 アマサギ Cattle Egret](https://ebird.org/species/categr2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/242146160/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/242146160/medium.jpg)
 
 (c) Greg West, some rights reserved (CC BY-NC)
 
@@ -200,7 +200,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [中白鷺 チュウサギ Medium Egret](https://ebird.org/species/integr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/169780988/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/169780988/medium.jpeg)
 
 (c) Hong, some rights reserved (CC BY-NC)
 
@@ -214,7 +214,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [蒼鷺 アオサギ Gray Heron](https://ebird.org/species/graher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/97939450/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/97939450/medium.jpg)
 
 (c) Corine Bliek, some rights reserved (CC BY-NC)
 
@@ -225,7 +225,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [紫鷺 ムラサキサギ Purple Heron](https://ebird.org/species/purher1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/57662088/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/57662088/medium.jpeg)
 
 (c) Mike Quinn, Austin, TX, some rights reserved (CC BY-NC),
 
@@ -234,7 +234,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [大白鷺 ダイサギ Great Egret](https://ebird.org/species/greegr)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/56653891/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/56653891/medium.jpg)
 
 (c) daverowe, some rights reserved (CC BY-NC)
 
@@ -248,7 +248,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [白頸黑鷺 ムナジロクロサギ Pied Heron](https://ebird.org/species/pieher2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/82895539/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/82895539/medium.jpg)
 
 (c) Nik Borrow, some rights reserved (CC BY-NC)
 

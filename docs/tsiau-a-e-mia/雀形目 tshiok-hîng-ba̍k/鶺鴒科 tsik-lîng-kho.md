@@ -2,7 +2,7 @@
 
 ## [白鶺鴒 ハクセキレイ White Wagtail](https://ebird.org/species/whiwag)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/3330790/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/3330790/medium.jpg)
 
 (c) Dr Caesar Sengupta, some rights reserved (CC BY-NC)
 
@@ -12,7 +12,7 @@
 
 ## [日本鶺鴒 セグロセキレイ Japanese Wagtail](https://ebird.org/species/japwag1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2674294/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2674294/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -21,7 +21,7 @@
 
 ## [灰鶺鴒 キセキレイ Gray Wagtail](https://ebird.org/species/grywag)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/849468/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/849468/medium.jpg)
 
 (c) kellyr115, some rights reserved (CC BY-NC)
 
@@ -30,7 +30,7 @@
 
 ## [東方黃鶺鴒 ツメナガセキレイ Eastern Yellow Wagtail](https://ebird.org/species/eaywag)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/30334980/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/30334980/medium.jpg)
 
 (c) Игорь Двуреков, some rights reserved (CC BY-NC)
 
@@ -39,7 +39,7 @@
 
 ## [西方黃鶺鴒 ニシツメナガセキレイ Western Yellow Wagtail](https://ebird.org/species/eaywag1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/275920424/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/275920424/medium.jpeg)
 
 (c) alexey_kuzmin, some rights reserved (CC BY-NC)
 
@@ -48,7 +48,7 @@
 
 ## [黃頭鶺鴒 キガシラセキレイ Citrine Wagtail](https://ebird.org/species/citwag)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/133584329/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/133584329/medium.jpeg)
 
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 
@@ -57,7 +57,7 @@
 
 ## [山鶺鴒 イワミセキレイ Forest Wagtail](https://ebird.org/species/forwag1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/297755310/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/297755310/medium.jpg)
 
 (c) Avinash Bhagat, some rights reserved (CC BY-NC)
 
@@ -66,7 +66,7 @@
 
 ## [大花鷚 マミジロタヒバリ Richard's Pipit](https://ebird.org/species/ricpip1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2678325/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2678325/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -76,7 +76,7 @@
 
 ## [布萊氏鷚 コマミジロタヒバリ Blyth's Pipit](https://ebird.org/species/blypip1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/63474295/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/63474295/medium.jpg)
 
 (c) Андрей Беспалов, some rights reserved (CC BY-NC)
 
@@ -85,7 +85,7 @@
 
 ## [黃腹鷚 タヒバリ American Pipit](https://ebird.org/species/amepip)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/193729/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/193729/medium.jpg)
 
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 
@@ -95,7 +95,7 @@
 
 ## [水鷚 ヒガシヨーロッパタヒバリ Water Pipit (Blakiston's)](https://ebird.org/species/watpip4)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/60500389/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/60500389/medium.jpg)
 
 (c) CORDENOS Thierry, some rights reserved (CC BY-NC)
 
@@ -104,7 +104,7 @@
 
 ## [赤喉鷚 ムネアカタヒバリ Red-throated Pipit](https://ebird.org/species/retpip)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/239814/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/239814/medium.jpg)
 
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 
@@ -113,7 +113,7 @@
 
 ## [白背鷚 セジロタヒバリ Pechora Pipit](https://ebird.org/species/pecpip)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2724687/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2724687/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -122,7 +122,7 @@
 
 ## [草地鷚 マキバタヒバリ Meadow Pipit](https://ebird.org/species/meapip1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/187679983/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/187679983/medium.jpg)
 
 (c) Valia Pavlou, some rights reserved (CC BY-NC)
 
@@ -131,7 +131,7 @@
 
 ## [林鷚 ヨーロッパビンズイ Tree Pipit](https://ebird.org/species/trepip)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/329702724/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/329702724/medium.jpg)
 
 (c) Alejandro Ocampo, some rights reserved (CC BY-NC)
 
@@ -140,7 +140,7 @@
 
 ## [樹鷚 ビンズイ Olive-backed Pipit](https://ebird.org/species/olbpip)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/366802056/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/366802056/large.jpeg)
 
 © Benoît Segerer, some rights reserved (CC-BY-NC)
 

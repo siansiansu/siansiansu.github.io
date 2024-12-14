@@ -2,7 +2,7 @@
 
 ## [白頭翁 シロガシラ Light-vented bulbul](https://ebird.org/species/livbul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/59227677/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/59227677/medium.jpeg)
 
 no rights reserved, uploaded by 葉子
 
@@ -12,7 +12,7 @@ no rights reserved, uploaded by 葉子
 
 ## [紅嘴黑鵯 シロガシラクロヒヨドリ Black Bulbul](https://ebird.org/species/blabul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/76309732/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/76309732/medium.jpg)
 
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 
@@ -23,7 +23,7 @@ no rights reserved, uploaded by 葉子
 
 ## [白環鸚嘴鵯 カヤノボリ Collared Finchbill](https://ebird.org/species/colfin1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/33420257/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/33420257/medium.jpg)
 
 (c) sunmr, some rights reserved (CC BY-NC)
 
@@ -36,7 +36,7 @@ no rights reserved, uploaded by 葉子
 
 ## [烏頭翁 クロガシラ Styan's Bulbul](https://ebird.org/species/stybul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/31238957/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/31238957/medium.jpg)
 
 (c) jacob7349, some rights reserved (CC BY-NC)
 
@@ -46,7 +46,7 @@ no rights reserved, uploaded by 葉子
 
 ## [栗背短腳鵯 クリイロヒヨドリ Chestnut Bulbul](https://ebird.org/species/chebul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/367129749/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/367129749/large.jpeg)
 
 © shiguangshi, some rights reserved (CC-BY-NC)
 
@@ -56,7 +56,7 @@ no rights reserved, uploaded by 葉子
 
 ## [棕耳鵯 ヒヨドリ Brown-eared Bulbul](https://ebird.org/species/brebul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/20566056/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/20566056/medium.jpg)
 
 (c) Toshihiro Gamo, some rights reserved (CC BY)
 
@@ -64,7 +64,7 @@ no rights reserved, uploaded by 葉子
 
 ## [白喉紅臀鵯 コシジロヒヨドリ Sooty-headed Bulbul](https://ebird.org/species/sohbul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/5265681/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/5265681/medium.jpeg)
 
 (c) Bruno Durand, some rights reserved (CC BY-NC)
 
@@ -73,7 +73,7 @@ no rights reserved, uploaded by 葉子
 
 ## [橄欖褐鵯 アカメヒヨドリ Olive-winged Bulbul](https://ebird.org/species/olwbul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/18876219/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/18876219/medium.jpg)
 
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 
@@ -83,7 +83,7 @@ no rights reserved, uploaded by 葉子
 
 ## [橄欖鵯 オリーブヒヨドリ Olive Bulbul](https://ebird.org/species/olibul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/14865961/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/14865961/medium.jpeg)
 
 (c) robbythai, some rights reserved (CC BY-NC)
 
@@ -91,7 +91,7 @@ no rights reserved, uploaded by 葉子
 
 ## [紅目鵯 アカメチャイロヒヨ Red-eyed Bulbul](https://ebird.org/species/reebul1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/20022944/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/20022944/medium.jpg)
 
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 

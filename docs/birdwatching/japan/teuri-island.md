@@ -41,7 +41,7 @@ sidebar_position: 1
 
 雖然也有巴士可以坐，但因為我的腸胃很常不舒服，所以還是習慣搭火車。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/9e85f387-22e0-40f4-ab0b-59f1fe88ca58)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/9e85f387-22e0-40f4-ab0b-59f1fe88ca58)
 
 到了`札幌車站`後，我們先到明天搭乘巴士的售票處探路。
 
@@ -93,7 +93,7 @@ sidebar_position: 1
 
 有看到現在是 7:53 分嗎？到了 8:00 會準時開車，不等人的喔！
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/adf92442-2b0b-4b36-a240-2a2de85278c4)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/adf92442-2b0b-4b36-a240-2a2de85278c4)
 
 上圖的 A4 紙是電話預約的資料，右上角釘起來的地方則是車票本人（講本票好像怪怪的）。
 
@@ -105,7 +105,7 @@ sidebar_position: 1
 
 出發前只要跟站務人員核對資料就可以了，買票大概花了五分鐘左右。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/8de223de-d192-42c9-8bd2-412eb2e4a3fe)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/8de223de-d192-42c9-8bd2-412eb2e4a3fe)
 
 上圖是`砂川休息站`的外觀，上車後大約一個半小時後，會在這裡稍作停留。
 
@@ -122,13 +122,13 @@ sidebar_position: 1
 
 :::
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/0e6feea9-5cb6-4594-a451-75eb2cd10d8b)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0e6feea9-5cb6-4594-a451-75eb2cd10d8b)
 
 到`羽幌`後，巴士會開到一個叫做`沿岸バス 本社ターミナル`的地方，裡面沒有站務人員。
 
 廁所在這棟建築物的後面，很舊，但非常乾淨。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/f2f38eba-377d-47b5-8240-fb4ba569dea4)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/f2f38eba-377d-47b5-8240-fb4ba569dea4)
 
 上圖是候車亭裡面的暖爐。
 
@@ -150,7 +150,7 @@ sidebar_position: 1
 
 很漂亮的地圖。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/d07cf726-384d-478a-a7ec-69b8d6db6d3e)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/d07cf726-384d-478a-a7ec-69b8d6db6d3e)
 
 候車亭很有年代感，上圖是裡面的手繪路線圖。
 
@@ -162,7 +162,7 @@ sidebar_position: 1
 
 接駁車非常明顯，會停在候車亭旁，不會錯過的。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/830b02fd-fd04-430b-a454-462c9554b0a0)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/830b02fd-fd04-430b-a454-462c9554b0a0)
 
 乘船處也非常明顯，有個藍色絕對不會認錯的屋頂。
 
@@ -208,15 +208,15 @@ sidebar_position: 1
 
 #### 北海道海鳥センター
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/2c3e5fb4-9856-49ac-97d9-af76c0be9e2d)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/2c3e5fb4-9856-49ac-97d9-af76c0be9e2d)
 
 上圖是從北海道海鳥センター門口往裡面拍的照片，非常推薦值得一逛。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/a768eadc-9a2b-4ab3-9409-3c3778e2e4b2)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a768eadc-9a2b-4ab3-9409-3c3778e2e4b2)
 
 裡頭的展示非常豐富，雖然主要都是日語解說，但我們用翻譯軟體一個一個看。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/5b1cc474-68e0-493a-b094-622987f7a299)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/5b1cc474-68e0-493a-b094-622987f7a299)
 
 也有各種鳥類的情報。
 
@@ -230,7 +230,7 @@ sidebar_position: 1
 
 #### 甘えびファクトリー 蝦名漁業部 えび漁師第51高砂丸直売店
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/b66eb41c-89be-4d49-9904-79e00965af07)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/b66eb41c-89be-4d49-9904-79e00965af07)
 
 直接上圖。
 
@@ -252,11 +252,11 @@ sidebar_position: 1
 
 #### カフェ＆イン吉里吉里
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/e7a81175-38da-438a-9dea-f77c057eebf2)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/e7a81175-38da-438a-9dea-f77c057eebf2)
 
 晚上我們住在`カフェ＆イン吉里吉里`，雖然房子很簡陋，但晚餐非常非常的好吃，老闆夫妻也非常親切。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/62370a81-b12c-47a0-b209-d8541e9dff54)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/62370a81-b12c-47a0-b209-d8541e9dff54)
 
 招牌甜蝦特寫。
 
@@ -276,11 +276,11 @@ sidebar_position: 1
 
 在羽幌公園還看到狐狸，超級幸運的。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/d31f0193-9817-450f-908f-acdfc4e41e95)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/d31f0193-9817-450f-908f-acdfc4e41e95)
 
 羽幌各處都可以看到崖海鴉的裝飾，很可愛。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/32174947-1d22-4b01-be68-e0de67eac538)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/32174947-1d22-4b01-be68-e0de67eac538)
 
 吉里吉里的早餐非常厲害。
 
@@ -318,7 +318,7 @@ sidebar_position: 1
 
 鳥點的話，就是我放在最前面封面圖的那張圖，總共有 `7` 個鳥點。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/529e6299-7bb9-42e1-ac00-65b51b5e26e2)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/529e6299-7bb9-42e1-ac00-65b51b5e26e2)
 
 上圖是[厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)，後面繞過去有個鎮魂碑，在這裡靜靜的等一下，會有很多鳥。
 
@@ -326,25 +326,25 @@ sidebar_position: 1
 📍 請抱著敬畏的心，不要打擾到當地的神明喔！
 :::
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/adc853d1-dfba-424b-8356-cf49c121b3ae)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/adc853d1-dfba-424b-8356-cf49c121b3ae)
 
 上圖是[海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)入口。
 
 沿著道路走，會接一個斜坡通到`天売葬斎場`。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/5f568d04-16e3-4f1f-86a6-a41ae3a82048)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/5f568d04-16e3-4f1f-86a6-a41ae3a82048)
 
 上圖是[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)。
 
 這裡已經荒廢了，路旁都是草，行走的時候要小心。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/f71b4c89-eea3-4f85-b075-6c68ef871344)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/f71b4c89-eea3-4f85-b075-6c68ef871344)
 
 上圖是[黒崎海岸](https://maps.app.goo.gl/NeHcrmf8iSvTeeSx6)。
 
 雖然鷗鷗已經很習慣人類了，但我們還是習慣躡手躡腳的前進。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/eb809a38-f3ad-4cb4-95e5-bda32c4b9109)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/eb809a38-f3ad-4cb4-95e5-bda32c4b9109)
 
 上圖是海雀的巢區，順著步道走，不要隨意離開步道。
 
@@ -354,19 +354,19 @@ sidebar_position: 1
 
 我把相對位置標出來，這裡是陡升段，建議在燈塔這休息一下補充體力。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/91140154-3353-442a-8320-5f773e45c317)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/91140154-3353-442a-8320-5f773e45c317)
 
 上圖是[赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)，從海雀巢區往下走。
 
 到了展望台往下看就是赤岩，風非常非常的大，溫度非常非常的冷！
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/896aee37-2120-4d6e-95c0-2cb5a060f52a)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/896aee37-2120-4d6e-95c0-2cb5a060f52a)
 
 上圖是[海鳥観察舎](https://maps.app.goo.gl/XASqdGmt8J14GNpT8)。
 
 這裡是可以遮風避雨休息的地方，但沒有廁所。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/15996b8c-6bfd-4bb6-890d-4a677f8ceff8)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/15996b8c-6bfd-4bb6-890d-4a677f8ceff8)
 
 上圖是[観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)，可以看到不少雨燕。
 
@@ -376,7 +376,7 @@ sidebar_position: 1
 
 上圖箭頭畫起來陡升和陡降的地方要注意。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/772ffaae-ada6-45b2-8fb8-01582e21f4ca)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/772ffaae-ada6-45b2-8fb8-01582e21f4ca)
 
 `天売郵便局`可以買明信片和蓋紀念章。
 
@@ -386,7 +386,7 @@ sidebar_position: 1
 
 ## 住宿
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/1d84e08e-bab9-45ee-b7c9-4caa356dbdc3)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/1d84e08e-bab9-45ee-b7c9-4caa356dbdc3)
 
 我們住在[漁師の宿 民宿「栄丸」](http://sakaemaru.jp/)。
 
@@ -402,19 +402,19 @@ sidebar_position: 1
 
 我們也額外說明出發前有快篩過，沒有感染武漢肺炎，是個有禮貌的孩子呢！
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/753396d0-24cc-4c24-9239-cd64214ca194)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/753396d0-24cc-4c24-9239-cd64214ca194)
 
 上圖是第一天民宿提供的晚餐。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/fb6f5870-9ca8-4770-87ef-57016668ea95)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/fb6f5870-9ca8-4770-87ef-57016668ea95)
 
 食材非常的新鮮。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/97d3995c-0110-4e33-8eca-e1d4cb967c24)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/97d3995c-0110-4e33-8eca-e1d4cb967c24)
 
 特寫。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/d7e3799f-9c64-487d-94b5-93696240d9fb)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/d7e3799f-9c64-487d-94b5-93696240d9fb)
 
 海鮮丼飯。
 
@@ -424,31 +424,31 @@ sidebar_position: 1
 
 <br/>
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/3b6e053f-26c2-4a2a-8eed-f5ed33f1bf37)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3b6e053f-26c2-4a2a-8eed-f5ed33f1bf37)
 
 上圖是第二天民宿提供的早餐。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/4e5cbc04-8e00-44ac-bfb2-201449a496e9)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/4e5cbc04-8e00-44ac-bfb2-201449a496e9)
 
 上圖是[炭火海鮮 番屋](https://maps.app.goo.gl/6Y1zY5UBW81DwSdc7)的午餐。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/3bc1cbc2-c5c3-4bdc-be23-15ce50439946)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3bc1cbc2-c5c3-4bdc-be23-15ce50439946)
 
 再看一次。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/abca438e-fa7a-4840-8f7e-e7d8c430810a)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/abca438e-fa7a-4840-8f7e-e7d8c430810a)
 
 來個特寫。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/e7de6a34-0d58-494d-931c-aa3d9912da23)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/e7de6a34-0d58-494d-931c-aa3d9912da23)
 
 上圖是第二天民宿提供的晚餐。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/8790d439-84f3-46fc-9802-fb5e740ce88d)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/8790d439-84f3-46fc-9802-fb5e740ce88d)
 
 現剖海膽，海膽還活著啊啊啊啊！！！
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/dc9e9814-ecf8-4dfd-8434-44244c40a922)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/dc9e9814-ecf8-4dfd-8434-44244c40a922)
 
 上圖是第三天民宿提供的早餐。
 
@@ -475,11 +475,11 @@ sidebar_position: 1
 
 可以看到這麼近，用手機就可以拍，
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/b95e8c59-3923-4dbb-b7a8-aeceb333c130)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/b95e8c59-3923-4dbb-b7a8-aeceb333c130)
 
 從舢舨船尾端往前看大概長這樣。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/152da6f3-3cc1-432c-a266-6e39d243ef9b)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/152da6f3-3cc1-432c-a266-6e39d243ef9b)
 
 從船上往天売島看。
 
@@ -489,7 +489,7 @@ sidebar_position: 1
 
 ## 租腳踏車
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/27d498af-f31a-4715-a6bc-45b1a65ab708)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/27d498af-f31a-4715-a6bc-45b1a65ab708)
 
 上圖是我們租電動腳踏車的地方，店名叫[おろろんレンタル](https://maps.app.goo.gl/jmSJpinPFG6M5ppz8)。
 
@@ -505,11 +505,11 @@ sidebar_position: 1
 
 當地只有兩家商店。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/517e2237-9df8-45f1-9e4b-c42cd8d6c37d)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/517e2237-9df8-45f1-9e4b-c42cd8d6c37d)
 
 上圖是[マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較像雜貨店，店面稍微舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
 
-![](https://github.com/siansiansu/teuri-birding/assets/33391637/50e6d545-e58f-4f90-981f-dd661409ad66)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/50e6d545-e58f-4f90-981f-dd661409ad66)
 
 上圖是[川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)，比較多生鮮蔬菜，賣的東西和`マルサン三浦酒店`稍微錯開。
 

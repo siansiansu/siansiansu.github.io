@@ -2,7 +2,7 @@
 
 ## [灰斑鶲 エゾビタキ Gray-streaked Flycatcher](https://ebird.org/species/gysfly1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2754837/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2754837/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -12,7 +12,7 @@
 
 ## [烏鶲 サメビタキ Dark-sided Flycatcher](https://ebird.org/species/dasfly)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/48232095/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/48232095/medium.jpg)
 
 (c) mwbirdco, some rights reserved (CC BY-NC)
 
@@ -21,7 +21,7 @@
 
 ## [寬嘴鶲 コサメビタキ Asian Brown Flycatcher](https://ebird.org/species/asbfly)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2741350/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2741350/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -30,7 +30,7 @@
 
 ## [黃眉黃鶲 キビタキ Narcissus Flycatcher](https://ebird.org/species/narfly2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/367782075/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/367782075/large.jpeg)
 
 © Sam Hambly, some rights reserved (CC-BY-NC)
 
@@ -39,7 +39,7 @@
 
 ## [白眉鶲 マミジロキビタキ Yellow-rumped Flycatcher](https://ebird.org/species/korfly1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/126610750/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/126610750/medium.jpg)
 
 (c) Grant Fisher, some rights reserved (CC BY-NC)
 
@@ -47,7 +47,7 @@
 
 ## [白眉黃鶲 ムギマキ Mugimaki Flycatcher](https://ebird.org/species/mugfly)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/57282568/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/57282568/medium.jpg)
 
 (c) John Clough, some rights reserved (CC BY-NC)
 
@@ -55,7 +55,7 @@
 
 ## [紅尾鶲 ミヤマヒタキ Ferruginous Flycatcher](https://ebird.org/species/ferfly1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/237565732/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/237565732/medium.jpg)
 
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 
@@ -64,7 +64,7 @@
 
 ## [紅喉鶲 オジロビタキ Taiga Flycatcher](https://ebird.org/species/taifly1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/58317668/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/58317668/medium.jpg)
 
 (c) Paul Dickson, some rights reserved (CC BY-NC)
 
@@ -73,7 +73,7 @@
 
 ## [紅胸鶲 ニシオジロビタキ Red-breasted Flycatcher](https://ebird.org/species/rebfly)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/1853510/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1853510/medium.jpg)
 
 (c) Paul Cools, some rights reserved (CC BY-NC)
 
@@ -81,7 +81,7 @@
 
 ## [棕腹仙鶲 コチャバラオオルリ Rufous-bellied Niltava](https://ebird.org/species/rubnil1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/89407123/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/89407123/medium.jpg)
 
 (c) Uday Agashe, some rights reserved (CC BY-NC)
 
@@ -90,7 +90,7 @@
 
 ## [棕腹大仙鶲 フッケンアオヒタキ Fujian Niltava](https://ebird.org/species/fujnil1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/177515284/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/177515284/medium.jpg)
 
 (c) rupperrt78, some rights reserved (CC BY-NC)
 
@@ -98,7 +98,7 @@
 
 ## [黃腹琉璃 チャバラオオルリ Taiwan Vivid Niltava](https://ebird.org/species/vivnil3)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/88811161/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/88811161/medium.jpg)
 
 (c) 洪廷維, some rights reserved (CC BY-NC)
 
@@ -107,7 +107,7 @@
 
 ## [白腹琉璃 オオルリ Blue-and-white Flycatcher](https://ebird.org/species/bawfly2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/98935926/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/98935926/medium.jpg)
 
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
 
@@ -117,7 +117,7 @@
 
 ## [海南藍仙鶲 ハイナンヒメアオヒタキ Hainan Blue Flycatcher](https://ebird.org/species/habfly1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/67774181/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/67774181/medium.jpg)
 
 (c) Sahana M, some rights reserved (CC BY-NC)
 
@@ -125,7 +125,7 @@
 
 ## [銅藍鶲 ロクショウヒタキ Verditer Flycatcher](https://ebird.org/species/verfly4)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/175806086/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/175806086/medium.jpg)
 
 (c) Cheongweei Gan, some rights reserved (CC BY)
 
@@ -134,7 +134,7 @@
 
 ## [白尾鴝 コンヒタキ White-tailed Robin](https://ebird.org/species/whtrob2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/21709138/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/21709138/medium.jpeg)
 
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 
@@ -143,7 +143,7 @@
 
 ## [藍尾鴝 ルリビタキ Red-flanked Bluetail](https://ebird.org/species/refblu)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/274965811/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/274965811/medium.jpg)
 
 (c) Chuangzao, some rights reserved (CC BY-NC)
 
@@ -152,7 +152,7 @@
 
 ## [白眉林鴝 キクチヒタキ White-browed Bush-Robin](https://ebird.org/species/wbbrob1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/100656737/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/100656737/medium.jpg)
 
 (c) paulshaffner, some rights reserved (CC BY-NC)
 
@@ -160,7 +160,7 @@
 
 ## [栗背林鴝 アリサンヒタキ Collared Bush-Robin](https://ebird.org/species/cobrob1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/6932507/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/6932507/medium.jpg)
 
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 
@@ -169,7 +169,7 @@
 
 ## [白腰鵲鴝 アカハラシキチョウ White-rumped Shama](https://ebird.org/species/whrsha)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/211914537/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/211914537/medium.jpg)
 
 (c) Rejoice Gassah, some rights reserved (CC BY)
 
@@ -178,7 +178,7 @@
 
 ## [鵲鴝 シキチョウ Oriental Magpie-Robin](https://ebird.org/species/magrob)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/220778424/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/220778424/medium.jpg)
 
 (c) Morten Ross, some rights reserved (CC BY-NC)
 
@@ -187,7 +187,7 @@
 
 ## [日本歌鴝 コマドリ Japanese Robin](https://ebird.org/species/japrob2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/2781294/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2781294/medium.jpg)
 
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 
@@ -197,7 +197,7 @@
 
 ## [琉球歌鴝 アカヒゲ Ryukyu Robin](https://ebird.org/species/ryurob2)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/264221578/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/264221578/medium.jpg)
 
 (c) 范姜士豪, some rights reserved (CC BY-NC)
 
@@ -206,7 +206,7 @@
 
 ## [藍歌鴝 コルリ Siberian Blue Robin](https://ebird.org/species/sibrob)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/134292175/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/134292175/medium.jpg)
 
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 
@@ -216,7 +216,7 @@
 
 ## [黃尾鴝 ジョウビタキ Daurian Redstart](https://ebird.org/species/daured1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/146524/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/146524/medium.jpg)
 
 (c) Davis Kwan, some rights reserved (CC BY-NC)
 
@@ -225,7 +225,7 @@
 
 ## [黑喉鴝 ノビタキ Amur Stonechat](https://ebird.org/species/stonec7)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/62918488/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/62918488/medium.jpg)
 
 (c) cellcell, some rights reserved (CC BY-NC)
 
@@ -235,7 +235,7 @@
 
 ## [野鴝 ノゴマ Siberian Rubythroat](https://ebird.org/species/sibrub)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/3661841/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/3661841/medium.jpg)
 
 (c) Julien Renoult, some rights reserved (CC BY)
 
@@ -248,7 +248,7 @@
 
 ## [漠䳭 サバクヒタキ Desert Wheatear](https://ebird.org/species/deswhe1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/365483244/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/365483244/large.jpeg)
 
 © bertogcliment, some rights reserved (CC-BY-NC)
 
@@ -257,7 +257,7 @@
 
 ## [沙䳭 イナバヒタキ Isabelline Wheatear](https://ebird.org/species/isawhe1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/118441745/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/118441745/medium.jpg)
 
 (c) Nik Borrow, some rights reserved (CC BY-NC)
 
@@ -266,7 +266,7 @@
 
 ## [穗䳭 ハシグロヒタキ Northern Wheatear](https://ebird.org/species/norwhe)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/67410847/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/67410847/medium.jpeg)
 
 (c) nfeddu, some rights reserved (CC BY-NC)
 
@@ -275,7 +275,7 @@
 
 ## [鉛色水鶇 カワビタキ Plumbeous Redstart](https://ebird.org/species/plured1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/133101052/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/133101052/medium.jpg)
 
 (c) Vijay Anand Ismavel, some rights reserved (CC BY-NC)
 
@@ -288,7 +288,7 @@
 
 ## [小剪尾 シロクロヒタキ Little Forktail](https://ebird.org/species/litfor1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/32456963/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/32456963/medium.jpg)
 
 (c) sunmr, some rights reserved (CC BY-NC)
 
@@ -297,7 +297,7 @@
 
 ## [小翼鶇 タイワンコバネヒタキ Taiwan Shortwing](https://ebird.org/species/whbsho6)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/263846221/large.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/263846221/large.jpeg)
 
 © mingun, some rights reserved (CC-BY-NC)
 
@@ -305,7 +305,7 @@
 
 ## [白喉磯鶇 ヒメイソヒヨ White-throated Rock-Thrush](https://ebird.org/species/wtrthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/367809484/large.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/367809484/large.jpg)
 
 © supapond13, some rights reserved (CC-BY-NC)
 
@@ -313,7 +313,7 @@
 
 ## [藍磯鶇 イソヒヨドリ Blue Rock-Thrush](https://ebird.org/species/burthr)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/247607732/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/247607732/medium.jpg)
 
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 
@@ -323,7 +323,7 @@
 
 ## [台灣紫嘯鶇 ルリチョウ Taiwan Whistling-Thrush](https://ebird.org/species/fowthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/263010281/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/263010281/medium.jpeg)
 
 no rights reserved, uploaded by 葉子
 
@@ -335,7 +335,7 @@ no rights reserved, uploaded by 葉子
 
 ## [白斑紫嘯鶇 オオルリチョウ Blue Whistling-Thrush](https://ebird.org/species/blwthr1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/57945325/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/57945325/medium.jpeg)
 
 (c) Manoj Samuel Grg, some rights reserved (CC BY-NC)
 

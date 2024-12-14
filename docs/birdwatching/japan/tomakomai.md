@@ -63,7 +63,7 @@ sidebar_position: 1
 
 `ウトナイ湖`的公車站牌長這樣，不要坐過頭囉！
 
-![](https://github.com/siansiansu/tomakomai-birding/assets/33391637/80d6ccc1-2dfb-4d1a-b331-446204ab7d78)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/80d6ccc1-2dfb-4d1a-b331-446204ab7d78)
 
 到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息和上廁所，是一棟小木屋。
 
@@ -73,7 +73,7 @@ sidebar_position: 1
 
 老闆很親切也很漂亮！一萬顆星星推薦。
 
-![](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e9edcac3-3f53-4df9-90cd-61c515c35ea4)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e9edcac3-3f53-4df9-90cd-61c515c35ea4)
 
 過了馬路，就是非常有名的`道之駅 ウトナイ湖`，裡面有賣各式各樣的鳥周邊和食物，一不小心錢包君就會失血太多。
 
@@ -93,7 +93,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 📍 道の駅ウトナイ湖的營業時間是 9 AM - 5 PM。
 :::
 
-![](https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b)
 
 上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗殺貼紙。
 
@@ -101,11 +101,11 @@ bah-pau! hó-tsia̍h ê bah-pau!
 📍 道の駅ウトナイ湖展望台開放的時間是 9 AM - 5 PM。
 :::
 
-![](https://github.com/siansiansu/tomakomai-birding/assets/33391637/636275f5-493e-474f-8c90-7efd47c40df5)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/636275f5-493e-474f-8c90-7efd47c40df5)
 
 上圖是`ウトナイ湖野生鳥獣保護センター`內部，裡面有很多小朋友做的正面鳥勞作。
 
-![](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e6d29281-40b4-430f-bb88-b4b8897f880e)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e6d29281-40b4-430f-bb88-b4b8897f880e)
 
 你們也懂正面鳥？！(請用`你剛剛攻擊我的村莊`的語氣講一遍)。
 
@@ -113,7 +113,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 📍 ウトナイ湖野生鳥獣保護センター每個禮拜一休館，營業時間是 9 AM - 5 PM。
 :::
 
-![](https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc)
 
 賞鳥的話，沿著湖畔的步道走就可以了，是個非常輕鬆賞鳥行程，沒有什麼要注意的地方。
 
@@ -191,7 +191,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 義大利麵，我可以吃一萬盤！
 
-![](https://github.com/siansiansu/tomakomai-birding/assets/33391637/5cdce9a7-1509-4ba7-9f7d-8184824ad532)
+![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/5cdce9a7-1509-4ba7-9f7d-8184824ad532)
 
 這是菜單的封面
 

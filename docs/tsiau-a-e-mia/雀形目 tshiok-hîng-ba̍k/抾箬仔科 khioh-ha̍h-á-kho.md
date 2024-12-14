@@ -2,7 +2,7 @@
 
 ## [綠胸八色鳥 Western Hooded Pitta](https://ebird.org/species/wehpit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/48339955/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/48339955/medium.jpeg)
 
 (c) Nina Lester Finley, some rights reserved (CC BY-NC)
 
@@ -14,7 +14,7 @@
 
 ## [八色鳥 ヤイロチョウ Fairy Pitta](https://ebird.org/species/faipit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/195561792/medium.jpeg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/195561792/medium.jpeg)
 
 (c) Sajee Kongsuwan, some rights reserved (CC BY-NC)
 
@@ -24,7 +24,7 @@
 
 ## [藍翅八色鳥 ミナミヤイロチョウ Blue-winged Pitta](https://ebird.org/species/blwpit1)
 
-![](https://inaturalist-open-data.s3.amazonaws.com/photos/97686974/medium.jpg)
+![image](https://inaturalist-open-data.s3.amazonaws.com/photos/97686974/medium.jpg)
 
 (c) Peter Ericsson, some rights reserved (CC BY-NC)
 
