@@ -56,8 +56,6 @@ func main() {
 
 ## Detailed Usage
 
-Check out the [examples directory](./examples/) for more detailed usage examples, including:
-
 - Retrieving notable observations
 - Getting nearby hotspots
 - Fetching recent checklists
@@ -111,10 +109,6 @@ Run the tests using:
 ```shell
 go test -v ./...
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 
