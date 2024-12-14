@@ -47,6 +47,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          sidebarCollapsed: false,
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
