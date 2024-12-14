@@ -99,10 +99,10 @@ const config = {
         },
         items: [
           {
-            to: '/docs/taigi',
+            to: '/docs/tsiaua',
             type: 'docSidebar',
-            sidebarId: 'taigiSidebar',
-            label: '台語資源',
+            sidebarId: 'tsiauaSidebar',
+            label: '鳥仔 ê 名',
             position: 'left'
           },
           {
@@ -113,10 +113,10 @@ const config = {
             position: 'left'
           },
           {
-            to: '/docs/gaming',
+            to: '/docs/ebird',
             type: 'docSidebar',
-            sidebarId: 'gamingSidebar',
-            label: '遊戲',
+            sidebarId: 'ebirdSidebar',
+            label: 'eBird',
             position: 'left'
           },
           {
@@ -124,6 +124,20 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'algorithmsSidebar',
             label: '演算法筆記',
+            position: 'left'
+          },
+          {
+            to: '/docs/gaming',
+            type: 'docSidebar',
+            sidebarId: 'gamingSidebar',
+            label: '遊戲',
+            position: 'left'
+          },
+          {
+            to: '/docs/taigi',
+            type: 'docSidebar',
+            sidebarId: 'taigiSidebar',
+            label: '台語資源',
             position: 'left'
           },
           {

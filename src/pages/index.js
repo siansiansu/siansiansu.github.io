@@ -66,7 +66,7 @@ export function HomepageHeader() {
 
       <div className={styles.bio}>
         <p>
-        佇台灣嘉義出世，目前蹛佇新北市，佮意大海、鳥仔 kah 寫程式。請你會記得，台灣是一个美麗 ê 國家。
+        佇台灣嘉義出世，目前蹛佇新北市，佮意大海、鳥仔 kah 寫程式。
         </p>
       </div>
 
