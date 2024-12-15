@@ -4,9 +4,13 @@
 
 ## [翠鳥 カワセミ Common Kingfisher](https://ebird.org/species/comkin1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Tobias Polzer, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台] 魚狗 hî-káu
 - ✳️ [台] 天狗 thian-káu
@@ -17,11 +21,17 @@
 - ✳️ [台] 鴗鳥 liu-tshuì
 - ✳️ [華] 翡翠 huí-tshuì
 
+:::
+
 ## [蒼翡翠 アオショウビン White-throated Kingfisher](https://ebird.org/species/whtkin2)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [英][台] 白喉魚狗 pe̍h-âu-hî-hóo
 - 🎯 [華][台] 青魚狗 tshenn-hî-hóo
@@ -36,11 +46,17 @@
 - ✳️ [台] 鴗鳥 liu-tshuì
 - ✳️ [華] 翡翠 huí-tshuì
 
+:::
+
 ## [斑翡翠 ヒメヤマセミ Pied Kingfisher](https://ebird.org/species/piekin1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Koshy Koshy, some rights reserved (CC BY)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台][英] 斑魚狗 pan-hî-káu
 - [華][英] 斑翡翠 pan-huí-tshuì
@@ -53,11 +69,17 @@
 - ✳️ [台] 鴗鳥 liu-tshuì
 - ✳️ [華] 翡翠 huí-tshuì
 
+:::
+
 ## [黑頭翡翠 ヤマショウビン Black-capped Kingfisher](https://ebird.org/species/blckin1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Carmelo López Abad, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台][英] 烏頭魚狗 oo-thâu-hî-káu
 - [華][英] 烏頭翡翠 oo-thâu-huí-tshuì
@@ -70,11 +92,17 @@
 - ✳️ [台] 鴗鳥 liu-tshuì
 - ✳️ [華] 翡翠 huí-tshuì
 
+:::
+
 ## [赤翡翠 アカショウビン Ruddy Kingfisher](https://ebird.org/species/rudkin1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) David Bishop, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台][英] 紅魚狗 âng-hî-káu
 - [華] 紅翠 âng-tshuì
@@ -91,11 +119,17 @@
 - ✳️ [台] 鴗鳥 liu-tshuì
 - ✳️ [華] 翡翠 huí-tshuì
 
+:::
+
 ## [白領翡翠 ナンヨウショウビン Collared Kingfisher](https://ebird.org/species/colkin1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) 蔡志偉, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台][英] 白領魚狗 pe̍h-niá-hî-káu
 - [華] 白領翡翠 pe̍h-niá-huí-tshuì
@@ -107,3 +141,5 @@
 - ✳️ [台] 魚虎 hî-hóo
 - ✳️ [台] 鴗鳥 liu-tshuì
 - ✳️ [華] 翡翠 huí-tshuì
+
+:::
