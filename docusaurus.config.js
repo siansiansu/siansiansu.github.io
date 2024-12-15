@@ -13,7 +13,7 @@ import rehypeKatex from 'rehype-katex';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bîn-hiân ê bāng-tsām',
-  tagline: 'Tsia sī Bîn-hiân ê bāng-tsām',
+  tagline: '鳥仔 ê 名 - 認捌鳥仔 ê 台語',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
