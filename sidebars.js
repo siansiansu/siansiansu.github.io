@@ -54,7 +54,7 @@ const sidebars = {
           type: 'category',
           label: 'Fundamentals',
           collapsible: true,
-          collapsed: true,
+          collapsed: false,
           items: [
             'algorithms/core/array/array',
             'algorithms/core/binary-tree/binary-tree',
@@ -71,7 +71,7 @@ const sidebars = {
           type: 'category',
           label: 'Advanced Topics',
           collapsible: true,
-          collapsed: true,
+          collapsed: false,
           items: [
             'algorithms/advanced/backtracking/backtracking',
             'algorithms/advanced/binary-search/binary-search',
@@ -92,7 +92,7 @@ const sidebars = {
           type: 'category',
           label: 'Resources',
           collapsible: true,
-          collapsed: true,
+          collapsed: false,
           items: [
             'algorithms/resources/basic',
           ],
