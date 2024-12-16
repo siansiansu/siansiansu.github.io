@@ -2,9 +2,13 @@
 
 ## [普通夜鷹 ヨタカ Gray Nightjar](https://ebird.org/species/grynig1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/1995164/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1995164/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台][華] 普通石磯仔 phóo-thong-tsio̍h-ki-á
 - 🎯 [華][日] 普通夜鷹 phóo-thong-iā-ing
@@ -14,11 +18,17 @@
 - [台][通] 石磯仔 tsio̍h-ki-á
 - ✳️ [華][日] 夜鷹 iā-ing
 
+:::
+
 ## [南亞夜鷹 シロアゴヨタカ Savanna Nightjar](https://ebird.org/species/savnig1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/54773042/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/54773042/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Rizki Kurnia Tohir, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [華][日] 南亞夜鷹 lâm-a-iā-ing
 - 🎯 [日][台] 南亞石磯仔 lâm-a-tsio̍h-ki-á
@@ -30,6 +40,5 @@
 - [台][通] 石磯仔 tsio̍h-ki-á
 - ✳️ [華][日] 夜鷹 iā-ing
 
-:::info
 📍 山蚊母 suann-bûn-bó 源自英語名 Savanna。
 :::
