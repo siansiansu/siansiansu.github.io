@@ -107,6 +107,13 @@ const config = {
             position: 'left'
           },
           {
+            to: '/docs/taigi',
+            type: 'docSidebar',
+            sidebarId: 'taigiSidebar',
+            label: '台語資源',
+            position: 'left'
+          },
+          {
             to: '/docs/birdwatching',
             type: 'docSidebar',
             sidebarId: 'birdwatchingSidebar',
@@ -124,7 +131,7 @@ const config = {
             to: '/docs/algorithms',
             type: 'docSidebar',
             sidebarId: 'algorithmsSidebar',
-            label: '演算法簿仔',
+            label: '演算法',
             position: 'left'
           },
           {
@@ -132,13 +139,6 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'gamingSidebar',
             label: '遊戲',
-            position: 'left'
-          },
-          {
-            to: '/docs/taigi',
-            type: 'docSidebar',
-            sidebarId: 'taigiSidebar',
-            label: '台語資源',
             position: 'left'
           },
           {

@@ -48,7 +48,7 @@ export function HomepageHeader() {
           <FontAwesomeIcon icon={faInstagram} size="lg" />
         </Link>
         <Link
-          href="https://twitter.com/siansiansu"
+          href="https://x.com/siansiansu"
           className={styles.socialIcon}
           target="_blank"
           rel="noopener noreferrer"
