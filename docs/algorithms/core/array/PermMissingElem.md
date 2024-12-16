@@ -1,9 +1,4 @@
----
-title: PermMissingElem
----
-
 # [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
-
 
 ```cpp
 #include <bits/stdc++.h>
@@ -25,6 +20,6 @@ int solution(vector<int> &A)
     return A.back() + 1;
 }
 ```
+
 - T: $O()$
 - S: $O()$
-

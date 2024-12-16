@@ -1,7 +1,3 @@
----
-title: Minimum Swaps to Sort
----
-
 # [Minimum Swaps to Sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1)
 
 Given an array of n distinct elements. Find the minimum number of swaps required to sort the array in strictly increasing order.
@@ -31,8 +27,6 @@ Output:
 Explanation:
 swap 10 with 3 and swap 19 with 5.
 ```
-
-
 
 ```cpp
 #include <iostream>
@@ -131,6 +125,6 @@ int main()
     printf("Ascending: %d, Descending: %d\n", r1, r2);
 }
 ```
+
 - T: $O(n \cdot \log n)$
 - S: $O(n)$
-

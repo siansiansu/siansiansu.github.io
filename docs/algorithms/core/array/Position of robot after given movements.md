@@ -1,16 +1,12 @@
----
-title: Position of robot after given movements
----
-
 # Position of robot after given movements
 
 Assume that:
+
 - the length of string `moves` is within the range [1...100];
 - string `moves` is made only of the following characters: `<`, `^`, `>`, `v`;
 - the robot never visits the same point twice, except for the starting point, which may be visited at the start and end of the robots path.
 
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
-
 
 ```cpp
 bool solution(string& moves)
@@ -49,6 +45,6 @@ int main()
     }
 }
 ```
+
 - T: $O(n)$
 - S: $O(1)$
-

@@ -1,7 +1,3 @@
----
-title: gameWinner
----
-
 # gameWinner
 
 Wendy 和 Bob 輪流拿掉 `w` 和 `b`，只能拿掉被同樣字母包圍的，回傳誰贏。
@@ -13,8 +9,6 @@ Wendy 和 Bob 輪流拿掉 `w` 和 `b`，只能拿掉被同樣字母包圍的，
 3. Wendy 拿掉 `index = 6` 的 `w`，這時候 `colors = "wwbbbww"`
 4. Bob 拿掉 `index = 3` 的 `b`，這時候 `colors = "wwbbww"`
 5. Wendy 沒辦法拿了，所以 Bob 贏
-
-
 
 ```cpp
 #include <bits/stdc++.h>
@@ -72,6 +66,6 @@ int main()
 }
 
 ```
+
 - T: $O()$
 - S: $O()$
-

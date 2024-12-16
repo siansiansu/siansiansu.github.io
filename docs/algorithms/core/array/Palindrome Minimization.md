@@ -1,7 +1,3 @@
----
-title: Palindrome Minimization
----
-
 # Palindrome Minimization
 
 You are given a string S consisting of N letters. In a single move, you can remove a letter from either the left or the right end of S.
@@ -32,7 +28,6 @@ Write an efficient algorithm for the following assumptions:
 
 - string S is made only of lowercase letters (a-z);
 - N is an integer within the range [1...100,000].
-
 
 ```cpp
 #include<vector>
@@ -82,6 +77,6 @@ int main()
     }
 }
 ```
+
 - T: $O()$
 - S: $O()$
-
