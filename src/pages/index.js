@@ -66,7 +66,7 @@ export function HomepageHeader() {
 
       <div className={styles.bio}>
         <p>
-        佇台灣嘉義出世；愛煮食、看鳥仔 kah 寫程式；台灣是一个美麗 ê 國家。
+        佇台灣嘉義出世；海洋生態科系畢業；愛煮食、看鳥仔；講台語；台灣是一个美麗 ê 國家。
         </p>
       </div>
 
