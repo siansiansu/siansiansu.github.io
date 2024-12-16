@@ -2,9 +2,7 @@
 
 ## [褐頭花翼 タイワンチメドリ Taiwan Fulvetta](https://ebird.org/species/taiful1)
 
-<img src="<https://inaturalist-open-data.s3.amazonaws.com/photos/89046451/medium.jpg>" alt="image" style={{marginBottom: '0rem'}} />
-
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/large.jpeg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Allen Lyu, some rights reserved (CC-BY-NC)
@@ -20,7 +18,7 @@
 
 ## [黃羽鸚嘴 キンイロダルマエナガ Golden Parrotbill](https://ebird.org/species/golpar2)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2683250/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2683250/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Ron Knight, some rights reserved (CC BY)
@@ -35,7 +33,7 @@
 
 ## [粉紅鸚嘴 ダルマエナガ Vinous-throated Parrotbill](https://ebird.org/species/vitpar1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2619096/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2619096/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
