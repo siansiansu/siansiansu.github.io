@@ -2,9 +2,15 @@
 
 ## [攀雀 ツリスガラ Chinese Penduline-Tit](https://ebird.org/species/chptit1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/2744070/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2744070/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [華] 攀雀 phan-tshiok
 - 🎯 [日] 吊巣雀 tiàu-tsâu-tshiok
+
+:::
