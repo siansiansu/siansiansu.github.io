@@ -11,8 +11,8 @@ Assume that:
 
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 bool solution(string& moves)
 {
     int up = 0, down = 0;
@@ -49,6 +49,6 @@ int main()
     }
 }
 ```
-- 時間複雜度：$O(n)$
-- 空間複雜度：$O(1)$
+- T: $O(n)$
+- S: $O(1)$
 :::

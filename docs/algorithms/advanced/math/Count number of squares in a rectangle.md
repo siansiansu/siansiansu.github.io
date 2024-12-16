@@ -2,7 +2,7 @@
 
 Given a m x n rectangle, how many squares are there in it?
 
-```cpp=
+```cpp
 class Solution {
 public:
     int countSquares(int m, int n) {
@@ -16,6 +16,6 @@ public:
 ```
 
 :::info
-- 時間複雜度：$O(N)$
-- 空間複雜度：$O(1)$
+- T: $O(N)$
+- S: $O(1)$
 :::

@@ -6,8 +6,8 @@ title: MissingInteger
 
 - 找第一個出現的正整數
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -42,6 +42,6 @@ int solution(vector<int> &A) {
     return -1;
 }
 ```
-- 時間複雜度：$O(n)$
-- 空間複雜度：$O(n)$
+- T: $O(n)$
+- S: $O(n)$
 :::

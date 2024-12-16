@@ -1,7 +1,7 @@
 # [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -21,6 +21,6 @@ vector<int> solution(vector<int> &A, int K)
 }
 
 ```
-- 時間複雜度：$O(n)$
-- 空間複雜度：$O(1)$
+- T: $O(n)$
+- S: $O(1)$
 :::

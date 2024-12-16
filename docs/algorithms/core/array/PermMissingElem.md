@@ -4,8 +4,8 @@ title: PermMissingElem
 
 # [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -25,6 +25,6 @@ int solution(vector<int> &A)
     return A.back() + 1;
 }
 ```
-- 時間複雜度：$O()$
-- 空間複雜度：$O()$
+- T: $O()$
+- S: $O()$
 :::

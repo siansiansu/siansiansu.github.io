@@ -8,7 +8,7 @@ There are N houses along the street. Carbon filters are already installed in som
 
 Write a function
 
-```cpp=
+```cpp
 string solution(string& S)
 ```
 
@@ -24,8 +24,8 @@ Write an efficient algorithm for the following assumptions:
 2. N is an integer within the range [1...500,000);
 3. it is always possible to create a plan so that there are no three identical consecutive filters.
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
@@ -124,6 +124,6 @@ int main()
     }
 }
 ```
-- 時間複雜度：$O()$
-- 空間複雜度：$O()$
+- T: $O()$
+- S: $O()$
 :::

@@ -33,8 +33,8 @@ swap 10 with 3 and swap 19 with 5.
 ```
 
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <iostream>
 #include <string>
 #include <vector>
@@ -131,6 +131,6 @@ int main()
     printf("Ascending: %d, Descending: %d\n", r1, r2);
 }
 ```
-- 時間複雜度：$O(n \cdot \log n)$
-- 空間複雜度：$O(n)$
+- T: $O(n \cdot \log n)$
+- S: $O(n)$
 :::

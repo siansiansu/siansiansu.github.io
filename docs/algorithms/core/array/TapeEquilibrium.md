@@ -6,8 +6,8 @@ title: TapeEquilibrium
 - 初始化 `head = A[0]` 和 `tail = accumulate(A.begin() + 1, A.end(), 0)`
 - 再用一個迴圈加一個元素、減一個元素，比 `minDiff` 的大小
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -29,6 +29,6 @@ int solution(vector<int> &A)
     return minDiff;
 }
 ```
-- 時間複雜度：$O(n)$
-- 空間複雜度：$O(1)$
+- T: $O(n)$
+- S: $O(1)$
 :::

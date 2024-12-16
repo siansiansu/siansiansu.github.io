@@ -4,8 +4,8 @@ title: MaxCounters
 
 # [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -38,6 +38,6 @@ vector<int> solution(int N, vector<int> &A)
 }
 
 ```
-- 時間複雜度：$O()$
-- 空間複雜度：$O()$
+- T: $O()$
+- S: $O()$
 :::

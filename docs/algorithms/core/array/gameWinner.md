@@ -15,8 +15,8 @@ Wendy 和 Bob 輪流拿掉 `w` 和 `b`，只能拿掉被同樣字母包圍的，
 5. Wendy 沒辦法拿了，所以 Bob 贏
 
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -72,6 +72,6 @@ int main()
 }
 
 ```
-- 時間複雜度：$O()$
-- 空間複雜度：$O()$
+- T: $O()$
+- S: $O()$
 :::

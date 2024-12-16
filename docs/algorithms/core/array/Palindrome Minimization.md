@@ -15,7 +15,7 @@ Your task is to find the minimum number of moves required so that the resulting 
 
 Write a function:
 
-```cpp=
+```cpp
 int solution(string &S);
 ```
 
@@ -33,8 +33,8 @@ Write an efficient algorithm for the following assumptions:
 - string S is made only of lowercase letters (a-z);
 - N is an integer within the range [1...100,000].
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include<vector>
 #include<string>
 
@@ -82,6 +82,6 @@ int main()
     }
 }
 ```
-- 時間複雜度：$O()$
-- 空間複雜度：$O()$
+- T: $O()$
+- S: $O()$
 :::

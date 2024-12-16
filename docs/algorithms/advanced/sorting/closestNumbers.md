@@ -9,8 +9,8 @@
 4 6
 ```
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -28,20 +28,20 @@ string rtrim(const string &);
 void closestNumbers(vector<int> numbers)
 {
     int n = numbers.size();
-    
+
     if (n <= 1) return;
-    
+
     sort(numbers.begin(), numbers.end());
-    
+
     int minDiff = numbers[1] - numbers[0];
-    
+
     for (int i = 2; i < n; ++i)
     {
         minDiff = min(minDiff, numbers[i] - numbers[i - 1]);
     }
 
     unordered_map<int, int> m;
-    
+
     for (int i = 1; i < n; ++i)
     {
         if (numbers[i] - numbers[i - 1] == minDiff)
@@ -96,6 +96,6 @@ string rtrim(const string &str) {
 }
 
 ```
-- 時間複雜度：$O()$
-- 空間複雜度：$O()$
+- T: $O()$
+- S: $O()$
 :::

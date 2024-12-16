@@ -1,7 +1,7 @@
 # FrogJmp
 
-:::spoiler Solution
-```cpp=
+:::note
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -11,6 +11,6 @@ int solution(int X, int Y, int D)
     return ceil((Y - X) * 1.0 / D);
 }
 ```
-- 時間複雜度：$O(1)$
-- 空間複雜度：$O(1)$
+- T: $O(1)$
+- S: $O(1)$
 :::
