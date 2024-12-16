@@ -1,6 +1,5 @@
 # [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
 
-:::note
 ```cpp
 #include <bits/stdc++.h>
 
@@ -21,6 +20,6 @@ vector<int> solution(vector<int> &A, int K)
 }
 
 ```
+
 - T: $O(n)$
 - S: $O(1)$
-:::

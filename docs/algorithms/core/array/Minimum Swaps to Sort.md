@@ -33,7 +33,7 @@ swap 10 with 3 and swap 19 with 5.
 ```
 
 
-:::note
+
 ```cpp
 #include <iostream>
 #include <string>
@@ -133,4 +133,4 @@ int main()
 ```
 - T: $O(n \cdot \log n)$
 - S: $O(n)$
-:::
+

@@ -1,15 +1,14 @@
 # closestNumbers
 
-
 給予一個陣列 `numbers`，輸出出兩者之差最小的組合。
 
 例如 `numbers = [6, 2, 4, 10]`，輸出：
+
 ```
 2 4
 4 6
 ```
 
-:::note
 ```cpp
 #include <bits/stdc++.h>
 
@@ -96,6 +95,6 @@ string rtrim(const string &str) {
 }
 
 ```
+
 - T: $O()$
 - S: $O()$
-:::

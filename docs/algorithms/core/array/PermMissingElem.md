@@ -4,7 +4,7 @@ title: PermMissingElem
 
 # [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
 
-:::note
+
 ```cpp
 #include <bits/stdc++.h>
 
@@ -27,4 +27,4 @@ int solution(vector<int> &A)
 ```
 - T: $O()$
 - S: $O()$
-:::
+

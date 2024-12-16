@@ -4,7 +4,7 @@ title: OddOccurrencesInArray
 
 # [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
 
-:::note
+
 ```cpp
 #include <bits/stdc++.h>
 
@@ -25,4 +25,4 @@ int solution(vector<int> &A)
 ```
 - T: $O(n)$
 - S: $O(n)$
-:::
+

@@ -24,7 +24,7 @@ Write an efficient algorithm for the following assumptions:
 2. N is an integer within the range [1...500,000);
 3. it is always possible to create a plan so that there are no three identical consecutive filters.
 
-:::note
+
 ```cpp
 #include <iostream>
 #include <vector>
@@ -126,4 +126,4 @@ int main()
 ```
 - T: $O()$
 - S: $O()$
-:::
+

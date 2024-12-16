@@ -1,7 +1,5 @@
 # [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 
-:::note
-
 ```cpp
 #include <bits/stdc++.h>
 
@@ -46,5 +44,3 @@ int solution(int N)
 
 - T: $O()$
 - S: $O()$
-
-:::

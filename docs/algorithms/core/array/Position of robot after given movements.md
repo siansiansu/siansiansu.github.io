@@ -11,7 +11,7 @@ Assume that:
 
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
 
-:::note
+
 ```cpp
 bool solution(string& moves)
 {
@@ -51,4 +51,4 @@ int main()
 ```
 - T: $O(n)$
 - S: $O(1)$
-:::
+

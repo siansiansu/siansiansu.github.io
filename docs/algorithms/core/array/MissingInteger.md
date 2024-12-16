@@ -6,7 +6,7 @@ title: MissingInteger
 
 - 找第一個出現的正整數
 
-:::note
+
 ```cpp
 #include <bits/stdc++.h>
 
@@ -44,4 +44,4 @@ int solution(vector<int> &A) {
 ```
 - T: $O(n)$
 - S: $O(n)$
-:::
+
