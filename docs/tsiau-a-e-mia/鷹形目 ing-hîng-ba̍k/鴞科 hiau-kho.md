@@ -2,8 +2,14 @@
 
 ## [魚鷹 ミサゴ Osprey](https://ebird.org/species/osprey)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/medium.jpg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台] 魚鷹 hî-ing
+
+:::
