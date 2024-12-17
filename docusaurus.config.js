@@ -100,7 +100,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/tsiau-a-e-mia',
+            to: '/docs/birdtaigi',
             type: 'docSidebar',
             sidebarId: 'tsiauaSidebar',
             label: '鳥仔 ê 名',
@@ -124,7 +124,14 @@ const config = {
             to: '/docs/ebird',
             type: 'docSidebar',
             sidebarId: 'ebirdSidebar',
-            label: 'eBird 家私',
+            label: 'eBird',
+            position: 'left'
+          },
+          {
+            to: '/docs/engineering',
+            type: 'docSidebar',
+            sidebarId: 'engineeringSidebar',
+            label: '軟工',
             position: 'left'
           },
           {
