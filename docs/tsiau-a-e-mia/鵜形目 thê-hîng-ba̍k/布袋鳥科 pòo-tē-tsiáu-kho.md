@@ -2,9 +2,13 @@
 
 ## [卷羽鵜鶘 ハイイロペリカン Dalmatian Pelican](https://ebird.org/species/dalpel1)
 
-![image](https://inaturalist-open-data.s3.amazonaws.com/photos/51559911/medium.jpeg)
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/51559911/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
+<p className="image-caption">
 (c) Satyen Mehta, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
 
 - 🎯 [台] 虯毛布袋鳥 khiû-moo-tē-tsiáu
 - 🎯 [台] 虯毛布袋鵝 khiû-moo-tē-gô
@@ -15,3 +19,5 @@
 - ✳️ [台] 布袋鵝 pòo-tē-gô
 - ✳️ [日] 伽藍鳥 khiā-lâm-iâ
 - ✳️ [華] 鵜鶘 thê-ôo
+
+:::
