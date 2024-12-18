@@ -1,6 +1,6 @@
 # Math
 
-- 🟩 [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) [[Solution](./frogjmp.md)]
+- 🟩 [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) [[Solution](./FrogJmp.md)]
 - 🟨 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[Solution](./7.reverse-integer.md)]
 - 🟩 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) [[Solution](./9.palindrome-number.md)]
 - 🟨 [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) [[Solution](./12.integer-to-roman.md)]

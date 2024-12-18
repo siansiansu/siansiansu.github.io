@@ -69,71 +69,17 @@
 
 :::
 
-## [棉鴨 ナンキンオシ Cotton Pygmy-Goose](https://ebird.org/species/copgoo1)
+## [白額雁 マガン Greater White-fronted Goose](https://ebird.org/species/gwfgoo)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/176759486/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/351532015/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) Thet Zaw Naing, some rights reserved (CC BY-NC)
+(c) diomedea_exulans_li, some rights reserved (CC BY-NC)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [華] 棉鴨 mî-ah
-
-:::
-
-## [瀆鳧 アカツクシガモ Ruddy Shelduck](https://ebird.org/species/rudshe)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/364023242/original.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-© Tristan Jobin, some rights reserved (CC-BY)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [華] 瀆鳧 to̍k-hû
-- [中] 黃麻鴨 n̂g-muâ-ah
-- [中] 紅麻鴨 âng-muâ-ah
-- [華] 黃鳧 n̂g-hû
-- [華] 黃鴨 n̂g-ah
-
-:::
-
-## [花鳧 ツクシガモ Common Shelduck](https://ebird.org/species/comshe)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/60532154/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Aleksandr Popov / Александр Попов, some rights reserved (CC BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [台] 白花仔 pe̍h-hue-á
-- 🎯 [台] 白花鴨 pe̍h-hue-ah
-- 🎯 [華] 花鳧 hue-hû
-- [中] 翹鼻麻鴨 khiàu-pīnn-muâ-ah
-- [華] 潦鳧 ló-hû
-- [華] 白鴨 pe̍h-ah
-- [華] 穴鳧 hia̍t-hû
-- [華] 赤鳧 tshiah-hû
-
-📍筑紫鴨 tio̍k-tsí-ah 源自日語 ツクシガモ。
-:::
-
-## [小加拿大雁 シジュウカラガン Cackling Goose](https://ebird.org/species/cacgoo1)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/19681228/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) guyincognito, some rights reserved (CC BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [華] 小加拿大雁 sió-ka-ná-tāi-gān
+- 🎯 [華] 白額雁 pe̍h-hia̍h-gān
 - ✳️ [台] 海雁 hái-gān
 - ✳️ [台] 海鵝 hái-gô
 - ✳️ [台] 野鵝 iá-gô
@@ -152,24 +98,6 @@
 :::info[鳥仔名]
 
 - 🎯 [華] 小白額雁 sió-pe̍h-hia̍h-gān
-- ✳️ [台] 海雁 hái-gān
-- ✳️ [台] 海鵝 hái-gô
-- ✳️ [台] 野鵝 iá-gô
-- ✳️ [台] 雁仔 gān-á
-
-:::
-
-## [白額雁 マガン Greater White-fronted Goose](https://ebird.org/species/gwfgoo)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/351532015/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) diomedea_exulans_li, some rights reserved (CC BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [華] 白額雁 pe̍h-hia̍h-gān
 - ✳️ [台] 海雁 hái-gān
 - ✳️ [台] 海鵝 hái-gô
 - ✳️ [台] 野鵝 iá-gô
@@ -248,21 +176,6 @@
 
 :::
 
-## [黃嘴天鵝 オオハクチョウ Whooper Swan](https://ebird.org/species/whoswa)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/28862231/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Илья Сухов, some rights reserved (CC BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [華] 黃喙天鵝 n̂g-tshuì-thian-gô
-- ✳️ [華][台] 天鵝 thian-gô
-
-:::
-
 ## [小天鵝 コハクチョウ Tundra Swan](https://ebird.org/species/tunswa)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/167762361/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -278,21 +191,144 @@
 
 :::
 
-## [長尾鴨 コオリガモ Long-tailed Duck](https://ebird.org/species/lotduc)
+## [黃嘴天鵝 オオハクチョウ Whooper Swan](https://ebird.org/species/whoswa)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/230873602/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/28862231/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) clicque, some rights reserved (CC BY-NC)
+(c) Илья Сухов, some rights reserved (CC BY-NC)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [英] 長尾鴨 tn̂g-bé-ah
+- 🎯 [華] 黃喙天鵝 n̂g-tshuì-thian-gô
+- ✳️ [華][台] 天鵝 thian-gô
+
+:::
+
+## [瀆鳧 アカツクシガモ Ruddy Shelduck](https://ebird.org/species/rudshe)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/364023242/original.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Tristan Jobin, some rights reserved (CC-BY)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [華] 瀆鳧 to̍k-hû
+- [中] 黃麻鴨 n̂g-muâ-ah
+- [中] 紅麻鴨 âng-muâ-ah
+- [華] 黃鳧 n̂g-hû
+- [華] 黃鴨 n̂g-ah
+
+:::
+
+## [花鳧 ツクシガモ Common Shelduck](https://ebird.org/species/comshe)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/60532154/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Aleksandr Popov / Александр Попов, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [台] 白花仔 pe̍h-hue-á
+- 🎯 [台] 白花鴨 pe̍h-hue-ah
+- 🎯 [華] 花鳧 hue-hû
+- [中] 翹鼻麻鴨 khiàu-pīnn-muâ-ah
+- [華] 潦鳧 ló-hû
+- [華] 白鴨 pe̍h-ah
+- [華] 穴鳧 hia̍t-hû
+- [華] 赤鳧 tshiah-hû
+
+📍筑紫鴨 tio̍k-tsí-ah 源自日語 ツクシガモ。
+:::
+
+## [棉鴨 ナンキンオシ Cotton Pygmy-Goose](https://ebird.org/species/copgoo1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/176759486/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Thet Zaw Naing, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [華] 棉鴨 mî-ah
+
+:::
+
+## [鴛鴦 オシドリ Mandarin Duck](https://ebird.org/species/manduc)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/170995096/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Blake Ross, some rights reserved (CC BY)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [台] 鴛鴦 uan-iunn
+
+:::
+
+## [巴鴨 トモエガモ Baikal Teal](https://ebird.org/species/baitea)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/359973887/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Yushi Wang, some rights reserved (CC-BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [日] 巴鴨 pa-ah
+- [中] 花臉鴨 hue-bîn-ah
+- [台] 花面仔 hue-bîn-á
+- ✳️ [台] 鴨仔 ah-á
+- ✳️ [台] 水鴨仔 tsuí-ah-á
+
+📍 巴鴨 bī-ah 源自日語 トモエガモ。
+:::
+
+## [白眉鴨 シマアジ Garganey](https://ebird.org/species/gargan)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/188324274/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Ксения Соварцева, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [台][華] 白眉鴨 pe̍h-bâi-ah
+- [華] 巡鳧 sûn-hû
 - ✳️ [台] 鴨仔 ah-á
 - ✳️ [台] 水鴨仔 tsuí-ah-á
 
 :::
+
+## [琵嘴鴨 ハシビロガモ Northern Shoveler](https://ebird.org/species/norsho)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/110767204/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) adri13114, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [台] 大喙爬仔 tuā-tshuì-pê-á
+- 🎯 [台] 湯匙仔鴨 thng-sî-á-ah
+- 🎯 [台] 闊喙仔鴨 khuah-tshuì-á-ah
+- [華] 琵嘴鴨 pî-tshuì-ah
+- ✳️ [台] 鴨仔 ah-á
+- ✳️ [台] 水鴨仔 tsuí-ah-á
+
+:::
+
 
 ## [赤膀鴨 オカヨシガモ Gadwall](https://ebird.org/species/gadwal)
 
@@ -361,20 +397,18 @@
 
 :::
 
-## [綠頭鴨 マガモ Mallard](https://ebird.org/species/mallar3)
+## [呂宋鴨 アカノドカルガモ Philippine Duck](https://ebird.org/species/phiduc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/13152948/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/85820967/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) Mike Leveille, some rights reserved (CC BY-NC)
+(c) Mike Prince, some rights reserved (CC BY)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [台] 金頭鴨 kim-thâu-ah
-- 🎯 [華] 綠頭鴨 li̍k-thâu-ah
-- [中] 大麻鴨 tuā-muâ-ah
-- ✳️ [台] 紅腿仔 âng-thuí-á
+- 🎯 [華] 呂宋鴨 lū-sòng-ah
+- 🎯 [英] 菲律賓鴨 hui-lu̍t-pin-ah
 - ✳️ [台] 鴨仔 ah-á
 - ✳️ [台] 水鴨仔 tsuí-ah-á
 
@@ -398,37 +432,20 @@
 
 :::
 
-## [呂宋鴨 アカノドカルガモ Philippine Duck](https://ebird.org/species/phiduc1)
+## [綠頭鴨 マガモ Mallard](https://ebird.org/species/mallar3)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/85820967/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/13152948/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) Mike Prince, some rights reserved (CC BY)
+(c) Mike Leveille, some rights reserved (CC BY-NC)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [華] 呂宋鴨 lū-sòng-ah
-- 🎯 [英] 菲律賓鴨 hui-lu̍t-pin-ah
-- ✳️ [台] 鴨仔 ah-á
-- ✳️ [台] 水鴨仔 tsuí-ah-á
-
-:::
-
-## [琵嘴鴨 ハシビロガモ Northern Shoveler](https://ebird.org/species/norsho)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/110767204/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) adri13114, some rights reserved (CC BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [台] 大喙爬仔 tuā-tshuì-pê-á
-- 🎯 [台] 湯匙仔鴨 thng-sî-á-ah
-- 🎯 [台] 闊喙仔鴨 khuah-tshuì-á-ah
-- [華] 琵嘴鴨 pî-tshuì-ah
+- 🎯 [台] 金頭鴨 kim-thâu-ah
+- 🎯 [華] 綠頭鴨 li̍k-thâu-ah
+- [中] 大麻鴨 tuā-muâ-ah
+- ✳️ [台] 紅腿仔 âng-thuí-á
 - ✳️ [台] 鴨仔 ah-á
 - ✳️ [台] 水鴨仔 tsuí-ah-á
 
@@ -450,56 +467,6 @@
 
 :::
 
-## [鴛鴦 オシドリ Mandarin Duck](https://ebird.org/species/manduc)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/170995096/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Blake Ross, some rights reserved (CC BY)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [台] 鴛鴦 uan-iunn
-
-:::
-
-## [白眉鴨 シマアジ Garganey](https://ebird.org/species/gargan)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/188324274/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Ксения Соварцева, some rights reserved (CC BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [台][華] 白眉鴨 pe̍h-bâi-ah
-- [華] 巡鳧 sûn-hû
-- ✳️ [台] 鴨仔 ah-á
-- ✳️ [台] 水鴨仔 tsuí-ah-á
-
-:::
-
-## [巴鴨 トモエガモ Baikal Teal](https://ebird.org/species/baitea)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/359973887/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-© Yushi Wang, some rights reserved (CC-BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 [日] 巴鴨 pa-ah
-- [中] 花臉鴨 hue-bîn-ah
-- [台] 花面仔 hue-bîn-á
-- ✳️ [台] 鴨仔 ah-á
-- ✳️ [台] 水鴨仔 tsuí-ah-á
-
-📍 巴鴨 bī-ah 源自日語 トモエガモ。
-:::
-
 ## [小水鴨 コガモ Green-winged Teal](https://ebird.org/species/gnwtea)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366733697/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -519,33 +486,34 @@
 
 :::
 
-## [青頭潛鴨 アカハジロ Baer's Pochard](https://ebird.org/species/baepoc1)
+## [赤嘴潛鴨 アカハシハジロ Red-crested Pochard](https://ebird.org/species/recpoc)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366282059/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/11480878/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-© fangchen, some rights reserved (CC-BY-NC)
+(c) Antonio Xeira, some rights reserved (CC BY-NC)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [華] 青頭潛鴨 tshenn-thâu-tsiâm-ah
+- 🎯 [華] 赤嘴潛鴨 tshiah-tshuì-tsiâm-ah
+- 🎯 [華] 紅喙潛鴨 âng-tshuì-tsiâm-ah
 - ✳️ [台] 鴨仔 ah-á
 - ✳️ [台] 水鴨仔 tsuí-ah-á
 
 :::
 
-## [白眼潛鴨 メジロガモ Ferruginous Duck](https://ebird.org/species/ferduc)
+## [帆背潛鴨 オオホシハジロ Canvasback](https://ebird.org/species/canvas)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1954492/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366164489/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) Paul Cools, some rights reserved (CC BY-NC)
+© oneguy72, some rights reserved (CC-BY-NC)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [華] 白眼潛鴨 pi̍k-gán-tsiâm-ah
+- 🎯 [華] 帆背潛鴨 phâng-puè-tsiâm-ah
 - ✳️ [台] 鴨仔 ah-á
 - ✳️ [台] 水鴨仔 tsuí-ah-á
 
@@ -567,17 +535,35 @@
 
 :::
 
-## [帆背潛鴨 オオホシハジロ Canvasback](https://ebird.org/species/canvas)
+## 環頸潛鴨
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366164489/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## [白眼潛鴨 メジロガモ Ferruginous Duck](https://ebird.org/species/ferduc)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1954492/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-© oneguy72, some rights reserved (CC-BY-NC)
+(c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [華] 帆背潛鴨 phâng-puè-tsiâm-ah
+- 🎯 [華] 白眼潛鴨 pi̍k-gán-tsiâm-ah
+- ✳️ [台] 鴨仔 ah-á
+- ✳️ [台] 水鴨仔 tsuí-ah-á
+
+:::
+
+## [青頭潛鴨 アカハジロ Baer's Pochard](https://ebird.org/species/baepoc1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366282059/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© fangchen, some rights reserved (CC-BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [華] 青頭潛鴨 tshenn-thâu-tsiâm-ah
 - ✳️ [台] 鴨仔 ah-á
 - ✳️ [台] 水鴨仔 tsuí-ah-á
 
@@ -620,18 +606,19 @@
 📍 鈴鴨 lîng-ah 源自日語 スズガモ。
 :::
 
-## [赤嘴潛鴨 アカハシハジロ Red-crested Pochard](https://ebird.org/species/recpoc)
+## 小斑背潛鴨
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/11480878/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+## [長尾鴨 コオリガモ Long-tailed Duck](https://ebird.org/species/lotduc)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/230873602/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) Antonio Xeira, some rights reserved (CC BY-NC)
+(c) clicque, some rights reserved (CC BY-NC)
 </p>
 
 :::info[鳥仔名]
 
-- 🎯 [華] 赤嘴潛鴨 tshiah-tshuì-tsiâm-ah
-- 🎯 [華] 紅喙潛鴨 âng-tshuì-tsiâm-ah
+- 🎯 [英] 長尾鴨 tn̂g-bé-ah
 - ✳️ [台] 鴨仔 ah-á
 - ✳️ [台] 水鴨仔 tsuí-ah-á
 
@@ -708,5 +695,23 @@
 
 - 🎯 [華] 唐秋沙 tông-tshiu-sua
 - ✳️ [日] 秋沙 tshiu-sua
+
+:::
+
+## [小加拿大雁 シジュウカラガン Cackling Goose](https://ebird.org/species/cacgoo1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/19681228/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) guyincognito, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [華] 小加拿大雁 sió-ka-ná-tāi-gān
+- ✳️ [台] 海雁 hái-gān
+- ✳️ [台] 海鵝 hái-gô
+- ✳️ [台] 野鵝 iá-gô
+- ✳️ [台] 雁仔 gān-á
 
 :::

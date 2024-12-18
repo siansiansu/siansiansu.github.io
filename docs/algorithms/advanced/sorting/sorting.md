@@ -9,4 +9,4 @@
 - 🟨 [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) [[Solution](./945.minimum-increment-to-make-array-unique.md)]
 - 🟩 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - 🟨 [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) [[Solution](./2191.sort-the-jumbled-numbers.md)]
-- 🟨 closestNumbers [[Solution](./closestnumbers.md)]
+- 🟨 closestNumbers [[Solution](./closestNumbers.md)]

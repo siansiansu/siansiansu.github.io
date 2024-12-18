@@ -1,11 +1,11 @@
 # Array
 
 - 🟨 [Minimum Swaps to Sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1) [[Solution](./minimum-swaps-to-sort.md)]
-- 🟩 [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) [[Solution](./tapeequilibrium.md)]
-- 🟩 [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) [[Solution](./permmissingelem.md)]
-- 🟨 [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) [[Solution](./maxcounters.md)]
-- 🟩 [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) [[Solution](./frogriverone.md)]
-- 🟨 [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) [[Solution](./missinginteger.md)]
+- 🟩 [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) [[Solution](./TapeEquilibrium.md)]
+- 🟩 [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) [[Solution](./PermMissingElem.md)]
+- 🟨 [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) [[Solution](./MaxCounters.md)]
+- 🟩 [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) [[Solution](./FrogRiverOne.md)]
+- 🟨 [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) [[Solution](./MissingInteger.md)]
 - 🟥 [135\. Candy](https://leetcode.com/problems/candy/) [[Solution](./135.candy.md)]
 - 🟩 [268\. Missing Number](https://leetcode.com/problems/missing-number/) [[Solution](./268.missing-number.md)]
 - 🟩 [1051\. Height Checker](https://leetcode.com/problems/height-checker/)
@@ -22,4 +22,4 @@
 - 🟩 Position of robot after given movements [[Solution](./position-of-robot-after-given-movements.md)]
 - 🟨 Filter Installation Strategy [[Solution](./filter-installation-strategy.md)]
 - 🟨 Palindrome Minimization [[Solution](./palindrome-minimization.md)]
-- 🟨 gameWinner [[Solution](./gamewinner.md)]
+- 🟨 gameWinner [[Solution](./gameWinner.md)]

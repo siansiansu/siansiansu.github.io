@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-- 🟩 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) [[Solution](./binarygap.md)]
+- 🟩 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) [[Solution](./BinaryGap.md)]
 - 🟩 [67\. Add Binary](https://leetcode.com/problems/add-binary/)
 - 🟩 [136\. Single Number](https://leetcode.com/problems/single-number/) [[Solution](./136.single-number.md)]
 - 🟨 [137\. Single Number II](https://leetcode.com/problems/single-number-ii/)
