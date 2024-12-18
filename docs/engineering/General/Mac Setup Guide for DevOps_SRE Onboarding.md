@@ -1,3 +1,7 @@
+---
+title: Mac Setup Guide
+---
+
 # Mac Setup Guide for DevOps/SRE Onboarding
 
 :::success

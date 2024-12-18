@@ -1,3 +1,7 @@
+---
+title: go-ebird
+---
+
 # go-ebird: A Go client for easy access to eBird data
 
 [![GoDoc](https://godoc.org/github.com/siansiansu/go-ebird?status.svg)](http://godoc.org/github.com/siansiansu/go-ebird) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Go Report Card](https://goreportcard.com/badge/github.com/siansiansu/go-ebird)](https://goreportcard.com/report/github.com/siansiansu/go-ebird)

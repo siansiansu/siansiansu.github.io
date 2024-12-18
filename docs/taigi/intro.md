@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 學台語 Oh Tâi-gí - 台語學習資源整理
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/oh-tai-gi)
