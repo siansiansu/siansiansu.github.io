@@ -12,8 +12,9 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 :::info[是按怎欲創作《鳥仔 ê 名 - 認捌鳥仔 ê 台語》？]
 
-- 誠濟鳥仔 ê 台語名，猶原停留佇日本時代，無綴著上新 ê 鳥仔分類。仝款一个台語俗名，以前可能干焦知影一種物種，但是因為研究 ê 進步，這馬知影毋但一个物種，所以無法度用台語使用 kah 討論。
-- 目前市面 ê 鳥仔圖鑑主要攏是使用華語，《鳥仔 ê 名 - 認捌鳥仔 ê 台語》內底包含誠濟台語新詞的創作，目的是鼓勵咱去揣看覓敢有較適合鳥仔物種的台語名，以期待未來會當有一本台語為主的鳥仔圖鑑。
+- 誠濟鳥仔 ê 台語名，猶原停留佇日本時代，無綴著上新 ê 鳥仔分類。仝款一个台語俗名，以前可能干焦知影一種物種，但是因為研究 ê 進步，這馬知影毋但一个物種，煞無法度用台語使用 kah 討論。
+- 若是以前無佇台灣生活 ê 鳥仔，可能也無台語名。
+- 因為市面上 ê 鳥仔圖鑑主要攏是使用華語，目前是揣無用台語寫成 ê 鳥仔圖鑑。《鳥仔 ê 名 - 認捌鳥仔 ê 台語》內底包含誠濟台語新詞的創作，目的是鼓勵咱去揣看覓敢有較適合鳥仔物種的台語名，以期待未來會當有一本台語為主 ê 鳥仔圖鑑。
 
 你若有發現寫毋著 ê 所在抑是建議 ê 名，請佇下跤留話抑是寫電子批共我講，我會趁有閒的時陣來改，請手梳攑懸，多謝！
 
@@ -59,12 +60,12 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 - 若是有台灣本土 ê 台語俗稱，代先使用。
 - 若是台灣本土 ê 台語俗稱是統稱，但是毋但一个物種，參考英語、日語、華語 ê 用法，頭前加上形容詞。
 
-:::info[下跤 ê 物種攏是講青笛仔]
+:::info[範例一：下跤 ê 物種攏是講青笛仔]
 
-   1. 斯氏繡眼 Swinhoe's White-eye (學名：***Zosterops simplex***)
-   2. 日菲繡眼 Warbling White-eye (學名：***Zosterops japonicus***)
-   3. 低地繡眼 Lowland White-eye (學名：***Zosterops meyeni***)
-   4. 紅脇繡眼 Chestnut-flanked White-eye (學名：***Zosterops erythropleurus***)
+   1. 斯氏繡眼 Swinhoe's White-eye (學名：*Zosterops simplex*)
+   2. 日菲繡眼 Warbling White-eye (學名：*Zosterops japonicus*)
+   3. 低地繡眼 Lowland White-eye (學名：*Zosterops meyeni*)
+   4. 紅脇繡眼 Chestnut-flanked White-eye (學名：*Zosterops erythropleurus*)
 
 :::
 
@@ -79,12 +80,20 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 :::
 
-- 若無台灣本土 ê 台語俗名，參考華語俗名、英語俗名、日語俗名、鳥仔 ê 形體外觀、色水命名。譬如：
+- 若揣無台灣本土 ê 台語俗名，參考華語俗名、英語俗名、日語俗名、鳥仔 ê 形體外觀、色水命名。譬如：
+
+:::info[範例二：以下物種無台語俗名]
+
+- 鐵嘴鴴 Greater Sand-Plover (學名：*Anarhynchus leschenaultii*)
+- 赤腹鶇 Brown-headed Thrush (學名：*Turdus chrysolaus*)
+- 堪察加柳鶯 Kamchatka Leaf Warbler (學名：*Phylloscopus examinandus*)
+
+:::
 
 :::info[建議台語名]
 
-- 鐵嘴鴴 Greater Sand-Plover ➡️ 厚喙鴴 kāu-tshuì-hîng
-- 赤腹鶇 Brown-headed Thrush ➡️ 紅腹鶇 âng-pak-tong
-- 堪察加柳鶯 Kamchatka Leaf Warbler ➡️ 堪察加柳鶯 kham-tshâ-tsham-liú-ing
+- 鐵嘴鴴 ê 台語：厚喙鴴 kāu-tshuì-hîng
+- 赤腹鶇 ê 台語：紅腹鶇 âng-pak-tong
+- 堪察加柳鶯 ê 台語：堪察加柳鶯 kham-tshâ-tsham-liú-ing
 
 :::
