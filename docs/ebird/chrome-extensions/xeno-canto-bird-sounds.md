@@ -1,9 +1,3 @@
----
-title: Xeno-canto 鳥音快搜
-tags: [side-projects]
-
----
-
 # Xeno-canto 鳥音快搜
 
 :::info
