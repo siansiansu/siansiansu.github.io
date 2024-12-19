@@ -127,9 +127,9 @@
 
 :::info[鳥仔名]
 
-- [台] 橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah
+- 🎯 **[台] 橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
 
-📍 條紋長尾鳩取自鳥仔 ê 特徵
+📍 橫紋長尾鳩取自鳥仔 ê 特徵
 :::
 
 ## [長尾鳩 フィリピンオナガバト Philippine Cuckoo-Dove](https://ebird.org/species/phcdov1)
@@ -142,7 +142,7 @@
 
 :::info[鳥仔名]
 
-- 🎯 [華] 長尾鴿 tn̂g-bé-kah
+- 🎯 **[華] 長尾鴿 tn̂g-bé-kah**
 - 🎯 [英] 菲律賓長尾鴿 hui-lu̍t-pin-tn̂g-bé-kah
 
 :::
@@ -178,9 +178,33 @@
 📍 花條鴿取自花條馬 hue-tiâu-bé
 :::
 
-## 橙胸綠鳩
+## [橙胸綠鳩 ムネアカアオバト Orange-breasted Green-Pigeon](https://ebird.org/species/orbpig1)
 
-## 厚嘴綠鳩
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/129586289/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ, some rights reserved (CC-BY)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 **[台] 柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
+
+:::
+
+## [厚嘴綠鳩 ハシブトアオバト Thick-billed Green-Pigeon](https://ebird.org/species/thbpig1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/389415628/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Roman Sergeychik, some rights reserved (CC-BY)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 **[台] 厚喙青鵻 kāu-tshuì-tshenn-tsui**
+
+:::
 
 ## [綠鳩 アオバト White-bellied Green-Pigeon](https://ebird.org/species/whbpig1)
 
@@ -206,7 +230,7 @@
 
 :::info[鳥仔名]
 
-- 🎯 [台][華] 紅頭青鵻 âng-thâu-tshenn-tsui
+- 🎯 **[台] 紅頭青鵻 âng-thâu-tshenn-tsui**
 
 :::
 
@@ -220,6 +244,6 @@
 
 :::info[鳥仔名]
 
-- 🎯 [台] 小青鵻 sió-tshenn-tsui
+- 🎯 **[台] 小青鵻 sió-tshenn-tsui**
 
 :::
