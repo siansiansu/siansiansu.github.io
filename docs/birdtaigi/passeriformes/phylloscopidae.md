@@ -30,7 +30,7 @@
 
 ## [淡腳柳鶯 アムールムシクイ Pale-legged Leaf Warbler](https://ebird.org/species/pllwar1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/353559770/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/353559770/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Phakawat Kittikhunodom, some rights reserved (CC-BY-NC)
@@ -58,7 +58,7 @@
 
 ## [庫頁島柳鶯 エゾムシクイ Sakhalin Leaf Warbler](https://ebird.org/species/salwar1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/234130515/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/234130515/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sam Hambly, some rights reserved (CC-BY-NC)
@@ -72,7 +72,7 @@
 
 ## [日本柳鶯 メボソムシクイ Japanese Leaf Warbler](https://ebird.org/species/arcwar3)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/338161531/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/338161531/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © James Eaton, some rights reserved (CC-BY-NC)

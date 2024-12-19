@@ -22,7 +22,7 @@ no rights reserved, uploaded by 葉子
 
 ## [麻鷺 ミゾゴイ Japanese Night Heron](https://ebird.org/species/janher1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/359441888/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/359441888/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © かわう, some rights reserved (CC-BY-NC)

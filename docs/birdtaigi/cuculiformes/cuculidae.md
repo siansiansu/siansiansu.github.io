@@ -16,6 +16,12 @@
 
 :::
 
+:::note[備註]
+
+- Greater -> 大 tuā + 草嘓 tsháu-kok
+
+:::
+
 ## [番鵑 バンケン Lesser Coucal](https://ebird.org/species/lescou1)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1991179/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -32,6 +38,13 @@
 
 :::
 
+:::note[備註]
+
+- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 2002⁺ 台華線頂辭典
+
+:::
+
 ## [冠郭公 カンムリカッコウ Chestnut-winged Cuckoo](https://ebird.org/species/chwcuc1)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/14585534/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -43,6 +56,14 @@
 :::info[鳥仔名]
 
 - 🎯 **[日] 冠郭公 kuan-kueh-kong**
+- 🎯 **[台] 聳毛杜鵑 tshàng-môo-tōo-kuan**
+
+:::
+
+:::note[備註]
+
+- 聳毛杜鵑 tshàng-môo-tōo-kuan -《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 冠郭公 kuan-kueh-kong - 2002⁺ 台華線頂辭典、1973 Embree台英辭典
 
 :::
 
@@ -59,7 +80,11 @@
 - 🎯 **[日] 烏白冠郭公 oo-pe̍h-kuan-kueh-kong**
 - [中] 斑翅鳳頭鵑 pan-tshì-hōng-thâu-kuan
 
-📍 烏白冠郭公借用日文漢字
+:::
+
+:::note[備註]
+
+- 烏白冠郭公 oo-pe̍h-kuan-kueh-kong 借用日文漢字
 
 :::
 
@@ -74,9 +99,15 @@
 :::info[鳥仔名]
 
 - 🎯 **[日] 鬼郭公 kuí-kueh-kong**
-- [華] 噪鵑 tshò-kuan
+- ✳️ [台] 姑鳥 koo-tsiáu
 
-📍 鬼郭公 kuí-kueh-kong 借用日文漢字
+:::
+
+:::note[備註]
+
+- 姑鳥 koo-tsiáu -《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 鬼郭公 kuí-kueh-kong - 2002⁺ 台華線頂辭典
+
 :::
 
 ## [八聲杜鵑 ヒメカッコウ Plaintive Cuckoo](https://ebird.org/species/placuc1)
@@ -99,11 +130,11 @@
 
 :::
 
-:::note[參考]
+:::note[備註]
 
-- 陳勁榛《臺灣民間故事選》
-- 台文華文線頂辭典
-- 教育部《臺灣台語常用詞辭典》
+- 吐血鳥 thòo-hueh-tsiáu - 陳勁榛《臺灣民間故事選》
+- 八聲 peh-siann
+- 2002⁺ 台華線頂辭典
 
 :::
 
@@ -122,6 +153,12 @@
 
 :::
 
+:::note[備註]
+
+- 烏鶖郭公 oo-tshiu-kueh-kong 取自日語
+
+:::
+
 ## [鷹鵑 オオジュウイチ medium Hawk-Cuckoo](https://ebird.org/species/larhac2)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/12816014/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -132,8 +169,15 @@
 
 :::info[鳥仔名]
 
-- 🎯 [台] 咕鳥 koo-tsiáu
-- 🎯 [華][英] 鷹鵑 ing-kuan
+- 🎯 [台] 鷹仔咕鳥 ing-á-koo-tsiáu
+- 🎯 [華] 鷹鵑 ing-kuan
+- ✳️ [台] 咕鳥 koo-tsiáu
+
+:::
+
+:::note[備註]
+
+- 咕鳥 koo-tsiáu 是統稱，用鷹仔 ing-á 來區分
 
 :::
 
@@ -147,8 +191,14 @@
 
 :::info[鳥仔名]
 
-- 🎯 [英][台] 北方咕鳥 pak-hng-koo-tsiáu
-- 🎯 [英][華] 北方鷹鵑 pak-hng-ing-kuan
+- 🎯 [台] 北方鷹仔咕鳥 pak-hng-ing-á-koo-tsiáu
+- 🎯 [華] 北方鷹鵑 pak-hng-ing-kuan
+
+:::
+
+:::note[備註]
+
+北方 pak-hng + 鷹仔 ing-á + 咕鳥 koo-tsiáu
 
 :::
 
@@ -162,8 +212,16 @@
 
 :::info[鳥仔名]
 
-- 🎯 [華][台] 棕腹咕鳥 tsang-pak-koo-tsiáu
-- 🎯 [華][英] 棕腹鷹鵑 tsang-pak-ing-kuan
+- 🎯 [台] 赤腹鷹仔咕鳥 tshiah-pak-ing-á-koo-tsiáu
+- 🎯 [英] 霍氏鷹仔咕鳥 Hok-sī-ing-á-koo-tsiáu
+- 🎯 [華] 赤腹鷹鵑 tshiah-pak-ing-kuan
+
+:::
+
+:::note[備註]
+
+- 棕腹 -> 赤腹 tshiah-pak
+- 若不歡喜華語，可用英文名 Hodgson's Hawk-Cuckoo -> 霍氏鷹仔咕鳥 Hok-sī-ing-á-koo-tsiáu
 
 :::
 
@@ -180,8 +238,16 @@
 - 🎯 [台] 小杜鵑 sió-tōo-kuan
 - 🎯 [台] 小郭公鳥 sió-kueh-kong-tsiáu
 - 🎯 [台] 小豆仔鳥 sió-tāu-á-tsiáu
+- 🎯 [台] 小吐血鳥 sió-thòo-hueh-tsiáu
 - ✳️ [台] 杜鵑 tōo-kuan
 - ✳️ [台] 豆仔鳥 tāu-á-tsiáu
+- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+
+:::
+
+:::note[備註]
+
+- 加上小 sió 以區分
 
 :::
 
@@ -195,10 +261,47 @@
 
 :::info[鳥仔名]
 
-- 🎯 [台][華] 四聲杜鵑 sì-siann-tōo-kuan
-- 🎯 [台][華] 四聲豆仔鳥 sì-siann-tāu-á-tsiáu
+- 🎯 [台] 四聲杜鵑 sì-siann-tōo-kuan
+- 🎯 [台] 四聲豆仔鳥 sì-siann-tāu-á-tsiáu
+- 🎯 [台] 四聲吐血鳥 sì-siann-thòo-hueh-tsiáu
 - ✳️ [台] 杜鵑 tōo-kuan
 - ✳️ [台] 豆仔鳥 tāu-á-tsiáu
+- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+
+:::
+
+:::note[備註]
+
+- 加上四聲 sì-siann 以區分其他杜鵑
+
+:::
+
+## [喜馬拉雅中杜鵑 ヒマラヤツツドリ Himalayan Cuckoo](https://ebird.org/species/himcuc1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/39488506/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Pauline Carmel Joy Eje, some rights reserved (CC-BY)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [台] 喜馬拉雅中杜鵑 hí-má-la-ngá-tiong-tōo-kuan
+- 🎯 [台] 喜馬拉雅筒鳥 hí-má-la-ngá-tâng-tsiáu
+- 🎯 [台] 喜馬拉雅中郭公鳥 hí-má-la-ngá-tiong-kueh-kong-tsiáu
+- 🎯 [台] 喜馬拉雅中豆仔鳥 hí-má-la-ngá-tiong-tāu-á-tsiáu
+- ✳️ [台] 杜鵑 tōo-kuan
+- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
+- ✳️ [台] 郭公鳥 kueh-kong-tsiáu
+- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
+- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+- ✳️ [台] 筒鳥 tâng-tsiáu
+
+:::
+
+:::note[備註]
+
+加上喜馬拉雅 hí-má-la-ngá 以區分其他中杜鵑
 
 :::
 
@@ -217,6 +320,14 @@
 - 🎯 [台] 大豆仔鳥 tuā-tāu-á-tsiáu
 - ✳️ [台] 杜鵑 tōo-kuan
 - ✳️ [台] 豆仔鳥 tāu-á-tsiáu
+- ✳️ [台] 郭公鳥 kueh-kong-tsiáu
+- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+
+:::
+
+:::note[備註]
+
+加上大 tuā 以區分其他杜鵑
 
 :::
 
@@ -233,7 +344,17 @@
 - 🎯 [台] 北方中杜鵑 pak-hng-tiong-tōo-kuan
 - 🎯 [台] 北方中郭公鳥 pak-hng-tiong-kueh-kong-tsiáu
 - 🎯 [台] 北方中豆仔鳥 pak-hng-tiong-tāu-á-tsiáu
+- 🎯 [台] 北方筒鳥 pak-hng-tâng-tsiáu
 - ✳️ [台] 杜鵑 tōo-kuan
 - ✳️ [台] 豆仔鳥 tāu-á-tsiáu
+- ✳️ [台] 郭公鳥 kueh-kong-tsiáu
+- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+- ✳️ [台] 筒鳥 tâng-tsiáu
+
+:::
+
+:::note[備註]
+
+加上北方 pak-hng 以區分其他中杜鵑
 
 :::

@@ -2,7 +2,7 @@
 
 ## [山麻雀 ニュウナイスズメ Russet Sparrow](https://ebird.org/species/russpa2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354703501/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354703501/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © usaviah, some rights reserved (CC-BY-NC)

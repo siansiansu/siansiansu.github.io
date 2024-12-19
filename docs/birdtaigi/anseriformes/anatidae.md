@@ -217,6 +217,30 @@
 
 :::
 
+## [小加拿大雁 シジュウカラガン Cackling Goose](https://ebird.org/species/cacgoo1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/19681228/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) guyincognito, some rights reserved (CC BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 **[華] 小加拿大雁 sió-ka-ná-tāi-gān**
+- ✳️ [台] 海雁 hái-gān
+- ✳️ [台] 海鵝 hái-gô
+- ✳️ [台] 野鵝 iá-gô
+- ✳️ [台] 雁仔 gān-á
+
+:::
+
+:::note[註明]
+
+- 小加拿大雁 sió-ka-ná-tāi-gān 來自華語
+
+:::
+
 ## [疣鼻天鵝 コブハクチョウ Mute Swan](https://ebird.org/species/mutswa)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/253529360/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -982,29 +1006,5 @@
 
 - 🎯 **[華] 唐秋沙 tn̂g-tshiu-sua**
 - ✳️ [華] 秋沙 tshiu-sua
-
-:::
-
-## [小加拿大雁 シジュウカラガン Cackling Goose](https://ebird.org/species/cacgoo1)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/19681228/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) guyincognito, some rights reserved (CC BY-NC)
-</p>
-
-:::info[鳥仔名]
-
-- 🎯 **[華] 小加拿大雁 sió-ka-ná-tāi-gān**
-- ✳️ [台] 海雁 hái-gān
-- ✳️ [台] 海鵝 hái-gô
-- ✳️ [台] 野鵝 iá-gô
-- ✳️ [台] 雁仔 gān-á
-
-:::
-
-:::note[註明]
-
-- 小加拿大雁 sió-ka-ná-tāi-gān 來自華語
 
 :::

@@ -44,7 +44,7 @@
 
 ## [北蝗鶯 シマセンニュウ Middendorff's Grasshopper Warbler](https://ebird.org/species/migwar)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/357459119/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/357459119/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sergey Birds-n-roll, some rights reserved (CC-BY-NC)
@@ -72,7 +72,7 @@
 
 ## [蒼眉蝗鶯 シベリアエゾセンニュウ Gray's Grasshopper Warbler](https://ebird.org/species/grgwar1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/340287680/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/340287680/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © andrey_nsk, some rights reserved (CC-BY-NC)

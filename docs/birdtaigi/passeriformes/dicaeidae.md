@@ -2,7 +2,7 @@
 
 ## [紅胸啄花 Fire-breasted Flowerpecker](https://ebird.org/species/fibflo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/363954142/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/363954142/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Nick Volpe, some rights reserved (CC-BY-NC)

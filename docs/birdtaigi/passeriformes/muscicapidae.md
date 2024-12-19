@@ -503,7 +503,7 @@
 
 ## [白喉磯鶇 ヒメイソヒヨ White-throated Rock-Thrush](https://ebird.org/species/wtrthr1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367809484/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367809484/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © supapond13, some rights reserved (CC-BY-NC)

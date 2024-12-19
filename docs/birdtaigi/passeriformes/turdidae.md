@@ -67,7 +67,7 @@
 
 ## [烏灰鶇 クロツグミ Japanese Thrush](https://ebird.org/species/japthr1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366389332/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366389332/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © lhurteau, some rights reserved (CC-BY-NC)

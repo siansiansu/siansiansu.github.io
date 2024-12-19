@@ -2,7 +2,7 @@
 
 ## [黃山雀 タイワンシジュウカラ Taiwan Yellow Tit](https://ebird.org/species/yeltit2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/358192307/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/358192307/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © huaitech, some rights reserved (CC-BY-NC)

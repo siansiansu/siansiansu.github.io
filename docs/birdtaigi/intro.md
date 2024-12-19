@@ -27,7 +27,7 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 ## 重要 ê 參考
 
-- 📕 上新的分類參考 [eBird](https://ebird.org/home) 佮[2023年臺灣鳥類名錄(2024.06.24修正)](https://www.bird.org.tw/basicpage/87)。
+- 📕 上新的分類參考 [eBird](https://ebird.org/home) 佮[eBird Taiwan鳥類名錄 2024.10 (製表：eBird Taiwan)](https://www.bird.org.tw/basicpage/87)。
 - 📕 台語俗名參考 [蕭平治 | 還我台灣鳥 á 名](https://siaulahjih.github.io/TaiOanChiauA/) kah [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)。
 - 📕 華語俗名參考 [eBird](https://ebird.org/home) 佮[台灣生物多樣性網絡](https://www.tbn.org.tw/)。
 - 📕 台語字參考 [ChhoeTaigi 台語辭典](https://chhoe.taigi.info/)佮[教育部臺灣閩南語常用詞辭典](https://sutian.moe.edu.tw/)。

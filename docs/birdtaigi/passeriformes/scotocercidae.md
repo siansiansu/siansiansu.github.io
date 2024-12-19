@@ -60,7 +60,7 @@
 
 ## [短尾鶯 ヤブサメ Asian Stubtail](https://ebird.org/species/asistu1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/306929514/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/306929514/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Chuan Xuan, some rights reserved (CC-BY-NC)
