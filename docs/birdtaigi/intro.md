@@ -80,9 +80,29 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 :::
 
+:::info[範例二：下跤 ê 物種攏是水避仔 ê 一種]
+
+1. 小鸊鷉 Little Grebe (學名：*Tachybaptus ruficollis*)
+2. 角鸊鷉 Horned Grebe (學名：*Podiceps auritus*)
+3. 赤頸鸊鷉 Red-necked Grebe (學名：*Podiceps grisegena*)
+4. 冠鸊鷉 Great Crested Grebe (學名：*Podiceps cristatus*)
+5. 黑頸鸊鷉 Eared Grebe (學名：*Podiceps nigricollis*)
+
+:::
+
+:::info[建議台語名]
+
+1. 水避仔 tsuí-pī-á
+2. 角水避 kak-tsuí-pī
+3. 紅頸水避 âng-kún-tsuí-pī
+4. 冠水避 kuan-tsuí-pī
+5. 烏頸水避 oo-kún-tsuí-pī
+
+:::
+
 - 若揣無台灣本土 ê 台語俗名，參考華語俗名、英語俗名、日語俗名、鳥仔 ê 形體外觀、色水命名。譬如：
 
-:::info[範例二：以下物種無台語俗名]
+:::info[範例三：以下物種無台語俗名]
 
 - 鐵嘴鴴 Greater Sand-Plover (學名：*Anarhynchus leschenaultii*)
 - 赤腹鶇 Brown-headed Thrush (學名：*Turdus chrysolaus*)
