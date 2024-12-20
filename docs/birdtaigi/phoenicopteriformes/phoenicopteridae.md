@@ -8,7 +8,7 @@
 (c) cog2022, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 大紅鶴 tuā-âng-ho̍h
 - ✳️ [台] 紅鶴 âng-ho̍h

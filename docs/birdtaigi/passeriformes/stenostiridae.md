@@ -8,7 +8,7 @@
 (c) Chitra Shanker, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 方尾鶲 hong-bué-ong
 

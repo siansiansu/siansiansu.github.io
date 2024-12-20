@@ -9,7 +9,7 @@
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 樹鴨 tshiū-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -31,7 +31,7 @@
 © Subir B. Shakya, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 斑頭雁 pan-thâu-gān**
 - ✳️ [台] 海雁 hái-gān
@@ -55,7 +55,7 @@
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 殕色雁 phú-sik-gān**
 - ✳️ [台] 海雁 hái-gān
@@ -79,7 +79,7 @@
 (c) fangchen, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 鴻雁 hông-gān**
 - ✳️ [台] 海雁 hái-gān
@@ -103,7 +103,7 @@
 (c) diomedea_exulans_li, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 白額雁 pe̍h-hia̍h-gān**
 - ✳️ [台] 海雁 hái-gān
@@ -127,7 +127,7 @@
 (c) heliastes21, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] **小白額雁 sió-pe̍h-hia̍h-gān**
 - ✳️ [台] 海雁 hái-gān
@@ -151,7 +151,7 @@
 (c) Владимир Панкратов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 寒林豆雁 hân-lîm-tāu-gān**
 - ✳️ [華] 豆雁 tāu-gān
@@ -176,7 +176,7 @@
 (c) Tristan Jobin, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 凍原豆雁 tàng-guân-tāu-gān**
 - ✳️ [華] 豆雁 tāu-gān
@@ -201,7 +201,7 @@
 (c) David Jeffrey Ringer, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 烏雁 oo-gān**
 - ✳️ [台] 海雁 hái-gān
@@ -225,7 +225,7 @@
 (c) guyincognito, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 小加拿大雁 sió-ka-ná-tāi-gān**
 - ✳️ [台] 海雁 hái-gān
@@ -249,7 +249,7 @@
 (c) spinomaly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 瘤鼻天鵝 liû-phīnn-thian-gô**
 - ✳️ [華][台] 天鵝 thian-gô
@@ -270,7 +270,7 @@
 (c) Allan Claybon, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 小天鵝 sió-thian-gô**
 - ✳️ [台] 天鵝 thian-gô
@@ -291,7 +291,7 @@
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 黃喙天鵝 n̂g-tshuì-thian-gô**
 - ✳️ [華][台] 天鵝 thian-gô
@@ -312,7 +312,7 @@
 © Tristan Jobin, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 瀆鳧 to̍k-hû**
 - [中] 黃麻鴨 n̂g-muâ-ah
@@ -338,7 +338,7 @@
 (c) Aleksandr Popov / Александр Попов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 白花仔 pe̍h-hue-á**
 - 🎯 **[台] 白花鴨 pe̍h-hue-ah**
@@ -367,7 +367,7 @@
 (c) Thet Zaw Naing, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 棉鴨 mî-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -389,7 +389,7 @@
 (c) Blake Ross, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 鴛鴦 uan-iunn**
 
@@ -409,7 +409,7 @@
 © Yushi Wang, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 巴鴨 pa-ah**
 - 🎯 **[台] 丑鴨 thiú-ah**
@@ -435,7 +435,7 @@
 (c) Ксения Соварцева, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 白目眉鴨 pe̍h-ba̍k-bâi-ah**
 - [華] 巡鳧 sûn-hû
@@ -458,7 +458,7 @@
 (c) adri13114, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 大喙爬仔 tuā-tshuì-pê-á**
 - 🎯 **[台] 湯匙仔鴨 thng-sî-á-ah**
@@ -484,7 +484,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 紅翼鴨 âng-si̍t-ah**
 - 🎯 [華] 赤膀鴨 tshiah-pōng-ah
@@ -507,7 +507,7 @@
 (c) David Tan, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 羅文鴨 lô-bûn-ah**
 - 🎯 **[日] 葦鴨 uí-ah**
@@ -531,7 +531,7 @@
 (c) zametnya, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 火燒仔 hué-sio-á**
 - 🎯 **[華] 紅頸鴨 âng-kīng-ah**
@@ -555,7 +555,7 @@
 (c) aaronr, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 葡萄胸鴨 phû-tô-hing-ah
 - 🎯 [英] 美國鴨 bí-kok-ah
@@ -578,7 +578,7 @@
 (c) Mike Prince, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 菲律賓鴨 hui-lu̍t-pin-ah**
 - 🎯 [華] 呂宋鴨 lū-sòng-ah
@@ -601,7 +601,7 @@
 (c) bio96, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 花喙鴨 hue-tshuì-ah**
 - 🎯 [英] 斑喙鴨 pan-tshuì-ah
@@ -624,7 +624,7 @@
 (c) Mike Leveille, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 綠頭公 li̍k-thâu-kong**
 - 🎯 [台] 金頭鴨 kim-thâu-ah
@@ -651,7 +651,7 @@
 (c) Luigi Andena, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 尖尾鴨 tsiam-bué-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -673,7 +673,7 @@
 © Ben Zerante, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 金翅鴨 kim-tshì-ah**
 - 🎯 **[台] 水薸鴨 chúi-phiô-ah**
@@ -701,7 +701,7 @@
 (c) Antonio Xeira, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 赤嘴潛鴨 tshiah-tshuì-tsiâm-ah**
 - 🎯 [華] 紅喙潛鴨 âng-tshuì-tsiâm-ah
@@ -724,7 +724,7 @@
 © oneguy72, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 帆背潛鴨 phâng-puè-tsiâm-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -746,7 +746,7 @@
 (c) Яна, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 紅頭潛鴨 âng-thâu-tsiâm-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -768,7 +768,7 @@
 © Brandon Johnson, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 頸箍潛鴨 kún-khoo-tsiâm-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -790,7 +790,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 白眼潛鴨 pi̍k-gán-tsiâm-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -812,7 +812,7 @@
 © fangchen, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 青頭潛鴨 tshenn-thâu-tsiâm-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -834,7 +834,7 @@
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 阿不倒仔 a-put-tó-á**
 - 🎯 [台] 聳頭潛鴨 tshàng-moo-tsiâm-ah
@@ -860,7 +860,7 @@
 (c) kenbuc, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 鈴鴨 lîng-ah**
 - 🎯 [華] 斑背潛鴨 pan-puè-tsiâm-ah
@@ -883,7 +883,7 @@
 © Cricket Raspet, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 小鈴鴨 sió-lîng-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -905,7 +905,7 @@
 (c) clicque, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 長尾鴨 tn̂g-bé-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -927,7 +927,7 @@
 (c) brian stahls, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 金眼鴨 kim-gán-ah**
 - ✳️ [台] 鴨仔 ah-á
@@ -950,7 +950,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 白秋沙 pe̍h-tshiu-sua**
 - ✳️ [華] 秋沙 tshiu-sua
@@ -965,7 +965,7 @@
 (c) brian stahls, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 川秋沙 tshuan-tshiu-sua**
 - ✳️ [華] 秋沙 tshiu-sua
@@ -980,7 +980,7 @@
 (c) Mario Finkel, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 海秋沙 hái-tshiu-sua**
 - 🎯 **[英] 紅胸秋沙 âng-hing-tshiu-sua**
@@ -1002,7 +1002,7 @@
 © Kim, Hyun-tae, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 唐秋沙 tn̂g-tshiu-sua**
 - ✳️ [華] 秋沙 tshiu-sua

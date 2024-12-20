@@ -8,7 +8,7 @@
 (c) Tony Morris, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 短尾信天翁 té-bé-sìn-thian-ang
 - 🎯 [台][日] 短尾海南戇 té-bé-hái-lâm-gōng
@@ -25,7 +25,7 @@
 (c) Frank, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][華] 烏背信天翁 oo-puè-sìn-thian-ang
 - 🎯 [台][日] 烏背海南戇 oo-puè-hái-lâm-gōng
@@ -42,7 +42,7 @@
 (c) David J Barton, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 烏跤信天翁 oo-kha-sìn-thian-ang
 - 🎯 [台][日] 烏跤海南戇 oo-kha-hái-lâm-gōng

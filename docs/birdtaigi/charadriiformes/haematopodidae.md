@@ -8,7 +8,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 蠣鴴 lē-hing
 

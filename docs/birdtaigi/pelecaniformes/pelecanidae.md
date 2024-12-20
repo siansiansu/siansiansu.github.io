@@ -8,7 +8,7 @@
 (c) Satyen Mehta, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 虯毛布袋鳥 khiû-moo-tē-tsiáu
 - 🎯 [台] 虯毛布袋鵝 khiû-moo-tē-gô

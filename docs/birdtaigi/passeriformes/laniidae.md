@@ -8,7 +8,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 虎紋伯勞 hóo-bûn-pik-lô
 - ✳️ [台] 伯勞仔 pik-lô-á
@@ -23,7 +23,7 @@
 (c) Radovan Václav, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 紅背伯勞 âng-puè-pik-lô
 - ✳️ [台] 伯勞仔 pik-lô-á
@@ -38,7 +38,7 @@
 (c) Afsar Nayakkan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅尾伯勞 âng-bé-pik-lô
 - 🎯 [英][日] 赤伯勞 tshiah-pik-lô
@@ -54,7 +54,7 @@
 (c) Alexander Ganse, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅頭伯勞 âng-thâu-pik-lô
 - ✳️ [台] 伯勞仔 pik-lô-á
@@ -69,7 +69,7 @@
 (c) Luan Mai Sy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 棕背伯勞 tsang-puē-pik-lô
 - [日] 高砂伯勞 ko-sua-pik-lô
@@ -86,7 +86,7 @@
 (c) Yongchul Kim, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 喫尾伯勞 khuè-bé-pik-lô
 - [日] 大唐伯勞 tuā-tn̂g-pik-lô

@@ -8,7 +8,7 @@
 no rights reserved, uploaded by 葉子
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白頭鵠仔 pe̍h-thâu-khok-á
 - [華] 白頭翁 pe̍h-thâu-ong
@@ -24,7 +24,7 @@ no rights reserved, uploaded by 葉子
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 紅喙烏鶖 âng-tshuì-oo-tshiu
 - [台] 紅喙鶖仔 âng-tshuì-tshiu-á
@@ -41,7 +41,7 @@ no rights reserved, uploaded by 葉子
 (c) sunmr, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 石鸚哥 tsio̍h-ing-ko
 - 🎯 [台] 林投雞 nâ-tâu-ke
@@ -60,7 +60,7 @@ no rights reserved, uploaded by 葉子
 (c) jacob7349, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏頭鵠仔 oo-thâu-khok-á
 - [華] 烏頭翁 oo-thâu-ong
@@ -76,7 +76,7 @@ no rights reserved, uploaded by 葉子
 © shiguangshi, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 栗色鵯 lik-sik-pi
 - 🎯 [中] 栗背短跤鵯 lik-puè-té-kha-pi
@@ -91,7 +91,7 @@ no rights reserved, uploaded by 葉子
 (c) Toshihiro Gamo, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 棕耳鵯 tsang-hīnn-pi
 
@@ -105,7 +105,7 @@ no rights reserved, uploaded by 葉子
 (c) Bruno Durand, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白喉紅臀鵯 pe̍h-âu-âng-tûn-pi
 - [日] 腰白鵯 io-pe̍h-pi
@@ -120,7 +120,7 @@ no rights reserved, uploaded by 葉子
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [中] 橄欖褐鵯 kan-ná-hat-pi
 - 🎯 [日][英] 紅目橄欖鵯 âng-ba̍k-kan-ná-pi
@@ -136,7 +136,7 @@ no rights reserved, uploaded by 葉子
 (c) robbythai, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 橄欖鵯 kan-ná-pi
 
@@ -150,7 +150,7 @@ no rights reserved, uploaded by 葉子
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 紅目鵯 âng-ba̍k-pi
 - 🎯 [日] 紅目茶色鵯 âng-ba̍k-tê-sik-pi

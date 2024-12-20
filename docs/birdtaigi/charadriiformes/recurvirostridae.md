@@ -8,7 +8,7 @@
 (c) Paolo, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 躼跤鴴 lò-kha-hîng
 - 🎯 [華] 長跤鴴 tng-kha-hîng
@@ -26,7 +26,7 @@
 (c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC),
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][華] 翹喙鴴 khiàu-tshuì-hîng
 - [華] 反嘴鴴 huán-tshuì-hîng

@@ -8,7 +8,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 台灣鷦眉 tâi-uân-tsiau-bî
 

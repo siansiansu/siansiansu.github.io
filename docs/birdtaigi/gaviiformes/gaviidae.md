@@ -8,7 +8,7 @@
 (c) hillanddale, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - ✅ [華][英] 紅喉潛鳥 âng-âu-tsiâm-tsiáu
 
@@ -22,7 +22,7 @@
 (c) Владимир Панкратов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - ✅ [華] 烏喉潛鳥 oo-âu-tsiâm-tsiáu
 
@@ -36,7 +36,7 @@
 (c) Alexander Yakovlev, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - ✅ [華][英] 太平洋潛鳥 thài-pîng-iûnn-tsiâm-tsiáu
 
@@ -50,7 +50,7 @@
 (c) gramandy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - ✅ [華] 白喙潛鳥 pe̍h-tshuì-tsiâm-tsiáu
 

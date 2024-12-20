@@ -8,7 +8,7 @@
 (c) Максим Стефанович, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][華] 白腹鰹鳥 pe̍h-tóo-kian-tsiáu
 - ✳️ [台] 海雞母 hái-ke-bó
@@ -23,7 +23,7 @@
 (c) abelardomendesjr, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][華] 藍面鰹鳥 lâm-bīn-kian-tsiáu
 - 🎯 [日][華] 青面鰹鳥 tshenn-bīn-kian-tsiáu
@@ -39,7 +39,7 @@
 (c) Steve Harbula, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 紅跤鰹鳥 âng-kha-kian-tsiáu
 - ✳️ [台] 海雞母 hái-ke-bó

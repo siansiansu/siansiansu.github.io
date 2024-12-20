@@ -8,7 +8,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 黃眉柳鶯 n̂g-bâi-liú-ing
 
@@ -22,7 +22,7 @@
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 巨嘴柳鶯 kū-tshuì-liú-ing
 
@@ -36,7 +36,7 @@
 © Phakawat Kittikhunodom, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 白跤柳鶯 pe̍h-kha-liú-ing
 
@@ -50,7 +50,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 極北柳鶯 ki̍k-pak-liú-ing
 
@@ -64,7 +64,7 @@
 © Sam Hambly, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 庫頁島柳鶯 khòo-ia̍h-tó-liú-ing
 
@@ -78,7 +78,7 @@
 © James Eaton, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 日本柳鶯 ji̍t-pún-liú-ing
 
@@ -92,7 +92,7 @@
 (c) andriy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 堪察加柳鶯 kham-tshâ-tsham-liú-ing
 
@@ -106,7 +106,7 @@
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 雙斑綠柳鶯 siang-pan-li̍k-liú-ing
 
@@ -120,7 +120,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃腰柳鶯 n̂g-io-liú-ing
 
@@ -134,7 +134,7 @@
 (c) thelittleman, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 哈氏冠紋柳鶯 ha-sī-kuan-bûn-liú-ing
 
@@ -148,7 +148,7 @@
 (c) 茶棚, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 克氏冠紋柳鶯 khik-sī-kuan-bûn-liú-ing
 
@@ -162,7 +162,7 @@
 (c) andriy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 冠羽柳鶯 kuan-ú-liú-ing
 
@@ -176,7 +176,7 @@
 (c) Roman, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 飯島柳鶯 ijima-liú-ing
 
@@ -190,7 +190,7 @@
 (c) Julien Renoult, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏眉柳鶯 oo-bâi-liú-ing
 

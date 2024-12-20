@@ -8,7 +8,7 @@
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 台灣叢樹鶯 tâi-uân-tshông-tshiū-ing
 
@@ -22,7 +22,7 @@
 (c) Константин Самодуров, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 茅斑蝗鶯 hm̂-pan-hông-ing
 
@@ -36,7 +36,7 @@
 (c) Яков Любченко, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 小蝗鶯 sió-hông-ing
 
@@ -50,7 +50,7 @@
 © Sergey Birds-n-roll, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 北蝗鶯 pak-hông-ing
 
@@ -64,7 +64,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 史氏蝗鶯 sú-sī-hông-ing
 
@@ -78,7 +78,7 @@
 © andrey_nsk, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 蒼眉蝗鶯 tshong-bâi-hông-ing
 - [日] 蒼眉急鳥 tshong-bâi-kip
@@ -93,7 +93,7 @@
 (c) Анастасия Клюева, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 庫頁島蝗鶯 khòo-ia̍h-tó-hông-ing
 

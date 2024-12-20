@@ -8,7 +8,7 @@
 (c) Elio Giacone, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 大斑啄樹鳥 tuā-pan tok-tshiū-tsiáu
 - 🎯 [英] 大斑啄木鳥 tuā-pan tok-bo̍k-tsiáu
@@ -25,7 +25,7 @@
 (c) David J Barton, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][華] 小啄樹鳥 sió-tok-chhiū-chiáu
 - 🎯 [日][華] 小啄木鳥 sió-tok-bo̍k-tsiáu
@@ -44,7 +44,7 @@
 (c) manojmcn, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 花腹啄樹鳥 hue-pak-tok-tshiū-tsiáu
 - 🎯 [華] 花腹啄木鳥 hue-pak-tok-bo̍k-tsiáu
@@ -63,7 +63,7 @@
 (c) Frank Lin, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 大紅啄木鳥 tuā-âng-tok-bo̍k-tsiáu
 - 🎯 [華][日] 大紅啄樹鳥 tuā-âng-tok-tshiū-tsiáu
@@ -80,7 +80,7 @@
 (c) Геннадий, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 地啄木 tē-tok-bo̍k
 - 🎯 [華] 地啄木鳥 tē-tok-bo̍k-tsiáu
@@ -100,7 +100,7 @@
 (c) Павел, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 青啄木鳥 tshenn-tok-bo̍k-tsiáu
 - 🎯 [華] 青啄樹鳥 tshenn-tok-tshiū-tsiáu

@@ -8,7 +8,7 @@
 (c) Bronze Cheung Kwok Yee, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 斯氏青笛仔 su-sī-tshenn-thî-á
 - 🎯 [華] 斯氏繡眼 su-sī-siù-gán
@@ -25,7 +25,7 @@
 (c) Hong, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 尖頭花眉 tsiam-thâu-hue-bî
 - 🎯 [台][華] 尖頭畫眉 tsiam-thâu-uē-bâi
@@ -43,7 +43,7 @@
 © Vitan2011, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 日菲青笛仔 ji̍t-hui-tshenn-thî-á
 - 🎯 [華] 日菲繡眼 ji̍t-hui-siù-gán

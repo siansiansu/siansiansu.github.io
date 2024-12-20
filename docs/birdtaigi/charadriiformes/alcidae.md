@@ -8,7 +8,7 @@
 (c) Allen Chartier, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 崖海鴉 gâi-hái-a
 
@@ -22,7 +22,7 @@
 (c) guyincognito, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 扁喙海雀 pínn-tshuì-hái-tshiok
 
@@ -36,7 +36,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 冠海雀 kuan-hái-tshiok
 
@@ -50,7 +50,7 @@
 (c) Eliezg, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白眶海鴿 pe̍h-khing-hái-kah
 - 🎯 白眶海雀 pe̍h-khing-hái-tshiok
@@ -65,7 +65,7 @@
 (c) Ad Konings, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 角喙海雀 kak-tshuì-hái-tshiok
 

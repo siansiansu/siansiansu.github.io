@@ -8,7 +8,7 @@
 (c) Jenny Sweatt, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 叉尾鷗 tshe-bé-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -25,7 +25,7 @@
 (c) Xavier Rufray, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏喙鷗 oo-tshuì-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -42,7 +42,7 @@
 (c) vyatka, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 小鷗 sió-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -59,7 +59,7 @@
 (c) marlenekraml, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 澳洲紅喙鷗 ò-tsiu-âng-tshuì-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -76,7 +76,7 @@
 (c) Mina Zaki, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英][日] 細喙鷗 suè-tshuì-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -93,7 +93,7 @@
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅喙鷗 âng-tshuì-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -110,7 +110,7 @@
 (c) Ariful Haque Bhuiyan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 赤頭鷗 tshiah-thâu-oo
 - 🎯 [華][英] 棕頭鷗 tsang-thâu-oo
@@ -129,7 +129,7 @@
 (c) Lonelyshrimp, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 遺鷗 î-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -146,7 +146,7 @@
 (c) José Antonio Linage Espinosa, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日][英] 笑鷗 tshiò-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -164,7 +164,7 @@
 (c) georg32sea, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 弗氏鷗 hut-sī-oo
 - 🎯 [英] 富蘭克林鷗 Hù-lân-khik-lîm-oo
@@ -183,7 +183,7 @@
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 烏尾鷗 oo-bué-oo
 - 🎯 [日] 海貓 hái-niau
@@ -202,7 +202,7 @@
 (c) Wolfgang Bettighofer, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 海鷗 hái-oo
 - ✳️ [台] 海鳥 hái-tsiáu
@@ -219,7 +219,7 @@
 (c) davey59, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 三趾鷗 sann-tsí-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -237,7 +237,7 @@
 (c) Andrew Thompson, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 銀鷗 gîn-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -255,7 +255,7 @@
 (c) tonipons, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 裏海銀鷗 lí-hái-gîn-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -273,7 +273,7 @@
 (c) Andrew, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 小烏背鷗 sió-oo-puè-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -291,7 +291,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 灰背鷗 hue-puè-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -309,7 +309,7 @@
 (c) Paul Tavares, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 北極鷗 pak-ki̍k-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -327,7 +327,7 @@
 (c) Ketan Aloni, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 漁鷗 hî-oo
 - ✳️ [台] 海鷗 hái-oo
@@ -345,7 +345,7 @@
 (c) JeffreyGammon, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 玄燕鷗 hiân-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -362,7 +362,7 @@
 (c) Thomas Mesaglio, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏玄燕鷗 oo-hiân-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -379,7 +379,7 @@
 (c) Andrey Gulivanov, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 小燕鷗 sió-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -396,7 +396,7 @@
 (c) Chris Clarke, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏領燕鷗 oo-niá-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -413,7 +413,7 @@
 (c) Donna Pomeroy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白眉燕鷗 pe̍h-bâi-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -430,7 +430,7 @@
 (c) Donna Pomeroy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 白腰燕鷗 pe̍h-io-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -447,7 +447,7 @@
 (c) matthew_wills, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 燕鷗 iàn-oo
 - ✳️ [台] 海燕仔 hái-ìnn-á
@@ -463,7 +463,7 @@
 (c) KO Ka Ho, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 紅燕鷗 âng-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -480,7 +480,7 @@
 (c) Ryan Yue Wah Chan, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 蒼燕鷗 tshong-iàn-oo
 - 🎯 [英] 烏頸燕鷗 oo-kún-iàn-oo
@@ -498,7 +498,7 @@
 (c) Bird Explorers, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 鳳頭燕鷗 hōng-thâu-iàn-oo
 - 🎯 [華][英] 聳毛燕鷗 tshàng-thâu-iàn-oo
@@ -516,7 +516,7 @@
 (c) Joel Poyitt, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 小鳳頭燕鷗 sió-hōng-thâu-iàn-oo
 - 🎯 [華][英] 小聳毛燕鷗 sió-tshàng-thâu-iàn-oo
@@ -534,7 +534,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏尖喙鳳頭燕鷗 oo-tsiam-tshuì-hōng-thâu-iàn-oo
 - 🎯 [華] 烏尖喙聳毛燕鷗 oo-tsiam-tshuì-tshàng-thâu-iàn-oo
@@ -552,7 +552,7 @@
 (c) Curtis Eckerman, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白尖喙鳳頭燕鷗 pe̍h-tsiam-tshuì-hōng-thâu-iàn-oo
 - 🎯 [華] 白尖喙聳毛燕鷗 pe̍h-tsiam-tshuì-tshàng-thâu-iàn-oo
@@ -570,7 +570,7 @@
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 裏海燕鷗 lí-hái-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -587,7 +587,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 厚喙燕鷗 kāu-tshuì-iàn-oo
 - 🎯 [華][英] 鷗喙燕鷗 oo-tshuì-iàn-oo
@@ -605,7 +605,7 @@
 (c) nancylightfoot, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏浮鷗 oo-phû-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -622,7 +622,7 @@
 (c) Ренат Рахматуллин, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 白翅黑燕鷗 pe̍h-si̍t-oo-iàn-oo
 - ✳️ [台] 燕鷗 iàn-oo
@@ -639,7 +639,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏肚燕鷗 oo-tóo-iàn-oo
 - 🎯 [華] 烏腹燕鷗 oo-pak-iàn-oo

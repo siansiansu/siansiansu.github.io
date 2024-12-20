@@ -8,7 +8,7 @@
 (c) caroline legg, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 鷦鷯 tsiau-liâu
 

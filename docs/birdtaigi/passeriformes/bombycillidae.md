@@ -8,7 +8,7 @@
 © Aline Horikawa, all rights reserved
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 朱連雀 tsu-liân-tshiok
 - 🎯 [日] 緋連雀 hui-liân-tshiok
@@ -24,7 +24,7 @@
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃連雀 n̂g-liân-tshiok
 

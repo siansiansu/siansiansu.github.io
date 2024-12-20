@@ -8,7 +8,7 @@
 (c) Andy Lazere, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][華] 白鶴 pe̍h-ho̍h
 - 🎯 [華][英] 西伯利亞白鶴 se-pik-lī-a-pe̍h-ho̍h
@@ -25,7 +25,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 簑毛鶴 sui-moo-ho̍h
 - ✳️ [台] 鶴 ho̍h
@@ -40,7 +40,7 @@
 (c) Blondinrikard Fröberg, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 灰鶴 hue-ho̍h
 - ✳️ [台] 鶴 ho̍h
@@ -55,7 +55,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白頭鶴 pe̍h-thâu-ho̍h
 - ✳️ [台] 鶴 ho̍h
@@ -70,7 +70,7 @@
 (c) naturepower2021, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 紅頭鶴 âng-thâu-ho̍h
 - [台] 仙鶴 sian-ho̍h
@@ -86,7 +86,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 白頸鶴 pe̍h-kún-ho̍h
 - ✳️ [台] 鶴 ho̍h

@@ -8,7 +8,7 @@
 (c) 艾小可@科技百科2.01, some rights reserved (CC BY-NC-SA)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 細紋葦鶯 suè-bûn-uí-ing
 
@@ -22,7 +22,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 雙眉葦鶯 siang-bâi-uí-ing
 
@@ -36,7 +36,7 @@
 (c) vyatka, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 田葦鶯 tshân-uí-ing
 
@@ -50,7 +50,7 @@
 (c) Ingkayut Sa-ar, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 遠東葦鶯 uán-tong-uí-ing
 
@@ -64,7 +64,7 @@
 (c) Md. Zaber Ansary, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 厚喙葦鶯 kāu-tshuì-uí-ing
 
@@ -78,7 +78,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 東方大葦鶯 tong-hong-tuā-uí-ing
 
@@ -92,7 +92,7 @@
 (c) ilkkai, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 布萊氏葦鶯 pòo-lâi-sī-uí-ing
 
@@ -106,7 +106,7 @@
 (c) Anna Shipilova | Анна Шипилова, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 靴籬鶯 hia-lî-ing
 

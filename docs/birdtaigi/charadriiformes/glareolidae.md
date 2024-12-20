@@ -8,7 +8,7 @@
 (c) Yuwaraj Gurjar, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 燕鴴 iàn-hîng
 

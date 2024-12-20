@@ -8,7 +8,7 @@
 © Allen Lyu, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 赤頭花翼 tshiah-thâu-hue-i̍k
 - 🎯 [華] 褐頭花翼 hat-thâu-hue-i̍k
@@ -24,7 +24,7 @@
 (c) Ron Knight, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃羽鸚嘴 n̂g-ú-ing-tshuì
 - ✳️ [台] 圓頭仔 înn-thâu-á
@@ -39,7 +39,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 粉紅鸚嘴 hún-âng-ing-tshuì
 - ✳️ [台] 圓頭仔 înn-thâu-á

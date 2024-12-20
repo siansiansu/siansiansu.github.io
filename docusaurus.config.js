@@ -12,8 +12,8 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bîn-hiân ê bāng-tsām',
-  tagline: '鳥仔 ê 名 - 認捌鳥仔 ê 台語',
+  title: 'Bîn-hiân',
+  tagline: '鳥仔 | 台語 | 賞鳥簿仔 | eBird | 軟工 | 演算法 | 遊戲',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -25,7 +25,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'siansiansu', // Usually your GitHub org/user name.
-  projectName: 'Bîn-hiân ê bāng-tsām', // Usually your repo name.
+  projectName: 'siansiansu.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

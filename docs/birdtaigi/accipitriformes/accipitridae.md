@@ -8,7 +8,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏冠鵑隼 oo-kuàn-kuan-tsún
 - ✳️ [台] 鷹仔 ing-á
@@ -23,7 +23,7 @@
 (c) Daniel Liepack, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏翼鷹 oo-si̍t-ing
 - ✳️ [台] 鷹仔 ing-á
@@ -38,7 +38,7 @@
 (c) rociomar, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 禿鷹 thut-ing
 - 🎯 [台] 狗頭鷹 káu-thâu-ing
@@ -54,7 +54,7 @@
 (c) Jagdish Singh Negi, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 熊鷹 hîm-ing
 - 🎯 [台] 白毛跤鷹 pe̍h-moo-kha-ing
@@ -70,7 +70,7 @@
 (c) Koshy Koshy, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][鷹] 花鷹 hue-ing
 - [華][英] 花雕 hue-tiau
@@ -86,7 +86,7 @@
 (c) awayk3n, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 林鷹 lîm-ing
 - 🎯 [台] 烏毛跤鷹 pe̍h-moo-kha-ing
@@ -103,7 +103,7 @@
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 東方蜂鷹 tong-hong-phang-ing
 - 🎯 [台] 東方食蜂鷹 tong-hong-tsia̍h-phang-ing
@@ -121,7 +121,7 @@
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 蛇鷹 tsuâ-ing
 - [台] 蛇鵰 tsuâ-tiau
@@ -137,7 +137,7 @@
 (c) Ricardo Rodero Henández, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白腹鷹 pe̍h-pak-ing
 - [台] 白腹鵰 pe̍h-pak-tiau
@@ -153,7 +153,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 白肩鷹 pe̍h-king-ing
 - [華][日] 白肩鵰 pe̍h-king-tiau
@@ -169,7 +169,7 @@
 (c) tki, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 南路鷹 lâm-lōo-ing
 - 🎯 [台][英] 灰面鷹 hue-bīn-ing
@@ -185,7 +185,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 紅肚鷹 âng-tóo-ing
 - 🎯 [台] 紅腹鷹 âng-pak-ing
@@ -203,7 +203,7 @@
 (c) Benjamin Koh, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 日本鷹仔虎 ji̍t-pún-ing-á-hóo
 - 🎯 [日][英] 日本雀鷹 ji̍t-pún-tshiok-ing
@@ -220,7 +220,7 @@
 (c) 尹若宇, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 鷹仔虎 ing-á-hóo
 - 🎯 [日] 雀鷹 tshiok-ing
@@ -237,7 +237,7 @@
 (c) 尹若宇, some rights reserved (CC BY-NC),
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 粉鳥鷹 hún-tsiáu-ing
 - 🎯 [華] 鳳頭蒼鷹 hōng-thâu-tshong-ing
@@ -255,7 +255,7 @@
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 赤耳鷹 tshiah-hīnn-ing
 - [華] 褐耳鷹 hat-hīnn-ing
@@ -271,7 +271,7 @@
 (c) Julia Wittmann, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 歐洲雀鷹 au-tsiu-tshiok-ing
 - 🎯 [華] 北雀鷹 pak-tshiok-ing
@@ -287,7 +287,7 @@
 (c) Luigi Andena, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][華] 蒼鷹 tshong-ing
 - ✳️ [台] 鷹仔 ing-á
@@ -302,7 +302,7 @@
 (c) Dougal Townsend, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 赤鶆鴞 tshiah-lāi-hio̍h
 - 🎯 [台][日] 白頭鶆鴞 pe̍h-thâu-lāi-hio̍h
@@ -320,7 +320,7 @@
 (c) Josh Martin, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 鶆鴞 lāi-hio̍h
 - ✳️ [台] 鷹仔 ing-á
@@ -335,7 +335,7 @@
 (c) Allan Lugg, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 白腹海鷹 pe̍h-pak-hái-eng
 - ✳️ [台] 鷹仔 ing-á
@@ -350,7 +350,7 @@
 (c) Jacob Spinks, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 白尾海鷹 pe̍h-bué-hái-ing
 - ✳️ [台] 鷹仔 ing-á
@@ -365,7 +365,7 @@
 (c) Константин Самодуров, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 灰澤鵟 hue-ti̍k-kong
 - ✳️ [台] 鷹仔 ing-á
@@ -380,7 +380,7 @@
 (c) Wich’yanan L, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 花澤鵟 hue-ti̍k-kong
 - 🎯 [英][日] 斑澤鵟 pan-ti̍k-kong
@@ -396,7 +396,7 @@
 (c) Griha Hasanov, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 東方澤鵟 tong-hong-ti̍k-kong
 - 🎯 [華][日] 澤鵟 tong-ti̍k-kong
@@ -412,7 +412,7 @@
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 大鵟 tuā-kông
 - ✳️ [台] 鷹仔 ing-á
@@ -427,7 +427,7 @@
 (c) Rick Leche - Photography, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日][英] 毛跤鵟 moo-kha-kông
 - ✳️ [台] 鷹仔 ing-á
@@ -442,7 +442,7 @@
 (c) Hitoshi WATANABE 渡辺仁, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 東方鵟 tong-hong-kông
 - ✳️ [台] 鷹仔 ing-á
@@ -457,7 +457,7 @@
 (c) jitensha2021, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 虎頭海鷹 hóo-thâu-hái-ing
 - ✳️ [台] 鷹仔 ing-á
@@ -472,7 +472,7 @@
 (c) bhanukiran, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 灰頭魚鷹 hue-thâu hî-ing
 - ✳️ [台] 鷹仔 ing-á

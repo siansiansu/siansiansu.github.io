@@ -8,7 +8,7 @@
 (c) Дмитрий Осипов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 鸕鶿 lôo-tsî
 - ✳️ [台] 老仔 lāu-á
@@ -26,7 +26,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 丹氏鸕鶿 tan-sī-lôo-tsî
 - 🎯 [日][英] 日本鸕鶿 ji̍t-pún-lôo-tsî
@@ -45,7 +45,7 @@
 (c) Robin Gwen Agarwal, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 海鸕鶿 hái-lôo-tsî
 - ✳️ [台] 老仔 lāu-á

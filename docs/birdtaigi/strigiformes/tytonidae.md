@@ -8,7 +8,7 @@
 (c) baronsamedi, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 猴面鷹 kâu-bīn-ing
 - 🎯 [台][華] 猴面鴞 kâu-bīn-hiau

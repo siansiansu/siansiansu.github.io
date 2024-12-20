@@ -8,7 +8,7 @@
 (c) Birds of Qatar and Middle East, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 沙漠林鶯 sua-bôo-lîm-ing
 
@@ -22,7 +22,7 @@
 (c) Максим Исмайлов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 白喉林鶯 pe̍h-âu-lîm-ing
 

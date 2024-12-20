@@ -8,7 +8,7 @@
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 灰水薙鳥 hue-tsuí-thì-tsiáu
 - ✳️ [華][日] 水薙鳥 tsuí-thì-tsiáu
@@ -24,7 +24,7 @@
 (c) Simon Grove, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 短尾水薙鳥 té-bé-tsuí-thì-tsiáu
 - 🎯 [日][英] 細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu
@@ -41,7 +41,7 @@
 (c) Marj Kibby, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日][英] 長尾水薙鳥 tn̂g-bé-tsuí-thì-tsiáu
 
@@ -49,7 +49,7 @@
 
 ## [肉足水薙鳥 アカアシミズナギドリ Flesh-footed Shearwater](https://ebird.org/species/flfshe)
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 赤跤水薙鳥 tshiah-kha-tsuí-thì-tsiáu
 
@@ -64,7 +64,7 @@
 © Shanda Huang, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 大水薙鳥 tuā-tsuí-thì-tsiáu
 
@@ -79,7 +79,7 @@
 (c) Steve Murray, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 克島圓尾穴鳥 khik-tóo-înn-bué-hia̍t-tsiáu
 
@@ -93,7 +93,7 @@
 (c) Steve Murray, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏背白腹穴鳥 oo-puè-pe̍h-pak-hia̍t-tsiáu
 
@@ -107,7 +107,7 @@
 © Curtis Mahon, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白腹穴鳥 pe̍h-pak-hia̍t-tsiáu
 - [日] 白腹水薙鳥 pe̍h-pak-tsuí-thì-tsiáu
@@ -123,7 +123,7 @@
 (c) Paul Bowyer, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 穴鳥 hia̍t-tsiáu
 

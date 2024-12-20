@@ -8,7 +8,7 @@
 (c) Ravisara Jayamanna, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 橙頭地鶇 ting-thâu-tē-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -23,7 +23,7 @@
 (c) Julien Renoult, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白眉地鶇 pe̍h-bâi-tē-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -38,7 +38,7 @@
 (c) sunmr, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白氏地鶇 pe̍h-sī-tē-tong
 - ✳️ [華] 虎鶇 hóo-tong
@@ -55,7 +55,7 @@
 (c) karoconniff, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 小虎鶇 sió-hóo-tong
 - 🎯 [華] 虎斑地鶇 hóo-pan-tē-tong
@@ -73,7 +73,7 @@
 © lhurteau, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 烏灰鶇 oo-hue-tong
 - 🎯 [華][日] 日本烏灰鶇 ji̍t-pún-oo-hue-tong
@@ -89,7 +89,7 @@
 (c) nanan, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 中國烏鶇 tiong-kok-oo-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -104,7 +104,7 @@
 (c) Chuangzao, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 白眉鶇 pe̍h-bâi-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -119,7 +119,7 @@
 (c) Nash Chou, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 白腹鶇 pe̍h-pak-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -134,7 +134,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅腹鶇 âng-pak-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -149,7 +149,7 @@
 (c) belvedere04, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 斑點鶇 pan-tiám-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -164,7 +164,7 @@
 (c) johnallcock, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅尾鶇 âng-bé-tong
 - ✳️ [台] 鶇仔 tong-á
@@ -179,7 +179,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白頭鶇 pe̍h-thâu-tong
 - ✳️ [台] 白頭仔 pe̍h-thâu-á

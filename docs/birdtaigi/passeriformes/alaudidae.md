@@ -8,7 +8,7 @@
 (c) Ani Sarkisyan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 大短趾百靈 tuā-té-tsí-pik-lîng
 
@@ -22,7 +22,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 亞洲短址百靈 a-tsiu-té-tsí-pik-lîng
 
@@ -36,7 +36,7 @@
 © fattakhova_olga, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 蒙古百靈 bông-kóo-pik-lîng
 
@@ -50,7 +50,7 @@
 (c) Ani Sarkisyan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 歐亞雲雀 au-a-hûn-tshiok
 
@@ -64,7 +64,7 @@
 (c) robbythai, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 半天鳥 puànn-thinn-tsiáu
 - 🎯 [日] 叫天鳥 kiò-thinn-tsiáu

@@ -8,7 +8,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 短尾賊仔鷗 té-bé-tsha̍t-á-oo
 - ✳️ [華] 賊仔鷗 tsha̍t-á-oo
@@ -23,7 +23,7 @@
 (c) Bill Bouton, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 長尾賊仔鷗 tn̂g-bé-tsha̍t-á-oo
 - ✳️ [華] 賊仔鷗 tsha̍t-á-oo
@@ -38,7 +38,7 @@
 (c) jomilo75, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 中賊鷗 tiong-tsha̍t-oo
 - ✳️ [華] 賊仔鷗 tsha̍t-á-oo

@@ -8,7 +8,7 @@
 (c) Геннадий, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 小環頸鴴 sió-huân-kún-hîng
 - 🎯 [華] 小頸輪鴴 sió-kún-lián-hîng
@@ -28,7 +28,7 @@
 (c) joannerusso, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 灰斑鴴 hue-pan-hîng
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
@@ -44,7 +44,7 @@
 (c) James M. Maley, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 太平洋金斑鴴 thài-pîng-iûnn-kim-pan-hîng
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
@@ -60,7 +60,7 @@
 (c) vyatka, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 土豆鳥 thôo-tāu-tsiáu
 - [台] 哇仔 ua-á
@@ -78,7 +78,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 跳鴴 thiàu-hîng
 
@@ -92,7 +92,7 @@
 (c) benjamynweil, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 東方紅胸鴴 tong-hong-âng-hing-hîng
 
@@ -106,7 +106,7 @@
 (c) johnallcock, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 蒙古鴴 bông-kóo-hîng
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
@@ -122,7 +122,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 厚喙鴴 kāu-tshuì-hîng
 - [中] 鐵嘴沙鴴 thih-tshuì-sua-hîng
@@ -139,7 +139,7 @@
 (c) djhird, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 東方環頸鴴 tong-hong-huân-kún-hîng
 - 🎯 [華] 東方頸輪鴴 tong-hong-kún-lián-hîng
@@ -156,7 +156,7 @@
 (c) Paul Roberts, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 環頸鴴 huân-kīng-hîng
 - 🎯 [華] 頸輪鴴 kún-lián-hîng
@@ -173,7 +173,7 @@
 (c) Chuangzao, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 劍鴴 kiàm-hîng
 - 🎯 [華][英] 長喙鴴 tn̂g-tshuì-hîng
@@ -190,7 +190,7 @@
 (c) Wich’yanan L, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 西藏鴴 se-tsōng-hîng
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
@@ -206,7 +206,7 @@
 (c) Julien Renoult, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 白面鴴 pe̍h-bīn-hîng
 - ✳️ [台] 水尖仔 tsúi-tsiam-á

@@ -8,7 +8,7 @@
 (c) David Cook, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 烏鸛 oo-kuàn
 - [日] 鍋鸛 ko-kuàn
@@ -23,7 +23,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 白鸛 pe̍h-kuàn
 - 🎯 [英][華] 東方白鸛 tong-hong-pe̍h-kuàn

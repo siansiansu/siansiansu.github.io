@@ -8,7 +8,7 @@
 © huaitech, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 司公仔鳥 sai-kong-á-tsiáu
 - [華] 黃山雀 n̂g-suann-tshiok
@@ -23,7 +23,7 @@
 (c) andriy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 黃腹山雀 n̂g-pak-suann-tshiok
 
@@ -37,7 +37,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅腹山雀 âng-pak-suann-tshiok
 - [華] 赤腹山雀 tshiah-pak-suann-tshiok
@@ -52,7 +52,7 @@
 (c) Bird Explorers, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 雜色山雀 tsa̍p-sik-suann-tshiok
 - [日] 山雀 suann-tshiok
@@ -67,7 +67,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 日本山雀 ji̍t-pún-suann-tshiok
 - [華] 白頰山雀 pe̍h-kiap-suann-tshiok
@@ -83,7 +83,7 @@
 (c) Scott Bowers, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 青背山雀 tshinn-puē-suann-tshiok
 - [日] 黄腹四十雀 n̂g-pak-sì-tsa̍p-tshiok
@@ -98,7 +98,7 @@
 (c) Leonid, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 煤山雀 muê-suann-tshiok
 - [日] 日雀 ji̍t-tshiok

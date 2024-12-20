@@ -8,7 +8,7 @@
 © Nick Volpe, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 紅胸啄花 âng-hing-tok-hue-tsiáu
 
@@ -22,7 +22,7 @@
 (c) Hong, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 青啄花鳥 tshenn-tok-hue-tsiáu
 - [英] 綠啄花鳥 li̍k-tok-hue-tsiáu

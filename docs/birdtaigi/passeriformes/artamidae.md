@@ -8,7 +8,7 @@
 (c) juju98, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [中][英] 白胸燕鵑 pe̍h-hing-ìnn-kio̍k
 

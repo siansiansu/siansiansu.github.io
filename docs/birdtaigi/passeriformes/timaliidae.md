@@ -8,7 +8,7 @@
 © albertkwok20, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 山紅頭 suann-âng-thâu
 - [中] 紅頭穗鶥 âng-thâu-suī-bâi
@@ -23,7 +23,7 @@
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 奸臣仔鳥 kan-sîn-á-tsiáu
 - 🎯 [台] 竹跤花眉 tik-kha hue-bî
@@ -43,7 +43,7 @@
 no rights reserved, uploaded by Ben Keen
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 大彎喙 tuā-uan-tshuì
 - 🎯 [華] 大彎喙畫眉 tuā-uan-tshuì-uē-bâi

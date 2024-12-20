@@ -8,7 +8,7 @@
 © usaviah, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 山厝鳥仔 suann-tshù-tsiáu-á
 - [華] 山雀鳥仔 suann-tshiok-tsiáu-á
@@ -28,7 +28,7 @@
 (c) Дмитрий Осипов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 厝鳥仔 tshù-tsiáu-á
 - 🎯 [台] 雀鳥仔 tshiok-tsiáu-á
@@ -46,7 +46,7 @@
 (c) Weston Barker, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 外國 ê 厝鳥仔 guā-kok-ê-tshù-tsiáu-á
 - [台] 灰頭厝鳥仔 hue-thâu-tshù-tsiáu-á

@@ -8,7 +8,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 攀雀 phan-tshiok
 - 🎯 [日] 吊巣雀 tiàu-tsâu-tshiok

@@ -8,7 +8,7 @@
 (c) Gyeltshen Gyeltshen, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅頭山雀 âng-thâu-suann-tshiok
 - ✳️ [台] 紅頭仔 âng-thâu-á

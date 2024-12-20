@@ -8,7 +8,7 @@
 (c) Joanne Muis Redwood, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 鐵爪鵐 thih-jiáu-bû
 
@@ -22,7 +22,7 @@
 (c) Donna Pomeroy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 雪鵐 seh-bû
 

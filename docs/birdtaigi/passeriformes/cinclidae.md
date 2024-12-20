@@ -8,7 +8,7 @@
 (c) Olga Sivokon, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 水叮噹 tsuí-tin-tang
 - [華][日] 河烏 hô-oo

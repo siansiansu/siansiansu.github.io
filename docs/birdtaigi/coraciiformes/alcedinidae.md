@@ -10,7 +10,7 @@
 (c) Tobias Polzer, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 魚狗 hî-káu
 - ✳️ [台] 天狗 thian-káu
@@ -31,7 +31,7 @@
 (c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][台] 白喉魚狗 pe̍h-âu-hî-hóo
 - 🎯 [華][台] 青魚狗 tshenn-hî-hóo
@@ -56,7 +56,7 @@
 (c) Koshy Koshy, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 斑魚狗 pan-hî-káu
 - [華][英] 斑翡翠 pan-huí-tshuì
@@ -79,7 +79,7 @@
 (c) Carmelo López Abad, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 烏頭魚狗 oo-thâu-hî-káu
 - [華][英] 烏頭翡翠 oo-thâu-huí-tshuì
@@ -102,7 +102,7 @@
 (c) David Bishop, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 紅魚狗 âng-hî-káu
 - [華] 紅翠 âng-tshuì
@@ -129,7 +129,7 @@
 (c) 蔡志偉, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 白領魚狗 pe̍h-niá-hî-káu
 - [華] 白領翡翠 pe̍h-niá-huí-tshuì

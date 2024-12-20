@@ -8,7 +8,7 @@
 (c) Noam Markus, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 墓坑鳥 bōng-khenn-tsiáu
 - 🎯 [華] 戴勝 tì-sìng

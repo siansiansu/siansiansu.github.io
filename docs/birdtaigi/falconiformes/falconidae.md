@@ -8,7 +8,7 @@
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 灰背隼 hue-puē-tsún
 - 🎯 [華] 灰背鷹 hue-puē-ing
@@ -24,7 +24,7 @@
 (c) Luca Ghiraldi, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅隼 âng-tsún
 - [台] 紅鷹 âng-ing
@@ -40,7 +40,7 @@
 (c) Nigel Voaden, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅跤隼 âng-kha-tsún
 - 🎯 [英] 阿穆爾隼 a-bo̍k-ní-tsún
@@ -58,7 +58,7 @@
 (c) Наталия, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 燕隼 iàn-tsún
 - 🎯 [華] 燕仔隼 iàn-á-tsún
@@ -76,7 +76,7 @@
 (c) silvertop41, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 遊隼 iû-tsún
 - [華] 遊鷹 iû-ing

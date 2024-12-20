@@ -8,7 +8,7 @@
 (c) John Dumbacher, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu
 - ✳️ [英] 太陽鳥 thài-iông-tsiáu
@@ -24,7 +24,7 @@
 (c) Paul Dickson, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 叉尾太陽鳥 tshe-bé-thài-iông-tsiáu
 - ✳️ [英] 太陽鳥 thài-iông-tsiáu

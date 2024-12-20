@@ -8,7 +8,7 @@
 (c) Joshua Doby, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 目鏡鵁鴒 ba̍k-kiànn-ka-līng
 - 🎯 [台] 厝鵁鴒 tshù-ka-līng
@@ -26,7 +26,7 @@
 (c) budak, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白尾鵁鴒 pe̍h-bué-ka-līn
 - 🎯 [華] 白尾八哥 pe̍h-bué-pat-ko
@@ -45,7 +45,7 @@
 (c) Manel Ferreira, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 冠鵁鴒 kuàn-ka-līng
 - 🎯 [台] 台灣鵁鴒 tâi-oân-ka-līng
@@ -64,7 +64,7 @@
 (c) Griha Hasanov, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 小椋鳥 sió-liông-tsiáu
 - ✳️ [華] 椋鳥仔 liông-tsiáu-á
@@ -79,7 +79,7 @@
 (c) Cameron Eckert, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 歐洲椋鳥 au-tsiu-liông-tsiáu
 - 🎯 [日] 星椋鳥 tshenn-liông-tsiáu
@@ -96,7 +96,7 @@
 (c) Uday Agashe, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 灰頭椋鳥 hue-thâu-liông-tsiáu
 - 🎯 [英] 栗尾椋鳥 lik-bué-liông-tsiáu
@@ -112,7 +112,7 @@
 (c) y jessica, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 北椋鳥 pak-liông-tsiáu
 - ✳️ [華] 椋鳥仔 liông-tsiáu-á
@@ -127,7 +127,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 灰背椋鳥 hue-puè-liông-tsiáu
 - 🎯 [日] 唐椋鳥 tn̂g-liông-tsiáu
@@ -143,7 +143,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 絲光椋鳥 si-kong-liông-tsiáu
 - 🎯 [日] 銀椋鳥 gîn-liông-tsiáu
@@ -159,7 +159,7 @@
 (c) John Clough, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 亞洲輝椋鳥 a-tsiu-hui-liông-tsiáu
 - ✳️ [華] 椋鳥仔 liông-tsiáu-á
@@ -174,7 +174,7 @@
 (c) Darren, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 烏領椋鳥 oo-niá-liông-tsiáu
 - ✳️ [華] 椋鳥仔 liông-tsiáu-á
@@ -189,7 +189,7 @@
 (c) ts04, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 灰椋鳥 hue-liông-tsiáu
 - ✳️ [華] 椋鳥仔 liông-tsiáu-á

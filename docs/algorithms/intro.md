@@ -4,8 +4,7 @@ sidebar_position: 1
 
 # Data Structures and Algorithms
 
-Core Data Structures and Algorithms
------------------------------------
+## Core Topics
 
 - [Array](./core/array/)
 - [Binary Tree](./core/binary-tree/)
@@ -17,8 +16,7 @@ Core Data Structures and Algorithms
 - [String](./core/string/)
 - [Trie (Prefix Tree)](./core/trie/)
 
-Advanced Topics
----------------
+## Advanced Topics
 
 - [Backtracking](./advanced/backtracking/)
 - [Binary Search](./advanced/binary-search/)
@@ -34,20 +32,15 @@ Advanced Topics
 - [Sorting](./advanced/sorting/)
 - [Two Pointers](./advanced/two-pointers/)
 
-Other Resources
----------------
+## Other Resources
 
-- [Basic Implementation](https://hackmd.io/@siansiansu/rknleZD4R)
-- [LeetCode Contests](https://hackmd.io/@siansiansu/BJd6MEd_0)
-- [SQL](https://hackmd.io/@siansiansu/ByJrrvh7A)
+- [Basic Implementation](./resources/basic.md)
+- [SQL](./resources/sql.md)
 - [USACO Guide](https://usaco.guide/)
-- [Common Bit Manipulation](https://hackmd.io/@siansiansu/SJgArcrE0)
-- [演算法來用台語講 - 解題詞彙對照表](https://hackmd.io/@siansiansu/S1_QERVdR)
+- [Common Bit Manipulation](./resources/bit.md)
 - [Algorithm Notes](https://web.ntnu.edu.tw/~algo/)
 
-
-C++ Features
-------------
+## C++ Features
 
 - [C++11 for Programming Contests](https://codeforces.com/blog/entry/10124)
 - [C++ Tricks (C++11 onwards)](https://codeforces.com/blog/entry/15643)
@@ -55,8 +48,7 @@ C++ Features
 - [C++17](https://codeforces.com/blog/entry/57729)
 - [C++ tips and tricks](https://codeforces.com/blog/entry/74684)
 
-LeetCode Articles
------------------
+## LeetCode Articles
 
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide) by xrssa
 - [Doing Leetcode the Wrong Way](https://leetcode.com/discuss/general-discussion/5031884/Doing-Leetcode-the-wrong-way.) by Dartist
@@ -66,8 +58,7 @@ LeetCode Articles
 - [Tips for Negotiation](https://leetcode.com/discuss/compensation/1767395/Tips-for-Negotiation) by ghost_007
 - [Tips for Answering Tricky Behavioral Interview Questions](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions) by Anonymous user
 
-Additional Resources
---------------------
+## Links
 
 - [Algorithms Visualization](https://visualgo.net/en)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)

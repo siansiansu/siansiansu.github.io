@@ -8,7 +8,7 @@
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 斑尾扇 pan-bué-sìnn
 - 🎯 [英] 斑尾扇鶲 pan-bué-sìnn-ong
@@ -25,7 +25,7 @@
 (c) Md. Zaber Ansary, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 白喉尾扇 pe̍h-âu-bué-sìnn
 - 🎯 [英] 白喉尾扇鶲 pe̍h-âu-bué-sìnn-ong

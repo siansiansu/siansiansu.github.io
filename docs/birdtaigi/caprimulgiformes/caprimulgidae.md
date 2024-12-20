@@ -8,7 +8,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 普通石磯仔 phóo-thong-tsio̍h-ki-á**
 - 🎯 **[英] 殕色石磯仔 phú-sik-tsio̍h-ki-á**
@@ -39,7 +39,7 @@
 (c) Rizki Kurnia Tohir, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 南亞石磯仔 lâm-a-tsio̍h-ki-á**
 - 🎯 **[英] 山蚊母石磯仔 suann-bûn-bó-tsio̍h-ki-á**

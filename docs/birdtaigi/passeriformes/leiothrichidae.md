@@ -8,7 +8,7 @@
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白耳仔 pe̍h-hīnn-á
 - 🎯 [華] 白耳畫眉 pe̍h-hīnn-uē-bâi
@@ -25,7 +25,7 @@
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 繡眼畫眉 siù-gán-uē-bâi
 - 🎯 [華] 繡眼花眉 siù-gán-hue-bâi
@@ -43,7 +43,7 @@
 (c) Redbird Wu, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紋翼畫眉 bûn-i̍k-uē-bâi
 - 🎯 [華] 紋翼花眉 bûn-i̍k-hue-bâi
@@ -60,7 +60,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 四眉 sì-bâi
 - 🎯 [華] 台灣噪眉 tâi-uân-tshò-bâi
@@ -77,7 +77,7 @@
 (c) sunmr, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 台灣畫眉 tâi-uân-uē-bâi
 - 🎯 [華] 台灣花眉 tâi-uân-hue-bâi
@@ -93,7 +93,7 @@
 (c) John Clough, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 中國畫眉 tiong-ko-uē-bâi
 - 🎯 [華] 中國花眉 tiong-ko-hue-bâi

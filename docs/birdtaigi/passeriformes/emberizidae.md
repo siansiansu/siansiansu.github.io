@@ -8,7 +8,7 @@
 (c) David Tan, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 草鵐 tsháu-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -23,7 +23,7 @@
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 野鵐 iá-bû
 - [日] 野路子 iá-lōo-tsí
@@ -39,7 +39,7 @@
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 黃喉鵐 n̂g-âu-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -54,7 +54,7 @@
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅胸鵐 âng-hing-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -69,7 +69,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 小鵐 sió-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -84,7 +84,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白眉鵐 pe̍h-ba̍k-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -99,7 +99,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 田鵐 tshân-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -114,7 +114,7 @@
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 黃眉鵐 n̂g-bâi-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -129,7 +129,7 @@
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 金鵐 kim-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -144,7 +144,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 鏽鵐 siù-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -159,7 +159,7 @@
 (c) 茶棚, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 灰頭烏面鵐 hue-thâu-oo-bīn-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -174,7 +174,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 葦鵐 uí-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -189,7 +189,7 @@
 (c) Jayant M Deshpande, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 聳毛鵐 tshàng-moo-bû
 - 🎯 [英] 冠鵐 kuan-bû
@@ -205,7 +205,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 紅頸葦鵐 âng-kún-uí-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -220,7 +220,7 @@
 (c) Ani Sarkisyan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 烏頭鵐 oo-thâu-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -235,7 +235,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白頭鵐 pe̍h-thâu-bû
 - ✳️ [華] 鵐仔 bû-á
@@ -250,7 +250,7 @@
 Masked Bunting
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 黃喉烏面鵐 n̂g-âu-oo-bīn-bû
 - ✳️ [華] 鵐仔 bû-á

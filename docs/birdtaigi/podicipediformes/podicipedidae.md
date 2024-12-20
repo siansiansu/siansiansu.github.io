@@ -8,7 +8,7 @@
 (c) Chuangzao, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 水避仔 tsuí-pī-á**
 - [華] 小鸊鷉 sió-phik-su
@@ -30,7 +30,7 @@
  (c) brian stahls, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 角水避 kak-tsuí-pī**
 - [華][英] 角鸊鷉 kak-phik-su
@@ -51,7 +51,7 @@
 (c) kha, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 紅頸水避 âng-kún-tsuí-pī**
 - [華] 紅頸鸊鷉 âng-kún-phik-su
@@ -72,7 +72,7 @@
 (c) Chris Moody, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 聳毛水避 kuan-tsuí-pī
 - [華] 冠鸊鷉 kuan-phik-su
@@ -94,7 +94,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 烏頸水避 oo-kún-tsuí-pī**
 - [華] 烏頸鸊鷉 oo-kún-phik-su

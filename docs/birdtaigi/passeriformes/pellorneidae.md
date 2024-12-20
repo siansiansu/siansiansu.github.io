@@ -8,7 +8,7 @@
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 頭烏線 thâu-oo-suànn
 

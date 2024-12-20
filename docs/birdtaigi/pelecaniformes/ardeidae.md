@@ -8,7 +8,7 @@
 no rights reserved, uploaded by 葉子
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 山暗光 suann-àm-kong
 - 🎯 [華] 烏頭麻鷺 oo-thâu-muâ-lōo
@@ -28,7 +28,7 @@ no rights reserved, uploaded by 葉子
 © かわう, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 日本山暗光 ji̍t-pún-suann-àm-kong
 - 🎯 [華] 麻鷺 muâ-lōo
@@ -46,7 +46,7 @@ no rights reserved, uploaded by 葉子
 (c) Tatyana Zarubo, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 大麻鷺 tuā-muâ-lōo
 - 🎯 [日] 山家五位 suann-ka-gōo-uī
@@ -62,7 +62,7 @@ no rights reserved, uploaded by 葉子
 (c) Seth Miller, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃頸烏鷺 n̂g-kún-oo-lōo
 - [日] 高砂烏鷺 ko-sua-oo-lōo
@@ -77,7 +77,7 @@ no rights reserved, uploaded by 葉子
 (c) Gavin Goodyear, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 黃雞仔 n̂g-ke-á
 - 🎯 [華] 黃小鷺 n̂g-sió-lōo
@@ -94,7 +94,7 @@ no rights reserved, uploaded by 葉子
 (c) kenny_well, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 秋小鷺 tshiu-sió-lōo
 - [日] 大葭五位 tuā-ka-gōo-uī
@@ -110,7 +110,7 @@ no rights reserved, uploaded by 葉子
 (c) subhashc, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 栗小鷺 lik-sió-lōo
 - [日] 琉球葭五位 liû-khiû-ka-gōo-uī
@@ -127,7 +127,7 @@ no rights reserved, uploaded by 葉子
 (c) Ad Konings, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 青簑鷺 tshenn-sui-lōo
 - 🎯 [華] 青鷺 tshenn-lōo
@@ -146,7 +146,7 @@ no rights reserved, uploaded by 葉子
 no rights reserved, uploaded by Kyle Nessen
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 夜鷺 iā-lōo
 - [日] 五位鷺 gōo-uī-lōo
@@ -163,7 +163,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) David McCorquodale, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 棕夜鷺 tsang-iā-lōo
 - [日] 喙太五位 tshuì-thài-gōo-uī
@@ -180,7 +180,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 池鷺 tî-lōo
 - 🎯 [華][英] 沼鷺 tsiáu-lōo
@@ -196,7 +196,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 爪哇池鷺 jiáu-ua-tî-lōo
 - 🎯 [華] 爪哇沼鷺 jiáu-ua-tsiáu-lōo
@@ -212,7 +212,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Jacqui Geux, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英][日] 白面鷺 pe̍h-bīn-lōo
 
@@ -226,7 +226,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Bridget Spencer, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏翎鷥 oo-līng-si
 - 🎯 [日] 烏鷺 oo-lōo
@@ -243,7 +243,7 @@ no rights reserved, uploaded by Kyle Nessen
 © Gerard van de Wiel, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 唐白鷺 tn̂g-pe̍h-lōo
 - [英] 中國白鷺 tiong-kok-pe̍h-lōo
@@ -263,7 +263,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Bengt Nyman, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 小白翎鷥 sió-pe̍h-līng-si
 - [華] 小白鷺 sió-pe̍h-lōo
@@ -284,7 +284,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Greg West, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 黃頭白翎鷥 n̂g-thâu-pe̍h-līng-si
 - [華] 黃頭鷺 n̂g-thâu-lōo
@@ -305,7 +305,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Hong, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 中白翎鷥 tshun-pe̍h-līng-si
 - [華] 中白鷺 tshun-pe̍h-lōo
@@ -325,7 +325,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Corine Bliek, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 青鷺 tshenn-lōo
 - 🎯 [台] 青翎鷥 tshenn-līng-si
@@ -342,7 +342,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Mike Quinn, Austin, TX, some rights reserved (CC BY-NC),
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][日] 紫色鷺 tsí-sik-lōo
 - 🎯 [台] 紫翎鷥 tsí-līng-si
@@ -357,7 +357,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) daverowe, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 大白翎鷥 tuā-pe̍h-līng-si
 - [華] 大白鷺 tuā-pe̍h-lōo
@@ -377,7 +377,7 @@ no rights reserved, uploaded by Kyle Nessen
 (c) Nik Borrow, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白頸烏鷺 pe̍h-kún-oo-lōo
 - 🎯 [日] 白胸烏鷺 pe̍h-hing-oo-lōo

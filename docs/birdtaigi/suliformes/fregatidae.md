@@ -8,7 +8,7 @@
 (c) Bernard Mayoff, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 軍艦鳥 kun-lām-tsiáu
 - 🎯 [日][英] 大軍艦鳥 tuā-kun-lām-tsiáu
@@ -23,7 +23,7 @@
 (c) juju98, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 白斑軍艦鳥 pe̍h-pan-kun-lām-tsiáu
 - 🎯 [日][英] 小軍艦鳥 sió-kun-lām-tsiáu

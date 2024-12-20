@@ -8,7 +8,7 @@
 (c) Uday Agashe, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 赤頭望冬 tshiah-thâu-bāng-tang
 - 🎯 [日] 眉羽団扇鳥 bâi-ú-thuân-sìnn-tsiáu
@@ -30,7 +30,7 @@
 (c) breeze-lin, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 山鷦鶯 suann-tsiau-ing
 - 🎯 [華] 斑紋鷦鶯 pan-bûn-tsiau-ing
@@ -51,7 +51,7 @@
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 青羽団扇鳥 tshinn-ú-thuân-sìnn-tsiáu
 - 🎯 [台] 灰頭鷦鶯 hue-thâu-tsiau-ing
@@ -72,7 +72,7 @@
 (c) Ron Greer, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃頭扇尾鶯 n̂g-thâu-sìnn-bué-ing
 - 🎯 [華] 黃頭尾扇 n̂g-thâu-bué-sìnn
@@ -92,7 +92,7 @@
 (c) Bird Explorers, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白尾扇 pe̍h-bué-sìnn
 - 🎯 [台] 赤尾扇 tshiah-bué-sìnn
@@ -112,7 +112,7 @@
 (c) tonipons, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 長尾裁縫鳥 tn̂g-bé-tshâi-hông-tsiáu
 - 🎯 [日] 長尾紩葉鶯 tn̂g-bé-thīnn-hio̍h-ing

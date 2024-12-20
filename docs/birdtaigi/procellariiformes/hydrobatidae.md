@@ -8,7 +8,7 @@
 (c) pleasantbaymac, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á
 - 🎯 [日] 白腰海燕仔 pe̍h-io-hái-iàn-á
@@ -23,7 +23,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á
 - 🎯 [日] 姫烏海燕仔 ki-oo-hái-iàn-á
@@ -39,7 +39,7 @@
 © Tony Palliser, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 赤翼叉尾海燕仔 tshiah-si̍t-tshe-bé-hái-iàn-á
 
@@ -53,7 +53,7 @@
 (c) Tony Morris, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á
 - 🎯 [日] 烏海燕仔 oo-hái-iàn-á

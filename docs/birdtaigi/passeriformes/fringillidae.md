@@ -8,7 +8,7 @@
 (c) Mikhail Ezdakov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 黃雀 n̂g-tshiok
 
@@ -22,7 +22,7 @@
 (c) Aaron Maizlish, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 金翼雀 kim-si̍t-tshiok
 
@@ -36,7 +36,7 @@
 (c) Геннадий, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 花雀 hue-tshiok
 - 🎯 [台] 花鳥仔 hue-tsiáu-á
@@ -51,7 +51,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 朱衣 tsu-i
 - 🎯 [台] 紅鳥仔 âng-tsiáu-á
@@ -67,7 +67,7 @@
 (c) zametnya, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][台] 長尾朱衣 tn̂g-bué-tsu-i
 - 🎯 [英][台] 長尾朱雀 tn̂g-bué-tsu-tshiok
@@ -83,7 +83,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏面猴 oo-bīn-kâu
 
@@ -97,7 +97,7 @@
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 赤面猴 tshiah-bīn-kâu
 
@@ -111,7 +111,7 @@
 (c) dirkey, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 臘喙雀 la̍h-tshuì-tshiok
 
@@ -125,7 +125,7 @@
 (c) Xavier Rufray, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 小桑鳲 sió-sng-si
 
@@ -139,7 +139,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 桑鳲 sng-si
 - [中] 黑頭臘喙雀 oo-thâu-la̍h-tshuì-tshiok

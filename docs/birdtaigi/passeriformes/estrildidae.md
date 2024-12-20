@@ -8,7 +8,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 柑仔面梅花雀 kam-á-bīn-muî-hue-tshiok
 - ✳️ [台] 嗶仔 pit-á
@@ -17,7 +17,7 @@
 
 ## [白喉文鳥 ギンバシ Indian Silverbill](https://ebird.org/species/indsil)
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白喉嗶仔 pe̍h-âu-pit-á
 - 🎯 [華] 白喉文鳥 pe̍h-âu-bûn-tsiáu
@@ -34,7 +34,7 @@
 (c) Altaf Hussain Talpur, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白腰嗶仔 pe̍h-io-pit-á
 - 🎯 [華] 白腰文鳥 pe̍h-io-bûn-tsiáu
@@ -51,7 +51,7 @@
 (c) Daniel Raposo, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 斑嗶仔 pan-pit-á
 - 🎯 [華] 斑文鳥 pan-bûn-tsiáu
@@ -68,7 +68,7 @@
 (c) David Monroy R, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏頭嗶仔 oo-thâu-pit-á
 - 🎯 [華] 烏頭文鳥 oo-thâu-bûn-tsiáu
@@ -85,7 +85,7 @@
 © Catalina Tong, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏喉嗶仔 oo-âu-pit-á
 - 🎯 [華] 烏喉文鳥 oo-âu-bûn-tsiáu

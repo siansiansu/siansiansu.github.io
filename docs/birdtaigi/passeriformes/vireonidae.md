@@ -8,7 +8,7 @@
 (c) robbythai, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 青畫眉 tshenn-uē-bâi
 - [中] 白腹畫眉 pe̍h-pak-ue-bâi

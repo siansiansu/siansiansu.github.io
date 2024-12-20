@@ -8,7 +8,7 @@
 (c) Soh Kam Yung, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英][華] 洋燕仔 iûnn-ìnn-á
 - ✳️ [台] 燕仔 ìnn-á
@@ -23,7 +23,7 @@
 (c) 灶馬, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 花燕仔 hue-ìnn-á
 - 🎯 [日][華] 赤腰燕 tshiah-io-ìnn
@@ -39,7 +39,7 @@
 (c) tonipons, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][華] 棕沙燕仔 tsang-sua-ìnn-á
 - 🎯 [日] 台灣小洞燕 tâi-uân-sió-tōng-ìnn
@@ -55,7 +55,7 @@
 (c) rupperrt78, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][華] 灰沙燕仔 hue-sua-ìnn-á
 - 🎯 [日] 小洞燕 sió-tōng-ìnn
@@ -71,7 +71,7 @@
 (c) Gerard Chartier, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 東方毛腳燕仔 tong-hong-moo-kha-iàn-á
 - 🎯 [日] 岩燕仔 giâm-ìnn-á
@@ -87,7 +87,7 @@
 (c) Ad Konings, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 厝燕仔 tshù-ìnn-á
 - ✳️ [台] 燕仔 ìnn-á
@@ -102,7 +102,7 @@
 (c) Thijs Valkenburg, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 金腰燕仔 kim-io-iàn-á
 - ✳️ [台] 燕仔 ìnn-á

@@ -8,7 +8,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 灰斑鶲 hue-pan-ong
 - [日] 蝦夷鶲 hê-î-ong
@@ -24,7 +24,7 @@
 (c) mwbirdco, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 烏鶲 oo-ong
 - [日] 鮫鶲 ka-ong
@@ -39,7 +39,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 闊喙鶲 khuan-tshuì-ong
 - [日] 小鮫鶲 sió-ka-ong
@@ -54,7 +54,7 @@
 © Sam Hambly, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃眉黃鶲 n̂g-bâi-n̂g-ong
 - 🎯 [日] 黃鶲 n̂g-ong
@@ -69,7 +69,7 @@
 (c) Grant Fisher, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白眉鶲 pe̍h-bâi-ong
 
@@ -83,7 +83,7 @@
 (c) John Clough, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白眉黃鶲 pe̍h-bâi-n̂g-ong
 
@@ -97,7 +97,7 @@
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅尾鶲 âng-bé-ong
 - 🎯 [台] 深山鶲 tshim-suann-ong
@@ -112,7 +112,7 @@
 (c) Paul Dickson, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅喉鶲 âng-hôo-ong
 - [日] 白尾鶲 pe̍h-bué-ong
@@ -127,7 +127,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 紅胸鶲 âng-hing-ong
 
@@ -141,7 +141,7 @@
 (c) Uday Agashe, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 棕腹仙鶲 tsang-pak-sian-ong
 - 🎯 [日] 小茶腹大瑠璃 sió-tê-pak-tuā-liû-lî
@@ -156,7 +156,7 @@
 (c) rupperrt78, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 棕腹大仙鶲 tsang-pak-tuā-sian-ong
 
@@ -170,7 +170,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃腹琉璃 n̂g-pak-liû-lî
 - 🎯 [日] 茶腹大瑠璃 tê-pak-tuā-liû-lî
@@ -185,7 +185,7 @@
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白腹琉璃 pe̍h-pak-liû-lî
 - 🎯 [日] 大瑠璃 tuā-liû-lî
@@ -201,7 +201,7 @@
 (c) Sahana M, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 海南藍仙鶲 hái-lâm-tâng-sian-ong
 
@@ -215,7 +215,7 @@
 (c) Cheongweei Gan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 銅藍鶲 tâng-lâm-ong
 - 🎯 [日] 緑青鶲 li̍k-tshenn-ong
@@ -230,7 +230,7 @@
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 白尾鴝 pe̍h-bé-kû
 - 🎯 [日] 紺鶲 khóng-ong
@@ -245,7 +245,7 @@
 (c) Chuangzao, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 藍尾鴝 lâm-bé-kû
 - 🎯 [日] 瑠璃鶲 liû-lî-ong
@@ -260,7 +260,7 @@
 (c) paulshaffner, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 白眉林鴝 pe̍h-ba̍k-lîm-kù
 
@@ -274,7 +274,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 栗背林鴝 lik-puē-lîm-kù
 - 🎯 [日] 阿里山鶲 a-lí-san-ong
@@ -289,7 +289,7 @@
 (c) Rejoice Gassah, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 白腰鵲鴝 pe̍h-io-tshio̍k-kù
 - 🎯 [日] 赤腹四季鳥 tshiah-pak-sù-kuì-tsiáu
@@ -304,7 +304,7 @@
 (c) Morten Ross, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 鵲鴝 tshio̍k-kù
 - 🎯 [日] 四季鳥 sù-kuì-tsiáu
@@ -319,7 +319,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 日本鴝鳥 ji̍t-pún-kù-tsiáu
 - 🎯 [華] 日本歌鴝 ji̍t-pún-kua-kù
@@ -335,7 +335,7 @@
 (c) 范姜士豪, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 琉球鴝鳥 liû-kiû-kù-tsiáu
 - 🎯 [英] 琉球歌鴝 liû-kiû-kua-kù
@@ -350,7 +350,7 @@
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 藍歌鴝 lâm-kua-kù
 - 🎯 [英] 藍鴝鳥 lâm-kua-tsiáu
@@ -366,7 +366,7 @@
 (c) Davis Kwan, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 紅尾溜 âng-bué-liu
 - [日] 尉鶲 ut-ong
@@ -381,7 +381,7 @@
 (c) cellcell, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏喉鴝 oo-âu-kî
 - [台] 烏喉仔 oo-âu-á
@@ -397,7 +397,7 @@
 (c) Julien Renoult, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 野鴝 iá-kû
 - 🎯 [台] 紅點頦 âng-tiám-hâi
@@ -416,7 +416,7 @@
 © bertogcliment, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 漠䳭 bôo-tsik
 - 🎯 [日] 砂漠鶲 sua-bo̍k-ong
@@ -431,7 +431,7 @@
 (c) Nik Borrow, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 沙䳭 sua-tsik
 - [日] 因幡鶲 in-huan-ong
@@ -446,7 +446,7 @@
 (c) nfeddu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 穗䳭 suī-tsik
 - [日] 烏喙鶲 oo-tshuì-ong
@@ -461,7 +461,7 @@
 (c) Vijay Anand Ismavel, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 石青仔 tsio̍h-tshenn-á
 - 🎯 [台] 水鶇仔 tsuí-tang-á
@@ -480,7 +480,7 @@
 (c) sunmr, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏白鶇仔 oo-pe̍h-tang-á
 - 🎯 [英] 小剪尾 sió-tsián-bé
@@ -495,7 +495,7 @@
 © mingun, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 小翼鶇 sió-i̍k-tang
 
@@ -509,7 +509,7 @@
 © supapond13, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 白喉磯鶇 pe̍h-âu-ki-tang
 
@@ -523,7 +523,7 @@
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 藍磯鶇 nâ-ki-tang
 - 🎯 [日] 磯鵯 ki-pi
@@ -539,7 +539,7 @@
 no rights reserved, uploaded by 葉子
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 台灣烏磯 tâi-uân-oo-ki
 - 🎯 [華] 台灣紫嘯鶇 tâi-uân-tsí-siàu-tang
@@ -557,7 +557,7 @@ no rights reserved, uploaded by 葉子
 (c) Manoj Samuel Grg, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白斑烏磯 pe̍h-pan-oo-ki
 - 🎯 [華] 白斑紫嘯鶇 pe̍h-pan-tsí-siàu-tang

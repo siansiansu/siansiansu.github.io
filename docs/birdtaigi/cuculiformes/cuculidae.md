@@ -8,7 +8,7 @@
 (c) Uday Agashe, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 大草嘓 tuā-tsháu-kok**
 - 🎯 **[台] 大草董 tuā-tsháu-táng**
@@ -30,7 +30,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 草嘓 tsháu-kok**
 - 🎯 **[台] 草董 tsháu-táng**
@@ -53,7 +53,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 冠郭公 kuan-kueh-kong**
 - 🎯 **[台] 聳毛杜鵑 tshàng-môo-tōo-kuan**
@@ -75,7 +75,7 @@
 (c) Elavarasan M, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 烏白冠郭公 oo-pe̍h-kuan-kueh-kong**
 - [中] 斑翅鳳頭鵑 pan-tshì-hōng-thâu-kuan
@@ -97,7 +97,7 @@
 (c) sunnyjosef, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 鬼郭公 kuí-kueh-kong**
 - ✳️ [台] 姑鳥 koo-tsiáu
@@ -119,7 +119,7 @@
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 八聲豆仔鳥 peh-siann-tāu-á-tsiáu**
 - 🎯 **[台] 八聲客鴣 peh-siann-khik-koo**
@@ -147,7 +147,7 @@
 © Dixon Lau, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] 烏鶖郭公 oo-tshiu-kueh-kong**
 - [華] 方尾烏鵑 hong-bué-oo-kuan
@@ -168,7 +168,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 鷹仔咕鳥 ing-á-koo-tsiáu**
 - [華] 鷹鵑 ing-kuan
@@ -190,7 +190,7 @@
 (c) trickytris, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 北方鷹仔咕鳥 pak-hng-ing-á-koo-tsiáu**
 - [華] 北方鷹鵑 pak-hng-ing-kuan
@@ -211,7 +211,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 赤腹鷹仔咕鳥 tshiah-pak-ing-á-koo-tsiáu**
 - 🎯 **[英] 霍氏鷹仔咕鳥 Hok-sī-ing-á-koo-tsiáu**
@@ -234,7 +234,7 @@
 © Deepa Mohan, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 小杜鵑 sió-tōo-kuan**
 - 🎯 **[台] 小郭公鳥 sió-kueh-kong-tsiáu**
@@ -260,7 +260,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 四聲杜鵑 sì-siann-tōo-kuan**
 - 🎯 **[台] 四聲豆仔鳥 sì-siann-tāu-á-tsiáu**
@@ -285,7 +285,7 @@
 © Pauline Carmel Joy Eje, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 喜馬拉雅中杜鵑 hí-má-la-ngá-tiong-tōo-kuan**
 - 🎯 **[台] 喜馬拉雅筒鳥 hí-má-la-ngá-tâng-tsiáu**
@@ -314,7 +314,7 @@
 (c) Alan King, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 大杜鵑 tuā-tōo-kuan**
 - 🎯 **[台] 大郭公鳥 tuā-kueh-kong-tsiáu**
@@ -340,7 +340,7 @@
 (c) Игорь. Фадеев, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 北方中杜鵑 pak-hng-tiong-tōo-kuan**
 - 🎯 **[台] 北方中郭公鳥 pak-hng-tiong-kueh-kong-tsiáu**

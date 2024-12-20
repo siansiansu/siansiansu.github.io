@@ -8,7 +8,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 灰喉戲班仔 hue-âu-hì-pan-á
 - 🎯 [華][英] 灰喉山椒鳥 hue-âu-suann-tsiau-tsiáu
@@ -25,7 +25,7 @@
 (c) Dmitry Ivanov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 赤紅戲班仔 tshiah-âng-hì-pan-á
 - 🎯 [華] 赤紅山椒鳥 tshiah-âng-suann-tsiau-tsiáu
@@ -42,7 +42,7 @@
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 琉球戲班仔 liû-khiû-hì-pan-á
 - 🎯 [日][英] 琉球山椒鳥 liû-khiû-suann-tsiau-tsiáu
@@ -59,7 +59,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][日] 灰戲班仔 hue-hì-pan-á
 - 🎯 [日][英] 灰山椒鳥 hue-suann-tsiau-tsiáu
@@ -76,7 +76,7 @@
 (c) Cat Abbott, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 小灰戲班仔 sió-hue-hì-pan-á
 - 🎯 [華] 小灰山椒鳥 sió-hue-suann-tsiau-tsiáu
@@ -95,7 +95,7 @@
 © reginchen, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 花翼戲班仔 hue-tshì-hì-pan-á
 - 🎯 [華] 花翼山椒鳥 hue-tshì-suann-tsiau-tsiáu
@@ -112,7 +112,7 @@
 © jayaprakash Singha, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 粉紅戲班仔 hún-âng-hì-pan-á
 - 🎯 [華] 粉紅山椒鳥 hún-âng-suann-tsiau-tsiáu

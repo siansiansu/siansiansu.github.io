@@ -8,7 +8,7 @@
 (c) bwood708, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 彩䴉 tshái-hiân
 
@@ -22,7 +22,7 @@
 (c) Jay, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 朱鷺 tsu-lōo
 
@@ -31,7 +31,7 @@
 
 ## [黑頭白䴉 クロトキ Black-headed Ibis](https://ebird.org/species/blhibi1)
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏頭白䴉 oo-thâu-pe̍h-hiân
 - [日] 烏朱鷺 oo-tsu-lōo
@@ -47,7 +47,7 @@
 (c) Federico Moroni, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 埃及聖䴉 ai-ki̍p-sìng-hiân
 
@@ -61,7 +61,7 @@
 (c) Hong, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 烏面抐桮 oo-bīn-lā-pue
 - ✳️ [台] 抐桮 lā-pue
@@ -77,7 +77,7 @@
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 白抐桮 pe̍h-bīn-lā-pue
 - ✳️ [台] 抐桮 lā-pue

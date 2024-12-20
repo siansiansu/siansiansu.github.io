@@ -8,7 +8,7 @@
 (c) Dr Caesar Sengupta, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 牛屎鳥仔 gû-sái-tsiáu-á
 - 🎯 [華] 白鶺鴒 pe̍h-tsik-lîng
@@ -24,7 +24,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 日本鶺鴒 ji̍t-pún-tsit-lîng
 - ✳️ [華] 鶺鴒 tsit-lîng
@@ -39,7 +39,7 @@
 (c) kellyr115, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 灰鶺鴒 hue-tsit-lîng
 - ✳️ [華] 鶺鴒 tsit-lîng
@@ -54,7 +54,7 @@
 (c) Игорь Двуреков, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 東方黃鶺鴒 tong-hong-n̂g-tsit-lîng
 - ✳️ [華] 鶺鴒 tsit-lîng
@@ -69,7 +69,7 @@
 (c) alexey_kuzmin, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 西方黃鶺鴒 se-hong-n̂g-tsit-lîng
 - ✳️ [華] 鶺鴒 tsit-lîng
@@ -84,7 +84,7 @@
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃頭鶺鴒 n̂g-thâu-tsit-lîng
 - ✳️ [華] 鶺鴒 tsit-lîng
@@ -99,7 +99,7 @@
 (c) Avinash Bhagat, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 山鶺鴒 suann-tsit-lîng
 - ✳️ [華] 鶺鴒 tsit-lîng
@@ -114,7 +114,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 大花鷚 tuā-hue-liù
 - [英] 理查鷚 Richard's liù
@@ -130,7 +130,7 @@
 (c) Андрей Беспалов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 布萊氏鷚 Blyth's liù
 - ✳️ [華] 鷚仔 liù-á
@@ -145,7 +145,7 @@
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 黃腹鷚 n̂g-pak-liù
 - [英] 美國鷚 bí-kok-liù
@@ -161,7 +161,7 @@
 (c) CORDENOS Thierry, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 水鷚 tsuí-liù
 - ✳️ [華] 鷚仔 liù-á
@@ -176,7 +176,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 紅喉鷚 âng-âu-liû
 - ✳️ [華] 鷚仔 liù-á
@@ -191,7 +191,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 白背鷚 pe̍h-puē-liù
 - ✳️ [華] 鷚仔 liù-á
@@ -206,7 +206,7 @@
 (c) Valia Pavlou, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 草地鷚 tsháu-tē-liù
 - ✳️ [華] 鷚仔 liù-á
@@ -221,7 +221,7 @@
 (c) Alejandro Ocampo, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 林鷚 lîm-liù
 - ✳️ [華] 鷚仔 liù-á
@@ -236,7 +236,7 @@
 © Benoît Segerer, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 樹鷚 tshiū-liù
 - ✳️ [華] 鷚仔 liù-á

@@ -8,7 +8,7 @@
 (c) hokoonwong, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu
 - ✳️ [日][英] 熱帶鳥 jia̍t-tài-tsiáu
@@ -23,7 +23,7 @@
 (c) Tom Benson, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu
 - ✳️ [日][英] 熱帶鳥 jia̍t-tài-tsiáu
@@ -38,7 +38,7 @@
 (c) juju98, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu
 - ✳️ [日][英] 熱帶鳥 jia̍t-tài-tsiáu

@@ -8,7 +8,7 @@
 © Gergely Nigg, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 西方米雞仔 se-hong-bí-ke-á**
 - 🎯 [日] 歐洲米雞仔 au-tsiu-bí-ke-á
@@ -23,8 +23,8 @@
 
 :::note[備註]
 
-- 日語：ヨーロッパ au-tsiu + 秧雞 iong-kue
-- 華語：西方 se-hong + 秧雞 iong-kue
+- 日語：ヨーロッパ au-tsiu + 米雞仔 bí-ke-á
+- 華語：西方 se-hong + 米雞仔 bí-ke-á
 
 :::
 
@@ -36,9 +36,9 @@
 © mami_t_t, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 **[華] 東亞秧雞 tang-a-iong-kue**
+- 🎯 **[華] 東亞米雞仔 tang-a-bí-ke-á**
 - ✳️ [台] 烏水雞 oo-súi-ke
 - ✳️ [台] 烏雞仔 oo-ke-á
 - ✳️ [台] 田雞仔 tshân-ke-á
@@ -50,7 +50,7 @@
 
 :::note[備註]
 
-- 依據華語東亞 -> tang-a + 秧雞 iong-kue
+- 依據華語東亞 -> tang-a + 米雞仔 bí-ke-á
 
 :::
 
@@ -62,9 +62,9 @@
 (c) Catalina Tong, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 **[英] 殕色胸秧雞 phú-sik-hing-sió-iong-kue**
+- 🎯 **[英] 殕色胸米雞仔 phú-sik-hing-sió-bí-ke-á**
 - ✳️ [台] 烏水雞 oo-súi-ke
 - ✳️ [台] 烏雞仔 oo-ke-á
 - ✳️ [台] 田雞仔 tshân-ke-á
@@ -88,9 +88,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 © SIA, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 **[華] 斑胸秧雞 pan-hing-iong-kue**
+- 🎯 **[華] 斑胸米雞仔 pan-hing-bí-ke-á**
 - ✳️ [台] 烏水雞 oo-súi-ke
 - ✳️ [台] 烏雞仔 oo-ke-á
 - ✳️ [台] 田雞仔 tshân-ke-á
@@ -114,7 +114,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 (c) Alexis Lours, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 水鵁鴒 súi-ka-ling**
 - [華] 紅冠水雞 âng-kuan-tsuí-kue
@@ -129,6 +129,13 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
+:::note[備註]
+
+- 2002⁺ 台華線頂辭典
+- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+
+:::
+
 ## [白冠雞 オオバン Eurasian Coot](https://ebird.org/species/eurcoo)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -137,7 +144,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 (c) Wei Li Jiang, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 白冠烏雞仔 pe̍h-kuan-oo-ke-á**
 - ✳️ [台] 烏雞仔 oo-ke-á
@@ -160,7 +167,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 (c) cdewerowe, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 殕色頭紫田雞 phú-sik-thâu-tsí-tshân-ke**
 - ✳️ [台] 紫水雞 tsí-tsuí-ke
@@ -185,15 +192,15 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 © Legawa, Everest C, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 **[英] 白眉秧雞 pe̍h-bâi-iong-kue**
+- 🎯 **[英] 白眉米雞仔 pe̍h-bâi-bí-ke-á**
 
 :::
 
 :::note[備註]
 
-- White-browed -> 白眉 pe̍h-bâi + 秧雞 iong-kue
+- White-browed -> 白眉 pe̍h-bâi + 米雞仔 bí-ke-á
 
 :::
 
@@ -205,7 +212,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 田頓 tshân-tòm**
 
@@ -226,7 +233,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 (c) bscrl, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 苦雞母 khóo-ke-bó**
 - 🎯 **[台] 姑惡鳥 koo-ok-tsiáu**
@@ -255,17 +262,18 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 (c) tanhk, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 [華][英] 紅跤秧雞 âng-kha-iong-kue
+- 🎯 [華][英] 紅跤米雞仔 âng-kha-bí-ke-á
 - ✳️ [華] 秧雞 iong-kue
 - ✳️ [台] 紅跤鳥 âng-kha-tsiáu
+- ✳️ [台] 米雞仔 bí-ke-á
 
 :::
 
 :::note[備註]
 
-- 紅跤 âng-kha + 秧雞 iong-kue
+- 紅跤 âng-kha + 米雞仔 bí-ke-á
 
 :::
 
@@ -277,10 +285,11 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 (c) Sharma BC, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 [華][英] 殕色跤秧雞 phú-sik-kha-iong-kue
+- 🎯 [華][英] 殕色跤米雞仔 phú-sik-kha-bí-ke-á
 - ✳️ [華] 秧雞 iong-kue
+- ✳️ [台] 米雞仔 bí-ke-á
 
 :::
 
@@ -298,7 +307,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 紅胸米雞仔 âng-hing-bí-ke-á**
 - 🎯 **[英] 紅胸秧雞 âng-hing-iong-kue**
@@ -313,6 +322,12 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::
 
+:::note[備註]
+
+頭前加上紅胸 âng-hing 以區別於其他米雞仔 bí-ke-á
+
+:::
+
 ## [斑脇秧雞 コウライクイナ Band-bellied Crake](https://ebird.org/species/babcra1)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -321,12 +336,18 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 [華][英] 斑胳秧雞 pan-kueh-iong-kue
+- 🎯 [華][英] 斑胳米雞仔 pan-kueh-bí-ke-á
 - ✳️ [華] 秧雞 iong-kue
 - ✳️ [台] 水雞 tsuí-kue
 - ✳️ [台] 米雞仔 bí-ke-á
+
+:::
+
+:::note[備註]
+
+斑脇 -> 斑胳 pan-kueh
 
 :::
 
@@ -338,6 +359,21 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 © Sun Jiao, some rights reserved (CC-BY)
 </p>
 
+:::info[台語名]
+
+- 🎯 **[台] 紅跤苦雞母 âng-kha-khóo-ke-bó**
+- 🎯 **[台] 紅跤姑惡鳥 âng-kha-koo-ok-tsiáu**
+- ✳️ [台] 姑婆鳥 koo-pō-tsiáu
+- ✳️ [台] 苦惡鳥 khóo-ònn-tsiáu
+
+:::
+
+:::note[備註]
+
+頭前加上紅跤 âng-kha 以區別於其他苦雞母 khóo-ke-bó
+
+:::
+
 ## [小秧雞 ヒメクイナ Baillon's Crake](https://ebird.org/species/baicra1)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -346,11 +382,17 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
-- 🎯 [華] 小秧雞 sió-iong-kue
+- 🎯 [華] 小米雞仔 sió-bí-ke-á
 - ✳️ [華] 秧雞 iong-kue
 - ✳️ [台] 水雞 tsuí-kue
 - ✳️ [台] 米雞仔 bí-ke-á
+
+:::
+
+:::note[備註]
+
+頭前加上小 sió 以區別於其他米雞仔 bí-ke-á
 
 :::

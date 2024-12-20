@@ -8,7 +8,7 @@
 (c) Glenda Heng, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 花仔和尚 hue-á huê-siūnn
 - [華] 五色鳥 ngóo-sik-tsiáu

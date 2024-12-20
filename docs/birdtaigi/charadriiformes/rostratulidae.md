@@ -8,7 +8,7 @@
 (c) Afsar Nayakkan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 彩鷸 tshái-u̍t
 - 🎯 [台] 骨簪鷸 kut-tsiam-u̍t

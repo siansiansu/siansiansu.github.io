@@ -8,7 +8,7 @@
 (c) Vijay Vanaparthy, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 青尾食蜂鳥 tshenn-bué-tsia̍h-phang-tsiáu
 - [華] 栗喉蜂虎 lik-âu-phang-hóo
@@ -23,7 +23,7 @@
 (c) Jean and Fred, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 彩虹食蜂鳥 khīng-sik-tsia̍h-phang-tsiáu
 - [華] 彩虹蜂虎 khīng-sik-phang-hóo
@@ -38,7 +38,7 @@
 (c) benjamynweil, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 青喉食蜂鳥 tshenn-âu-tsia̍h-phang-tsiáu
 - [華] 青喉蜂虎 tshenn-âu-phang-hóo

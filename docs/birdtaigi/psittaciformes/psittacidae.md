@@ -8,7 +8,7 @@
 (c) shierandrulist, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][英] 和尚鸚哥 huê-siūnn ing-ko
 - ✳️ [台] 鸚哥 ing-ko

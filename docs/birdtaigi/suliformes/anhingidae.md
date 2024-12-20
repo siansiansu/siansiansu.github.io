@@ -8,7 +8,7 @@
 (c) Phil Benstead, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [中] 烏腹蛇鵜 oo-pak-tsuâ-thê
 

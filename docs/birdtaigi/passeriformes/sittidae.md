@@ -8,7 +8,7 @@
 (c) Frank Vassen, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 茶腹鳾 tê-pak-su
 - 🎯 [日] 五十雀

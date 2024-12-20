@@ -8,7 +8,7 @@
 (c) Tristan Scholze, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 日本樹鶯 ji̍t-pún tshiū-ing
 
@@ -22,7 +22,7 @@
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 遠東樹鶯 uán-tong-tshiū-ing
 - [日] 朝鮮鶯 tiâu-sián-ing
@@ -37,7 +37,7 @@
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 小鶯 sió-ing
 - 🎯 [日] 台灣小鶯 tâi-uân-sió-ing
@@ -52,7 +52,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 深山鶯 tshim-suann-ing
 
@@ -66,7 +66,7 @@
 © Chuan Xuan, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 短尾鶯 té-bé-ing
 - 🎯 [日] 藪雨 sòo-hōo
@@ -81,7 +81,7 @@
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 棕面鶯 tsong-bīn-ing
 - [中] 棕面鶲鶯 tsong-bīn-ong-ing

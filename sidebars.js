@@ -95,6 +95,8 @@ const sidebars = {
           collapsed: false,
           items: [
             'algorithms/resources/basic',
+            'algorithms/resources/bit',
+            'algorithms/resources/sql',
           ],
         },
       ],

@@ -8,7 +8,7 @@
 (c) Dhammika Heenpella, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 菱角鳥 lîng-kak-tsiáu
 - [華] 水雉 tsuí-thī

@@ -8,7 +8,7 @@
 (c) sunmr, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 染布鳥 ní-pòo-tsiá
 - [華] 烏枕藍鶲 oo-tsím-nâ-ong
@@ -23,7 +23,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 烏三光鳥 sann-kong-tsiáu
 - 🎯 [華] 紫綬帶 tsí-siū-tuà
@@ -41,7 +41,7 @@
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 阿穆爾三光鳥 amur-sann-kong-tsiáu
 - 🎯 [華][英] 阿穆爾綬帶 amur-siū-tuà

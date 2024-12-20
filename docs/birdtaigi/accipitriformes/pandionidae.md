@@ -8,7 +8,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 魚鷹 hî-ing
 

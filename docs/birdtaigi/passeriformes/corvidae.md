@@ -8,7 +8,7 @@
 © lava_chen, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][日] 長尾山娘 tn̂g-bué-suann-niû
 - 🎯 [台][日] 山娘仔 suann-niû-á
@@ -28,7 +28,7 @@
 (c) FreckLes, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 客鳥 kheh-tsiáu
 - [華][日] 喜鵲 hí-tshiok
@@ -44,7 +44,7 @@
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 咖咖鳥 ka-ka-tsiáu
 - 🎯 [華][日] 樹鵲 tshiū-tshiok
@@ -60,7 +60,7 @@
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][華] 灰客鳥 hue-kheh-tsiáu
 - [華] 灰喜鵲 hue-hí-tshiok
@@ -75,7 +75,7 @@
 (c) Mikhail Ezdakov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 松鴉 siông-a
 - ✳️ [台] 烏鴉 oo-a
@@ -90,7 +90,7 @@
 (c) Vitalii Khustochka, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 星鴉 tshinn-a
 - ✳️ [台] 烏鴉 oo-a
@@ -105,7 +105,7 @@
 © garypoon, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 玉頸鴉 gio̍k-kún-a
 - 🎯 [英] 白頸鴉 pe̍h-kún-a
@@ -121,7 +121,7 @@
 (c) John Clough, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 厝烏鴉 tshù-oo-a
 - ✳️ [台] 烏鴉 oo-a
@@ -136,7 +136,7 @@
 (c) Александр Гончаров, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台][日] 深山烏 tshim-suann-oo
 - [台][日] 山烏鴉 suann-oo-a
@@ -154,7 +154,7 @@
 (c) oculusaccipiter, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 小喙烏鴉 sió-tshuì-oo-a
 - ✳️ [台] 烏鴉 oo-a
@@ -169,7 +169,7 @@
 (c) Joe Bourget, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 大喙烏鴉 tuā-tshì-oo-a
 - [華] 巨喙鴉 kū-tshuì-a

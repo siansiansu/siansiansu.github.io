@@ -8,7 +8,7 @@
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 棕三趾鶉 tsang-sann-tsí-tshun
 - [日] 三斑鶉 sann-pan-tshun
@@ -23,7 +23,7 @@
 (c) copper, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 林三趾鶉 lîm-sann-tsí-tshun
 - [日] 姫三斑鶉 ki-sann-pan-tshun
@@ -38,7 +38,7 @@
 (c) benjamynweil, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 黃跤三趾鶉 n̂g-kha-sann-tsí-tshun
 - [日] 朝鮮三斑鶉 ki-sann-pan-tshun

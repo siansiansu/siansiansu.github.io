@@ -8,7 +8,7 @@
 @Iain Robson no rights reserved
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 釣龜 tiò-ku**
 - 🎯 **[台] 紅跤竹雞 âng-kha-tek-ke**
@@ -36,7 +36,7 @@
 (c) Christoph Moning, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 烏雉 oo-thī**
 - 🎯 **[台] 烏雉雞 oo-thī-ke**
@@ -60,7 +60,7 @@
 (c) Frank Lin, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 啼雞 thî-ke**
 - [華] 環頸雉 khuân-kīng-thī
@@ -82,7 +82,7 @@
 (c) Gaozi Chen, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 哇雞 ua-ke**
 - 🎯 **[台] 華雞 huâ-ke**
@@ -108,7 +108,7 @@
 © Rohit Naniwadekar, some rights reserved (CC-BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 藍孔雀 nâ-khóng-tshiok**
 - 🎯 **[英] 印度孔雀 ìn-tōo-khóng-tshiok**
@@ -129,7 +129,7 @@
 (c) chiuluan, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 台灣竹雞 tâi-uân-tik-ke**
 - 🎯 [台] 竹雞 tik-ke
@@ -150,7 +150,7 @@
 (c) harshithjv, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 五鳴雞 ngóo-bêng-ke**
 - 🎯 **五更雞 gōo-kenn-ke**
@@ -176,7 +176,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[台] 鵪鶉 ian-thun**
 - 🎯 **[台] 紅腹鶉 âng-hôo-tshun
@@ -200,7 +200,7 @@
 (c) Ryan Shaw, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[日] lài-tsiáu**
 - 🎯 **[日] 雷鳥 luî-tsiáu**

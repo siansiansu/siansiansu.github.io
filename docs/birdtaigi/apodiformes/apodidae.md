@@ -8,7 +8,7 @@
 (c) David Cook, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 白喉針尾雨燕仔 pe̍h-âu-tsiam-bé-ú-iàn-á**
 
@@ -28,7 +28,7 @@
 © Kittakorn, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 殕色喉針尾雨燕 phú-sik-âu-tsiam-bé-ú-iàn**
 
@@ -48,7 +48,7 @@
 (c) Forest Botial-Jarvis, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 紫色針尾雨燕 tsí-sik-tsiam-bé-ú-iàn**
 
@@ -68,7 +68,7 @@
 © dbeeke, some rights reserved (CC-BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 殕色腰金絲燕 phú-sik-io-kim-si-tsiáu**
 
@@ -89,7 +89,7 @@
 (c) kritadi, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 短喙金絲燕 té-tshuì-kim-si-tsiáu**
 - 🎯 **[英] 喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu**
@@ -105,7 +105,7 @@
 
 ## [白燕窩金絲燕 マレーアナツバメ White-nest Swiftlet (Germain's)](https://ebird.org/species/gerswi1)
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[英] 白燕窩金絲燕 pe̍h-iàn-o-kim-si-tsiáu**
 
@@ -125,7 +125,7 @@
 (c) Константин Самодуров, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 叉尾雨燕仔 tshe-bé-ú-iàn-á**
 - 🎯 **[英] 太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á**
@@ -146,7 +146,7 @@
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 **[華] 小雨燕仔 sió-ú-iàn-á**
 - 🎯 **[華] 厝雨燕仔 sió-ú-iàn-á**

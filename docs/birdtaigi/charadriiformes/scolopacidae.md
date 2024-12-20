@@ -8,7 +8,7 @@
 (c) John Clough, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 石師 tsio̍h-sai
 - 🎯 [台] 石師鷸 tsio̍h-sai-u̍t
@@ -25,7 +25,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 翹喙鷸 khiàu-tshuì-u̍t
 - [華][日] 反喙鷸 huán-tshuì-u̍t
@@ -42,7 +42,7 @@
 (c) Вячеслав Ложкин, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 磯鷸 ki-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -59,7 +59,7 @@
 (c) U.S. Fish and Wildlife Service Northeast Region, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 小黃跤鷸 sió-n̂g-kha-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -75,7 +75,7 @@
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 鷹斑鷸 ing-pan-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -91,7 +91,7 @@
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 白腰草鷸 pe̍h-io-tsháu-u̍t
 - 🎯 [華][日] 草鷸 tsháu-u̍t
@@ -108,7 +108,7 @@
 (c) Joel Poyitt, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 黃跤鷸 n̂g-kha-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -124,7 +124,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 美洲黃跤鷸 bí-tsiu-n̂g-kha-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -140,7 +140,7 @@
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅跤鷸 âng-kha-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -156,7 +156,7 @@
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 鶴鷸 ho̍h-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -172,7 +172,7 @@
 (c) Dina Nesterkova, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 小青跤鷸 sió-tshinn-kha-u̍t
 
@@ -186,7 +186,7 @@
 (c) suchihfen, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 諾曼氏鷸 lo̍k-bân-sī-u̍t
 - 🎯 [華] 諾氏鷸 lo̍k-sī-u̍t
@@ -204,7 +204,7 @@
 (c) alexey_nesmelov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 青跤鷸 tshinn-kha-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -220,7 +220,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 中勺鷸 tiong-sia̍h-u̍t
 - 🎯 [台] 中土礱鉤鷸 tiong-thôo-lâng-kau-u̍t
@@ -239,7 +239,7 @@
 (c) Pete Woodall, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-u̍t
 - 🎯 [華] 黦鷸 iat-u̍t
@@ -259,7 +259,7 @@
 (c) alexey_nesmelov, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 大勺鷸 tuā-sia̍h-u̍t
 - 🎯 [台] 大土礱鉤鷸 tuā-thôo-lâng-kau-u̍t
@@ -278,7 +278,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 小勺鷸 sió-sia̍h-u̍t
 - 🎯 [台] 小土礱鉤鷸 sió-thôo-lâng-kau-u̍t
@@ -297,7 +297,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日][英] 烏尾鷸 oo-bé-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -313,7 +313,7 @@
 (c) Marina Nikonorova, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 斑尾鷸 pan-bé-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -329,7 +329,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 大濱鷸 tuā-pin-u̍t
 - 🎯 [日] 姥鷸 bóo-u̍t
@@ -347,7 +347,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 紅腹濱鷸 âng-pak-pin-u̍t
 - 🎯 [華] 紅肚濱鷸 âng-tōo-pin-u̍t
@@ -366,7 +366,7 @@
 (c) lemurtaquin, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 三趾濱鷸 sann-tsí-pin-u̍t
 - 🎯 [華][日] 三趾鷸 sann-tsí-u̍t
@@ -383,7 +383,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 西濱鷸 se-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -399,7 +399,7 @@
 (c) Никифорова Валерия, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 小濱鷸 sió-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -415,7 +415,7 @@
 (c) Cameron Eckert, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 紅胸濱鷸 âng-hing-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -431,7 +431,7 @@
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 丹氏濱鷸 tan-sī-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -447,7 +447,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 雲雀鷸 hûn-tshiok-u̍t
 - 🎯 [華][英] 長趾濱鷸 tn̂g-tsí-pin-u̍t
@@ -465,7 +465,7 @@
 (c) Peter Ericsson, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 箆喙鷸 pî-tshuì-u̍t
 - 飯匙鷸 pn̄g-sî-u̍t
@@ -483,7 +483,7 @@
 (c) Andrew Cannizzaro, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 美洲尖尾濱鷸 bí-tsiu-tsiam-bé-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -499,7 +499,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 尖尾濱鷸 tsiam-bé-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -515,7 +515,7 @@
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日] 襟巻鷸 khim-kńg-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -534,7 +534,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 彎喙濱鷸 uan-tshuì-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -550,7 +550,7 @@
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 烏腹濱鷸 oo-pak-pin-u̍t
 - 🎯 [華] 烏肚濱鷸 oo-tōo-pin-u̍t
@@ -568,7 +568,7 @@
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [英] 闊喙鷸 khuah-tshuì-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -584,7 +584,7 @@
 (c) Blair Dudeck, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 長喙半蹼鷸 tng-tshuì-puànn-pok-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -600,7 +600,7 @@
 (c) andriy, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華] 半蹼鷸 puànn-pok-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -616,7 +616,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 躼跤濱鷸 lò-kha-pin-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -632,7 +632,7 @@
 (c) Luigi Andena, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 田鷸 tshân-u̍t
 - ✳️ [台] 田鑽仔 tshân-tsǹg-á
@@ -649,7 +649,7 @@
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 中地鷸 tiong-tuē-u̍t
 - [中] 大沙鵻 tuā-sua-tsui
@@ -667,7 +667,7 @@
 (c) alexdersu, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英][日] 針尾鷸 tsiam-bé-u̍t
 - ✳️ [台] 田鑽仔 tshân-tsǹg-á
@@ -684,7 +684,7 @@
 (c) deborod, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 大地鷸 tuā-tuē-u̍t
 - ✳️ [台] 田鑽仔 tshân-tsǹg-á
@@ -701,7 +701,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 小鷸 sió-u̍t
 
@@ -715,7 +715,7 @@
 (c) Roberto Ghiglia, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 山鷸 suann-u̍t
 
@@ -729,7 +729,7 @@
 (c) Cameron Eckert, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][英] 黃胸鷸 n̂g-hing-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
@@ -745,7 +745,7 @@
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [日][英] 紅領瓣蹼鷸 âng-niá-pān-pok-u̍t
 - 🎯 [日][英] 紅頸瓣蹼鷸 âng-kún-pān-pok-u̍t
@@ -762,7 +762,7 @@
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [華][日] 灰瓣跤鷸 hue-pān-pok-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á

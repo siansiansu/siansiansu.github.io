@@ -8,7 +8,7 @@
 (c) Soh Kam Yung, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 黃鶯 n̂g-ing
 - 🎯 [華] 黃鸝 hông-lê
@@ -26,7 +26,7 @@
 (c) 尹若宇, some rights reserved (CC BY-NC)
 </p>
 
-:::info[鳥仔名]
+:::info[台語名]
 
 - 🎯 [台] 紅鶯 âng-ing
 
