@@ -52,7 +52,7 @@ const sidebars = {
       items: [
         {
           type: 'category',
-          label: 'Fundamentals',
+          label: 'Core Topics',
           collapsible: true,
           collapsed: false,
           items: [
