@@ -10,7 +10,13 @@
 
 :::info[鳥仔名]
 
-- 🎯 [英][日] 白喉針尾雨燕 pe̍h-âu-tsiam-bé-ú-iàn
+- 🎯 [英][日] 白喉針尾雨燕仔 pe̍h-âu-tsiam-bé-ú-iàn-á
+
+:::
+
+:::note[備註]
+
+- White-throated -> 白喉 pe̍h-âu + 針尾雨燕 tsiam-bé-ú-iàn-á
 
 :::
 
@@ -24,7 +30,13 @@
 
 :::info[鳥仔名]
 
-- 🎯 [英][日] 灰喉針尾雨燕 hue-âu-tsiam-bé-ú-iàn
+- 🎯 [英][日] 殕色喉針尾雨燕 phú-sik-âu-tsiam-bé-ú-iàn
+
+:::
+
+:::note[備註]
+
+華語灰喉 -> 殕色喉 phú-sik-âu + 針尾雨燕 tsiam-bé-ú-iàn
 
 :::
 
@@ -38,11 +50,36 @@
 
 :::info[鳥仔名]
 
-- 🎯 [英][日] 紫針尾雨燕 tsí-tsiam-bé-ú-iàn
+- 🎯 [英] 紫色針尾雨燕 tsí-sik-tsiam-bé-ú-iàn
 
 :::
 
-## 灰腰金絲燕
+:::note[備註]
+
+- Purple -> 紫色 tsí-sik
+
+:::
+
+## [灰腰金絲燕 ハイゴツアナツバメ Gray-rumped Swiftlet](https://ebird.org/species/gyrswi5)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/368070113/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© dbeeke, some rights reserved (CC-BY-NC)
+</p>
+
+:::info[鳥仔名]
+
+- 🎯 [華] 殕色腰金絲燕 phú-sik-io-kim-si-tsiáu
+
+:::
+
+
+:::note[備註]
+
+- Gray-rumped Swiftlet -> 殕色腰 phú-sik-io + 金絲燕 kim-si-tsiáu
+
+:::
 
 ## [短嘴金絲燕 ヒマラヤアナツバメ Himalayan Swiftlet](https://ebird.org/species/himswi2)
 
@@ -55,10 +92,30 @@
 :::info[鳥仔名]
 
 - 🎯 [華] 短喙金絲燕 té-tshuì-kim-si-tsiáu
+- 🎯 [英] 喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu
 
 :::
 
-## 白燕窩金絲燕
+:::note[備註]
+
+- 若不佮意華語，用英語 Himalayan Swiftlet -> 喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu
+- 短嘴 -> 短喙 té-tshuì 取自特徵、華語
+
+:::
+
+## [白燕窩金絲燕 マレーアナツバメ White-nest Swiftlet (Germain's)](https://ebird.org/species/gerswi1)
+
+:::info[鳥仔名]
+
+- 🎯 [英] 白燕窩金絲燕 pe̍h-iàn-o-kim-si-tsiáu
+
+:::
+
+:::note[備註]
+
+- White-nest Swiftlet -> 白燕窩 pe̍h-iàn-o + 金絲燕 kim-si-tsiáu
+
+:::
 
 ## [叉尾雨燕 アマツバメ Pacific Swift](https://ebird.org/species/fotswi)
 
@@ -70,8 +127,14 @@
 
 :::info[鳥仔名]
 
-- 🎯 [華][日] 叉尾雨燕 tshe-bé-ú-iàn
-- 🎯 [英][日] 太平洋雨燕 thài-pîng-iûnn-ú-iàn
+- 🎯 [華] 叉尾雨燕仔 tshe-bé-ú-iàn-á
+- 🎯 [英] 太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á
+
+:::
+
+:::note[備註]
+
+- 若不佮意華語，用英語 Pacific Swift -> 太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á
 
 :::
 
@@ -85,6 +148,13 @@
 
 :::info[鳥仔名]
 
-- 🎯 [華][日] 小雨燕 sió-ú-iàn
+- 🎯 [華] 小雨燕仔 sió-ú-iàn-á
+- 🎯 [華] 厝雨燕仔 sió-ú-iàn-á
+
+:::
+
+:::note[備註]
+
+- 若不佮意華語，用英語 House Swift -> 厝雨燕仔 sió-ú-iàn-á
 
 :::

@@ -210,6 +210,7 @@
 
 :::note[備註]
 
-- lài-tsiáu 是借用 ライ ê 音譯，luî-tsiáu/luî-kong-tsiáu 是用「雷」ê 意譯。
+- lài-tsiáu 是借用 ライ ê 音譯
+- luî-tsiáu/luî-kong-tsiáu 是用「雷」ê 意譯。
 
 :::
