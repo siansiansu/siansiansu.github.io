@@ -384,7 +384,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::info[台語名]
 
-- 🎯 [華] 小米雞仔 sió-bí-ke-á
+- 🎯 **[華] 小米雞仔 sió-bí-ke-á**
 - ✳️ [華] 秧雞 iong-kue
 - ✳️ [台] 水雞 tsuí-kue
 - ✳️ [台] 米雞仔 bí-ke-á
