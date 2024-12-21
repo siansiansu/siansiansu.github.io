@@ -10,7 +10,13 @@
 
 :::info[台語名]
 
-- 🎯 [台] 菱角鳥 lîng-kak-tsiáu
+- 🎯 **[台] 菱角鳥 lîng-kak-tsiáu**
 - [華] 水雉 tsuí-thī
+
+:::
+
+:::note[備註]
+
+《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 :::

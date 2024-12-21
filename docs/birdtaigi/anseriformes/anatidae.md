@@ -779,6 +779,7 @@
 :::note[備註]
 
 - 頸箍 kún-khoo 取自特徵、英語 Ring-necked
+- 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
 :::
 
