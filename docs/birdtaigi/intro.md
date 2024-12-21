@@ -57,15 +57,23 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 ## 號名邏輯
 
-- 若是有台灣本土 ê 台語俗稱，代先使用。
-- 若是台灣本土 ê 台語俗稱是統稱，但是毋但一个物種，參考英語、日語、華語 ê 用法，頭前加上形容詞。
+1. 若是有台灣本土 ê 台語俗稱，代先使用。
+2. 若是台灣本土 ê 台語俗稱是統稱，但是毋但一个物種，參考英語、日語、華語 ê 用法，頭前加上形容詞。
+3. 若揣無台灣本土 ê 台語俗名，參考華語俗名、英語俗名、日語俗名、鳥仔 ê 形體外觀、色水命名。
+4. 若無台語名，無一定愛參考華語名。
+5. 分類名盡量用台灣本土 ê 台語號名，為著較合台語 ê 氣口。
 
-:::info[範例一：下跤 ê 物種攏是講青笛仔]
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-   1. 斯氏繡眼 Swinhoe's White-eye (學名：*Zosterops simplex*)
-   2. 日菲繡眼 Warbling White-eye (學名：*Zosterops japonicus*)
-   3. 低地繡眼 Lowland White-eye (學名：*Zosterops meyeni*)
-   4. 紅脇繡眼 Chestnut-flanked White-eye (學名：*Zosterops erythropleurus*)
+<Tabs>
+  <TabItem value="範例一">
+:::info[下跤 ê 物種攏是講青笛仔]
+
+1. 斯氏繡眼 Swinhoe's White-eye (學名：*Zosterops simplex*)
+2. 日菲繡眼 Warbling White-eye (學名：*Zosterops japonicus*)
+3. 低地繡眼 Lowland White-eye (學名：*Zosterops meyeni*)
+4. 紅脇繡眼 Chestnut-flanked White-eye (學名：*Zosterops erythropleurus*)
 
 :::
 
@@ -79,8 +87,10 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
   4. 赤胳青笛仔 tshiah-koh-tshenn-thî-á
 
 :::
+  </TabItem>
+  <TabItem value="範例二">
 
-:::info[範例二：下跤 ê 物種攏是水避仔 ê 一種]
+:::info[下跤 ê 物種攏是水避仔 ê 一種]
 
 1. 小鸊鷉 Little Grebe (學名：*Tachybaptus ruficollis*)
 2. 角鸊鷉 Horned Grebe (學名：*Podiceps auritus*)
@@ -100,9 +110,10 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 :::
 
-- 若揣無台灣本土 ê 台語俗名，參考華語俗名、英語俗名、日語俗名、鳥仔 ê 形體外觀、色水命名。譬如：
+  </TabItem>
+  <TabItem value="範例三">
 
-:::info[範例三：以下物種無台語俗名]
+:::info[以下物種無台語俗名]
 
 - 鐵嘴鴴 Greater Sand-Plover (學名：*Anarhynchus leschenaultii*)
 - 赤腹鶇 Brown-headed Thrush (學名：*Turdus chrysolaus*)
@@ -112,13 +123,17 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 :::tip[建議台語名]
 
-- 鐵嘴鴴 ê 台語：厚喙鴴 kāu-tshuì-hîng
-- 赤腹鶇 ê 台語：紅腹鶇 âng-pak-tong
-- 堪察加柳鶯 ê 台語：堪察加柳鶯 kham-tshâ-tsham-liú-ing
+- 鐵嘴鴴 ê 台語 -> 厚喙鴴 kāu-tshuì-hîng
+- 赤腹鶇 ê 台語 -> 紅腹鶇 âng-pak-tong
+- 堪察加柳鶯 ê 台語 -> 堪察加柳鶯 kham-tshâ-tsham-liú-ing
 
 :::
 
-:::info[範例四：若無台語名，無一定愛參考華語]
+  </TabItem>
+
+  <TabItem value="範例四">
+
+:::info[若無台語名，無一定愛參考華語]
 
 - 華語「褐翅鴉鵑」是參考伊 ê 英語名「Greater Coucal」+ 華語「番鵑」 ê 台語號名。
 - 華語「斑背潛鴨」是參考伊 ê 日語名。
@@ -128,15 +143,17 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 :::tip[建議台語名]
 
-- 褐翅鴉鵑 ê 台語：大草嘓 tuā-tsháu-kok。
-- 斑背潛鴨 ê 台語：鈴鴨 lîng-ah。
-- 蠣鴴 ê 台語：食蚵仔鳥 tsia̍h-ô-á-tsiáu
+- 褐翅鴉鵑 ê 台語 -> 大草嘓 tuā-tsháu-kok。
+- 斑背潛鴨 ê 台語 -> 鈴鴨 lîng-ah。
+- 蠣鴴 ê 台語 -> 食蚵仔鳥 tsia̍h-ô-á-tsiáu
 
 :::
 
-:::info[範例五：分類名盡量用台灣本土 ê 台語號名]
+  </TabItem>
 
-為著較合台語 ê 氣口。
+  <TabItem value="範例五">
+
+:::info[分類名盡量用台灣本土 ê 台語號名]
 
 - 華語夜鷹目 -> 石磯仔目 tsio̍h-ki-á-ba̍k
 - 華語鸊鷉科 -> 水避仔科 tsuí-pī-á-koa
@@ -144,3 +161,6 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 - 華語水雉科 -> 菱角鳥科 lîng-kak-niû-koa
 
 :::
+
+  </TabItem>
+</Tabs>
