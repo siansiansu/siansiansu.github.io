@@ -122,6 +122,7 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 - 華語「褐翅鴉鵑」是參考伊 ê 英語名「Greater Coucal」+ 華語「番鵑」 ê 台語號名。
 - 華語「斑背潛鴨」是參考伊 ê 日語名。
+- 華語「蠣鴴」是參考伊 ê 英語名。
 
 :::
 
@@ -129,6 +130,7 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 - 褐翅鴉鵑 ê 台語：大草嘓 tuā-tsháu-kok。
 - 斑背潛鴨 ê 台語：鈴鴨 lîng-ah。
+- 蠣鴴 ê 台語：食蚵仔鳥 tsia̍h-ô-á-tsiáu
 
 :::
 

@@ -62,7 +62,7 @@
 
 ## [灰腰金絲燕 ハイゴツアナツバメ Gray-rumped Swiftlet](https://ebird.org/species/gyrswi5)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/368070113/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/368070113/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © dbeeke, some rights reserved (CC-BY-NC)

@@ -1,5 +1,61 @@
 # 鴴科 hîng-kho
 
+## [灰斑鴴 ダイゼン Black-bellied Plover](https://ebird.org/species/bkbplo)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/5468412/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) joannerusso, some rights reserved (CC BY-NC)
+</p>
+
+:::info[台語名]
+
+- 🎯 **[華] 灰斑鴴 hue-pan-hîng**
+- 🎯 **[英] 烏喙鴴 oo-tshuì-hîng**
+- ✳️ [台] 水尖仔 tsúi-tsiam-á
+- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
+
+:::
+
+:::note[備註]
+
+若無佮意華語，用 Black-bellied Plover ê 意思號名：**烏喙鴴 oo-tshuì-hîng**。
+
+:::
+
+## [太平洋金斑鴴 ムナグロ Pacific Golden-Plover](https://ebird.org/species/pagplo)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/43835792/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) James M. Maley, some rights reserved (CC BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 [華][英] 太平洋金斑鴴 thài-pîng-iûnn-kim-pan-hîng
+- ✳️ [台] 水尖仔 tsúi-tsiam-á
+- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
+
+:::
+
+## [環頸鴴 ハジロコチドリ Common Ringed Plover](https://ebird.org/species/corplo)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/8956/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Paul Roberts, some rights reserved (CC BY-NC)
+</p>
+
+:::info[台語名]
+
+- 🎯 [華] 環頸鴴 huân-kīng-hîng
+- 🎯 [華] 頸輪鴴 kún-lián-hîng
+- ✳️ [台] 水尖仔 tsúi-tsiam-á
+- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
+
+:::
+
 ## [小環頸鴴 コチドリ Little Ringed Plover](https://ebird.org/species/lirplo)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/28895106/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -20,33 +76,18 @@
 
 :::
 
-## [灰斑鴴 ダイゼン Black-bellied Plover](https://ebird.org/species/bkbplo)
+## [劍鴴 イカルチドリ Long-billed Plover](https://ebird.org/species/lobplo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/5468412/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/173683293/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) joannerusso, some rights reserved (CC BY-NC)
+(c) Chuangzao, some rights reserved (CC BY-NC)
 </p>
 
 :::info[台語名]
 
-- 🎯 [華] 灰斑鴴 hue-pan-hîng
-- ✳️ [台] 水尖仔 tsúi-tsiam-á
-- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
-
-:::
-
-## [太平洋金斑鴴 ムナグロ Pacific Golden-Plover](https://ebird.org/species/pagplo)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/43835792/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) James M. Maley, some rights reserved (CC BY)
-</p>
-
-:::info[台語名]
-
-- 🎯 [華][英] 太平洋金斑鴴 thài-pîng-iûnn-kim-pan-hîng
+- 🎯 [華] 劍鴴 kiàm-hîng
+- 🎯 [華][英] 長喙鴴 tn̂g-tshuì-hîng
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
@@ -114,6 +155,22 @@
 
 :::
 
+## [青藏鴴 チベットメダイチドリ Tibetan Sand-Plover](https://ebird.org/species/lessap1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/132569111/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Wich’yanan L, some rights reserved (CC BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 [華][英] 西藏鴴 se-tsōng-hîng
+- ✳️ [台] 水尖仔 tsúi-tsiam-á
+- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
+
+:::
+
 ## [鐵嘴鴴 オオメダイチドリ Greater Sand-Plover](https://ebird.org/species/grsplo)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1935738/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -143,56 +200,6 @@
 
 - 🎯 [華] 東方環頸鴴 tong-hong-huân-kún-hîng
 - 🎯 [華] 東方頸輪鴴 tong-hong-kún-lián-hîng
-- ✳️ [台] 水尖仔 tsúi-tsiam-á
-- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
-
-:::
-
-## [環頸鴴 ハジロコチドリ Common Ringed Plover](https://ebird.org/species/corplo)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/8956/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Paul Roberts, some rights reserved (CC BY-NC)
-</p>
-
-:::info[台語名]
-
-- 🎯 [華] 環頸鴴 huân-kīng-hîng
-- 🎯 [華] 頸輪鴴 kún-lián-hîng
-- ✳️ [台] 水尖仔 tsúi-tsiam-á
-- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
-
-:::
-
-## [劍鴴 イカルチドリ Long-billed Plover](https://ebird.org/species/lobplo1)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/173683293/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Chuangzao, some rights reserved (CC BY-NC)
-</p>
-
-:::info[台語名]
-
-- 🎯 [華] 劍鴴 kiàm-hîng
-- 🎯 [華][英] 長喙鴴 tn̂g-tshuì-hîng
-- ✳️ [台] 水尖仔 tsúi-tsiam-á
-- ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
-
-:::
-
-## [西藏鴴 チベットメダイチドリ Tibetan Sand-Plover](https://ebird.org/species/lessap1)
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/132569111/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Wich’yanan L, some rights reserved (CC BY)
-</p>
-
-:::info[台語名]
-
-- 🎯 [華][英] 西藏鴴 se-tsōng-hîng
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
