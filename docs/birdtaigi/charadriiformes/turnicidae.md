@@ -18,7 +18,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 黃跤 n̂g-kha + 無尾 bô-bué + 三爪鵪鶉 sann-jiáu-ian-thun
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -44,7 +44,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 赤 tshiah + 無尾 bô-bué + 三爪鵪鶉 sann-jiáu-ian-thun
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -71,7 +71,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - Small Buttonquail -> 小 sió + 無尾 bô-bué + 三爪鵪鶉 sann-jiáu-ian-thun
 - 林三趾鶉 -> 林 lîm + 無尾 bô-bué + 三爪鵪鶉 sann-jiáu-ian-thun

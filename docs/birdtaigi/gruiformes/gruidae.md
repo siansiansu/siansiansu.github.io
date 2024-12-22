@@ -15,7 +15,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 取自蓑 sui
 
@@ -38,7 +38,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - Siberian -> 西伯利亞 se-pik-lī-a
 
@@ -59,7 +59,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - Sandhill -> 沙丘 sua-lūn
 - 日語 かなだ -> 加拿大 Ka-ná-ta + 鶴 ho̍h
@@ -81,7 +81,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 1973 Embree台英辭典
 - White-naped -> 白頂 pe̍h-tsím
@@ -103,7 +103,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 灰鶴 -> 殕色鶴 phú-sik-ho̍h
 
@@ -124,7 +124,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 白頭 pe̍h-thâu + 鶴 ho̍h
 
@@ -146,7 +146,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 Red-crowned Crane -> 紅頭 âng-thâu + 鶴 ho̍h
 

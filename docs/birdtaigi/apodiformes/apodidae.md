@@ -14,7 +14,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - White-throated -> 白喉 pe̍h-âu + 針尾雨燕 tsiam-bé-ú-iàn-á
 
@@ -34,7 +34,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 華語灰喉 -> 殕色喉 phú-sik-âu + 針尾雨燕 tsiam-bé-ú-iàn
 
@@ -54,7 +54,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - Purple -> 紫色 tsí-sik
 
@@ -75,7 +75,7 @@
 :::
 
 
-:::note[備註]
+:::tip[備註]
 
 - Gray-rumped Swiftlet -> 殕色腰 phú-sik-io + 金絲燕 kim-si-tsiáu
 
@@ -96,7 +96,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 若不佮意華語，用英語 Himalayan Swiftlet -> 喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu
 - 短嘴 -> 短喙 té-tshuì 取自特徵、華語
@@ -111,7 +111,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - White-nest Swiftlet -> 白燕窩 pe̍h-iàn-o + 金絲燕 kim-si-tsiáu
 
@@ -132,7 +132,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 若不佮意華語，用英語 Pacific Swift -> 太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á
 
@@ -153,7 +153,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 若不佮意華語，用英語 House Swift -> 厝雨燕仔 sió-ú-iàn-á
 

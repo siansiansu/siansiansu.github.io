@@ -17,7 +17,7 @@
 
 :::
 
-:::note[備註]
+:::tip[備註]
 
 - 骨簪仔 kut-tsiam-á -《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 - 骨簪 kut-tsiam + 鷸 u̍t
