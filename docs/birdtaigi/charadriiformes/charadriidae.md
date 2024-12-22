@@ -57,7 +57,7 @@
 
 :::info[台語名]
 
-- 🎯 [華] 頸箍鴴 kún-khoo-hîng
+- 🎯 **[華] 頸箍鴴 kún-khoo-hîng**
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
@@ -79,7 +79,8 @@
 
 :::info[台語名]
 
-- 🎯 [華] 小頸箍鴴 sió-kún-khoo-hîng
+- 🎯 **[華] 小頸箍鴴 sió-kún-khoo-hîng**
+- ✳️ [台] 金眼 kim-gán
 - ✳️ [台] 水尖仔 tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
