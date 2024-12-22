@@ -10,7 +10,13 @@
 
 :::info[台語名]
 
-- 🎯 [華] 崖海鴉 gâi-hái-a
+- 🎯 **[華] 崖海鴉 gâi-hái-a**
+
+:::
+
+:::note[備註]
+
+- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
 
 :::
 
@@ -24,7 +30,13 @@
 
 :::info[台語名]
 
-- 🎯 [華] 扁喙海雀 pínn-tshuì-hái-tshiok
+- 🎯 **[華] 扁喙海雀 pínn-tshuì-hái-tshiok**
+
+:::
+
+:::note[備註]
+
+- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
 
 :::
 
@@ -38,7 +50,13 @@
 
 :::info[台語名]
 
-- 🎯 [華][日] 冠海雀 kuan-hái-tshiok
+- 🎯 [華] 聳毛海雀 tshàng-moo-hái-tshiok
+
+:::
+
+:::note[備註]
+
+- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
 
 :::
 
@@ -52,8 +70,15 @@
 
 :::info[台語名]
 
-- 🎯 [華] 白眶海鴿 pe̍h-khing-hái-kah
-- 🎯 白眶海雀 pe̍h-khing-hái-tshiok
+- 🎯 **[華] 白眶海粉鳥 pe̍h-khing-hái-hún-tsiáu**
+- 🎯 [中] 白眶海雀 pe̍h-khing-hái-tshiok
+- 🎯 [中] 白眶海鴿 pe̍h-khing-hái-kah
+
+:::
+
+:::note[備註]
+
+- 白眶 pe̍h-khing + 海粉鳥 hái-hún-tsiáu
 
 :::
 
@@ -67,6 +92,12 @@
 
 :::info[台語名]
 
-- 🎯 [華] 角喙海雀 kak-tshuì-hái-tshiok
+- 🎯 **[華] 角喙海雀 kak-tshuì-hái-tshiok**
+
+:::
+
+:::note[備註]
+
+- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
 
 :::

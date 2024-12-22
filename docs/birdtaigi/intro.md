@@ -82,7 +82,7 @@ import TabItem from '@theme/TabItem';
 1. 小鸊鷉 -> 水避仔 tsuí-pī-á
 2. 角鸊鷉 -> 角水避 kak-tsuí-pī
 3. 赤頸鸊鷉 -> 紅頸水避 âng-kún-tsuí-pī
-4. 冠鸊鷉 -> 聳毛水避 kuan-tsuí-pī
+4. 冠鸊鷉 -> 聳毛水避 tshàng-moo-tsuí-pī
 5. 黑頸鸊鷉 -> 烏頸水避 oo-kún-tsuí-pī
 
 :::
