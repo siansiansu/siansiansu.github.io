@@ -10,12 +10,19 @@
 
 :::info[台語名]
 
-- 🎯 [華][日] 中勺鷸 tiong-sia̍h-u̍t
-- 🎯 [台] 中土礱鉤鷸 tiong-thôo-lâng-kau-u̍t
-- [台] 中土礱鉤仔 tiong-thôo-lâng-kau-á
+- 🎯 **[台] 中土礱鉤仔 tiong-thôo-lâng-kau-á**
+- 🎯 **[台] 中土礱鉤鷸 tiong-thôo-lâng-kau-u̍t**
+- [華] 中勺鷸 tiong-sia̍h-u̍t
 - ✳️ [台] 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
+
+:::
+
+:::note[備註]
+
+-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 中 tiong + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，中土礱鉤鷸 tiong-thôo-lâng-kau-u̍t
 
 :::
 
@@ -29,12 +36,19 @@
 
 :::info[台語名]
 
-- 🎯 [華][日] 小勺鷸 sió-sia̍h-u̍t
-- 🎯 [台] 小土礱鉤鷸 sió-thôo-lâng-kau-u̍t
-- [台] 小土礱鉤仔 sió-thôo-lâng-kau-á
+- 🎯 **[台] 小土礱鉤鷸 sió-thôo-lâng-kau-u̍t**
+- 🎯 **[台] 小土礱鉤仔 sió-thôo-lâng-kau-á**
+- [華] 小勺鷸 sió-sia̍h-u̍t
 - ✳️ [台] 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
+
+:::
+
+:::note[備註]
+
+-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 小 sió + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，小土礱鉤鷸 sió-thôo-lâng-kau-u̍t
 
 :::
 
@@ -48,13 +62,20 @@
 
 :::info[台語名]
 
-- 🎯 [台] 紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-u̍t
+- 🎯 **[台] 紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-u̍t**
+- 🎯 **[台] 紅腰土礱鉤仔 âng-io-thôo-lâng-kau-á**
 - 🎯 [華] 黦鷸 iat-u̍t
-- [台] 紅腰土礱鉤仔 âng-io-thôo-lâng-kau-á
 - [日] 焙烙鷸 puē-lo̍k-u̍t
 - ✳️ [台] 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
+
+:::
+
+:::note[備註]
+
+-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 紅腰 âng-io + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-u̍t
 
 :::
 
@@ -68,9 +89,9 @@
 
 :::info[台語名]
 
-- 🎯 [華][日] 大勺鷸 tuā-sia̍h-u̍t
-- 🎯 [台] 大土礱鉤鷸 tuā-thôo-lâng-kau-u̍t
-- [台] 大土礱鉤仔 tuā-thôo-lâng-kau-á
+- 🎯 **[台] 大土礱鉤鷸 tuā-thôo-lâng-kau-u̍t**
+- 🎯 **[台] 大土礱鉤仔 tuā-thôo-lâng-kau-á**
+- [華] 大勺鷸 tuā-sia̍h-u̍t
 - ✳️ [台] 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
