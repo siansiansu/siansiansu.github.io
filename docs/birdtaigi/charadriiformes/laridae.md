@@ -355,7 +355,7 @@
 
 ## [蒙古銀鷗 モンゴルセグロカモメ Mongolian Gull](https://ebird.org/species/casgul4)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/454671759/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/454671759/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
@@ -599,7 +599,7 @@
 
 ## [美洲小燕鷗 アメリカコアジサシ Least Tern](https://ebird.org/species/leater1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/434446568/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/434446568/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dan Vickers, some rights reserved (CC-BY)
