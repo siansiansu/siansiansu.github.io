@@ -10,8 +10,13 @@
 
 :::info[台語名]
 
-- 🎯 [英][華] 烏鸛 oo-kuàn
-- [日] 鍋鸛 ko-kuàn
+- 🎯 **[英] 烏鸛 oo-kuàn**
+
+:::
+
+:::tip[備註]
+
+Black Stork -> 烏鸛 oo-kuàn
 
 :::
 
@@ -25,7 +30,12 @@
 
 :::info[台語名]
 
-- 🎯 [英][華] 白鸛 pe̍h-kuàn
-- 🎯 [英][華] 東方白鸛 tong-hong-pe̍h-kuàn
+- 🎯 **[英] 東方白鸛 tong-hong-pe̍h-kuàn**
+
+:::
+
+:::tip[備註]
+
+Oriental Stork -> 東方白鸛 tong-hong-pe̍h-kuàn
 
 :::
