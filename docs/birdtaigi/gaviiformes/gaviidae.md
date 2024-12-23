@@ -14,7 +14,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Red-throated Loon -> 紅喉 an-âu + 潛鳥 tsiâm-tsiáu
 
@@ -34,7 +34,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 黑喉潛鳥 -> 烏喉 an-âu + 潛鳥 tsiâm-tsiáu
 
@@ -54,7 +54,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Pacific Loon -> 太平洋 thài-pîng-iûnn + 潛鳥 tsiâm-tsiáu
 
@@ -74,7 +74,7 @@ Pacific Loon -> 太平洋 thài-pîng-iûnn + 潛鳥 tsiâm-tsiáu
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 白嘴潛鳥 -> 白喙 pe̍h-tshuì + 潛鳥 tsiâm-tsiáu
 

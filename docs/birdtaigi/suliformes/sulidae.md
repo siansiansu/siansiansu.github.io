@@ -15,7 +15,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Red-footed -> 紅跤 pe̍h-kha
 - 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -37,7 +37,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 白腹 -> pe̍h-pak
 - 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -59,7 +59,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 青面 -> 青面 tshenn-bīn
 - 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

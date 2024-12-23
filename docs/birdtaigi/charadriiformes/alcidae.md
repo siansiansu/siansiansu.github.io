@@ -14,9 +14,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
+- 想無較適合 ê 名，暫時參考華語
 
 :::
 
@@ -34,12 +34,6 @@
 
 :::
 
-:::tip[備註]
-
-- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
-
-:::
-
 ## [冠海雀 カンムリウミスズメ Japanese Murrelet](https://ebird.org/species/japmur1)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/102491705/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -51,12 +45,6 @@
 :::info[台語名]
 
 - 🎯 **[華] 聳毛海雀 tshàng-moo-hái-tshiok**
-
-:::
-
-:::tip[備註]
-
-- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
 
 :::
 
@@ -76,7 +64,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 白眶 pe̍h-khing + 海粉鳥 hái-hún-tsiáu
 
@@ -93,11 +81,5 @@
 :::info[台語名]
 
 - 🎯 **[華] 角喙海雀 kak-tshuì-hái-tshiok**
-
-:::
-
-:::tip[備註]
-
-- 暫時揣無較好 ê 稱呼，暫時用華語翻譯
 
 :::

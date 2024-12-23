@@ -1,11 +1,11 @@
-# 海燕科 hái-iàn-kho
+# 海燕仔科 hái-iàn-á-kho
 
 ## [黃蹼洋海燕 アシナガウミツバメ Wilson's Storm-Petrel](https://ebird.org/species/wispet)
 
-<img src="" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/456928200/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-
+© Ingvild Riska, some rights reserved (CC-BY)
 </p>
 
 :::info[台語名]
@@ -14,7 +14,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 海燕 -> 海燕仔 hái-iàn-á
 - 蹼 -> 扒 pê
@@ -36,7 +36,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 海燕 -> 海燕仔 hái-iàn-á
 
@@ -56,7 +56,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 海燕 -> 海燕仔 hái-iàn-á
 
@@ -76,7 +76,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 海燕 -> 海燕仔 hái-iàn-á
 
@@ -96,7 +96,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 海燕 -> 海燕仔 hái-iàn-á
 

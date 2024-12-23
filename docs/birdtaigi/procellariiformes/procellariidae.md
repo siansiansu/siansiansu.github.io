@@ -14,7 +14,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 風暴 hong-pō - 教育部台灣台語常用詞辭典
 - 鸌 hōo - 1973 Embree台英辭典
@@ -35,7 +35,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Kermadec -> 克島 khik-tóo
 - 鸌 hōo - 1973 Embree台英辭典
@@ -56,10 +56,10 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 
-- 揣無較適合 ê 台語名，暫時用華語
+- 想無較適合 ê 名，暫時參考華語
 - 鸌 hōo - 1973 Embree台英辭典
 
 :::
@@ -79,7 +79,7 @@
 :::
 
 
-:::tip[備註]
+:::tip[註解]
 
 - Juan Fernandez -> 費島 huì-tóo
 - 鸌 hōo - 1973 Embree台英辭典
@@ -101,7 +101,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 白腹 pe̍h-pak
 - 1973 Embree台英辭典
@@ -122,7 +122,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 1973 Embree台英辭典
 
@@ -142,9 +142,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-揣無較適合 ê 台語名，暫時用華語
+- 想無較適合 ê 名，暫時參考華語
 
 :::
 
@@ -163,7 +163,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 水薙鳥 tsuí-thì-tsiáu - 1973 Embree台英辭典
 
@@ -178,7 +178,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 赤跤 tshiah-kha - 取自外觀，參考日語
 - 水薙鳥 tsuí-thì-tsiáu - 1973 Embree台英辭典
@@ -200,7 +200,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 長尾 tn̂g-bé
 
@@ -221,7 +221,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Sooty -> 殕色 phú-sik
 
@@ -243,7 +243,7 @@ Sooty -> 殕色 phú-sik
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu 源自日語 ハシボソミズナギドリ。
 - Short-tailed -> 短尾 té-bué
@@ -252,7 +252,7 @@ Sooty -> 殕色 phú-sik
 
 ## [黑細鸌 コミズナギドリ Christmas Shearwater](https://ebird.org/species/chrshe)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/108892943/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/108892943/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Lucy Keith-Diagne, some rights reserved (CC-BY)
@@ -264,9 +264,9 @@ Sooty -> 殕色 phú-sik
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-不知道怎麼翻，採用日語
+- 想無較適合 ê 名，暫時參考日語
 
 :::
 
@@ -284,8 +284,8 @@ Sooty -> 殕色 phú-sik
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-毋知影按怎翻，暫時用華語
+- 想無較適合 ê 名，暫時參考華語
 
 :::

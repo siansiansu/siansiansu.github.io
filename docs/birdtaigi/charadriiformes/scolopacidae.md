@@ -19,9 +19,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
--《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 - 中 tiong + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，中土礱鉤鷸 tiong-thôo-lâng-kau-u̍t
 
 :::
@@ -45,9 +45,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
--《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 - 小 sió + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，小土礱鉤鷸 sió-thôo-lâng-kau-u̍t
 
 :::
@@ -72,9 +72,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
--《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 - 紅腰 âng-io + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-u̍t
 
 :::
@@ -114,7 +114,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Bar-tailed -> 斑尾 pan-bé
 
@@ -136,7 +136,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Black-tailed -> 烏尾 oo-bé
 
@@ -158,9 +158,9 @@ Black-tailed -> 烏尾 oo-bé
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-暫時揣無較適合 ê 台語名，用華語半扒 puànn-pê
+半扒 puànn-pê
 
 :::
 
@@ -180,9 +180,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 暫時揣無較適合 ê 台語名，用華語半扒 puànn-pê
+- 半扒 puànn-pê
 - Short-billed -> 短喙 té-tshuì
 
 :::
@@ -203,9 +203,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 暫時揣無較適合 ê 台語名，用華語半扒 puànn-pê
+- 半扒 puànn-pê
 - Long-billed -> 長喙 tng-tshuì
 
 :::
@@ -224,7 +224,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 小 sió + 田鑽仔 tshân-tsǹg-á
 
@@ -244,7 +244,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 山 suann + 田鑽仔 tshân-tsǹg-á
 
@@ -264,7 +264,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 孤 koo + 田鑽仔 tshân-tsǹg-á
 
@@ -288,7 +288,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 中地 tiong-tuē + 田鑽仔 tshân-tsǹg-á
 
@@ -312,7 +312,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 針尾 tsiam-bé + 田鑽仔 tshân-tsǹg-á
 
@@ -359,7 +359,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
@@ -381,9 +381,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 揣無較適合 ê 台語名，暫時叫伊扒跤仔 pê-kha-á。
+- 想無較適合 ê 名，暫時叫伊扒跤仔 pê-kha-á。
 
 :::
 
@@ -404,9 +404,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 揣無較適合 ê 台語名，暫時叫伊蹼跤仔 pê-kha-á。
+- 想無較適合 ê 名，暫時叫伊蹼跤仔 pê-kha-á。
 
 :::
 
@@ -427,7 +427,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 後壁加上分類名鷸 u̍t，佮翹喙鴴 khiàu-tshuì-hîng 區分
 
@@ -449,7 +449,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 磯鷸 ki-u̍t 源自日語漢字
 
@@ -472,7 +472,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 參考華語日語
 
@@ -494,7 +494,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 黃足 -> 黃跤 n̂g-kha
 
@@ -516,7 +516,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 美洲 bí-tsiu + 黃足 n̂g-kha + 鷸 u̍t
 
@@ -536,7 +536,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 參考華語日語
 
@@ -558,7 +558,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 參考華語日語
 
@@ -580,7 +580,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 赤足 -> 紅跤 âng-kha
 
@@ -602,7 +602,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Lesser Yellowlegs -> 小黃跤 sió-n̂g-kha + 鷸 u̍t
 
@@ -626,7 +626,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
@@ -648,7 +648,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 參考華語日語
 
@@ -670,7 +670,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 青足 -> 青跤 tshinn-kha
 
@@ -693,7 +693,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
@@ -716,7 +716,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 姥鷸 bóo-u̍t 源自日語漢字。
 - Great Knot -> 大 tuā + 濱鷸 pin-u̍t
@@ -742,7 +742,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 📍 小姥鷸 sió-bóo-u̍t 源自日語漢字。
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 小姥鷸 sió-bóo-u̍t 源自日語漢字。
 
@@ -765,7 +765,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 襟巻鷸 khim-kńg-u̍t 源自日語漢字。
 - tshoo-king-u̍t - 1973 Embree台英辭典
@@ -788,7 +788,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Broad-billed -> 闊喙 khuah-tshuì
 
@@ -810,7 +810,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Sharp-tailed -> 尖尾 tsiam-bé
 
@@ -832,9 +832,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 暫時揣無較適合 ê 台語名，參考華語彎喙 uan-tshuì。
+- 想無較適合 ê 名，暫時參考華語
 
 :::
 
@@ -854,7 +854,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 躼跤 lò-kha + 濱鷸 pin-u̍t
 
@@ -876,7 +876,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Temminck’s Stint-> 丹氏 tan-sī + 濱鷸 pin-u̍t
 
@@ -899,7 +899,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 雲雀鷸 hûn-tshiok-u̍t 源自日語漢字。
 - Long-toed -> 長爪 tn̂g-jiáu
@@ -922,9 +922,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 暫時揣無較適合 ê 台語名，參考華語紅胸 âng-hing。
+- 想無較適合 ê 名，暫時參考華語紅胸 âng-hing。
 
 :::
 
@@ -945,7 +945,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 琵嘴 -> 飯匙 pn̄g-sî 仰是湯匙仔 thng-sî-á + 分類名鷸 u̍t
 
@@ -967,7 +967,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Buff-breasted -> 黃胸 n̂g-hing
 
@@ -990,7 +990,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 參考外觀特徵、華語日語
 
@@ -1014,7 +1014,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 參考外觀特徵、華語日語
 
@@ -1036,7 +1036,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Little Stint -> 小濱鷸 sió-pin-u̍t
 
@@ -1058,7 +1058,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 參考外觀特徵、華語日語
 
@@ -1081,7 +1081,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Western Sandpiper -> 西濱鷸 se-pin-u̍t
 

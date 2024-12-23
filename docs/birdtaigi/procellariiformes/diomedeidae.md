@@ -18,7 +18,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 黑背信天翁 -> 烏背 oo-puè + 信天翁 sìn-thian-ang
 - 海南戇 hái-lâm-gōng - 2002⁺ 台華線頂辭典
@@ -43,7 +43,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Black-footed Albatross -> 烏跤 oo-kha + 信天翁 sìn-thian-ang
 - 海南戇 hái-lâm-gōng - 2002⁺ 台華線頂辭典
@@ -68,7 +68,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Short-tailed Albatross -> 短尾 té-bué + 信天翁 sìn-thian-ang
 - 海南戇 hái-lâm-gōng - 2002⁺ 台華線頂辭典

@@ -23,7 +23,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 - 頭前加上普通 phóo-thong，以區別於其他夜鷹。
@@ -55,7 +55,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 山蚊母 suann-bûn-bó 源自英語名 Savanna。
 - 1973 Embree台英辭典

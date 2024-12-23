@@ -21,7 +21,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 日語：ヨーロッパ au-tsiu + 米雞仔 bí-ke-á
 - 華語：西方 se-hong + 米雞仔 bí-ke-á
@@ -48,7 +48,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 依據華語東亞 -> tang-a + 米雞仔 bí-ke-á
 
@@ -74,7 +74,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Slaty-breasted -> 殕色胸 phú-sik-hing
 
@@ -100,7 +100,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 斑胸 pan-hing
 
@@ -129,7 +129,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 2002⁺ 台華線頂辭典
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -153,7 +153,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 頭前加上白冠 pe̍h-kuan 以區別於其他烏雞仔 oo-ke-á
 
@@ -178,7 +178,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Gray-headed -> 殕色頭 phú-sik-thâu + 紫田雞 tsí-tshân-ke
 
@@ -198,7 +198,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - White-browed -> 白眉 pe̍h-bâi + 米雞仔 bí-ke-á
 
@@ -218,7 +218,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 2002⁺ 台華線頂辭典
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -246,7 +246,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 1973 Embree台英辭典
 - 2002⁺ 台華線頂辭典
@@ -271,7 +271,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 紅跤 âng-kha + 米雞仔 bí-ke-á
 
@@ -293,7 +293,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Slaty-legged -> 殕色跤 phú-sik-kha
 
@@ -322,7 +322,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 頭前加上紅胸 âng-hing 以區別於其他米雞仔 bí-ke-á
 
@@ -345,7 +345,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 斑脇 -> 斑胳 pan-kueh
 
@@ -368,7 +368,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 頭前加上紅跤 âng-kha 以區別於其他苦雞母 khóo-ke-bó
 
@@ -391,7 +391,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 頭前加上小 sió 以區別於其他米雞仔 bí-ke-á
 

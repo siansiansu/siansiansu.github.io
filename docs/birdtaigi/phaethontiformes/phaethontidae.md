@@ -15,7 +15,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 
@@ -36,7 +36,7 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Red-billed Tropicbird -> 紅喙 pe̍h-tshuì + 熱帶鳥 jia̍t-tài-tsiáu
 
@@ -57,7 +57,7 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - Red-tailed Tropicbird -> 紅尾 pe̍h-bé + 熱帶鳥 jia̍t-tài-tsiáu
 

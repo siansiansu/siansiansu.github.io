@@ -14,7 +14,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Black Stork -> 烏鸛 oo-kuàn
 
@@ -34,7 +34,7 @@ Black Stork -> 烏鸛 oo-kuàn
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 Oriental Stork -> 東方白鸛 tong-hong-pe̍h-kuàn
 

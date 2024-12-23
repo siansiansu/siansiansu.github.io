@@ -17,12 +17,6 @@
 
 :::
 
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 樹鴨 tshiū-ah
-
-:::
-
 ## [斑頭雁 インドガン Bar-headed Goose](https://ebird.org/species/bahgoo)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/431975317/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -41,7 +35,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 取自斑頭 Bar-headed
 
@@ -65,7 +59,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 殕色 phú-sik - 教育部台灣台語常用詞辭典
 
@@ -89,12 +83,6 @@
 
 :::
 
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 鴻雁 hông-gān
-
-:::
-
 ## [白額雁 マガン Greater White-fronted Goose](https://ebird.org/species/gwfgoo)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/351532015/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -113,12 +101,6 @@
 
 :::
 
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 白額雁 pe̍h-hia̍h-gān
-
-:::
-
 ## [小白額雁 カリガネ Lesser White-fronted Goose](https://ebird.org/species/lwfgoo)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/114629074/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -134,12 +116,6 @@
 - ✳️ [台] 海鵝 hái-gô
 - ✳️ [台] 野鵝 iá-gô
 - ✳️ [台] 雁仔 gān-á
-
-:::
-
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 小白額雁 sió-pe̍h-hia̍h-gān
 
 :::
 
@@ -162,12 +138,6 @@
 
 :::
 
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 寒林豆雁 hân-lîm-tāu-gān
-
-:::
-
 ## [凍原豆雁 ヒシクイ Tundra Bean-Goose](https://ebird.org/species/tunbeg1)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/168507056/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -184,12 +154,6 @@
 - ✳️ [台] 海鵝 hái-gô
 - ✳️ [台] 野鵝 iá-gô
 - ✳️ [台] 雁仔 gān-á
-
-:::
-
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 凍原豆雁 tàng-guân-tāu-gān
 
 :::
 
@@ -211,12 +175,6 @@
 
 :::
 
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 烏雁 oo-gān
-
-:::
-
 ## [小加拿大雁 シジュウカラガン Cackling Goose](https://ebird.org/species/cacgoo1)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/19681228/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -235,12 +193,6 @@
 
 :::
 
-:::tip[備註]
-
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 小加拿大雁 sió-ka-ná-tāi-gān
-
-:::
-
 ## [疣鼻天鵝 コブハクチョウ Mute Swan](https://ebird.org/species/mutswa)
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/253529360/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -256,7 +208,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 瘤鼻 liû-phīnn - 教育部台灣台語常用詞辭典
 
@@ -277,7 +229,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 天鵝 thian-gô - 教育部台灣台語常用詞辭典
 
@@ -298,7 +250,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 天鵝 thian-gô - 教育部台灣台語常用詞辭典
 
@@ -324,9 +276,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 揣無較好 ê 稱呼，暫時用華語翻譯 -> 瀆鳧 to̍k-hû
+- 想無較適合 ê 名，暫時參考華語 -> 瀆鳧 to̍k-hû
 
 :::
 
@@ -353,7 +305,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 白花仔 pe̍h-hue-á - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
@@ -375,7 +327,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 棉鴨 mî-ah 取自華語
 
@@ -395,7 +347,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 教育部台灣台語常用詞辭典
 
@@ -420,7 +372,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 巴鴨 pa-ah 源自日語漢字。
 - 丑鴨 thiú-ah - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -444,7 +396,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 白目眉鴨 pe̍h-ba̍k-bâi-ah - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
@@ -469,7 +421,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 大喙爬仔 tuā-tshuì-pê-á - 台灣野鳥鄉土名
 - 湯匙仔鴨 thng-sî-á-ah - Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）
@@ -493,7 +445,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 紅翼鴨 âng-si̍t-ah 取自特徵，意思是紅色翼 ê 鴨仔
 
@@ -516,7 +468,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 葦鴨是借用日文漢字 ê 名
 - 羅文鴨 lô-bûn-ah 取自華語
@@ -540,9 +492,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 火燒仔 hué-sio-á -《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 火燒仔 hué-sio-á - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 - 紅頸鴨 âng-kīng-ah 取自特徵、華語，意思是紅色頷頸 ê 鴨仔
 
 :::
@@ -564,9 +516,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 暫時無較好 ê 講法，所以直接翻譯華語
+- 想無較適合 ê 名，暫時參考華語
 
 :::
 
@@ -587,7 +539,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 翻譯英語 Philippine Duck
 
@@ -610,7 +562,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 花喙鴨 hue-tshuì-ah 取自華語
 
@@ -636,10 +588,10 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 綠頭公 li̍k-thâu-kong - 台灣野鳥鄉土名
-- 金頭鴨 kim-thâu-ah -《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 金頭鴨 kim-thâu-ah - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 :::
 
@@ -659,9 +611,9 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
-- 尖尾鴨 tsiam-bué-ah -《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 尖尾鴨 tsiam-bué-ah - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 :::
 
@@ -686,7 +638,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 金翅鴨 kim-tshì-ah - 台灣野鳥鄉土名
 - 水薸 á chúi-phiô-á - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
@@ -710,7 +662,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 赤嘴潛鴨 tshiah-tshuì-tsiâm-ah 取自特徵、華語，意思是赤色嘴 ê 潛鴨仔
 
@@ -732,7 +684,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 帆背潛鴨 phâng-puè-tsiâm-ah 取自華語
 
@@ -754,7 +706,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 紅頭潛鴨 âng-thâu-tsiâm-ah 取自特徵、華語，意思是紅色頭 ê 潛鴨仔
 
@@ -776,7 +728,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 頸箍 kún-khoo 取自特徵、英語 Ring-necked
 - 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
@@ -799,7 +751,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 白眼潛鴨 pi̍k-gán-tsiâm-ah 取自特徵、華語，意思是白色眼 ê 潛鴨仔
 
@@ -821,7 +773,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 青頭潛鴨 tshenn-thâu-tsiâm-ah 取自特徵、華語，意思是青色頭 ê 潛鴨仔
 
@@ -846,7 +798,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 阿不倒仔 a-put-tó-á - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 - 華語鳳頭 -> 聳頭 tshàng-moo
@@ -870,7 +822,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 鈴鴨 lîng-ah 源自日語漢字。
 
@@ -892,7 +844,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 小鈴鴨 sió-lîng-a 源自日語漢字。
 
@@ -914,7 +866,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 長尾鴨 tn̂g-bé-ah 取自特徵
 
@@ -937,7 +889,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 金眼鴨 kim-gán-ah 取自特徵
 
@@ -989,7 +941,7 @@
 
 :::
 
-:::tip[備註]
+:::tip[註解]
 
 - 海秋沙 hái-tshiu-sua 源自日語漢字。
 
