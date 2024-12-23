@@ -1,4 +1,26 @@
-# 鰹鳥科 kian-tsiáu-kho
+# 海雞母科 kian-tsiáu-kho
+
+## [紅腳鰹鳥 アカアシカツオドリ Red-footed Booby](https://ebird.org/species/refboo)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/47190674/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Steve Harbula, some rights reserved (CC BY-NC)
+</p>
+
+:::info[台語名]
+
+- 🎯 **[英] 紅跤海雞母 âng-kha-hái-ke-bó**
+- ✳️ [台] 海雞母 hái-ke-bó
+
+:::
+
+:::tip[備註]
+
+- Red-footed -> 紅跤 pe̍h-kha
+- 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+
+:::
 
 ## [白腹鰹鳥 カツオドリ Brown Booby](https://ebird.org/species/brnboo)
 
@@ -10,8 +32,15 @@
 
 :::info[台語名]
 
-- 🎯 [日][華] 白腹鰹鳥 pe̍h-tóo-kian-tsiáu
+- 🎯 **[華] 白腹海雞母 pe̍h-pak-hái-ke-bó**
 - ✳️ [台] 海雞母 hái-ke-bó
+
+:::
+
+:::tip[備註]
+
+- 白腹 -> pe̍h-pak
+- 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 :::
 
@@ -25,23 +54,14 @@
 
 :::info[台語名]
 
-- 🎯 [日][華] 藍面鰹鳥 lâm-bīn-kian-tsiáu
-- 🎯 [日][華] 青面鰹鳥 tshenn-bīn-kian-tsiáu
+- 🎯 [華] 青面海雞母 tshenn-bīn-hái-ke-bó
 - ✳️ [台] 海雞母 hái-ke-bó
 
 :::
 
-## [紅腳鰹鳥 アカアシカツオドリ Red-footed Booby](https://ebird.org/species/refboo)
+:::tip[備註]
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/47190674/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Steve Harbula, some rights reserved (CC BY-NC)
-</p>
-
-:::info[台語名]
-
-- 🎯 [日][英] 紅跤鰹鳥 âng-kha-kian-tsiáu
-- ✳️ [台] 海雞母 hái-ke-bó
+- 青面 -> 青面 tshenn-bīn
+- 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 :::
