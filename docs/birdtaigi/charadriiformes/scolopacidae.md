@@ -152,7 +152,7 @@ Black-tailed -> 烏尾 oo-bé
 
 :::info[台語名]
 
-- 🎯 [華] 半蹼鷸 puànn-pok-u̍t
+- 🎯 [華] 半扒鷸 puànn-pê-u̍t
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
@@ -160,21 +160,21 @@ Black-tailed -> 烏尾 oo-bé
 
 :::tip[備註]
 
-暫時揣無較適合 ê 台語名，用華語半蹼 puànn-pok。
+暫時揣無較適合 ê 台語名，用華語半扒 puànn-pê
 
 :::
 
 ## [短嘴半蹼鷸 アメリカオオハシシギ Short-billed Dowitcher](https://ebird.org/species/shbdow)
 
 <img src="" alt="image" style={{marginBottom: '0rem'}} />
-https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
+https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 <p className="image-caption">
 © Cricket Raspet, some rights reserved (CC-BY)
 </p>
 
 :::info[台語名]
 
-- 🎯 **[華] 短喙半蹼鷸 té-tshuì-puànn-pok-u̍t**
+- 🎯 **[華] 短喙半扒鷸 té-tshuì-puànn-pê-u̍t**
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
@@ -182,7 +182,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 :::tip[備註]
 
-- 暫時揣無較適合 ê 台語名，用華語半蹼 puànn-pok。
+- 暫時揣無較適合 ê 台語名，用華語半扒 puànn-pê
 - Short-billed -> 短喙 té-tshuì
 
 :::
@@ -197,7 +197,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 :::info[台語名]
 
-- 🎯 **[英] 長喙半蹼鷸 tng-tshuì-puànn-pok-u̍t**
+- 🎯 **[英] 長喙半扒鷸 tng-tshuì-puànn-pê-u̍t**
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
@@ -205,7 +205,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 :::tip[備註]
 
-- 暫時揣無較適合 ê 台語名，用華語半蹼 puànn-pok。
+- 暫時揣無較適合 ê 台語名，用華語半扒 puànn-pê
 - Long-billed -> 長喙 tng-tshuì
 
 :::
@@ -252,7 +252,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 ## [孤田鷸 アオシギ Solitary Snipe](https://ebird.org/species/solsni1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/102481916/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/102481916/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Christoph Moning, some rights reserved (CC-BY)
@@ -375,7 +375,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 :::info[台語名]
 
-- 🎯 **[華] 殕色蹼跤仔 phú-sik-pok-kha-á**
+- 🎯 **[華] 殕色扒跤仔 phú-sik-pê-kha-á**
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
@@ -383,7 +383,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 :::tip[備註]
 
-- 揣無較適合 ê 台語名，暫時叫伊蹼跤仔 pok-kha-á。
+- 揣無較適合 ê 台語名，暫時叫伊扒跤仔 pê-kha-á。
 
 :::
 
@@ -397,8 +397,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 :::info[台語名]
 
-- 🎯 **[英] 紅領蹼跤仔 âng-niá-pok-kha-á**
-- 🎯 **[英] 紅頸蹼跤仔 âng-kún-pok-kha-á**
+- 🎯 **[英] 紅領扒跤仔 âng-niá-pê-kha-á**
+- 🎯 **[英] 紅頸扒跤仔 âng-kún-pê-kha-á**
 - ✳️ [台] 水尖仔 Tsúi-tsiam-á
 - ✳️ [台] 海滑溜仔 hái-ku̍t-liu-á
 
@@ -406,7 +406,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/large.jpeg
 
 :::tip[備註]
 
-- 揣無較適合 ê 台語名，暫時叫伊蹼跤仔 pok-kha-á。
+- 揣無較適合 ê 台語名，暫時叫伊蹼跤仔 pê-kha-á。
 
 :::
 

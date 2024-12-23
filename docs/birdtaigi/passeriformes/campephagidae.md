@@ -89,7 +89,7 @@
 
 ## [花翅山椒鳥 オオオニサンショウクイ Large Cuckooshrike](https://ebird.org/species/larcus1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © reginchen, some rights reserved (CC-BY-NC)
@@ -106,7 +106,7 @@
 
 ## [粉紅山椒鳥 モモイロサンショウクイ Rosy Minivet](https://ebird.org/species/rosmin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354662864/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354662864/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © jayaprakash Singha, some rights reserved (CC-BY-NC)

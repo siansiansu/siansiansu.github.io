@@ -37,7 +37,7 @@
 
 ## [日菲繡眼 Warbling White-eye](https://ebird.org/species/warwhe1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Vitan2011, some rights reserved (CC-BY-NC)

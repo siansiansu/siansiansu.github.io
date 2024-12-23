@@ -230,7 +230,7 @@
 
 ## [樹鷚 ビンズイ Olive-backed Pipit](https://ebird.org/species/olbpip)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366802056/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/366802056/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Benoît Segerer, some rights reserved (CC-BY-NC)

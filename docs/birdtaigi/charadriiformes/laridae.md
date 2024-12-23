@@ -331,7 +331,7 @@
 
 ## [西伯利亞銀鷗 セグロカモメ Vega Gull](https://ebird.org/species/veggul1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/455835065/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/455835065/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © belvedere04, some rights reserved (CC-BY)

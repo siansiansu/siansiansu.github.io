@@ -186,7 +186,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [白眉秧雞 マミジロクイナ White-browed Crake](https://ebird.org/species/whbcra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/441732701/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/441732701/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Legawa, Everest C, some rights reserved (CC-BY)

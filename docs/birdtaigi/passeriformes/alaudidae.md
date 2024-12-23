@@ -30,7 +30,7 @@
 
 ## [蒙古百靈 コウテンシ Mongolian Lark](https://ebird.org/species/monlar1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/348250218/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/348250218/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © fattakhova_olga, some rights reserved (CC-BY-NC)

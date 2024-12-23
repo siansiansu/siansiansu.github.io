@@ -65,7 +65,7 @@
 
 ## [灰賊鷗 オオトウゾクカモメ South Polar Skua](https://ebird.org/species/sopsku1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/456556767/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/456556767/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Charlotte Kirchner, some rights reserved (CC-BY)

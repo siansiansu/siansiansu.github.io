@@ -2,7 +2,7 @@
 
 ## [朱連雀 ヒレンジャク Japanese Waxwing](https://ebird.org/species/japwax1)
 
-<img src="https://static.inaturalist.org/photos/363330481/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://static.inaturalist.org/photos/363330481/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Aline Horikawa, all rights reserved

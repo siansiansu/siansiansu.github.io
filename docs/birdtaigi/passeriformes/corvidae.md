@@ -2,7 +2,7 @@
 
 ## [台灣藍鵲 ヤマムスメ Taiwan Blue-Magpie](https://ebird.org/species/formag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367211582/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367211582/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © lava_chen, some rights reserved (CC-BY-NC)
@@ -99,7 +99,7 @@
 
 ## [玉頸鴉 クビワガラス Collared Crow](https://ebird.org/species/colcro1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355763512/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355763512/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © garypoon, some rights reserved (CC-BY-NC)

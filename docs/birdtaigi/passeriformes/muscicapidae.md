@@ -48,7 +48,7 @@
 
 ## [黃眉黃鶲 キビタキ Narcissus Flycatcher](https://ebird.org/species/narfly2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367782075/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367782075/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sam Hambly, some rights reserved (CC-BY-NC)
@@ -410,7 +410,7 @@
 
 ## [漠䳭 サバクヒタキ Desert Wheatear](https://ebird.org/species/deswhe1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/365483244/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/365483244/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © bertogcliment, some rights reserved (CC-BY-NC)
@@ -489,7 +489,7 @@
 
 ## [小翼鶇 タイワンコバネヒタキ Taiwan Shortwing](https://ebird.org/species/whbsho6)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/263846221/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/263846221/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © mingun, some rights reserved (CC-BY-NC)

@@ -70,7 +70,7 @@ no rights reserved, uploaded by 葉子
 
 ## [栗背短腳鵯 クリイロヒヨドリ Chestnut Bulbul](https://ebird.org/species/chebul1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367129749/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367129749/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © shiguangshi, some rights reserved (CC-BY-NC)

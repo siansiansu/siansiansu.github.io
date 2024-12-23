@@ -178,7 +178,7 @@
 
 ## [褐鷹鴞 アオバズク Northern Boobook](https://ebird.org/species/norboo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/365963948/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/365963948/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © james-patrick, some rights reserved (CC-BY-NC)

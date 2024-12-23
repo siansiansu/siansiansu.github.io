@@ -79,7 +79,7 @@
 
 ## [黑喉文鳥 コシグロキンパラ Javan Munia](https://ebird.org/species/javmun1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/361888379/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/361888379/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Catalina Tong, some rights reserved (CC-BY-NC)

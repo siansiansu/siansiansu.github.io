@@ -27,7 +27,7 @@
 
 ## [黑領高蹺鴴 オーストラリアセイタカシギ Pied Stilt](https://ebird.org/species/piesti1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/453916212/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/453916212/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © spacegecko, some rights reserved (CC-BY)

@@ -2,7 +2,7 @@
 
 ## [山紅頭 ズアカチメドリ Rufous-capped Babbler](https://ebird.org/species/rucbab1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/360938608/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/360938608/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © albertkwok20, some rights reserved (CC-BY-NC)

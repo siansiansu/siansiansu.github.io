@@ -2,7 +2,7 @@
 
 ## [褐頭花翼 タイワンチメドリ Taiwan Fulvetta](https://ebird.org/species/taiful1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Allen Lyu, some rights reserved (CC-BY-NC)

@@ -237,7 +237,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 ## [唐白鷺 カラシラサギ Chinese Egret](https://ebird.org/species/chiegr)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/363689330/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/363689330/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Gerard van de Wiel, some rights reserved (CC-BY-NC)
