@@ -90,7 +90,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      metadata: [
+        {
+          name: 'keywords',
+          content: '台語, 鳥仔, 鳥仔 ê 名 - 認捌鳥仔 ê 台語'
+        },
+        {
+          name: 'twitter:card',
+          content: 'summary_large_image'
+        },
+        {
+          name: 'og:title',
+          content: '鳥仔 ê 名 - 認捌鳥仔 ê 台語'
+        },
+        {
+          name: 'og:description',
+          content: '台語, 鳥仔, 賞鳥簿仔, eBird, 軟工, 演算法, 遊戲, 鳥仔ê名, 認捌鳥仔ê台語, 台文, 台羅'
+        },
+      ],
       image: 'img/profile.jpg',
       navbar: {
         title: 'Mè-sì',
