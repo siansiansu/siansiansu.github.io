@@ -122,7 +122,8 @@ no rights reserved, uploaded by Kyle Nessen
 
 :::tip[註解]
 
-頭前加上烏頭 oo-thâu 區分其他暗光鳥
+- 頭前加上烏頭 oo-thâu 區分其他暗光鳥
+- Black-crowned -> 烏頭 oo-thâu
 
 :::
 
@@ -136,7 +137,7 @@ no rights reserved, uploaded by Kyle Nessen
 
 :::info[台語名]
 
-- 🎯 [台] 赤身暗光鳥 tshiah-sin-àm-kong-tsiáu
+- 🎯 **[台] 赤身暗光鳥 tshiah-sin-àm-kong-tsiáu**
 - 🎯 [華] 棕夜鷺 tsang-iā-lōo
 - ✳️ [台] 暗光鳥 àm-kong-tsiáu
 
@@ -144,7 +145,8 @@ no rights reserved, uploaded by Kyle Nessen
 
 :::tip[註解]
 
-頭前加上赤身 tshiah-sin 區分其他暗光鳥
+- 頭前加上赤身 tshiah-sin 區分其他暗光鳥
+- 棕 -> 赤身 tshiah-sin
 
 :::
 
@@ -324,7 +326,7 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [華] 青翎鷥 tshenn-līng-si
+- 🎯 [台] 青翎鷥 tshenn-līng-si
 - 🎯 [華] 青鷺 tshenn-lōo
 - 🎯 [華] 青簑鷺 tshenn-sui-lōo
 - 🎯 [台] 打魚郎 phah-hî-lông
@@ -338,11 +340,30 @@ no rights reserved, uploaded by 葉子
 
 :::tip[註解]
 
-青 tshenn + 翎鷥 līng-si
+個人喜歡「青 tshenn + 翎鷥 līng-si」
 
 :::
 
-## 印度池鷺 Indian Pond-Heron
+## [印度池鷺 インドアカガシラサギ Indian Pond-Heron](https://ebird.org/species/inpher1)
+
+<img src="" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+</p>
+
+:::info[台語名]
+
+- 🎯 **[日] 印度赤頭鷺 ìn-tōo-tshiah-thâu-lōo**
+- [英] 印度池鷺 ìn-tōo-tî-lōo
+- [英] 印度沼鷺 ìn-tōo-tsiáu-lōo
+
+:::
+
+:::tip[註解]
+
+參考日語
+
+:::
 
 ## [池鷺 アカガシラサギ Chinese Pond-Heron](https://ebird.org/species/chpher1)
 
@@ -354,8 +375,8 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [華][英] 池鷺 tî-lōo
-- 🎯 [華][英] 沼鷺 tsiáu-lōo
+- 🎯 [英] 池鷺 tî-lōo
+- 🎯 [英] 沼鷺 tsiáu-lōo
 - [日] 赤頭鷺 tshiah-thâu-lōo
 
 :::
