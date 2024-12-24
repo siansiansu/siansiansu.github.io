@@ -1,4 +1,4 @@
-# 布袋鳥科 pòo-tē-tsiáu-kho
+# 布袋鵝科 pòo-tē-gô-kho
 
 ## [卷羽鵜鶘 ハイイロペリカン Dalmatian Pelican](https://ebird.org/species/dalpel1)
 
@@ -10,14 +10,13 @@
 
 :::info[台語名]
 
-- 🎯 [台] 虯毛布袋鳥 khiû-moo-tē-tsiáu
-- 🎯 [台] 虯毛布袋鵝 khiû-moo-tē-gô
-- [日] 虯毛伽藍鳥 khiû-moo-khiā-lâm-iâ
-- [中] 塘鵝 tn̂g-gô
-- [華] 虯毛鵜鶘 khiû-moo-thê-ôo
-- ✳️ [台] 布袋鳥 pòo-tē-tsiáu
+- 🎯 **[台] 虯毛布袋鵝 khiû-moo-pòo-tē-gô**
 - ✳️ [台] 布袋鵝 pòo-tē-gô
-- ✳️ [日] 伽藍鳥 khiā-lâm-iâ
-- ✳️ [華] 鵜鶘 thê-ôo
+
+:::
+
+:::tip[註解]
+
+- 布袋鵝 pòo-tē-gô - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 :::
