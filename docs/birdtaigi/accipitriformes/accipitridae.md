@@ -4,9 +4,14 @@ description: 鷹科 ing-kho
 keywords: [台語, 鳥]
 ---
 
+import Image from '@theme/IdealImage';
+
 # 鷹科 ing-kho
 
 ## [黑翅鳶 カタグロトビ Black-winged Kite](https://ebird.org/species/bkskit1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
 
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
@@ -190,7 +195,25 @@ Greater Spotted Eagle -> 花鷹 hue-ing
 
 :::
 
-## 靴隼鵰 Booted Eagle
+## [靴隼鵰 ヒメクマタカ Booted Eagle](https://ebird.org/species/booeag1)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/455662036/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© sunnyjosef, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **[英] 靴管鷹 hia-kóng-ing**
+
+:::
+
+:::tip[備註]
+
+Booted Eagle -> 靴管鷹 hia-kóng-ing
+
+:::
 
 ## [白肩鵰 カタシロワシ Imperial Eagle](https://ebird.org/species/impeag1)
 
@@ -202,13 +225,25 @@ Greater Spotted Eagle -> 花鷹 hue-ing
 
 :::info[台語名]
 
-- 🎯 [華][日] 白肩鷹 pe̍h-king-ing
-- [華][日] 白肩鵰 pe̍h-king-tiau
+- 🎯 **[華] 白肩鷹 pe̍h-king-ing**
+- [華] 白肩鵰 pe̍h-king-tiau
 - ✳️ [台] 鷹仔 ing-á
 
 :::
 
-## 金鵰
+:::tip[備註]
+
+- 想無較適合 ê 名，暫時參考華語
+
+:::
+
+## [金鵰 イヌワシ Golden Eagle](https://ebird.org/species/goleag)
+
+<img src="" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+
+</p>
 
 ## [白腹鵰 ボネリークマタカ Bonelli's Eagle](https://ebird.org/species/boneag2)
 
