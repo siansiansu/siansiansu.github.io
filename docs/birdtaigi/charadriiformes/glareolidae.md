@@ -1,8 +1,16 @@
+---
+title: 燕仔鴴科 iàn-á-hîng-kho
+description: 燕仔鴴科 iàn-á-hîng-kho
+keywords: [台語, 鳥]
+---
+
+import Image from '@theme/IdealImage';
+
 # 燕仔鴴科 iàn-á-hîng-kho
 
 ## [燕鴴 ツバメチドリ Oriental Pratincole](https://ebird.org/species/oripra)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/85972402/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/85972402/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Yuwaraj Gurjar, some rights reserved (CC BY-NC)

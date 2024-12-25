@@ -2,7 +2,7 @@
 
 ## [朱連雀 ヒレンジャク Japanese Waxwing](https://ebird.org/species/japwax1)
 
-<img src="https://static.inaturalist.org/photos/363330481/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://static.inaturalist.org/photos/363330481/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Aline Horikawa, all rights reserved
@@ -18,7 +18,7 @@
 
 ## [黃連雀 キレンジャク Bohemian Waxwing](https://ebird.org/species/bohwax)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59611753/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59611753/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Илья Сухов, some rights reserved (CC BY-NC)

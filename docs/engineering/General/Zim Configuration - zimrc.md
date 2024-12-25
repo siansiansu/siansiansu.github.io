@@ -22,6 +22,9 @@ zmodule termtitle
 # Adds utility aliases and functions (e.g., colored output for ls, grep, less).
 zmodule utility
 
+zmodule k
+zmodule joke/zim-kubectl
+
 # --------------------------------------------------------------
 # Additional Tools & Plugins
 # --------------------------------------------------------------

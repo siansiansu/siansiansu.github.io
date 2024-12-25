@@ -2,7 +2,7 @@
 
 ## [和尚鸚鵡 オキナインコ Monk Parakeet](https://ebird.org/species/monpar)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/210489785/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/210489785/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) shierandrulist, some rights reserved (CC BY-NC)

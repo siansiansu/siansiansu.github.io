@@ -2,7 +2,7 @@
 
 ## [黃腹花蜜鳥 Ornate Sunbird](https://ebird.org/species/olbsun4)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/11596150/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/11596150/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) John Dumbacher, some rights reserved (CC BY-NC)
@@ -18,7 +18,7 @@
 
 ## [叉尾太陽鳥 エンビタイヨウチョウ Fork-tailed Sunbird](https://ebird.org/species/fotsun1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/60958137/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60958137/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Paul Dickson, some rights reserved (CC BY-NC)

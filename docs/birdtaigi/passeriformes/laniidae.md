@@ -2,7 +2,7 @@
 
 ## [虎紋伯勞 チゴモズ Tiger Shrike](https://ebird.org/species/tigshr1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2741359/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2741359/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
@@ -17,7 +17,7 @@
 
 ## [紅背伯勞 セアカモズ Red-backed Shrike](https://ebird.org/species/rebshr1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Radovan Václav, some rights reserved (CC BY-NC)
@@ -32,7 +32,7 @@
 
 ## [紅尾伯勞 アカモズ Brown Shrike](https://ebird.org/species/brnshr)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/209577632/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/209577632/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Afsar Nayakkan, some rights reserved (CC BY)
@@ -48,7 +48,7 @@
 
 ## [紅頭伯勞 モズ Bull-headed Shrike](https://ebird.org/species/buhshr1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/12428902/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12428902/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Alexander Ganse, some rights reserved (CC BY-NC)
@@ -63,7 +63,7 @@
 
 ## [棕背伯勞 タカサゴモズ Long-tailed Shrike](https://ebird.org/species/lotshr1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/60942640/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60942640/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Luan Mai Sy, some rights reserved (CC BY-NC)
@@ -80,7 +80,7 @@
 
 ## [喫尾伯勞 オオカラモズ Chinese Gray Shrike](https://ebird.org/species/chgshr1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Yongchul Kim, some rights reserved (CC BY-NC)

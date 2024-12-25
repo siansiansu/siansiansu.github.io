@@ -2,7 +2,7 @@
 
 ## [攀雀 ツリスガラ Chinese Penduline-Tit](https://ebird.org/species/chptit1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2744070/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2744070/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)

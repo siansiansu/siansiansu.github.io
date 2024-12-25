@@ -2,7 +2,7 @@
 
 ## [佛法僧 ブッポウソウ Dollarbird](https://ebird.org/species/dollar1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/178011313/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/178011313/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Wich’yanan L, some rights reserved (CC BY)

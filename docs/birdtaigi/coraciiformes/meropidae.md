@@ -2,7 +2,7 @@
 
 ## [栗喉蜂虎 ハリオハチクイ Blue-tailed Bee-eater](https://ebird.org/species/btbeat1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/41165864/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/41165864/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Vijay Vanaparthy, some rights reserved (CC BY)
@@ -17,7 +17,7 @@
 
 ## [彩虹蜂虎 ハチクイ Rainbow Bee-eater](https://ebird.org/species/rabeat1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/124619342/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/124619342/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Jean and Fred, some rights reserved (CC BY)
@@ -32,7 +32,7 @@
 
 ## [藍喉蜂虎 ルリノドハチクイ Blue-throated Bee-eater](https://ebird.org/species/btbeat2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/85045627/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/85045627/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) benjamynweil, some rights reserved (CC BY-NC)

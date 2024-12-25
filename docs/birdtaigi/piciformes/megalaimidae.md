@@ -2,7 +2,7 @@
 
 ## [台灣擬啄木 タイワンゴシキドリ Taiwan Barbet](https://ebird.org/species/taibar2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/175905452/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/175905452/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Glenda Heng, some rights reserved (CC BY-NC)

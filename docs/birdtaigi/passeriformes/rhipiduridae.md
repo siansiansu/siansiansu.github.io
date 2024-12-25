@@ -2,7 +2,7 @@
 
 ## [斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail](https://ebird.org/species/piefan1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/188717255/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/188717255/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
@@ -19,7 +19,7 @@
 
 ## [白喉扇尾鶲 ノドジロオウギビタキ White-throated Fantail](https://ebird.org/species/whtfan1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/87761856/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/87761856/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Md. Zaber Ansary, some rights reserved (CC BY-NC)

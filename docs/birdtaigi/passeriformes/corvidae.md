@@ -2,7 +2,7 @@
 
 ## [台灣藍鵲 ヤマムスメ Taiwan Blue-Magpie](https://ebird.org/species/formag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/367211582/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/367211582/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © lava_chen, some rights reserved (CC-BY-NC)
@@ -22,7 +22,7 @@
 
 ## [喜鵲 カササギ Oriental Magpie](https://ebird.org/species/orimag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/113352854/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/113352854/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) FreckLes, some rights reserved (CC BY-NC)
@@ -38,7 +38,7 @@
 
 ## [樹鵲 タイワンオナガ Gray Treepie](https://ebird.org/species/grytre1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/12865252/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12865252/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Liu JimFood, some rights reserved (CC BY-NC)
@@ -54,7 +54,7 @@
 
 ## [灰喜鵲 オナガ Azure-winged Magpie](https://ebird.org/species/azwmag2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/137161339/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/137161339/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Илья Сухов, some rights reserved (CC BY-NC)
@@ -69,7 +69,7 @@
 
 ## [松鴉 カケス Eurasian Jay](https://ebird.org/species/eurjay1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/32531591/medium.png" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/32531591/medium.png" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Mikhail Ezdakov, some rights reserved (CC BY-NC)
@@ -84,7 +84,7 @@
 
 ## [星鴉 ホシガラス Eurasian Nutcracker](https://ebird.org/species/eurnut1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1629072/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1629072/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Vitalii Khustochka, some rights reserved (CC BY-NC)
@@ -99,7 +99,7 @@
 
 ## [玉頸鴉 クビワガラス Collared Crow](https://ebird.org/species/colcro1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355763512/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/355763512/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © garypoon, some rights reserved (CC-BY-NC)
@@ -115,7 +115,7 @@
 
 ## [家烏鴉 イエガラス House Crow](https://ebird.org/species/houcro1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59311016/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59311016/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) John Clough, some rights reserved (CC BY-NC)
@@ -130,7 +130,7 @@
 
 ## [禿鼻鴉 ミヤマガラス Rook](https://ebird.org/species/rook1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/106116060/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/106116060/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Александр Гончаров, some rights reserved (CC BY-NC)
@@ -148,7 +148,7 @@
 
 ## [小嘴烏鴉 ハシボソガラス Carrion Crow](https://ebird.org/species/carcro1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/239671563/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/239671563/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) oculusaccipiter, some rights reserved (CC BY-NC)
@@ -163,7 +163,7 @@
 
 ## [巨嘴鴉 ハシブトガラス Large-billed Crow](https://ebird.org/species/labcro1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/102902467/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/102902467/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Joe Bourget, some rights reserved (CC BY-NC)

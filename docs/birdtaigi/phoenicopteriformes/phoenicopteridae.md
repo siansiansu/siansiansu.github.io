@@ -2,7 +2,7 @@
 
 ## [大紅鶴 ヨーロッパフラミンゴ Greater Flamingo](https://ebird.org/species/grefla3)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/187242272/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/187242272/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) cog2022, some rights reserved (CC BY-NC)

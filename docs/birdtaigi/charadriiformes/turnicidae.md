@@ -1,8 +1,16 @@
+---
+title: 三爪鵪鶉科 sann-jiáu-ian-thun-kho
+description: 三爪鵪鶉科 sann-jiáu-ian-thun-kho
+keywords: [台語, 鳥]
+---
+
+import Image from '@theme/IdealImage';
+
 # 三爪鵪鶉科 sann-jiáu-ian-thun-kho
 
 ## [黃腳三趾鶉 チョウセンミフウズラ Yellow-legged Buttonquail](https://ebird.org/species/yelbut1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/65964213/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/65964213/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) benjamynweil, some rights reserved (CC BY-NC)
@@ -27,7 +35,7 @@
 
 ## [棕三趾鶉 ミフウズラ Barred Buttonquail](https://ebird.org/species/barbut1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/285858277/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/285858277/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
@@ -53,7 +61,7 @@
 
 ## [林三趾鶉 ヒメミフウズラ Small Buttonquail](https://ebird.org/species/smabut2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/13349981/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13349981/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) copper, some rights reserved (CC BY-NC)

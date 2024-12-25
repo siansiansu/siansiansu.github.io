@@ -2,7 +2,7 @@
 
 ## [鵂鶹 ヒメフクロウ Collared Owlet](https://ebird.org/species/colowl1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/110503572/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/110503572/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Morten Ross, some rights reserved (CC BY-NC)
@@ -29,7 +29,7 @@
 
 ## [長耳鴞 トラフズク Long-eared Owl](https://ebird.org/species/loeowl)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/133553640/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/133553640/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) caroline legg, some rights reserved (CC BY)
@@ -54,7 +54,7 @@
 
 ## [短耳鴞 コミミズク Short-eared Owl](https://ebird.org/species/sheowl)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/246932846/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/246932846/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Suzanne Labbé, some rights reserved (CC BY-NC)
@@ -79,7 +79,7 @@
 
 ## [黃嘴角鴞 タイワンコノハズク Mountain Scops-Owl](https://ebird.org/species/mosowl2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1725240/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1725240/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Soham Dixit, some rights reserved (CC BY-NC)
@@ -104,7 +104,7 @@
 
 ## [蘭嶼角鴞 リュウキュウコノハズク Ryukyu Scops-Owl](https://ebird.org/species/ryusco1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/104619954/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/104619954/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Attila Steiner, some rights reserved (CC BY-NC)
@@ -129,7 +129,7 @@
 
 ## [東方角鴞 コノハズク Oriental Scops-Owl](https://ebird.org/species/orsowl)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/182504854/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/182504854/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
@@ -154,7 +154,7 @@
 
 ## [領角鴞 ヒガシオオコノハズク Collared Scops-Owl](https://ebird.org/species/cosowl1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/90724859/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/90724859/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) hokoonwong, some rights reserved (CC BY-NC)
@@ -178,7 +178,7 @@
 
 ## [褐鷹鴞 アオバズク Northern Boobook](https://ebird.org/species/norboo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/365963948/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/365963948/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © james-patrick, some rights reserved (CC-BY-NC)
@@ -202,7 +202,7 @@
 
 ## [黃魚鴞 ウオミミズク Tawny Fish-Owl](https://ebird.org/species/tafowl1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/6467390/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/6467390/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) David J Barton, some rights reserved (CC BY-NC)
@@ -226,7 +226,7 @@
 
 ## [褐林鴞 オオフクロウ Brown Wood-Owl](https://ebird.org/species/brwowl1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/57850672/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57850672/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) John Clough, some rights reserved (CC BY-NC)
@@ -250,7 +250,7 @@
 
 ## [東方灰林鴞 ヒマラヤフクロウ Himalayan Owl](https://ebird.org/species/himowl1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/44506086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/44506086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) N. Mahathi, some rights reserved (CC BY-NC)

@@ -2,7 +2,7 @@
 
 ## [白斑軍艦鳥 コグンカンドリ Lesser Frigatebird](https://ebird.org/species/lesfri)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/258323439/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/258323439/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) juju98, some rights reserved (CC BY-NC)
@@ -24,7 +24,7 @@
 
 ## [軍艦鳥 オオグンカンドリ Great Frigatebird](https://ebird.org/species/grefri)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/111687382/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/111687382/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Bernard Mayoff, some rights reserved (CC BY-NC)
@@ -46,7 +46,7 @@
 
 ## [聖誕島軍艦鳥 シロハラグンカンドリ Christmas Island Frigatebird](https://ebird.org/species/chifri1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/429660920/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/429660920/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © baccatta, some rights reserved (CC-BY)

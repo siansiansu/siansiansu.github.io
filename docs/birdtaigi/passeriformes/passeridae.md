@@ -2,7 +2,7 @@
 
 ## [山麻雀 ニュウナイスズメ Russet Sparrow](https://ebird.org/species/russpa2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354703501/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/354703501/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © usaviah, some rights reserved (CC-BY-NC)
@@ -22,7 +22,7 @@
 
 ## [麻雀 スズメ Eurasian Tree Sparrow](https://ebird.org/species/eutspa)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/165351252/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/165351252/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Дмитрий Осипов, some rights reserved (CC BY-NC)
@@ -40,7 +40,7 @@
 
 ## [家麻雀 イエスズメ House Sparrow](https://ebird.org/species/houspa)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/189327799/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/189327799/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Weston Barker, some rights reserved (CC BY-NC)

@@ -2,7 +2,7 @@
 
 ## [茶腹鳾 ゴジュウカラ Eurasian Nuthatch](https://ebird.org/species/eurnut2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/98789726/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/98789726/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Frank Vassen, some rights reserved (CC BY)

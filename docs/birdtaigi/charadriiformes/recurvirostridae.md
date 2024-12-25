@@ -1,8 +1,16 @@
+---
+title: 躼跤鷸科 lò-kha-u̍t-kho
+description: 躼跤鷸科 lò-kha-u̍t-kho
+keywords: [台語, 鳥]
+---
+
+import Image from '@theme/IdealImage';
+
 # 躼跤鷸科 lò-kha-u̍t-kho
 
 ## [高蹺鴴 セイタカシギ Black-winged Stilt](https://ebird.org/species/bkwsti)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/20455456/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20455456/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Paolo, some rights reserved (CC BY)
@@ -27,7 +35,7 @@
 
 ## [黑領高蹺鴴 オーストラリアセイタカシギ Pied Stilt](https://ebird.org/species/piesti1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/453916212/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/453916212/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © spacegecko, some rights reserved (CC-BY)
@@ -47,7 +55,7 @@
 
 ## [反嘴鴴 ソリハシセイタカシギ Pied Avocet](https://ebird.org/species/pieavo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/15387682/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/15387682/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC),

@@ -2,7 +2,7 @@
 
 ## [橙頰梅花雀 ホオアカカエデチョウ Orange-cheeked Waxbill](https://ebird.org/species/orcwax)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1939265/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1939265/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
@@ -28,7 +28,7 @@
 
 ## [白腰文鳥 コシジロキンパラ White-rumped Munia](https://ebird.org/species/whrmun)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/94111218/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/94111218/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Altaf Hussain Talpur, some rights reserved (CC BY-NC)
@@ -45,7 +45,7 @@
 
 ## [斑文鳥 シマキンパラ Scaly-breasted Munia](https://ebird.org/species/nutman)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/161725682/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/161725682/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Daniel Raposo, some rights reserved (CC BY-NC)
@@ -62,7 +62,7 @@
 
 ## [黑頭文鳥 キンパラ Chestnut Munia](https://ebird.org/species/chemun)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/109990638/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/109990638/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) David Monroy R, some rights reserved (CC BY-NC)
@@ -79,7 +79,7 @@
 
 ## [黑喉文鳥 コシグロキンパラ Javan Munia](https://ebird.org/species/javmun1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/361888379/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/361888379/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Catalina Tong, some rights reserved (CC-BY-NC)

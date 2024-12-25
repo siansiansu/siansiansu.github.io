@@ -1,8 +1,16 @@
+---
+title: 石磯仔科 tsio̍h-ki-á-kho
+description: 石磯仔科 tsio̍h-ki-á-kho
+keywords: [台語, 鳥]
+---
+
+import Image from '@theme/IdealImage';
+
 # 石磯仔科 tsio̍h-ki-á-kho
 
 ## [普通夜鷹 ヨタカ Gray Nightjar](https://ebird.org/species/grynig1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1995164/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1995164/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -33,7 +41,7 @@
 
 ## [南亞夜鷹 シロアゴヨタカ Savanna Nightjar](https://ebird.org/species/savnig1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/54773042/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/54773042/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Rizki Kurnia Tohir, some rights reserved (CC BY-NC)

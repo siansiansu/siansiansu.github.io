@@ -2,7 +2,7 @@
 
 ## [褐翅鴉鵑 オオバンケン Greater Coucal](https://ebird.org/species/grecou1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/50398236/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/50398236/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Uday Agashe, some rights reserved (CC BY-NC)
@@ -24,7 +24,7 @@
 
 ## [番鵑 バンケン Lesser Coucal](https://ebird.org/species/lescou1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1991179/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1991179/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -47,7 +47,7 @@
 
 ## [冠郭公 カンムリカッコウ Chestnut-winged Cuckoo](https://ebird.org/species/chwcuc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/14585534/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/14585534/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -69,7 +69,7 @@
 
 ## [斑翅鳳頭鵑 クロシロカンムリカッコウ Pied Cuckoo](https://ebird.org/species/piecuc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/103592832/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/103592832/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Elavarasan M, some rights reserved (CC BY-NC)
@@ -91,7 +91,7 @@
 
 ## [噪鵑 オニカッコウ Asian Koel](https://ebird.org/species/asikoe2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/360494940/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/360494940/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) sunnyjosef, some rights reserved (CC BY)
@@ -113,7 +113,7 @@
 
 ## [八聲杜鵑 ヒメカッコウ Plaintive Cuckoo](https://ebird.org/species/placuc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/189790508/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/189790508/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
@@ -141,7 +141,7 @@
 
 ## [方尾烏鵑 オウチュウカッコウ Square-tailed Drongo-Cuckoo](https://ebird.org/species/asidrc3)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/361229232/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/361229232/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dixon Lau, some rights reserved (CC-BY-NC)
@@ -162,7 +162,7 @@
 
 ## [鷹鵑 オオジュウイチ medium Hawk-Cuckoo](https://ebird.org/species/larhac2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/12816014/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12816014/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -184,7 +184,7 @@
 
 ## [北方鷹鵑 ジュウイチ Northern Hawk-Cuckoo](https://ebird.org/species/nohcuc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/179934644/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/179934644/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) trickytris, some rights reserved (CC BY-NC)
@@ -205,7 +205,7 @@
 
 ## [棕腹鷹鵑 インドシナジュウイチ Hodgson's Hawk-Cuckoo](https://ebird.org/species/hodhac1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/11261029/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/11261029/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -228,7 +228,7 @@
 
 ## [小杜鵑 ホトトギス Lesser Cuckoo](https://ebird.org/species/lescuc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/333075019/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/333075019/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Deepa Mohan, some rights reserved (CC-BY-NC)
@@ -254,7 +254,7 @@
 
 ## [四聲杜鵑 セグロカッコウ Indian Cuckoo](https://ebird.org/species/indcuc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/6932318/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/6932318/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -279,7 +279,7 @@
 
 ## [喜馬拉雅中杜鵑 ヒマラヤツツドリ Himalayan Cuckoo](https://ebird.org/species/himcuc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/39488506/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/39488506/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Pauline Carmel Joy Eje, some rights reserved (CC-BY)
@@ -308,7 +308,7 @@
 
 ## [大杜鵑 カッコウ Common Cuckoo](https://ebird.org/species/comcuc)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/135795698/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/135795698/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Alan King, some rights reserved (CC BY-NC)
@@ -334,7 +334,7 @@
 
 ## [北方中杜鵑 ツツドリ Oriental Cuckoo](https://ebird.org/species/oricuc2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/152874183/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/152874183/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Игорь. Фадеев, some rights reserved (CC BY-NC)

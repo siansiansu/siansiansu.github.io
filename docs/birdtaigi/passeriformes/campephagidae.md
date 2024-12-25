@@ -2,7 +2,7 @@
 
 ## [灰喉山椒鳥 ベニサンショウクイ Gray-chinned Minivet](https://ebird.org/species/gycmin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/11264485/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/11264485/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -19,7 +19,7 @@
 
 ## [赤紅山椒鳥 シュイロサンショウクイ Scarlet Minivet](https://ebird.org/species/scamin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/37688969/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/37688969/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Dmitry Ivanov, some rights reserved (CC BY-NC)
@@ -36,7 +36,7 @@
 
 ## [琉球山椒鳥 リュウキュウサンショウクイ Ryukyu Minivet](https://ebird.org/species/ryumin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/111118598/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/111118598/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Allen Lyu, some rights reserved (CC BY-NC)
@@ -53,7 +53,7 @@
 
 ## [灰山椒鳥 サンショウクイ Ashy Minivet](https://ebird.org/species/ashmin1/)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2741018/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2741018/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
@@ -70,7 +70,7 @@
 
 ## [小灰山椒鳥 チャイロサンショウクイ Brown-rumped Minivet](https://ebird.org/species/brrmin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/8307918/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/8307918/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Cat Abbott, some rights reserved (CC BY-NC)
@@ -89,7 +89,7 @@
 
 ## [花翅山椒鳥 オオオニサンショウクイ Large Cuckooshrike](https://ebird.org/species/larcus1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/364533663/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © reginchen, some rights reserved (CC-BY-NC)
@@ -106,7 +106,7 @@
 
 ## [粉紅山椒鳥 モモイロサンショウクイ Rosy Minivet](https://ebird.org/species/rosmin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354662864/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/354662864/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © jayaprakash Singha, some rights reserved (CC-BY-NC)

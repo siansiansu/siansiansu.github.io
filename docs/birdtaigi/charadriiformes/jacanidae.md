@@ -1,8 +1,16 @@
+---
+title: 菱角鳥科 lîng-kak-tsiáu-kho
+description: 菱角鳥科 lîng-kak-tsiáu-kho
+keywords: [台語, 鳥]
+---
+
+import Image from '@theme/IdealImage';
+
 # 菱角鳥科 lîng-kak-tsiáu-kho
 
 ## [水雉 レンカク Pheasant-tailed Jacana](https://ebird.org/species/phtjac1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/25837/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/25837/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Dhammika Heenpella, some rights reserved (CC BY-NC)

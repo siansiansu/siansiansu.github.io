@@ -2,7 +2,7 @@
 
 ## [草鴞 ヒガシメンフクロウ Australasian Grass-Owl](https://ebird.org/species/ausgro1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/99451108/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/99451108/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) baronsamedi, some rights reserved (CC BY-NC)

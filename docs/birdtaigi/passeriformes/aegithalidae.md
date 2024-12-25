@@ -2,7 +2,7 @@
 
 ## [紅頭山雀 ズアカエナガ Black-throated Tit](https://ebird.org/species/blttit2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/57372256/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57372256/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Gyeltshen Gyeltshen, some rights reserved (CC BY-NC)

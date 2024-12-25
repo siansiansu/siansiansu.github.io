@@ -2,7 +2,7 @@
 
 ## [海鸕鶿 ヒメウ Pelagic Cormorant](https://ebird.org/species/pelcor)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/12228141/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12228141/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Robin Gwen Agarwal, some rights reserved (CC BY-NC)
@@ -26,7 +26,7 @@
 
 ## [鸕鶿 カワウ Great Cormorant](https://ebird.org/species/grecor)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/141367445/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Дмитрий Осипов, some rights reserved (CC BY-NC)
@@ -49,7 +49,7 @@
 
 ## [丹氏鸕鷀 ウミウ Japanese Cormorant](https://ebird.org/species/japcor1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2744316/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2744316/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)

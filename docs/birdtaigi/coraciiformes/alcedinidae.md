@@ -4,7 +4,7 @@
 
 ## [翠鳥 カワセミ Common Kingfisher](https://ebird.org/species/comkin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tobias Polzer, some rights reserved (CC BY-NC)
@@ -25,7 +25,7 @@
 
 ## [蒼翡翠 アオショウビン White-throated Kingfisher](https://ebird.org/species/whtkin2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)
@@ -50,7 +50,7 @@
 
 ## [斑翡翠 ヒメヤマセミ Pied Kingfisher](https://ebird.org/species/piekin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Koshy Koshy, some rights reserved (CC BY)
@@ -73,7 +73,7 @@
 
 ## [黑頭翡翠 ヤマショウビン Black-capped Kingfisher](https://ebird.org/species/blckin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Carmelo López Abad, some rights reserved (CC BY-NC)
@@ -96,7 +96,7 @@
 
 ## [赤翡翠 アカショウビン Ruddy Kingfisher](https://ebird.org/species/rudkin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) David Bishop, some rights reserved (CC BY-NC)
@@ -123,7 +123,7 @@
 
 ## [白領翡翠 ナンヨウショウビン Collared Kingfisher](https://ebird.org/species/colkin1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) 蔡志偉, some rights reserved (CC BY-NC)

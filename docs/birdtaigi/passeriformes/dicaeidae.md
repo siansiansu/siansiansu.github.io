@@ -2,7 +2,7 @@
 
 ## [紅胸啄花 Fire-breasted Flowerpecker](https://ebird.org/species/fibflo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/363954142/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/363954142/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Nick Volpe, some rights reserved (CC-BY-NC)
@@ -16,7 +16,7 @@
 
 ## [綠啄花 ムジハナドリ Plain Flowerpecker](https://ebird.org/species/plaflo2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/20671277/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20671277/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Hong, some rights reserved (CC BY-NC)

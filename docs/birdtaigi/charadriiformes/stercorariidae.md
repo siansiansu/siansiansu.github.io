@@ -1,8 +1,16 @@
+---
+title: 賊仔鷗科 tsha̍t-á-oo-kho
+description: 賊仔鷗科 tsha̍t-á-oo-kho
+keywords: [台語, 鳥]
+---
+
+import Image from '@theme/IdealImage';
+
 # 賊仔鷗科 tsha̍t-á-oo-kho
 
 ## [長尾賊鷗 シロハラトウゾクカモメ Long-tailed Jaeger](https://ebird.org/species/lotjae)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/19757/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/19757/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Bill Bouton, some rights reserved (CC BY-NC)
@@ -23,7 +31,7 @@
 
 ## [短尾賊鷗 クロトウゾクカモメ Parasitic Jaeger](https://ebird.org/species/parjae)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/208289/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/208289/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
@@ -44,7 +52,7 @@
 
 ## [中賊鷗 トウゾクカモメ Pomarine Jaeger](https://ebird.org/species/pomjae)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/19752/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/19752/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) jomilo75, some rights reserved (CC BY)
@@ -65,7 +73,7 @@
 
 ## [灰賊鷗 オオトウゾクカモメ South Polar Skua](https://ebird.org/species/sopsku1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/456556767/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/456556767/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Charlotte Kirchner, some rights reserved (CC-BY)

@@ -2,7 +2,7 @@
 
 ## [黑枕藍鶲 クロエリヒタキ Black-naped Monarch](https://ebird.org/species/blnmon1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/32860266/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/32860266/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) sunmr, some rights reserved (CC BY-NC)
@@ -17,7 +17,7 @@
 
 ## [紫綬帶 サンコウチョウ Black Paradise-Flycatcher](https://ebird.org/species/japfly1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/90036225/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/90036225/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)
@@ -35,7 +35,7 @@
 
 ## [阿穆爾綬帶 アムールサンコウチョウ Amur Paradise-Flycatcher](https://ebird.org/species/amupaf1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/91740270/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/91740270/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)

@@ -2,7 +2,7 @@
 
 ## [家八哥 インドハッカ Common Myna](https://ebird.org/species/commyn)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/40176800/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/40176800/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Joshua Doby, some rights reserved (CC BY-NC)
@@ -20,7 +20,7 @@
 
 ## [白尾八哥 ジャワハッカ Javan Myna](https://ebird.org/species/whvmyn)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/6931082/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/6931082/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) budak, some rights reserved (CC BY-NC)
@@ -39,7 +39,7 @@
 
 ## [冠八哥 ハッカチョウ Crested Myna](https://ebird.org/species/cremyn)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Manel Ferreira, some rights reserved (CC BY-NC)
@@ -58,7 +58,7 @@
 
 ## [小椋鳥 コムクドリ Chestnut-cheeked Starling](https://ebird.org/species/chcsta1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/135435728/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/135435728/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Griha Hasanov, some rights reserved (CC BY)
@@ -73,7 +73,7 @@
 
 ## [歐洲椋鳥 ホシムクドリ European Starling](https://ebird.org/species/eursta)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/112860960/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/112860960/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Cameron Eckert, some rights reserved (CC BY-NC)
@@ -90,7 +90,7 @@
 
 ## [灰頭椋鳥 インドコムクドリ Chestnut-tailed Starling](https://ebird.org/species/chtsta2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/89729965/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/89729965/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Uday Agashe, some rights reserved (CC BY-NC)
@@ -106,7 +106,7 @@
 
 ## [北椋鳥 シベリアムクドリ Daurian Starling](https://ebird.org/species/dausta1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/179215594/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/179215594/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) y jessica, some rights reserved (CC BY-NC)
@@ -121,7 +121,7 @@
 
 ## [灰背椋鳥 カラムクドリ White-shouldered Starling](https://ebird.org/species/whssta2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2781305/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2781305/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
@@ -137,7 +137,7 @@
 
 ## [絲光椋鳥 ギンムクドリ Red-billed Starling](https://ebird.org/species/rebsta1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/2722579/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2722579/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
@@ -153,7 +153,7 @@
 
 ## [亞洲輝椋鳥 ミドリカラスモドキ Asian Glossy Starling](https://ebird.org/species/asgsta1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59310977/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59310977/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) John Clough, some rights reserved (CC BY-NC)
@@ -168,7 +168,7 @@
 
 ## [黑領椋鳥 クビワムクドリ Black-collared Starling](https://ebird.org/species/bkcsta1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/146525/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/146525/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Darren, some rights reserved (CC BY-NC)
@@ -183,7 +183,7 @@
 
 ## [灰椋鳥 ムクドリ White-cheeked Starling](https://ebird.org/species/whcsta1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/151623881/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/151623881/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) ts04, some rights reserved (CC BY-NC)

@@ -2,7 +2,7 @@
 
 ## [山紅頭 ズアカチメドリ Rufous-capped Babbler](https://ebird.org/species/rucbab1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/360938608/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/360938608/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © albertkwok20, some rights reserved (CC-BY-NC)
@@ -17,7 +17,7 @@
 
 ## [小彎嘴 タイワンヒメマルハシ Taiwan Scimitar-Babbler](https://ebird.org/species/taiscb1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/22141516/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/22141516/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Liu JimFood, some rights reserved (CC BY-NC)
@@ -37,7 +37,7 @@
 
 ## [大彎嘴 ムナフマルハシ Black-necklaced Scimitar-Babbler](https://ebird.org/species/sbsbab2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/252081017/medium.png" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/252081017/medium.png" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 no rights reserved, uploaded by Ben Keen

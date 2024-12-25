@@ -2,7 +2,7 @@
 
 ## [卷羽鵜鶘 ハイイロペリカン Dalmatian Pelican](https://ebird.org/species/dalpel1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/51559911/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/51559911/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Satyen Mehta, some rights reserved (CC BY-NC)

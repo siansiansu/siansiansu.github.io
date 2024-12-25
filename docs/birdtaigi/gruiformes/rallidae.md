@@ -2,7 +2,7 @@
 
 ## [西方秧雞 ヨーロッパクイナ Water Rail](https://ebird.org/species/watrai1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/457442495/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457442495/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Gergely Nigg, some rights reserved (CC-BY)
@@ -30,7 +30,7 @@
 
 ## [東亞秧雞 クイナ Brown-cheeked Rail](https://ebird.org/species/bncrai1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/351215957/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/351215957/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © mami_t_t, some rights reserved (CC-BY)
@@ -56,7 +56,7 @@
 
 ## [灰胸秧雞 ハシナガクイナ Slaty-breasted Rail](https://ebird.org/species/slbrai1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/11787275/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/11787275/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Catalina Tong, some rights reserved (CC BY-NC)
@@ -82,7 +82,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [斑胸秧雞 コモンクイナ Spotted Crake](https://ebird.org/species/spocra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/426872479/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/426872479/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © SIA, some rights reserved (CC-BY)
@@ -108,7 +108,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [紅冠水雞 バン Eurasian Moorhen](https://ebird.org/species/commoo3)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Alexis Lours, some rights reserved (CC BY)
@@ -138,7 +138,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [白冠雞 オオバン Eurasian Coot](https://ebird.org/species/eurcoo)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Wei Li Jiang, some rights reserved (CC BY-NC)
@@ -161,7 +161,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [灰頭紫水雞 ハイガシラセイケイ Gray-headed Swamphen](https://ebird.org/species/purswa3)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/344911929/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/344911929/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) cdewerowe, some rights reserved (CC BY-NC)
@@ -186,7 +186,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [白眉秧雞 マミジロクイナ White-browed Crake](https://ebird.org/species/whbcra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/441732701/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/441732701/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Legawa, Everest C, some rights reserved (CC-BY)
@@ -206,7 +206,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [董雞 ツルクイナ Watercock](https://ebird.org/species/waterc1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1513783/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1513783/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
@@ -227,7 +227,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [白腹秧雞 シロハラクイナ White-breasted Waterhen](https://ebird.org/species/whbwat1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) bscrl, some rights reserved (CC BY-NC)
@@ -256,7 +256,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [紅腳秧雞 ナンヨウオオクイナ Red-legged Crake](https://ebird.org/species/relcra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/13561160/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13561160/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) tanhk, some rights reserved (CC BY-NC)
@@ -279,7 +279,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 ## [灰腳秧雞 オオクイナ Slaty-legged Crake](https://ebird.org/species/sllcra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/80007025/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/80007025/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Sharma BC, some rights reserved (CC BY-NC)
@@ -301,7 +301,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 ## [緋秧雞 ヒクイナ Ruddy-breasted Crake](https://ebird.org/species/rubcra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/89570100/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/89570100/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)
@@ -330,7 +330,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 ## [斑脇秧雞 コウライクイナ Band-bellied Crake](https://ebird.org/species/babcra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -353,7 +353,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 ## [紅腳苦惡鳥 チャバネクイナ Brown Crake](https://ebird.org/species/brocra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/398887224/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/398887224/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sun Jiao, some rights reserved (CC-BY)
@@ -376,7 +376,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 ## [小秧雞 ヒメクイナ Baillon's Crake](https://ebird.org/species/baicra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)

@@ -1,7 +1,5 @@
 ---
-title: 鷹科 ing-kho
 description: 鷹科 ing-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';
@@ -11,9 +9,6 @@ import Image from '@theme/IdealImage';
 ## [黑翅鳶 カタグロトビ Black-winged Kite](https://ebird.org/species/bkskit1)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Daniel Liepack, some rights reserved (CC BY-NC)
@@ -34,7 +29,7 @@ import Image from '@theme/IdealImage';
 
 ## [黑冠鵑隼 クロカッコウハヤブサ Black Baza](https://ebird.org/species/blabaz1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/12615159/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12615159/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -55,7 +50,7 @@ import Image from '@theme/IdealImage';
 
 ## [東方蜂鷹 ハチクマ Oriental Honey-buzzard](https://ebird.org/species/orihob2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/83922668/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/83922668/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
@@ -79,7 +74,7 @@ import Image from '@theme/IdealImage';
 
 ## [禿鷲 クロハゲワシ Cinereous Vulture](https://ebird.org/species/cinvul1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) rociomar, some rights reserved (CC BY-NC)
@@ -103,7 +98,7 @@ import Image from '@theme/IdealImage';
 
 ## [大冠鷲 カンムリワシ Crested Serpent-Eagle](https://ebird.org/species/crseag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/10099169/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/10099169/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
@@ -126,7 +121,7 @@ import Image from '@theme/IdealImage';
 
 ## [熊鷹 クマタカ Mountain Hawk-Eagle](https://ebird.org/species/mouhae1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/174790909/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/174790909/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Jagdish Singh Negi, some rights reserved (CC BY)
@@ -152,7 +147,7 @@ import Image from '@theme/IdealImage';
 
 ## [林鵰 カザノワシ Black Eagle](https://ebird.org/species/blaeag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/227323165/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/227323165/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) awayk3n, some rights reserved (CC BY)
@@ -175,7 +170,7 @@ import Image from '@theme/IdealImage';
 
 ## [花鵰 カラフトワシ Greater Spotted Eagle](https://ebird.org/species/grseag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/57957069/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57957069/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Koshy Koshy, some rights reserved (CC BY)
@@ -197,7 +192,7 @@ Greater Spotted Eagle -> 花鷹 hue-ing
 
 ## [靴隼鵰 ヒメクマタカ Booted Eagle](https://ebird.org/species/booeag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/455662036/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455662036/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © sunnyjosef, some rights reserved (CC-BY)
@@ -217,7 +212,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [白肩鵰 カタシロワシ Imperial Eagle](https://ebird.org/species/impeag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/91597033/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/91597033/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Christoph Moning, some rights reserved (CC BY)
@@ -239,7 +234,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [金鵰 イヌワシ Golden Eagle](https://ebird.org/species/goleag)
 
-<img src="" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 
@@ -247,7 +242,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [白腹鵰 ボネリークマタカ Bonelli's Eagle](https://ebird.org/species/boneag2)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Ricardo Rodero Henández, some rights reserved (CC BY-NC)
@@ -263,7 +258,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [鳳頭蒼鷹 カンムリオオタカ Crested Goshawk](https://ebird.org/species/cregos1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/113687435/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/113687435/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) 尹若宇, some rights reserved (CC BY-NC),
@@ -281,7 +276,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [松雀鷹 ミナミツミ Besra](https://ebird.org/species/besra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/66481205/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/66481205/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) 尹若宇, some rights reserved (CC BY-NC)
@@ -298,7 +293,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [日本松雀鷹 ツミ Japanese Sparrowhawk](https://ebird.org/species/japspa1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/251281815/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/251281815/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Benjamin Koh, some rights reserved (CC BY-NC)
@@ -315,7 +310,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [褐耳鷹 タカサゴダカ Shikra](https://ebird.org/species/shikra1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/10099183/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/10099183/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
@@ -331,7 +326,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [赤腹鷹 アカハラダカ Chinese Sparrowhawk](https://ebird.org/species/grfhaw1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/15811956/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/15811956/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
@@ -349,7 +344,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [北雀鷹 ハイタカ Eurasian Sparrowhawk](https://ebird.org/species/eurspa1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/203152836/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/203152836/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Julia Wittmann, some rights reserved (CC BY)
@@ -365,7 +360,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [蒼鷹 オオタカ Eurasian Goshawk](https://ebird.org/species/norgos1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/61773674/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/61773674/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Luigi Andena, some rights reserved (CC BY-NC)
@@ -382,7 +377,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [東方澤鵟 チュウヒ Eastern Marsh Harrier](https://ebird.org/species/easmah1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/127663648/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/127663648/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Griha Hasanov, some rights reserved (CC BY)
@@ -398,7 +393,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [灰澤鵟 ハイイロチュウヒ Hen Harrier](https://ebird.org/species/norhar1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Константин Самодуров, some rights reserved (CC BY-NC)
@@ -413,7 +408,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [花澤鵟 マダラチュウヒ Pied Harrier](https://ebird.org/species/piehar1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/176375263/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/176375263/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Wich’yanan L, some rights reserved (CC BY)
@@ -429,7 +424,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [黑鳶 トビ Black Kite](https://ebird.org/species/blakit1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Josh Martin, some rights reserved (CC BY-NC)
@@ -444,7 +439,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [栗鳶 シロガシラトビ Brahminy Kite](https://ebird.org/species/brakit1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/56410339/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/56410339/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Dougal Townsend, some rights reserved (CC BY-NC)
@@ -462,7 +457,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [白尾海鵰 オジロワシ White-tailed Eagle](https://ebird.org/species/whteag)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/164904961/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/164904961/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Jacob Spinks, some rights reserved (CC BY)
@@ -477,7 +472,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [白腹海鵰 シロハラウミワシ White-bellied Sea-Eagle](https://ebird.org/species/wbseag1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/60297171/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60297171/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Allan Lugg, some rights reserved (CC BY-NC)
@@ -492,7 +487,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [灰面鵟鷹 サシバ Gray-faced Buzzard](https://ebird.org/species/gyfbuz1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/103974891/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/103974891/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) tki, some rights reserved (CC BY-NC)
@@ -508,7 +503,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [毛足鵟 ケアシノスリ Rough-legged Hawk](https://ebird.org/species/rolhaw)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/5813/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/5813/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Rick Leche - Photography, some rights reserved (CC BY-NC)
@@ -525,7 +520,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [大鵟 オオノスリ Upland Buzzard](https://ebird.org/species/uplbuz1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/228335432/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/228335432/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
@@ -540,7 +535,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [東方鵟 ノスリ Eastern Buzzard](https://ebird.org/species/combuz6)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/254005853/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/254005853/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Hitoshi WATANABE 渡辺仁, some rights reserved (CC BY-NC)
@@ -555,7 +550,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [虎頭海鵰 オオワシ Steller's Sea-Eagle](https://ebird.org/species/stseag)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/133749731/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/133749731/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) jitensha2021, some rights reserved (CC BY-NC)
@@ -570,7 +565,7 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [灰頭魚鵰 ウオクイワシ Gray-headed Fish-Eagle](https://ebird.org/species/gyhfie1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/1964061/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1964061/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) bhanukiran, some rights reserved (CC BY-NC)

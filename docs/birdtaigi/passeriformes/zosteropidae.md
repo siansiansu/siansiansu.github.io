@@ -2,7 +2,7 @@
 
 ## [斯氏繡眼 Swinhoe's White-eye](https://ebird.org/species/swiwhe1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/20010236/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20010236/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Bronze Cheung Kwok Yee, some rights reserved (CC BY-NC)
@@ -19,7 +19,7 @@
 
 ## [冠羽畫眉 Taiwan Yuhina](https://ebird.org/species/taiyuh1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/20671024/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20671024/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Hong, some rights reserved (CC BY-NC)
@@ -37,7 +37,7 @@
 
 ## [日菲繡眼 Warbling White-eye](https://ebird.org/species/warwhe1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Vitan2011, some rights reserved (CC-BY-NC)

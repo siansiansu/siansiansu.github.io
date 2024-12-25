@@ -2,7 +2,7 @@
 
 ## [黑背信天翁 コアホウドリ Laysan Albatross](https://ebird.org/species/layalb)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/12671058/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12671058/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Frank, some rights reserved (CC BY-NC)
@@ -27,7 +27,7 @@
 
 ## [黑腳信天翁 クロアシアホウドリ Black-footed Albatross](https://ebird.org/species/bkfalb)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/4767337/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/4767337/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) David J Barton, some rights reserved (CC BY-NC)
@@ -52,7 +52,7 @@
 
 ## [短尾信天翁 アホウドリ Short-tailed Albatross](https://ebird.org/species/shtalb)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/186779763/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/186779763/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Tony Morris, some rights reserved (CC BY-NC)

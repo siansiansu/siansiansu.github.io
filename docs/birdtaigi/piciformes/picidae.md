@@ -2,7 +2,7 @@
 
 ## [大斑啄木鳥 アカゲラ Great Spotted Woodpecker](https://ebird.org/species/grswoo)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Elio Giacone, some rights reserved (CC BY-NC)
@@ -19,7 +19,7 @@
 
 ## [小啄木 ハイガシラコゲラ Gray-capped Pygmy Woodpecker](https://ebird.org/species/gycwoo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/6453421/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/6453421/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) David J Barton, some rights reserved (CC BY-NC)
@@ -38,7 +38,7 @@
 
 ## [花腹啄木鳥 タケアオゲラ Laced Woodpecker](https://ebird.org/species/lacwoo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/106543914/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/106543914/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) manojmcn, some rights reserved (CC BY-NC)
@@ -57,7 +57,7 @@
 
 ## [大赤啄木 オオアカゲラ White-backed Woodpecker](https://ebird.org/species/whbwoo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/176734085/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/176734085/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Frank Lin, some rights reserved (CC BY-NC)
@@ -74,7 +74,7 @@
 
 ## [地啄木 アリスイ Eurasian Wryneck](https://ebird.org/species/eurwry)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/28924761/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/28924761/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Геннадий, some rights reserved (CC BY-NC)
@@ -94,7 +94,7 @@
 
 ## [綠啄木 ヤマゲラ Gray-headed Woodpecker](https://ebird.org/species/gyfwoo1)
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/256070097/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/256070097/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Павел, some rights reserved (CC BY-NC)

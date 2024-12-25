@@ -67,6 +67,9 @@ zstyle ':zim:input' double-dot-expand yes
 # Default format is '%n@%m: %~'.
 # zstyle ':zim:termtitle' format '%1~'
 
+
+zstyle ':zim:k' aliases-prefix 'K'
+
 # -----------------
 # zsh-autosuggestions
 # -----------------
@@ -172,7 +175,7 @@ fi
 [[ $- == *i* ]] && source "/usr/local/opt/fzf/shell/completion.zsh" 2> /dev/null
 
 # Source fzf key bindings script.
-source "/usr/local/opt/fzf/shell/key-bindings.zsh"
+# source "/usr/local/opt/fzf/shell/key-bindings.zsh"
 
 # -----------------
 # Aliases
@@ -182,6 +185,8 @@ alias rm="rm -iv"
 alias sed="gsed"
 alias py="python"
 alias v="nvim"
+alias vim="nvim"
+alias vi="vim"
 alias tg="tig"
 alias tm="tmux"
 alias find="fd"
@@ -193,6 +198,8 @@ alias ports='netstat -tulanp'
 alias copy="pbcopy"
 alias kc="kubectx"
 alias kn="kubens"
+alias tf="terraform"
+alias diff="colordiff"
 
 # -----------------
 # fzf Options
@@ -229,6 +236,11 @@ function terraform() { echo "+ terraform $@" >&2; command terraform $@; }
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
+
+# Setup Java
+export JAVA_HOME="/Users/alex.su/.asdf/shims/java"
+export PATH=$JAVA_HOME/bin:$PATH
+
 # Function to fetch and rebase from upstream.
 function fetch-upstream()
 {
@@ -242,5 +254,111 @@ function fetch-upstream()
 back()
 {
   git reset HEAD~
+}
+
+
+goto_gitroot()
+{
+    cd $(git-root)
+}
+
+git_reset()
+{
+    git reset --hard origin/main
+}
+
+check_sts()
+{
+    aws sts get-caller-identity
+}
+
+# terraform
+alias tf='terraform'
+alias tfa='terraform apply'
+alias tfc='terraform console'
+alias tfd='terraform destroy'
+alias tff='terraform fmt'
+alias tfg='terraform graph'
+alias tfim='terraform import'
+alias tfin='terraform init'
+alias tfo='terraform output'
+alias tfp='terraform plan'
+alias tfpr='terraform providers'
+alias tfr='terraform refresh'
+alias tfsh='terraform show'
+alias tft='terraform taint'
+alias tfut='terraform untaint'
+alias tfv='terraform validate'
+alias tfw='terraform workspace'
+alias tfs='terraform state'
+alias tffu='terraform force-unlock'
+alias tfwst='terraform workspace select'
+alias tfwsw='terraform workspace show'
+alias tfssw='terraform state show'
+alias tfwde='terraform workspace delete'
+alias tfwls='terraform workspace list'
+alias tfsls='terraform state list'
+alias tfwnw='terraform workspace new'
+alias tfsmv='terraform state mv'
+alias tfspl='terraform state pull'
+alias tfsph='terraform state push'
+alias tfsrm='terraform state rm'
+alias tfay='terraform apply -auto-approve'
+alias tfdy='terraform destroy -auto-approve'
+alias tfinu='terraform init -upgrade'
+alias tfpde='terraform plan --destroy'
+
+# function to list all the profiles in ~/.aws/config
+function aws_profiles() {
+  profiles=$(aws --no-cli-pager configure list-profiles 2> /dev/null)
+  if [[ -z "$profiles" ]]; then
+    echo "No AWS profiles found in '$HOME/.aws/config, check if ~/.aws/config exists and properly configured.'"
+    return 1
+  else
+    echo $profiles
+  fi
+}
+
+# function to set AWS profile, sso login and clear the profile
+function asp() {
+  available_profiles=$(aws_profiles)
+  if [[ -z "$1" ]]; then
+    unset AWS_DEFAULT_PROFILE AWS_PROFILE
+    echo "Zero argument provided, AWS profile cleared."
+    return
+  fi
+
+  echo "$available_profiles" | grep -qw "$1"
+  if [[ $? -ne 0 ]]; then
+    echo "Profile '$1' not configured in '$HOME/.aws/config'.\n"
+    echo "Available profiles: \n$available_profiles\n"
+    return 1
+  else
+    export AWS_DEFAULT_PROFILE="$1" AWS_PROFILE="$1"
+  fi
+}
+
+# function to set AWS region and clear the region
+function asr() {
+  if [[ -z "$1" ]]; then
+    unset AWS_DEFAULT_REGION AWS_REGION
+    echo "No argument provided, cleared AWS region."
+    return
+  else
+    export AWS_DEFAULT_REGION=$1 AWS_REGION=$1
+  fi
+}
+
+# function to list all the profiles
+function alp() {
+  aws_profiles
+}
+
+# function to update the PS1 prompt with current AWS profile and region
+function aws_ps1() {
+  local profile_color="%{$(tput setaf 6)%}"  # Cyan color
+  local region_color="%{$(tput setaf 2)%}"   # Green color
+  local reset_color="%{$(tput sgr0)%}"      # Reset color
+  echo -en "($profile_color$AWS_PROFILE$reset_color:$region_color$AWS_REGION$reset_color)"
 }
 ```
