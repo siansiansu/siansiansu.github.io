@@ -505,15 +505,15 @@ no rights reserved, uploaded by 葉子
 :::info[台語名]
 
 - 🎯 **[台] 海徛仔 hái-khiā-á**
-- 🎯 **[台] 青翎鷥 tshenn-līng-si**
-- 🎯 **[日] 青鷺 tshenn-lōo**
+- 🎯 **[台] 殕色翎鷥 phú-sik-līng-si**
+- 🎯 **[日] 殕色鷺 phú-sik-lōo**
 
 :::
 
 :::tip[註解]
 
 - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 個人偏好「青翎鷥 tshenn-līng-si」
+- Gray Heron -> 殕色翎鷥 phú-sik-līng-si
 
 :::
 

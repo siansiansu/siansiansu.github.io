@@ -234,15 +234,27 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 ## [金鵰 イヌワシ Golden Eagle](https://ebird.org/species/goleag)
 
-<Image img="" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458877596/large.jpeg" alt="金鵰" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-
+© Sue Carnahan, some rights reserved (CC-BY)
 </p>
+
+:::info[台語名]
+
+- 🎯 **[台] 金鷹 kim-ing**
+
+:::
+
+:::tip[備註]
+
+Golden Eagle -> 金鷹 kim-ing
+
+:::
 
 ## [白腹鵰 ボネリークマタカ Bonelli's Eagle](https://ebird.org/species/boneag2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg" alt="白腹鵰" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 (c) Ricardo Rodero Henández, some rights reserved (CC BY-NC)
@@ -250,9 +262,15 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [台] 白腹鷹 pe̍h-pak-ing
+- 🎯 **[台] 白腹鷹 pe̍h-pak-ing**
 - [台] 白腹鵰 pe̍h-pak-tiau
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 白腹鵰 -> 白腹鷹 pe̍h-pak-ing
 
 :::
 
@@ -266,11 +284,18 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [台] 粉鳥鷹 hún-tsiáu-ing
-- 🎯 [華] 鳳頭蒼鷹 hōng-thâu-tshong-ing
-- 🎯 [華] 聳毛蒼鷹 tshàng-moo-tshong-ing
-- [台] 鴿鷹 kap-ing
+- 🎯 **[台] 粉鳥鷹 hún-tsiáu-ing**
+- 🎯 **[台] 鴿鷹 kap-ing**
+- 🎯 **[台] 斑鴿鷹 pang-kah-ing**
+- [華] 鳳頭蒼鷹 hōng-thâu-tshong-ing
+- [華] 聳毛蒼鷹 tshàng-moo-tshong-ing
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 2002⁺ 台華線頂辭典
 
 :::
 
@@ -284,10 +309,17 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [台] 鷹仔虎 ing-á-hóo
-- 🎯 [日] 雀鷹 tshiok-ing
-- 🎯 [華] 松雀鷹 siông-tshiok-ing
+- 🎯 **[台] 鷹仔虎 ing-á-hóo**
+- 🎯 **[日] 雀鷹 tshiok-ing**
+- 🎯 **[台] 雀賊 tshiok-tsha̍t**
+- [華] 松雀鷹 siông-tshiok-ing
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 2002⁺ 台華線頂辭典
 
 :::
 
@@ -301,9 +333,10 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [台] 日本鷹仔虎 ji̍t-pún-ing-á-hóo
-- 🎯 [日][英] 日本雀鷹 ji̍t-pún-tshiok-ing
-- 🎯 [華][英] 日本松雀鷹 ji̍t-pún-siông-tshiok-ing
+- 🎯 **[台] 日本鷹仔虎 ji̍t-pún-ing-á-hóo**
+- 🎯 **[日] 日本雀鷹 ji̍t-pún-tshiok-ing**
+- 🎯 **[台] 日本雀賊 ji̍t-pún-tshiok-tsha̍t**
+- [華] 日本松雀鷹 ji̍t-pún-siông-tshiok-ing
 - ✳️ [台] 鷹仔 ing-á
 
 :::
@@ -318,9 +351,15 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [華] 赤耳鷹 tshiah-hīnn-ing
+- 🎯 **[華] 赤耳鷹 tshiah-hīnn-ing**
 - [華] 褐耳鷹 hat-hīnn-ing
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 褐耳 -> 赤耳 tshiah-hīnn
 
 :::
 
@@ -334,11 +373,17 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
+- 🎯 **[台] 鷹柱鳥 ing-thiāu-tsiáu**
 - 🎯 [台] 紅肚鷹 âng-tóo-ing
 - 🎯 [台] 紅腹鷹 âng-pak-ing
 - [華] 赤腹鷹 tshiah-pak-ing
-- [台] 鷹柱鳥 ing-thiāu-tsiáu
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 2002⁺ 台華線頂辭典
 
 :::
 
@@ -352,9 +397,15 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
+- 🎯 **[華] 北雀鷹 pak-tshiok-ing**
 - 🎯 [英] 歐洲雀鷹 au-tsiu-tshiok-ing
-- 🎯 [華] 北雀鷹 pak-tshiok-ing
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 想無較適合 ê 名，暫時參考華語
 
 :::
 
@@ -368,12 +419,37 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [日][華] 蒼鷹 tshong-ing
+- 🎯 **[華] 蒼鷹 tshong-ing**
 - ✳️ [台] 鷹仔 ing-á
 
 :::
 
-## 西方澤鵟 Western Marsh Harrier
+:::tip[備註]
+
+- 想無較適合 ê 名，暫時參考華語
+
+:::
+
+## [西方澤鵟 ヨーロッパチュウヒ Western Marsh Harrier](https://ebird.org/species/wemhar1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459240182/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Полина Полежанкина, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **[英] 西方湳仔鷹 se-hong-làm-á-ing**
+
+:::
+
+:::tip[備註]
+
+- Western Marsh Harrier -> 西方 se-hong + 湳仔 làm-á + 鷹 ing
+
+:::
+
 
 ## [東方澤鵟 チュウヒ Eastern Marsh Harrier](https://ebird.org/species/easmah1)
 
@@ -385,9 +461,14 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [華][英] 東方澤鵟 tong-hong-ti̍k-kong
-- 🎯 [華][日] 澤鵟 tong-ti̍k-kong
+- 🎯 **[英] 東方湳仔鷹 tong-hong-làm-á-ing**
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- Eastern Marsh Harrier -> 東方 tong-hong + 湳仔 làm-á + 鷹 ing
 
 :::
 
@@ -401,8 +482,14 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [華][日] 灰澤鵟 hue-ti̍k-kong
+- 🎯 **[華] 殕色湳仔鷹 phú-sik-làm-á-ing**
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- Hen Harrier -> 殕色 phú-sik + 湳仔 làm-á + 鷹 ing
 
 :::
 
@@ -416,9 +503,14 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [華] 花澤鵟 hue-ti̍k-kong
-- 🎯 [英][日] 斑澤鵟 pan-ti̍k-kong
+- 🎯 **[英] 花斑湳仔鷹 hue-pan-làm-á-ing**
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- Pied Harrier -> 花斑 hue-pan + 湳仔 làm-á + 鷹 ing
 
 :::
 
@@ -432,8 +524,16 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [台] 鶆鴞 lāi-hio̍h
+- 🎯 **[台] 鶆鴞 lāi-hio̍h**
+- 🎯 **[台] 鴟鴞 bā-hio̍h**
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 2002⁺ 台華線頂辭典
 
 :::
 
@@ -447,11 +547,17 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 :::info[台語名]
 
-- 🎯 [台] 赤鶆鴞 tshiah-lāi-hio̍h
-- 🎯 [台][日] 白頭鶆鴞 pe̍h-thâu-lāi-hio̍h
-- 🎯 [日] 白頭鷹 pe̍h-thâu-ing
-- 🎯 [華] 赤色鷹 tshiah-sik-ing
+- 🎯 **[台] 赤鶆鴞 tshiah-lāi-hio̍h**
+- 🎯 **[台] 赤鴟鴞 tshiah-bā-hio̍h**
+- 🎯 **[日] 白頭鶆鴞 pe̍h-thâu-lāi-hio̍h**
+- 🎯 **[日] 白頭鴟鴞 pe̍h-thâu-bā-hio̍h**
 - ✳️ [台] 鷹仔 ing-á
+
+:::
+
+:::tip[備註]
+
+- 參考黑鳶 ê 台語
 
 :::
 
