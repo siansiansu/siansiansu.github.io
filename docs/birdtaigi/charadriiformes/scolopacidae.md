@@ -1,7 +1,5 @@
 ---
-title: 鷸科 u̍t-kho
 description: 鷸科 u̍t-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

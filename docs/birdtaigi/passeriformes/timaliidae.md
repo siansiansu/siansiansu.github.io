@@ -1,3 +1,9 @@
+---
+description: 畫眉科 hue-bî-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 畫眉科 hue-bî-kho
 
 ## [山紅頭 ズアカチメドリ Rufous-capped Babbler](https://ebird.org/species/rucbab1)

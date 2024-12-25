@@ -1,7 +1,5 @@
 ---
-title: 海雀科 hái-tshiok-kho
 description: 海雀科 hái-tshiok-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

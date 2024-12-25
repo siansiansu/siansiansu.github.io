@@ -1,3 +1,9 @@
+---
+description: 戲班仔科 hì-pan-á-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 戲班仔科 hì-pan-á-kho
 
 ## [灰喉山椒鳥 ベニサンショウクイ Gray-chinned Minivet](https://ebird.org/species/gycmin1)

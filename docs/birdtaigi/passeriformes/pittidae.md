@@ -1,3 +1,9 @@
+---
+description: 抾箬仔科 khioh-ha̍h-á-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 抾箬仔科 khioh-ha̍h-á-kho
 
 ## [綠胸八色鳥 Western Hooded Pitta](https://ebird.org/species/wehpit1)

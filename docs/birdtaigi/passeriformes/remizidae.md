@@ -1,3 +1,9 @@
+---
+description: 攀雀科 phan-tshiok-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 攀雀科 phan-tshiok-kho
 
 ## [攀雀 ツリスガラ Chinese Penduline-Tit](https://ebird.org/species/chptit1)

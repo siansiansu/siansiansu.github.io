@@ -1,7 +1,5 @@
 ---
-title: 食蚵仔鳥科 tsia̍h-ô-á-tsiáu-kho
 description: 食蚵仔鳥科 tsia̍h-ô-á-tsiáu-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

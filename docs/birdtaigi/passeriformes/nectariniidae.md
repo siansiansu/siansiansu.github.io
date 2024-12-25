@@ -1,3 +1,9 @@
+---
+description: 吸蜜鳥科 khip-bi̍t-tsiáu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 吸蜜鳥科 khip-bi̍t-tsiáu-kho
 
 ## [黃腹花蜜鳥 Ornate Sunbird](https://ebird.org/species/olbsun4)

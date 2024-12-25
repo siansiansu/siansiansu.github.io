@@ -1,7 +1,5 @@
 ---
-title: 賊仔鷗科 tsha̍t-á-oo-kho
 description: 賊仔鷗科 tsha̍t-á-oo-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

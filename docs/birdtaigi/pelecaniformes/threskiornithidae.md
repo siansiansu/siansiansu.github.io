@@ -1,3 +1,9 @@
+---
+description: 䴉科 hiân-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 䴉科 hiân-kho
 
 ## [彩䴉 ブロンズトキ Glossy Ibis](https://ebird.org/species/gloibi)

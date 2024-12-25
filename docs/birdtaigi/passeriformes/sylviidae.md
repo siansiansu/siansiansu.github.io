@@ -1,3 +1,9 @@
+---
+description: 鶯科 ing-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鶯科 ing-kho
 
 ## [漠地林鶯 サバクムシクイ Asian Desert Warbler](https://ebird.org/species/asdwar1)

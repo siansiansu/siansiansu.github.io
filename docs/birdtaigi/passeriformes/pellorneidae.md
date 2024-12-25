@@ -1,3 +1,9 @@
+---
+description: 雀眉科 tshiok-bî-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 雀眉科 tshiok-bî-kho
 
 ## [頭烏線 チメドリ Dusky Fulvetta](https://ebird.org/species/dusful1)

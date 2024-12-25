@@ -1,3 +1,9 @@
+---
+description: 米雞仔科 bí-ke-á-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 米雞仔科 bí-ke-á-kho
 
 ## [西方秧雞 ヨーロッパクイナ Water Rail](https://ebird.org/species/watrai1)

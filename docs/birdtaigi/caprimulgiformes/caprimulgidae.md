@@ -1,7 +1,5 @@
 ---
-title: 石磯仔科 tsio̍h-ki-á-kho
 description: 石磯仔科 tsio̍h-ki-á-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

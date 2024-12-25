@@ -1,3 +1,9 @@
+---
+description: 鸛科 kuàn-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鸛科 kuàn-kho
 
 ## [黑鸛 ナベコウ Black Stork](https://ebird.org/species/blasto1)

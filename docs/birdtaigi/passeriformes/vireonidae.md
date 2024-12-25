@@ -1,3 +1,9 @@
+---
+description: 綠鵙科 li̍k-kio̍k-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 綠鵙科 li̍k-kio̍k-kho
 
 ## [綠畫眉 アオチメドリ White-bellied Erpornis](https://ebird.org/species/whbyuh1)

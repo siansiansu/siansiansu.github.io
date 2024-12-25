@@ -1,3 +1,9 @@
+---
+description: 鸚嘴科 ing-tshuì-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鸚嘴科 ing-tshuì-kho
 
 ## [褐頭花翼 タイワンチメドリ Taiwan Fulvetta](https://ebird.org/species/taiful1)

@@ -1,3 +1,9 @@
+---
+description: 鵯科 pi-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鵯科 pi-kho
 
 ## [白頭翁 シロガシラ Light-vented bulbul](https://ebird.org/species/livbul1)

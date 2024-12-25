@@ -1,3 +1,9 @@
+---
+description: 鶴科 ho̍h-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鶴科 ho̍h-kho
 
 ## [簑羽鶴 アネハヅル Demoiselle Crane](https://ebird.org/species/demcra1)

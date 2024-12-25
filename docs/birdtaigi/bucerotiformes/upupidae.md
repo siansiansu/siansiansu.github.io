@@ -1,7 +1,5 @@
 ---
-title: 墓坑鳥科 bōng-khenn-tsiáu-kho
 description: 墓坑鳥科 bōng-khenn-tsiáu-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

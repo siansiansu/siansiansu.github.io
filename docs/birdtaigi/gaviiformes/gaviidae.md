@@ -1,3 +1,9 @@
+---
+description: 潛鳥科 tsiâm-tsiáu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 潛鳥科 tsiâm-tsiáu-kho
 
 ## [紅喉潛鳥 アビ Red-throated Loon](https://ebird.org/species/retloo)

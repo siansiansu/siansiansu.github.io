@@ -1,3 +1,9 @@
+---
+description: 扇尾鶯科 sìnn-bué-ing-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 扇尾鶯科 sìnn-bué-ing-kho
 
 ## [褐頭鷦鶯 アジアマミハウチワドリ Plain Prinia](https://ebird.org/species/plapri1)

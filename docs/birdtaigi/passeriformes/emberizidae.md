@@ -1,3 +1,9 @@
+---
+description: 鵐科 bû-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鵐科 bû-kho
 
 ## [草鵐 ホオジロ Meadow Bunting](https://ebird.org/species/meabun1)

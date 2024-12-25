@@ -1,3 +1,9 @@
+---
+description: 山鸚哥科 suann-ing-ko-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 山鸚哥科 suann-ing-ko-kho
 
 ## [佛法僧 ブッポウソウ Dollarbird](https://ebird.org/species/dollar1)

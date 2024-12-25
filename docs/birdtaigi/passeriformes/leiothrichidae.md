@@ -1,3 +1,9 @@
+---
+description: 噪眉科 tshò-bâi-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 噪眉科 tshò-bâi-kho
 
 ## [白耳畫眉 ミミジロチメドリ White-eared Sibia](https://ebird.org/species/whesib1)

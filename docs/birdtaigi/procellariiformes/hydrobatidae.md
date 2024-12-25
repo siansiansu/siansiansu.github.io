@@ -1,3 +1,9 @@
+---
+description: 海燕仔科 hái-iàn-á-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 海燕仔科 hái-iàn-á-kho
 
 ## [黃蹼洋海燕 アシナガウミツバメ Wilson's Storm-Petrel](https://ebird.org/species/wispet)

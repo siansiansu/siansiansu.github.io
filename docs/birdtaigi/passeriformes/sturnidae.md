@@ -1,3 +1,9 @@
+---
+description: 椋鳥科 liông-tsiáu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 椋鳥科 liông-tsiáu-kho
 
 ## [家八哥 インドハッカ Common Myna](https://ebird.org/species/commyn)

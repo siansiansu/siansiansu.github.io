@@ -1,3 +1,9 @@
+---
+description: 長尾山雀科 tn̂g-bé-suann-tshiok-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 長尾山雀科 tn̂g-bé-suann-tshiok-kho
 
 ## [紅頭山雀 ズアカエナガ Black-throated Tit](https://ebird.org/species/blttit2)

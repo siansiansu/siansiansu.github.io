@@ -1,3 +1,9 @@
+---
+description: 繡眼科 siù-gán-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 繡眼科 siù-gán-kho
 
 ## [斯氏繡眼 Swinhoe's White-eye](https://ebird.org/species/swiwhe1)

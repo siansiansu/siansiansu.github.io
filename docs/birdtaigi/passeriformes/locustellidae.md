@@ -1,3 +1,9 @@
+---
+description: 蝗鶯科 hông-ing-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 蝗鶯科 hông-ing-kho
 
 ## [台灣叢樹鶯 タイワンオウギセッカ Taiwan Bush Warbler](https://ebird.org/species/taibuw1)

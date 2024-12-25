@@ -1,3 +1,9 @@
+---
+description: 杜鵑科 tōo-kuan-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 杜鵑科 tōo-kuan-kho
 
 ## [褐翅鴉鵑 オオバンケン Greater Coucal](https://ebird.org/species/grecou1)

@@ -1,3 +1,9 @@
+---
+description: 軍艦鳥科 kun-lām-tsiáu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 軍艦鳥科 kun-lām-tsiáu-kho
 
 ## [白斑軍艦鳥 コグンカンドリ Lesser Frigatebird](https://ebird.org/species/lesfri)

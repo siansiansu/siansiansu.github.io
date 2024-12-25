@@ -1,3 +1,9 @@
+---
+description: 鴟鴞科 tshi-hiau-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鴟鴞科 tshi-hiau-kho
 
 ## [鵂鶹 ヒメフクロウ Collared Owlet](https://ebird.org/species/colowl1)

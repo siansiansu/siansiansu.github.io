@@ -1,3 +1,9 @@
+---
+description: 麻雀科 muâ-tshiok-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 麻雀科 muâ-tshiok-kho
 
 ## [山麻雀 ニュウナイスズメ Russet Sparrow](https://ebird.org/species/russpa2)

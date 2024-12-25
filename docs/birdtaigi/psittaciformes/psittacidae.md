@@ -1,3 +1,9 @@
+---
+description: 鸚哥科 ing-ko-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鸚哥科 ing-ko-kho
 
 ## [和尚鸚鵡 オキナインコ Monk Parakeet](https://ebird.org/species/monpar)

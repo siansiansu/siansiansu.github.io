@@ -1,3 +1,9 @@
+---
+description: 鷦眉科 tsiau-bî-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鷦眉科 tsiau-bî-kho
 
 ## [台灣鷦眉 タイワンサザイチメドリ Taiwan Cupwing](https://ebird.org/species/taiwrb1)

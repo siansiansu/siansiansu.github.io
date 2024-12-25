@@ -1,3 +1,9 @@
+---
+description: 岩鷚科 gān-liù-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 岩鷚科 gān-liù-kho
 
 ## [岩鷚 イワヒバリ Alpine Accentor](https://ebird.org/species/alpacc1)

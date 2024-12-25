@@ -1,3 +1,9 @@
+---
+description: 葦鶯科 uí-ing-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 葦鶯科 uí-ing-kho
 
 ## [細紋葦鶯 セスジコヨシキリ Streaked Reed Warbler](https://ebird.org/species/strwar1)

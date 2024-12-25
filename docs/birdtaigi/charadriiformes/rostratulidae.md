@@ -1,7 +1,5 @@
 ---
-title: 骨簪仔科 kut-tsiam-á-kho
 description: 骨簪仔科 kut-tsiam-á-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

@@ -1,3 +1,9 @@
+---
+description: 鸌科 hōo-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鸌科 hōo-kho
 
 ## [暴風鸌 フルマカモメ Northern Fulmar](https://ebird.org/species/norful)

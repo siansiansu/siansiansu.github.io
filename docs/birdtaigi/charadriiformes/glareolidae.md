@@ -1,7 +1,5 @@
 ---
-title: 燕仔鴴科 iàn-á-hîng-kho
 description: 燕仔鴴科 iàn-á-hîng-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

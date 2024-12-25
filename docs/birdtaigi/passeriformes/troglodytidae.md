@@ -1,3 +1,9 @@
+---
+description: 鷦鷯科 tsiau-liâu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鷦鷯科 tsiau-liâu-kho
 
 ## [鷦鷯 ミソサザイ Eurasian Wren](https://ebird.org/species/taiwrb1)

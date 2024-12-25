@@ -1,3 +1,9 @@
+---
+description: 烏鶖科 oo-tshiu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 烏鶖科 oo-tshiu-kho
 
 ## [小卷尾 ヒメオウチュウ Bronzed Drongo](https://ebird.org/species/brodro1)

@@ -1,3 +1,9 @@
+---
+description: 雀科 tshiok-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 雀科 tshiok-kho
 
 ## [黃雀 マヒワ Eurasian Siskin](https://ebird.org/species/eursis)

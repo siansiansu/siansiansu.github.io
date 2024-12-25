@@ -1,3 +1,9 @@
+---
+description: 鶇科 tong-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鶇科 tong-kho
 
 ## [橙頭地鶇 オレンジジツグミ Orange-headed Thrush](https://ebird.org/species/orhthr1)

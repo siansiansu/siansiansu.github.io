@@ -1,3 +1,9 @@
+---
+description: 戴菊科 tè-kiok-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 戴菊科 tè-kiok-kho
 
 ## [戴菊鳥 キクイタダキ Goldcrest](https://ebird.org/species/goldcr1)

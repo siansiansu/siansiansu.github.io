@@ -1,7 +1,5 @@
 ---
-title: 菱角鳥科 lîng-kak-tsiáu-kho
 description: 菱角鳥科 lîng-kak-tsiáu-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

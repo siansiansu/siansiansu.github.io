@@ -1,7 +1,5 @@
 ---
-title: 三爪鵪鶉科 sann-jiáu-ian-thun-kho
 description: 三爪鵪鶉科 sann-jiáu-ian-thun-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

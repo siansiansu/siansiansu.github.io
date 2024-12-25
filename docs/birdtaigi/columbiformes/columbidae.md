@@ -1,3 +1,9 @@
+---
+description: 鳩鴿科 khiu-kah-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鳩鴿科 khiu-kah-kho
 
 ## [野鴿 カワラバト Rock Pigeon](https://ebird.org/species/rocpig1)

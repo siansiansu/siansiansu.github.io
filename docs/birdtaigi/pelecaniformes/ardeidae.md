@@ -1,3 +1,9 @@
+---
+description: 鷺科 lōo-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鷺科 lōo-kho
 
 ## [大麻鷺 サンカノゴイ Great Bittern](https://ebird.org/species/grebit1)

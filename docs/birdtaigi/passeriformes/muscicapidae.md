@@ -1,3 +1,9 @@
+---
+description: 鶲科 ong-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鶲科 ong-kho
 
 ## [灰斑鶲 エゾビタキ Gray-streaked Flycatcher](https://ebird.org/species/gysfly1)

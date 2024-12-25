@@ -1,3 +1,9 @@
+---
+description: 王鶲科 ông-ong-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 王鶲科 ông-ong-kho
 
 ## [黑枕藍鶲 クロエリヒタキ Black-naped Monarch](https://ebird.org/species/blnmon1)

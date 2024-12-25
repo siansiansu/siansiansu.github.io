@@ -1,3 +1,9 @@
+---
+description: 嗶仔科 pit-á-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 嗶仔科 pit-á-kho
 
 ## [橙頰梅花雀 ホオアカカエデチョウ Orange-cheeked Waxbill](https://ebird.org/species/orcwax)

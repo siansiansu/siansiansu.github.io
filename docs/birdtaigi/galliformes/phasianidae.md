@@ -1,3 +1,9 @@
+---
+description: 雉科 thī-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 雉科 thī-kho
 
 ## [台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge](https://ebird.org/species/taipar1)

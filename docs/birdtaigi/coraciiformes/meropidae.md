@@ -1,3 +1,9 @@
+---
+description: 食蜂鳥科 tsia̍h-phang-tsiáu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 食蜂鳥科 tsia̍h-phang-tsiáu-kho
 
 ## [栗喉蜂虎 ハリオハチクイ Blue-tailed Bee-eater](https://ebird.org/species/btbeat1)

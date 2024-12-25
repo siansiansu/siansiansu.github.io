@@ -1,3 +1,9 @@
+---
+description: 百靈科 pik-lîng-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 百靈科 pik-lîng-kho
 
 ## [大短趾百靈 ニシヒメコウテンシ Greater Short-toed Lark](https://ebird.org/species/gstlar1)

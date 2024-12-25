@@ -1,3 +1,9 @@
+---
+description: 樹鶯科 tshiū-ing-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 樹鶯科 tshiū-ing-kho
 
 ## [日本樹鶯 ウグイス Japanese Bush Warbler](https://ebird.org/species/jabwar)

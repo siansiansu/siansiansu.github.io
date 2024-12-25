@@ -1,3 +1,9 @@
+---
+description: 山雀科 suann-tshiok-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 山雀科 suann-tshiok-kho
 
 ## [黃山雀 タイワンシジュウカラ Taiwan Yellow Tit](https://ebird.org/species/yeltit2)

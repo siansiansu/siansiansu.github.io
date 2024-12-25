@@ -1,3 +1,9 @@
+---
+description: 布袋鵝科 pòo-tē-gô-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 布袋鵝科 pòo-tē-gô-kho
 
 ## [卷羽鵜鶘 ハイイロペリカン Dalmatian Pelican](https://ebird.org/species/dalpel1)

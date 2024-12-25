@@ -1,3 +1,9 @@
+---
+description: 海雞母科 kian-tsiáu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 海雞母科 kian-tsiáu-kho
 
 ## [紅腳鰹鳥 アカアシカツオドリ Red-footed Booby](https://ebird.org/species/refboo)

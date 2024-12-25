@@ -1,3 +1,9 @@
+---
+description: 鬚鴷科 tshuì-lia̍t-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鬚鴷科 tshuì-lia̍t-kho
 
 ## [台灣擬啄木 タイワンゴシキドリ Taiwan Barbet](https://ebird.org/species/taibar2)

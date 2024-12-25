@@ -1,3 +1,9 @@
+---
+description: 鐵爪鵐科 thih-jiáu-bû-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鐵爪鵐科 thih-jiáu-bû-kho
 
 ## [鐵爪鵐 ツメナガホオジロ Lapland Longspur](https://ebird.org/species/laplon)

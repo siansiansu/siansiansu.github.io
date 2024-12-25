@@ -1,3 +1,9 @@
+---
+description: 鶺鴒科 tsik-lîng-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鶺鴒科 tsik-lîng-kho
 
 ## [白鶺鴒 ハクセキレイ White Wagtail](https://ebird.org/species/whiwag)

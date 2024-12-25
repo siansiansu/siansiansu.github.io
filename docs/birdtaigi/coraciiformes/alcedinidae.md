@@ -1,3 +1,9 @@
+---
+description: 魚狗科 hî-káu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 魚狗科 hî-káu-kho
 
 [![hackmd-github-sync-badge](https://hackmd.io/FCQW7xfNRGSQsXA3DPcTAQ/badge)](https://hackmd.io/FCQW7xfNRGSQsXA3DPcTAQ)

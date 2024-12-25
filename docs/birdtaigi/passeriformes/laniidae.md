@@ -1,3 +1,9 @@
+---
+description: 伯勞科 pik-lô-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 伯勞科 pik-lô-kho
 
 ## [虎紋伯勞 チゴモズ Tiger Shrike](https://ebird.org/species/tigshr1)

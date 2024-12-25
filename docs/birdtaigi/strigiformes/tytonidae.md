@@ -1,3 +1,9 @@
+---
+description: 猴面鷹科 kâu-bīn-ing-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 猴面鷹科 kâu-bīn-ing-kho
 
 ## [草鴞 ヒガシメンフクロウ Australasian Grass-Owl](https://ebird.org/species/ausgro1)

@@ -1,7 +1,5 @@
 ---
-title: 躼跤鷸科 lò-kha-u̍t-kho
 description: 躼跤鷸科 lò-kha-u̍t-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

@@ -1,3 +1,9 @@
+---
+description: 連雀科 liân-tshiok-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 連雀科 liân-tshiok-kho
 
 ## [朱連雀 ヒレンジャク Japanese Waxwing](https://ebird.org/species/japwax1)

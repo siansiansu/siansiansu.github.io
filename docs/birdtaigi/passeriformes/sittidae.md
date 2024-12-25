@@ -1,3 +1,9 @@
+---
+description: 鳾科 su-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 鳾科 su-kho
 
 ## [茶腹鳾 ゴジュウカラ Eurasian Nuthatch](https://ebird.org/species/eurnut2)

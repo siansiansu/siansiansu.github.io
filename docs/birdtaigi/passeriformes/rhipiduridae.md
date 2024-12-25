@@ -1,3 +1,9 @@
+---
+description: 扇尾鶲科 sìnn-bué-ong-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 扇尾鶲科 sìnn-bué-ong-kho
 
 ## [斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail](https://ebird.org/species/piefan1)

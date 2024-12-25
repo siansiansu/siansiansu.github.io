@@ -1,3 +1,9 @@
+---
+description: 紅鸛科 âng-kuàn-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 紅鸛科 âng-kuàn-kho
 
 ## [大紅鶴 ヨーロッパフラミンゴ Greater Flamingo](https://ebird.org/species/grefla3)

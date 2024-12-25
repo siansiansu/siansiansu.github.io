@@ -1,3 +1,9 @@
+---
+description: 信天翁科 sìn-thian-ang-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 信天翁科 sìn-thian-ang-kho
 
 ## [黑背信天翁 コアホウドリ Laysan Albatross](https://ebird.org/species/layalb)

@@ -1,3 +1,9 @@
+---
+description: 熱帶鳥科 jia̍t-tài-tsiáu-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 熱帶鳥科 jia̍t-tài-tsiáu-kho
 
 ## [白尾熱帶鳥 シラオネッタイチョウ White-tailed Tropicbird](https://ebird.org/species/whttro)

@@ -1,7 +1,5 @@
 ---
-title: 鷗科 oo-kho
 description: 鷗科 oo-kho
-keywords: [台語, 鳥]
 ---
 
 import Image from '@theme/IdealImage';

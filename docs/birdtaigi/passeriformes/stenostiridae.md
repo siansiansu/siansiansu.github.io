@@ -1,3 +1,9 @@
+---
+description: 細嘴鶲科 suè-tshuì-ong-kho
+---
+
+import Image from '@theme/IdealImage';
+
 # 細嘴鶲科 suè-tshuì-ong-kho
 
 ## [方尾鶲 ハイガシラヒタキ Gray-headed Canary-Flycatcher](https://ebird.org/species/gyhcaf1)
