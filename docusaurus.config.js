@@ -183,6 +183,11 @@ const config = {
             position: 'left'
           },
           {
+            to: 'comments',
+            label: '留言板',
+            position: 'left',
+          },
+          {
             type: 'search',
             position: 'right',
           },
