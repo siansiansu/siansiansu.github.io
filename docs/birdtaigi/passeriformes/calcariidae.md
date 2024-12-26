@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 鐵爪鵐 thih-jiáu-bû
+- 🎯 鐵爪鵐 thih-jiáu-bû
 
 :::
 
@@ -30,6 +30,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 雪鵐 seh-bû
+- 🎯 雪鵐 seh-bû
 
 :::

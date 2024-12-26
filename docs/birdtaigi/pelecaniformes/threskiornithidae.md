@@ -16,13 +16,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 彩䴉 tshái-hiân**
+- 🎯 **彩䴉 tshái-hiân**
 
 :::
 
 :::tip[註解]
 
-- 想無較適合 ê 名，暫時用彩䴉 tshái-hiân
+- 暫時用彩䴉 tshái-hiân
 
 :::
 
@@ -36,13 +36,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 埃及聖䴉 ai-ki̍p-sìng-hiân**
+- 🎯 **埃及聖䴉 ai-ki̍p-sìng-hiân**
 
 :::
 
 :::tip[註解]
 
-- 想無較適合 ê 名，暫時用埃及聖䴉 ai-ki̍p-sìng-hiân
+- 暫時用埃及聖䴉 ai-ki̍p-sìng-hiân
 
 :::
 
@@ -50,8 +50,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] 烏朱鷺 oo-tsu-lōo**
-- 🎯 **[華] 烏頭白䴉 oo-thâu-pe̍h-hiân**
+- 🎯 **烏朱鷺 oo-tsu-lōo**
+- 🎯 **烏頭白䴉 oo-thâu-pe̍h-hiân**
 
 :::
 
@@ -71,7 +71,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] 朱鷺 tsu-lōo**
+- 🎯 **朱鷺 tsu-lōo**
 
 :::
 
@@ -91,9 +91,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 白面抐桮 pe̍h-bīn-lā-pue**
-- ✳️ [台] 抐桮 lā-pue
-- ✳️ [台] 飯匙鵝 puīnn-sî-gô
+- 🎯 **白面抐桮 pe̍h-bīn-lā-pue**
+- ✳️ 抐桮 lā-pue
+- ✳️ 飯匙鵝 puīnn-sî-gô
 
 :::
 
@@ -113,9 +113,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 烏面抐桮 oo-bīn-lā-pue**
-- ✳️ [台] 抐桮 lā-pue
-- ✳️ [台] 飯匙鵝 puīnn-sî-gô
+- 🎯 **烏面抐桮 oo-bīn-lā-pue**
+- ✳️ 抐桮 lā-pue
+- ✳️ 飯匙鵝 puīnn-sî-gô
 
 :::
 

@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 菱角鳥 lîng-kak-tsiáu**
-- [華] 水雉 tsuí-thī
+- 🎯 **菱角鳥 lîng-kak-tsiáu**
+- 水雉 tsuí-thī
 
 :::
 

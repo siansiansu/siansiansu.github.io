@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 黃雀 n̂g-tshiok
+- 🎯 黃雀 n̂g-tshiok
 
 :::
 
@@ -30,7 +30,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 金翼雀 kim-si̍t-tshiok
+- 🎯 金翼雀 kim-si̍t-tshiok
 
 :::
 
@@ -44,8 +44,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 花雀 hue-tshiok
-- 🎯 [台] 花鳥仔 hue-tsiáu-á
+- 🎯 花雀 hue-tshiok
+- 🎯 花鳥仔 hue-tsiáu-á
 
 :::
 
@@ -59,9 +59,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 朱衣 tsu-i
-- 🎯 [台] 紅鳥仔 âng-tsiáu-á
-- 🎯 [華] 台灣朱雀 tâi-uân-tsu-tshiok
+- 🎯 朱衣 tsu-i
+- 🎯 紅鳥仔 âng-tsiáu-á
+- 🎯 台灣朱雀 tâi-uân-tsu-tshiok
 
 :::
 
@@ -75,9 +75,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英][台] 長尾朱衣 tn̂g-bué-tsu-i
-- 🎯 [英][台] 長尾朱雀 tn̂g-bué-tsu-tshiok
-- 🎯 [英][台] 長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á
+- 🎯 長尾朱衣 tn̂g-bué-tsu-i
+- 🎯 長尾朱雀 tn̂g-bué-tsu-tshiok
+- 🎯 長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á
 
 :::
 
@@ -91,7 +91,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 烏面猴 oo-bīn-kâu
+- 🎯 烏面猴 oo-bīn-kâu
 
 :::
 
@@ -105,7 +105,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 赤面猴 tshiah-bīn-kâu
+- 🎯 赤面猴 tshiah-bīn-kâu
 
 :::
 
@@ -119,7 +119,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 臘喙雀 la̍h-tshuì-tshiok
+- 🎯 臘喙雀 la̍h-tshuì-tshiok
 
 :::
 
@@ -133,7 +133,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 小桑鳲 sió-sng-si
+- 🎯 小桑鳲 sió-sng-si
 
 :::
 
@@ -147,7 +147,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 桑鳲 sng-si
-- [中] 黑頭臘喙雀 oo-thâu-la̍h-tshuì-tshiok
+- 🎯 桑鳲 sng-si
+- 黑頭臘喙雀 oo-thâu-la̍h-tshuì-tshiok
 
 :::

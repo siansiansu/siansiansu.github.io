@@ -10,7 +10,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 戴菊 tè-kiok
+- 🎯 戴菊 tè-kiok
 
 :::
 
@@ -18,7 +18,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 杉仔鳥 sam-á-tsiáu
-- 🎯 [華] 火冠戴菊 hué-kuan-tè-kiok
+- 🎯 杉仔鳥 sam-á-tsiáu
+- 🎯 火冠戴菊 hué-kuan-tè-kiok
 
 :::

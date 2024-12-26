@@ -92,7 +92,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="範例三">
 
-:::info[以下物種無台語俗名]
+:::info[以下物種佇辭典揣無台語俗名]
 
 - 鐵嘴鴴 Greater Sand-Plover (學名：*Anarhynchus leschenaultii*)
 - 赤腹鶇 Brown-headed Thrush (學名：*Turdus chrysolaus*)
@@ -155,30 +155,15 @@ import TabItem from '@theme/TabItem';
 
 ## 📖 鳥仔名 ê 註解
 
-### 📎 詞源
-
-- [台]：依據台灣本土的台語俗稱。
-- [日]：外來語，依據日本名。
-- [英]：外來語，依據英文名。
-- [華]：外來語，依據台灣使用的華語名。
-- [中]：外來語，依據中國使用的華語名。
-
-### 🎏 特有亞種
-
-- [台亞]：台灣亞種。
-- [日亞]：日本亞種。
-
-### 🐦 其他註記
-
-- 🎯：推薦做為這个唯一物種的台語俗名。
-- ✳️：統稱，有兩個以上的物種攏會使叫這个名。
+- 🎯：推薦做為這个唯一物種 ê 台語俗名。
+- ✳️：統稱，有兩個以上 ê 物種攏會使叫這个名。
 
 ## 重要 ê 參考
 
 - 📕 上新的分類參考 [eBird](https://ebird.org/home) 佮[eBird Taiwan鳥類名錄 2024.10 (製表：eBird Taiwan))](https://docs.google.com/spreadsheets/d/1PnZ2V8jMjw9MvGLlXNs05gSz43sigs-tewDdx19YebA/edit?usp=sharing)。
 - 📕 台語俗名參考 [《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/) kah [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)。
 - 📕 華語俗名參考 [eBird](https://ebird.org/home) 佮[台灣生物多樣性網絡](https://www.tbn.org.tw/)。
-- 📕 台語字參考 [ChhoeTaigi 台語辭典](https://chhoe.taigi.info/)佮[教育部臺灣閩南語常用詞辭典](https://sutian.moe.edu.tw/)。
+- 📕 台語字參考 [ChhoeTaigi 台語辭典](https://chhoe.taigi.info/)佮[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)。
 - 📕 鳥仔的外觀參考 [The Sibley Field Guide by David Allen Sibley](https://www.audubon.org/marketplace/sibley-field-guides)。
 - 📕 鳥仔冊參考[台灣野鳥手繪圖鑑](https://www.books.com.tw/products/0010918403)(二版)。
 - 📕 鳥仔圖使用 [iNaturalist](https://www.inaturalist.org/) 面頂 ê `CC0`、`CC-BY`、`CC-BY-NC` 授權。

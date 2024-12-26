@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 橙頭地鶇 ting-thâu-tē-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 橙頭地鶇 ting-thâu-tē-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -31,8 +31,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 白眉地鶇 pe̍h-bâi-tē-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 白眉地鶇 pe̍h-bâi-tē-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -46,10 +46,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 白氏地鶇 pe̍h-sī-tē-tong
-- ✳️ [華] 虎鶇 hóo-tong
-- ✳️ [台] 花柿仔 hue-khī-á
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 白氏地鶇 pe̍h-sī-tē-tong
+- ✳️ 虎鶇 hóo-tong
+- ✳️ 花柿仔 hue-khī-á
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -63,11 +63,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 小虎鶇 sió-hóo-tong
-- 🎯 [華] 虎斑地鶇 hóo-pan-tē-tong
-- ✳️ [華] 虎鶇 hóo-tong
-- ✳️ [台] 花柿仔 hue-khī-á
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 小虎鶇 sió-hóo-tong
+- 🎯 虎斑地鶇 hóo-pan-tē-tong
+- ✳️ 虎鶇 hóo-tong
+- ✳️ 花柿仔 hue-khī-á
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -81,9 +81,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 烏灰鶇 oo-hue-tong
-- 🎯 [華][日] 日本烏灰鶇 ji̍t-pún-oo-hue-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 烏灰鶇 oo-hue-tong
+- 🎯 日本烏灰鶇 ji̍t-pún-oo-hue-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -97,8 +97,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 中國烏鶇 tiong-kok-oo-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 中國烏鶇 tiong-kok-oo-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -112,8 +112,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 白眉鶇 pe̍h-bâi-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 白眉鶇 pe̍h-bâi-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -127,8 +127,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 白腹鶇 pe̍h-pak-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 白腹鶇 pe̍h-pak-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -142,8 +142,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅腹鶇 âng-pak-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 紅腹鶇 âng-pak-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -157,8 +157,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 斑點鶇 pan-tiám-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 斑點鶇 pan-tiám-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -172,8 +172,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅尾鶇 âng-bé-tong
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 紅尾鶇 âng-bé-tong
+- ✳️ 鶇仔 tong-á
 
 :::
 
@@ -187,8 +187,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 白頭鶇 pe̍h-thâu-tong
-- ✳️ [台] 白頭仔 pe̍h-thâu-á
-- ✳️ [台] 鶇仔 tong-á
+- 🎯 白頭鶇 pe̍h-thâu-tong
+- ✳️ 白頭仔 pe̍h-thâu-á
+- ✳️ 鶇仔 tong-á
 
 :::

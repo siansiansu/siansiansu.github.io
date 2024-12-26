@@ -16,13 +16,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台][日] 長尾山娘 tn̂g-bué-suann-niû
-- 🎯 [台][日] 山娘仔 suann-niû-á
-- [台] 長尾津仔 tn̂g-bué-tin-á
-- [台] 長尾竹 tn̂g-bué-tik
-- [華] 台灣藍鵲 tâi-uân-nâ-tshiok
-- [華] 紅喙山雀 âng-tshuì-suann-tshiok
-- [華] 藍鵲 nâ-tshiok
+- 🎯 [台]長尾山娘 tn̂g-bué-suann-niû
+- 🎯 [台]山娘仔 suann-niû-á
+- 長尾津仔 tn̂g-bué-tin-á
+- 長尾竹 tn̂g-bué-tik
+- 台灣藍鵲 tâi-uân-nâ-tshiok
+- 紅喙山雀 âng-tshuì-suann-tshiok
+- 藍鵲 nâ-tshiok
 
 :::
 
@@ -36,9 +36,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 客鳥 kheh-tsiáu
-- [華][日] 喜鵲 hí-tshiok
-- [華] 烏鵲 oo-tshiok
+- 🎯 客鳥 kheh-tsiáu
+- 喜鵲 hí-tshiok
+- 烏鵲 oo-tshiok
 
 :::
 
@@ -52,9 +52,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 咖咖鳥 ka-ka-tsiáu
-- 🎯 [華][日] 樹鵲 tshiū-tshiok
-- [台] 咖咖仔 ka-ka-á
+- 🎯 咖咖鳥 ka-ka-tsiáu
+- 🎯 樹鵲 tshiū-tshiok
+- 咖咖仔 ka-ka-á
 
 :::
 
@@ -68,8 +68,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台][華] 灰客鳥 hue-kheh-tsiáu
-- [華] 灰喜鵲 hue-hí-tshiok
+- 🎯 [台]灰客鳥 hue-kheh-tsiáu
+- 灰喜鵲 hue-hí-tshiok
 
 :::
 
@@ -83,8 +83,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 松鴉 siông-a
-- ✳️ [台] 烏鴉 oo-a
+- 🎯 松鴉 siông-a
+- ✳️ 烏鴉 oo-a
 
 :::
 
@@ -98,8 +98,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 星鴉 tshinn-a
-- ✳️ [台] 烏鴉 oo-a
+- 🎯 星鴉 tshinn-a
+- ✳️ 烏鴉 oo-a
 
 :::
 
@@ -113,9 +113,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 玉頸鴉 gio̍k-kún-a
-- 🎯 [英] 白頸鴉 pe̍h-kún-a
-- ✳️ [台] 烏鴉 oo-a
+- 🎯 玉頸鴉 gio̍k-kún-a
+- 🎯 白頸鴉 pe̍h-kún-a
+- ✳️ 烏鴉 oo-a
 
 :::
 
@@ -129,8 +129,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 厝烏鴉 tshù-oo-a
-- ✳️ [台] 烏鴉 oo-a
+- 🎯 厝烏鴉 tshù-oo-a
+- ✳️ 烏鴉 oo-a
 
 :::
 
@@ -144,11 +144,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台][日] 深山烏 tshim-suann-oo
-- [台][日] 山烏鴉 suann-oo-a
-- [華] 禿鼻鴉 thut-phīnn-a
-- [台] 山老公 suann-lāu-kong
-- ✳️ [台] 烏鴉 oo-a
+- 🎯 [台]深山烏 tshim-suann-oo
+- [台]山烏鴉 suann-oo-a
+- 禿鼻鴉 thut-phīnn-a
+- 山老公 suann-lāu-kong
+- ✳️ 烏鴉 oo-a
 
 :::
 
@@ -162,8 +162,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 小喙烏鴉 sió-tshuì-oo-a
-- ✳️ [台] 烏鴉 oo-a
+- 🎯 小喙烏鴉 sió-tshuì-oo-a
+- ✳️ 烏鴉 oo-a
 
 :::
 
@@ -177,9 +177,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 大喙烏鴉 tuā-tshì-oo-a
-- [華] 巨喙鴉 kū-tshuì-a
-- [台] 孝鳥 hàu-tsiáu
-- ✳️ [台] 烏鴉 oo-a
+- 🎯 大喙烏鴉 tuā-tshì-oo-a
+- 巨喙鴉 kū-tshuì-a
+- 孝鳥 hàu-tsiáu
+- ✳️ 烏鴉 oo-a
 
 :::

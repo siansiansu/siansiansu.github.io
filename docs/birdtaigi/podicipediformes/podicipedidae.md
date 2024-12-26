@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 水避仔 tsuí-pī-á**
-- [華] 小鸊鷉 sió-phik-su
+- 🎯 **水避仔 tsuí-pī-á**
+- 小鸊鷉 sió-phik-su
 
 :::
 
@@ -38,8 +38,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 角水避 kak-tsuí-pī**
-- [華][英] 角鸊鷉 kak-phik-su
+- 🎯 **角水避 kak-tsuí-pī**
+- 角鸊鷉 kak-phik-su
 
 :::
 
@@ -59,8 +59,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 紅頸水避 âng-kún-tsuí-pī**
-- [華] 紅頸鸊鷉 âng-kún-phik-su
+- 🎯 **紅頸水避 âng-kún-tsuí-pī**
+- 紅頸鸊鷉 âng-kún-phik-su
 
 :::
 
@@ -80,8 +80,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 聳毛水避 tshàng-moo-tsuí-pī
-- [華] 冠鸊鷉 kuan-phik-su
+- 🎯 聳毛水避 tshàng-moo-tsuí-pī
+- 冠鸊鷉 kuan-phik-su
 
 :::
 
@@ -102,8 +102,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 烏頸水避 oo-kún-tsuí-pī**
-- [華] 烏頸鸊鷉 oo-kún-phik-su
+- 🎯 **烏頸水避 oo-kún-tsuí-pī**
+- 烏頸鸊鷉 oo-kún-phik-su
 
 :::
 

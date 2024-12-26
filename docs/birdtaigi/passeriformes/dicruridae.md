@@ -10,7 +10,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台][日] 山烏鶖 suann-oo-tshiu
+- 🎯 [台]山烏鶖 suann-oo-tshiu
 
 :::
 
@@ -18,7 +18,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台][日] 烏鶖 oo-tshiu
+- 🎯 [台]烏鶖 oo-tshiu
 
 :::
 
@@ -26,7 +26,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台][日] 灰烏鶖 hue-oo-tshiu
+- 🎯 [台]灰烏鶖 hue-oo-tshiu
 
 :::
 
@@ -34,9 +34,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英][日] 髮冠烏鶖 huat-kuan-oo-tshiu
-- 🎯 [英][日] 冠烏鶖 huat-kuan-oo-tshiu
-- [台] 聳毛烏鶖 tshàng-moo-oo-tshiu
-- [台] 聳頭烏鶖 tshàng-thâu-oo-tshiu
+- 🎯 髮冠烏鶖 huat-kuan-oo-tshiu
+- 🎯 冠烏鶖 huat-kuan-oo-tshiu
+- 聳毛烏鶖 tshàng-moo-oo-tshiu
+- 聳頭烏鶖 tshàng-thâu-oo-tshiu
 
 :::

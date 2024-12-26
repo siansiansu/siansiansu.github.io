@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 白喉針尾雨燕仔 pe̍h-âu-tsiam-bé-ú-iàn-á**
+- 🎯 **白喉針尾雨燕仔 pe̍h-âu-tsiam-bé-ú-iàn-á**
 
 :::
 
@@ -36,7 +36,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 殕色喉針尾雨燕 phú-sik-âu-tsiam-bé-ú-iàn**
+- 🎯 **殕色喉針尾雨燕 phú-sik-âu-tsiam-bé-ú-iàn**
 
 :::
 
@@ -56,7 +56,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 紫色針尾雨燕 tsí-sik-tsiam-bé-ú-iàn**
+- 🎯 **紫色針尾雨燕 tsí-sik-tsiam-bé-ú-iàn**
 
 :::
 
@@ -76,7 +76,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 殕色腰金絲燕 phú-sik-io-kim-si-tsiáu**
+- 🎯 **殕色腰金絲燕 phú-sik-io-kim-si-tsiáu**
 
 :::
 
@@ -97,8 +97,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 短喙金絲燕 té-tshuì-kim-si-tsiáu**
-- 🎯 **[英] 喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu**
+- 🎯 **短喙金絲燕 té-tshuì-kim-si-tsiáu**
+- 🎯 **喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu**
 
 :::
 
@@ -113,7 +113,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 白燕窩金絲燕 pe̍h-iàn-o-kim-si-tsiáu**
+- 🎯 **白燕窩金絲燕 pe̍h-iàn-o-kim-si-tsiáu**
 
 :::
 
@@ -133,8 +133,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 叉尾雨燕仔 tshe-bé-ú-iàn-á**
-- 🎯 **[英] 太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á**
+- 🎯 **叉尾雨燕仔 tshe-bé-ú-iàn-á**
+- 🎯 **太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á**
 
 :::
 
@@ -154,8 +154,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 小雨燕仔 sió-ú-iàn-á**
-- 🎯 **[華] 厝雨燕仔 sió-ú-iàn-á**
+- 🎯 **小雨燕仔 sió-ú-iàn-á**
+- 🎯 **厝雨燕仔 sió-ú-iàn-á**
 
 :::
 

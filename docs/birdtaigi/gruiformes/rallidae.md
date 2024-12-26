@@ -16,14 +16,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 西方米雞仔 se-hong-bí-ke-á**
-- 🎯 [日] 歐洲米雞仔 au-tsiu-bí-ke-á
-- ✳️ [台] 烏水雞 oo-súi-ke
-- ✳️ [台] 烏雞仔 oo-ke-á
-- ✳️ [台] 田雞仔 tshân-ke-á
-- ✳️ [台] 米雞仔 bí-ke-á
-- ✳️ [台] 紅雞 âng-kue
-- ✳️ [台] 青跤仔 tshenn-kha-á
+- 🎯 **西方米雞仔 se-hong-bí-ke-á**
+- 🎯 歐洲米雞仔 au-tsiu-bí-ke-á
+- ✳️ 烏水雞 oo-súi-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
+- ✳️ 米雞仔 bí-ke-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 :::
 
@@ -44,13 +44,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 東亞米雞仔 tang-a-bí-ke-á**
-- ✳️ [台] 烏水雞 oo-súi-ke
-- ✳️ [台] 烏雞仔 oo-ke-á
-- ✳️ [台] 田雞仔 tshân-ke-á
-- ✳️ [台] 米雞仔 bí-ke-á
-- ✳️ [台] 紅雞 âng-kue
-- ✳️ [台] 青跤仔 tshenn-kha-á
+- 🎯 **東亞米雞仔 tang-a-bí-ke-á**
+- ✳️ 烏水雞 oo-súi-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
+- ✳️ 米雞仔 bí-ke-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 :::
 
@@ -70,13 +70,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 殕色胸米雞仔 phú-sik-hing-sió-bí-ke-á**
-- ✳️ [台] 烏水雞 oo-súi-ke
-- ✳️ [台] 烏雞仔 oo-ke-á
-- ✳️ [台] 田雞仔 tshân-ke-á
-- ✳️ [台] 米雞仔 bí-ke-á
-- ✳️ [台] 紅雞 âng-kue
-- ✳️ [台] 青跤仔 tshenn-kha-á
+- 🎯 **殕色胸米雞仔 phú-sik-hing-sió-bí-ke-á**
+- ✳️ 烏水雞 oo-súi-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
+- ✳️ 米雞仔 bí-ke-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 :::
 
@@ -96,13 +96,13 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 **[華] 斑胸米雞仔 pan-hing-bí-ke-á**
-- ✳️ [台] 烏水雞 oo-súi-ke
-- ✳️ [台] 烏雞仔 oo-ke-á
-- ✳️ [台] 田雞仔 tshân-ke-á
-- ✳️ [台] 米雞仔 bí-ke-á
-- ✳️ [台] 紅雞 âng-kue
-- ✳️ [台] 青跤仔 tshenn-kha-á
+- 🎯 **斑胸米雞仔 pan-hing-bí-ke-á**
+- ✳️ 烏水雞 oo-súi-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
+- ✳️ 米雞仔 bí-ke-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 :::
 
@@ -122,16 +122,16 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 **[台] 水鵁鴒 súi-ka-ling**
-- [華] 紅冠水雞 âng-kuan-tsuí-kue
-- [華] 紅骨頂 âng-kut-tíng
-- [華] 過塘雞 kè-tn̂g-ke
-- ✳️ [台] 烏水雞 oo-súi-ke
-- ✳️ [台] 烏雞仔 oo-ke-á
-- ✳️ [台] 田雞仔 tshân-ke-á
-- ✳️ [台] 米雞仔 bí-ke-á
-- ✳️ [台] 紅雞 âng-kue
-- ✳️ [台] 青跤仔 tshenn-kha-á
+- 🎯 **水鵁鴒 súi-ka-ling**
+- 紅冠水雞 âng-kuan-tsuí-kue
+- 紅骨頂 âng-kut-tíng
+- 過塘雞 kè-tn̂g-ke
+- ✳️ 烏水雞 oo-súi-ke
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 田雞仔 tshân-ke-á
+- ✳️ 米雞仔 bí-ke-á
+- ✳️ 紅雞 âng-kue
+- ✳️ 青跤仔 tshenn-kha-á
 
 :::
 
@@ -152,10 +152,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 **[台] 白冠烏雞仔 pe̍h-kuan-oo-ke-á**
-- ✳️ [台] 烏雞仔 oo-ke-á
-- ✳️ [台] 烏水雞 oo-súi-ke
-- [中] 白骨頂 pe̍h-kut-tíng
+- 🎯 **白冠烏雞仔 pe̍h-kuan-oo-ke-á**
+- ✳️ 烏雞仔 oo-ke-á
+- ✳️ 烏水雞 oo-súi-ke
 
 :::
 
@@ -175,12 +174,12 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 **[英] 殕色頭紫田雞 phú-sik-thâu-tsí-tshân-ke**
-- ✳️ [台] 紫水雞 tsí-tsuí-ke
-- ✳️ [台] 紫田雞 tsí-tshân-ke
-- ✳️ [華] 秧雞 iong-kue
-- ✳️ [台] 水雞 tsuí-kue
-- ✳️ [台] 米雞仔 bí-ke-á
+- 🎯 **殕色頭紫田雞 phú-sik-thâu-tsí-tshân-ke**
+- ✳️ 紫水雞 tsí-tsuí-ke
+- ✳️ 紫田雞 tsí-tshân-ke
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
+- ✳️ 米雞仔 bí-ke-á
 
 :::
 
@@ -200,7 +199,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 **[英] 白眉米雞仔 pe̍h-bâi-bí-ke-á**
+- 🎯 **白眉米雞仔 pe̍h-bâi-bí-ke-á**
 
 :::
 
@@ -220,7 +219,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 **[台] 田頓 tshân-tòm**
+- 🎯 **田頓 tshân-tòm**
 
 :::
 
@@ -241,14 +240,14 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 **[台] 苦雞母 khóo-ke-bó**
-- 🎯 **[台] 姑惡鳥 koo-ok-tsiáu**
-- 🎯 **[華] 白腹秧雞 pe̍h-pak-iong-kue**
-- [台] 姑婆鳥 koo-pō-tsiáu
-- [台] 白面雞 pe̍h-bīn-ke
-- [台] 苦惡鳥 khóo-ònn-tsiáu
-- [華] 白胸秧雞 pe̍h-hing-iong-kue
-- ✳️ [台] 紅尻川仔 âng-kha-tshng-á
+- 🎯 **苦雞母 khóo-ke-bó**
+- 🎯 **姑惡鳥 koo-ok-tsiáu**
+- 🎯 **白腹秧雞 pe̍h-pak-iong-kue**
+- 姑婆鳥 koo-pō-tsiáu
+- 白面雞 pe̍h-bīn-ke
+- 苦惡鳥 khóo-ònn-tsiáu
+- 白胸秧雞 pe̍h-hing-iong-kue
+- ✳️ 紅尻川仔 âng-kha-tshng-á
 
 :::
 
@@ -270,10 +269,10 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 [華][英] 紅跤米雞仔 âng-kha-bí-ke-á
-- ✳️ [華] 秧雞 iong-kue
-- ✳️ [台] 紅跤鳥 âng-kha-tsiáu
-- ✳️ [台] 米雞仔 bí-ke-á
+- 🎯 紅跤米雞仔 âng-kha-bí-ke-á
+- ✳️ 秧雞 iong-kue
+- ✳️ 紅跤鳥 âng-kha-tsiáu
+- ✳️ 米雞仔 bí-ke-á
 
 :::
 
@@ -293,9 +292,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 :::info[台語名]
 
-- 🎯 [華][英] 殕色跤米雞仔 phú-sik-kha-bí-ke-á
-- ✳️ [華] 秧雞 iong-kue
-- ✳️ [台] 米雞仔 bí-ke-á
+- 🎯 殕色跤米雞仔 phú-sik-kha-bí-ke-á
+- ✳️ 秧雞 iong-kue
+- ✳️ 米雞仔 bí-ke-á
 
 :::
 
@@ -315,16 +314,16 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::info[台語名]
 
-- 🎯 **[台] 紅胸米雞仔 âng-hing-bí-ke-á**
-- 🎯 **[英] 紅胸秧雞 âng-hing-iong-kue**
-- 🎯 [華] 紅秧雞 âng-iong-kue
-- [英] 紅胸田雞 âng-hing-tshân-kue
-- [英] 紅跤秧雞 âng-kha-iong-kue
-- [華] 緋秧雞 hui-iong-kue
-- ✳️ [華] 秧雞 iong-kue
-- ✳️ [台] 水雞 tsuí-kue
-- ✳️ [台] 米雞仔 bí-ke-á
-- ✳️ [台] 紅跤鳥 âng-kha-tsiáu
+- 🎯 **紅胸米雞仔 âng-hing-bí-ke-á**
+- 🎯 **紅胸秧雞 âng-hing-iong-kue**
+- 🎯 紅秧雞 âng-iong-kue
+- 紅胸田雞 âng-hing-tshân-kue
+- 紅跤秧雞 âng-kha-iong-kue
+- 緋秧雞 hui-iong-kue
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
+- ✳️ 米雞仔 bí-ke-á
+- ✳️ 紅跤鳥 âng-kha-tsiáu
 
 :::
 
@@ -344,10 +343,10 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::info[台語名]
 
-- 🎯 [華][英] 斑胳米雞仔 pan-kueh-bí-ke-á
-- ✳️ [華] 秧雞 iong-kue
-- ✳️ [台] 水雞 tsuí-kue
-- ✳️ [台] 米雞仔 bí-ke-á
+- 🎯 斑胳米雞仔 pan-kueh-bí-ke-á
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
+- ✳️ 米雞仔 bí-ke-á
 
 :::
 
@@ -367,10 +366,10 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::info[台語名]
 
-- 🎯 **[台] 紅跤苦雞母 âng-kha-khóo-ke-bó**
-- 🎯 **[台] 紅跤姑惡鳥 âng-kha-koo-ok-tsiáu**
-- ✳️ [台] 姑婆鳥 koo-pō-tsiáu
-- ✳️ [台] 苦惡鳥 khóo-ònn-tsiáu
+- 🎯 **紅跤苦雞母 âng-kha-khóo-ke-bó**
+- 🎯 **紅跤姑惡鳥 âng-kha-koo-ok-tsiáu**
+- ✳️ 姑婆鳥 koo-pō-tsiáu
+- ✳️ 苦惡鳥 khóo-ònn-tsiáu
 
 :::
 
@@ -390,10 +389,10 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 :::info[台語名]
 
-- 🎯 **[華] 小米雞仔 sió-bí-ke-á**
-- ✳️ [華] 秧雞 iong-kue
-- ✳️ [台] 水雞 tsuí-kue
-- ✳️ [台] 米雞仔 bí-ke-á
+- 🎯 **小米雞仔 sió-bí-ke-á**
+- ✳️ 秧雞 iong-kue
+- ✳️ 水雞 tsuí-kue
+- ✳️ 米雞仔 bí-ke-á
 
 :::
 

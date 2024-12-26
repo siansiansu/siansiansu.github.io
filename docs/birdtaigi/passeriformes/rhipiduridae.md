@@ -16,10 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 斑尾扇 pan-bué-sìnn
-- 🎯 [英] 斑尾扇鶲 pan-bué-sìnn-ong
-- 🎯 [英] 斑扇尾鶲 pan-sìnn-bué-ong
-- 🎯 [英] 馬來西亞花斑扇尾鶲 Má-lâi-se-a-hue-pan-sìnn-bué-ong
+- 🎯 斑尾扇 pan-bué-sìnn
+- 🎯 斑尾扇鶲 pan-bué-sìnn-ong
+- 🎯 斑扇尾鶲 pan-sìnn-bué-ong
+- 🎯 馬來西亞花斑扇尾鶲 Má-lâi-se-a-hue-pan-sìnn-bué-ong
 
 :::
 
@@ -33,8 +33,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 白喉尾扇 pe̍h-âu-bué-sìnn
-- 🎯 [英] 白喉尾扇鶲 pe̍h-âu-bué-sìnn-ong
-- 🎯 [英] 白喉扇尾鶲 pe̍h-âu-sìnn-bué-ong
+- 🎯 白喉尾扇 pe̍h-âu-bué-sìnn
+- 🎯 白喉尾扇鶲 pe̍h-âu-bué-sìnn-ong
+- 🎯 白喉扇尾鶲 pe̍h-âu-sìnn-bué-ong
 
 :::

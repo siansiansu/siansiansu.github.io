@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 日本樹鶯 ji̍t-pún tshiū-ing
+- 🎯 日本樹鶯 ji̍t-pún tshiū-ing
 
 :::
 
@@ -30,8 +30,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 遠東樹鶯 uán-tong-tshiū-ing
-- [日] 朝鮮鶯 tiâu-sián-ing
+- 🎯 遠東樹鶯 uán-tong-tshiū-ing
+- 朝鮮鶯 tiâu-sián-ing
 
 :::
 
@@ -45,8 +45,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 小鶯 sió-ing
-- 🎯 [日] 台灣小鶯 tâi-uân-sió-ing
+- 🎯 小鶯 sió-ing
+- 🎯 台灣小鶯 tâi-uân-sió-ing
 
 :::
 
@@ -60,7 +60,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 深山鶯 tshim-suann-ing
+- 🎯 深山鶯 tshim-suann-ing
 
 :::
 
@@ -74,8 +74,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 短尾鶯 té-bé-ing
-- 🎯 [日] 藪雨 sòo-hōo
+- 🎯 短尾鶯 té-bé-ing
+- 🎯 藪雨 sòo-hōo
 
 :::
 
@@ -89,7 +89,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 棕面鶯 tsong-bīn-ing
-- [中] 棕面鶲鶯 tsong-bīn-ong-ing
+- 🎯 棕面鶯 tsong-bīn-ing
+- 棕面鶲鶯 tsong-bīn-ong-ing
 
 :::

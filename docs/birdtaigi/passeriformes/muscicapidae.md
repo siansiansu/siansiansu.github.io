@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 灰斑鶲 hue-pan-ong
-- [日] 蝦夷鶲 hê-î-ong
-- ✳️ [台] 鶲仔 ong-á
+- 🎯 灰斑鶲 hue-pan-ong
+- 蝦夷鶲 hê-î-ong
+- ✳️ 鶲仔 ong-á
 
 :::
 
@@ -32,8 +32,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 烏鶲 oo-ong
-- [日] 鮫鶲 ka-ong
+- 🎯 烏鶲 oo-ong
+- 鮫鶲 ka-ong
 
 :::
 
@@ -47,8 +47,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 闊喙鶲 khuan-tshuì-ong
-- [日] 小鮫鶲 sió-ka-ong
+- 🎯 闊喙鶲 khuan-tshuì-ong
+- 小鮫鶲 sió-ka-ong
 
 :::
 
@@ -62,8 +62,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 黃眉黃鶲 n̂g-bâi-n̂g-ong
-- 🎯 [日] 黃鶲 n̂g-ong
+- 🎯 黃眉黃鶲 n̂g-bâi-n̂g-ong
+- 🎯 黃鶲 n̂g-ong
 
 :::
 
@@ -77,7 +77,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 白眉鶲 pe̍h-bâi-ong
+- 🎯 白眉鶲 pe̍h-bâi-ong
 
 :::
 
@@ -91,7 +91,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 白眉黃鶲 pe̍h-bâi-n̂g-ong
+- 🎯 白眉黃鶲 pe̍h-bâi-n̂g-ong
 
 :::
 
@@ -105,8 +105,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅尾鶲 âng-bé-ong
-- 🎯 [台] 深山鶲 tshim-suann-ong
+- 🎯 紅尾鶲 âng-bé-ong
+- 🎯 深山鶲 tshim-suann-ong
 
 :::
 
@@ -120,8 +120,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅喉鶲 âng-hôo-ong
-- [日] 白尾鶲 pe̍h-bué-ong
+- 🎯 紅喉鶲 âng-hôo-ong
+- 白尾鶲 pe̍h-bué-ong
 
 :::
 
@@ -135,7 +135,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 紅胸鶲 âng-hing-ong
+- 🎯 紅胸鶲 âng-hing-ong
 
 :::
 
@@ -149,8 +149,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 棕腹仙鶲 tsang-pak-sian-ong
-- 🎯 [日] 小茶腹大瑠璃 sió-tê-pak-tuā-liû-lî
+- 🎯 棕腹仙鶲 tsang-pak-sian-ong
+- 🎯 小茶腹大瑠璃 sió-tê-pak-tuā-liû-lî
 
 :::
 
@@ -164,7 +164,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 棕腹大仙鶲 tsang-pak-tuā-sian-ong
+- 🎯 棕腹大仙鶲 tsang-pak-tuā-sian-ong
 
 :::
 
@@ -178,8 +178,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 黃腹琉璃 n̂g-pak-liû-lî
-- 🎯 [日] 茶腹大瑠璃 tê-pak-tuā-liû-lî
+- 🎯 黃腹琉璃 n̂g-pak-liû-lî
+- 🎯 茶腹大瑠璃 tê-pak-tuā-liû-lî
 
 :::
 
@@ -193,9 +193,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 白腹琉璃 pe̍h-pak-liû-lî
-- 🎯 [日] 大瑠璃 tuā-liû-lî
-- [台] 竹林鳥 tik-lîm-tsiáu
+- 🎯 白腹琉璃 pe̍h-pak-liû-lî
+- 🎯 大瑠璃 tuā-liû-lî
+- 竹林鳥 tik-lîm-tsiáu
 
 :::
 
@@ -209,7 +209,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 海南藍仙鶲 hái-lâm-tâng-sian-ong
+- 🎯 海南藍仙鶲 hái-lâm-tâng-sian-ong
 
 :::
 
@@ -223,8 +223,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 銅藍鶲 tâng-lâm-ong
-- 🎯 [日] 緑青鶲 li̍k-tshenn-ong
+- 🎯 銅藍鶲 tâng-lâm-ong
+- 🎯 緑青鶲 li̍k-tshenn-ong
 
 :::
 
@@ -238,8 +238,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 白尾鴝 pe̍h-bé-kû
-- 🎯 [日] 紺鶲 khóng-ong
+- 🎯 白尾鴝 pe̍h-bé-kû
+- 🎯 紺鶲 khóng-ong
 
 :::
 
@@ -253,8 +253,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 藍尾鴝 lâm-bé-kû
-- 🎯 [日] 瑠璃鶲 liû-lî-ong
+- 🎯 藍尾鴝 lâm-bé-kû
+- 🎯 瑠璃鶲 liû-lî-ong
 
 :::
 
@@ -268,7 +268,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 白眉林鴝 pe̍h-ba̍k-lîm-kù
+- 🎯 白眉林鴝 pe̍h-ba̍k-lîm-kù
 
 :::
 
@@ -282,8 +282,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 栗背林鴝 lik-puē-lîm-kù
-- 🎯 [日] 阿里山鶲 a-lí-san-ong
+- 🎯 栗背林鴝 lik-puē-lîm-kù
+- 🎯 阿里山鶲 a-lí-san-ong
 
 :::
 
@@ -297,8 +297,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 白腰鵲鴝 pe̍h-io-tshio̍k-kù
-- 🎯 [日] 赤腹四季鳥 tshiah-pak-sù-kuì-tsiáu
+- 🎯 白腰鵲鴝 pe̍h-io-tshio̍k-kù
+- 🎯 赤腹四季鳥 tshiah-pak-sù-kuì-tsiáu
 
 :::
 
@@ -312,8 +312,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 鵲鴝 tshio̍k-kù
-- 🎯 [日] 四季鳥 sù-kuì-tsiáu
+- 🎯 鵲鴝 tshio̍k-kù
+- 🎯 四季鳥 sù-kuì-tsiáu
 
 :::
 
@@ -327,9 +327,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 日本鴝鳥 ji̍t-pún-kù-tsiáu
-- 🎯 [華] 日本歌鴝 ji̍t-pún-kua-kù
-- 🎯 [台][日] 鴝鳥 kù-tsiáu
+- 🎯 日本鴝鳥 ji̍t-pún-kù-tsiáu
+- 🎯 日本歌鴝 ji̍t-pún-kua-kù
+- 🎯 [台]鴝鳥 kù-tsiáu
 
 :::
 
@@ -343,8 +343,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日][英] 琉球鴝鳥 liû-kiû-kù-tsiáu
-- 🎯 [英] 琉球歌鴝 liû-kiû-kua-kù
+- 🎯 琉球鴝鳥 liû-kiû-kù-tsiáu
+- 🎯 琉球歌鴝 liû-kiû-kua-kù
 
 :::
 
@@ -358,9 +358,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 藍歌鴝 lâm-kua-kù
-- 🎯 [英] 藍鴝鳥 lâm-kua-tsiáu
-- [日] 小瑠璃 sió-liû-lî
+- 🎯 藍歌鴝 lâm-kua-kù
+- 🎯 藍鴝鳥 lâm-kua-tsiáu
+- 小瑠璃 sió-liû-lî
 
 :::
 
@@ -374,8 +374,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 紅尾溜 âng-bué-liu
-- [日] 尉鶲 ut-ong
+- 🎯 紅尾溜 âng-bué-liu
+- 尉鶲 ut-ong
 
 :::
 
@@ -389,9 +389,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 烏喉鴝 oo-âu-kî
-- [台] 烏喉仔 oo-âu-á
-- [日] 野鶲 iá-ong
+- 🎯 烏喉鴝 oo-âu-kî
+- 烏喉仔 oo-âu-á
+- 野鶲 iá-ong
 
 :::
 
@@ -405,12 +405,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日] 野鴝 iá-kû
-- 🎯 [台] 紅點頦 âng-tiám-hâi
-- [中] 紅喉歌鴝 âng-hôo-ko-kû
-- [台] 白點頦 (母) pe̍h-tiám-hâi (bó ê)
-- [台] 紅頸仔 âng-kui-á
-- [華] 紅脖 âng-pu̍t
+- 🎯 野鴝 iá-kû
+- 🎯 紅點頦 âng-tiám-hâi
+- 紅喉歌鴝 âng-hôo-ko-kû
+- 白點頦 (母) pe̍h-tiám-hâi (bó ê)
+- 紅頸仔 âng-kui-á
+- 紅脖 âng-pu̍t
 
 :::
 
@@ -424,8 +424,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 漠䳭 bôo-tsik
-- 🎯 [日] 砂漠鶲 sua-bo̍k-ong
+- 🎯 漠䳭 bôo-tsik
+- 🎯 砂漠鶲 sua-bo̍k-ong
 
 :::
 
@@ -439,8 +439,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 沙䳭 sua-tsik
-- [日] 因幡鶲 in-huan-ong
+- 🎯 沙䳭 sua-tsik
+- 因幡鶲 in-huan-ong
 
 :::
 
@@ -454,8 +454,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 穗䳭 suī-tsik
-- [日] 烏喙鶲 oo-tshuì-ong
+- 🎯 穗䳭 suī-tsik
+- 烏喙鶲 oo-tshuì-ong
 
 :::
 
@@ -469,12 +469,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 石青仔 tsio̍h-tshenn-á
-- 🎯 [台] 水鶇仔 tsuí-tang-á
-- 🎯 [台] 紅尾鶇仔 âng-bé-tang-á
-- [中] 溪鴝燕 khe-kû-iàn
-- [華] 鉛色水鶇 iân-sik-tsuí-tang
-- [日] 白帽仔河鶲 pe̍h-bō-á-hô-ong
+- 🎯 石青仔 tsio̍h-tshenn-á
+- 🎯 水鶇仔 tsuí-tang-á
+- 🎯 紅尾鶇仔 âng-bé-tang-á
+- 溪鴝燕 khe-kû-iàn
+- 鉛色水鶇 iân-sik-tsuí-tang
+- 白帽仔河鶲 pe̍h-bō-á-hô-ong
 
 :::
 
@@ -488,8 +488,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 烏白鶇仔 oo-pe̍h-tang-á
-- 🎯 [英] 小剪尾 sió-tsián-bé
+- 🎯 烏白鶇仔 oo-pe̍h-tang-á
+- 🎯 小剪尾 sió-tsián-bé
 
 :::
 
@@ -503,7 +503,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 小翼鶇 sió-i̍k-tang
+- 🎯 小翼鶇 sió-i̍k-tang
 
 :::
 
@@ -517,7 +517,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 白喉磯鶇 pe̍h-âu-ki-tang
+- 🎯 白喉磯鶇 pe̍h-âu-ki-tang
 
 :::
 
@@ -531,9 +531,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 藍磯鶇 nâ-ki-tang
-- 🎯 [日] 磯鵯 ki-pi
-- ✳️ [台] 厝角鳥 tshù-kak-tsiáu
+- 🎯 藍磯鶇 nâ-ki-tang
+- 🎯 磯鵯 ki-pi
+- ✳️ 厝角鳥 tshù-kak-tsiáu
 
 :::
 
@@ -547,11 +547,11 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [台] 台灣烏磯 tâi-uân-oo-ki
-- 🎯 [華] 台灣紫嘯鶇 tâi-uân-tsí-siàu-tang
-- ✳️ [日] 瑠璃鳥 liû-lî-tsiáu
-- ✳️ [華] 紫嘯鶇 tsí-siàu-tang
-- ✳️ [台] 烏磯 oo-ki
+- 🎯 台灣烏磯 tâi-uân-oo-ki
+- 🎯 台灣紫嘯鶇 tâi-uân-tsí-siàu-tang
+- ✳️ 瑠璃鳥 liû-lî-tsiáu
+- ✳️ 紫嘯鶇 tsí-siàu-tang
+- ✳️ 烏磯 oo-ki
 
 :::
 
@@ -565,10 +565,10 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [台] 白斑烏磯 pe̍h-pan-oo-ki
-- 🎯 [華] 白斑紫嘯鶇 pe̍h-pan-tsí-siàu-tang
-- ✳️ [日] 瑠璃鳥 liû-lî-tsiáu
-- ✳️ [華] 紫嘯鶇 tsí-siàu-tang
-- ✳️ [台] 烏磯 oo-ki
+- 🎯 白斑烏磯 pe̍h-pan-oo-ki
+- 🎯 白斑紫嘯鶇 pe̍h-pan-tsí-siàu-tang
+- ✳️ 瑠璃鳥 liû-lî-tsiáu
+- ✳️ 紫嘯鶇 tsí-siàu-tang
+- ✳️ 烏磯 oo-ki
 
 :::

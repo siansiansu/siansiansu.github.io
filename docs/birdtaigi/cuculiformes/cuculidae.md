@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 大草嘓 tuā-tsháu-kok**
-- 🎯 **[台] 大草董 tuā-tsháu-táng**
-- 🎯 **[台] 大紅甲箬 âng-kah-ha̍h**
+- 🎯 **大草嘓 tuā-tsháu-kok**
+- 🎯 **大草董 tuā-tsháu-táng**
+- 🎯 **大紅甲箬 âng-kah-ha̍h**
 
 :::
 
@@ -38,9 +38,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 草嘓 tsháu-kok**
-- 🎯 **[台] 草董 tsháu-táng**
-- 🎯 **[台] 紅甲箬 âng-kah-ha̍h**
+- 🎯 **草嘓 tsháu-kok**
+- 🎯 **草董 tsháu-táng**
+- 🎯 **紅甲箬 âng-kah-ha̍h**
 
 :::
 
@@ -61,8 +61,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] 冠郭公 kuan-kueh-kong**
-- 🎯 **[台] 聳毛杜鵑 tshàng-moo-tōo-kuan**
+- 🎯 **冠郭公 kuan-kueh-kong**
+- 🎯 **聳毛杜鵑 tshàng-moo-tōo-kuan**
 
 :::
 
@@ -83,8 +83,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] 烏白冠郭公 oo-pe̍h-kuan-kueh-kong**
-- [中] 斑翅鳳頭鵑 pan-tshì-hōng-thâu-kuan
+- 🎯 **烏白冠郭公 oo-pe̍h-kuan-kueh-kong**
+- 斑翅鳳頭鵑 pan-tshì-hōng-thâu-kuan
 
 :::
 
@@ -105,8 +105,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] 鬼郭公 kuí-kueh-kong**
-- ✳️ [台] 姑鳥 koo-tsiáu
+- 🎯 **鬼郭公 kuí-kueh-kong**
+- ✳️ 姑鳥 koo-tsiáu
 
 :::
 
@@ -127,13 +127,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 八聲豆仔鳥 peh-siann-tāu-á-tsiáu**
-- 🎯 **[台] 八聲客鴣 peh-siann-khik-koo**
-- 🎯 **[台] 八聲杜鵑 peh-siann-tōo-kuan**
-- 🎯 **[台] 八聲吐血鳥 peh-siann-thòo-hueh-tsiáu**
-- ✳️ [台] 杜鵑 tōo-kuan
-- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
-- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+- 🎯 **八聲豆仔鳥 peh-siann-tāu-á-tsiáu**
+- 🎯 **八聲客鴣 peh-siann-khik-koo**
+- 🎯 **八聲杜鵑 peh-siann-tōo-kuan**
+- 🎯 **八聲吐血鳥 peh-siann-thòo-hueh-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 :::
 
@@ -155,8 +155,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] 烏鶖郭公 oo-tshiu-kueh-kong**
-- [華] 方尾烏鵑 hong-bué-oo-kuan
+- 🎯 **烏鶖郭公 oo-tshiu-kueh-kong**
+- 方尾烏鵑 hong-bué-oo-kuan
 
 :::
 
@@ -176,9 +176,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 鷹仔咕鳥 ing-á-koo-tsiáu**
-- [華] 鷹鵑 ing-kuan
-- ✳️ [台] 咕鳥 koo-tsiáu
+- 🎯 **鷹仔咕鳥 ing-á-koo-tsiáu**
+- 鷹鵑 ing-kuan
+- ✳️ 咕鳥 koo-tsiáu
 
 :::
 
@@ -198,8 +198,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 北方鷹仔咕鳥 pak-hng-ing-á-koo-tsiáu**
-- [華] 北方鷹鵑 pak-hng-ing-kuan
+- 🎯 **北方鷹仔咕鳥 pak-hng-ing-á-koo-tsiáu**
+- 北方鷹鵑 pak-hng-ing-kuan
 
 :::
 
@@ -219,9 +219,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 赤腹鷹仔咕鳥 tshiah-pak-ing-á-koo-tsiáu**
-- 🎯 **[英] 霍氏鷹仔咕鳥 Hok-sī-ing-á-koo-tsiáu**
-- [華] 赤腹鷹鵑 tshiah-pak-ing-kuan
+- 🎯 **赤腹鷹仔咕鳥 tshiah-pak-ing-á-koo-tsiáu**
+- 🎯 **霍氏鷹仔咕鳥 Hok-sī-ing-á-koo-tsiáu**
+- 赤腹鷹鵑 tshiah-pak-ing-kuan
 
 :::
 
@@ -242,13 +242,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 小杜鵑 sió-tōo-kuan**
-- 🎯 **[台] 小郭公鳥 sió-kueh-kong-tsiáu**
-- 🎯 **[台] 小豆仔鳥 sió-tāu-á-tsiáu**
-- 🎯 **[台] 小吐血鳥 sió-thòo-hueh-tsiáu**
-- ✳️ [台] 杜鵑 tōo-kuan
-- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
-- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+- 🎯 **小杜鵑 sió-tōo-kuan**
+- 🎯 **小郭公鳥 sió-kueh-kong-tsiáu**
+- 🎯 **小豆仔鳥 sió-tāu-á-tsiáu**
+- 🎯 **小吐血鳥 sió-thòo-hueh-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 :::
 
@@ -268,12 +268,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 四聲杜鵑 sì-siann-tōo-kuan**
-- 🎯 **[台] 四聲豆仔鳥 sì-siann-tāu-á-tsiáu**
-- 🎯 **[台] 四聲吐血鳥 sì-siann-thòo-hueh-tsiáu**
-- ✳️ [台] 杜鵑 tōo-kuan
-- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
-- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+- 🎯 **四聲杜鵑 sì-siann-tōo-kuan**
+- 🎯 **四聲豆仔鳥 sì-siann-tāu-á-tsiáu**
+- 🎯 **四聲吐血鳥 sì-siann-thòo-hueh-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 :::
 
@@ -293,16 +293,16 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 喜馬拉雅中杜鵑 hí-má-la-ngá-tiong-tōo-kuan**
-- 🎯 **[台] 喜馬拉雅筒鳥 hí-má-la-ngá-tâng-tsiáu**
-- 🎯 **[台] 喜馬拉雅中郭公鳥 hí-má-la-ngá-tiong-kueh-kong-tsiáu**
-- 🎯 **[台] 喜馬拉雅中豆仔鳥 hí-má-la-ngá-tiong-tāu-á-tsiáu**
-- ✳️ [台] 杜鵑 tōo-kuan
-- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
-- ✳️ [台] 郭公鳥 kueh-kong-tsiáu
-- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
-- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
-- ✳️ [台] 筒鳥 tâng-tsiáu
+- 🎯 **喜馬拉雅中杜鵑 hí-má-la-ngá-tiong-tōo-kuan**
+- 🎯 **喜馬拉雅筒鳥 hí-má-la-ngá-tâng-tsiáu**
+- 🎯 **喜馬拉雅中郭公鳥 hí-má-la-ngá-tiong-kueh-kong-tsiáu**
+- 🎯 **喜馬拉雅中豆仔鳥 hí-má-la-ngá-tiong-tāu-á-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 郭公鳥 kueh-kong-tsiáu
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
+- ✳️ 筒鳥 tâng-tsiáu
 
 :::
 
@@ -322,13 +322,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 大杜鵑 tuā-tōo-kuan**
-- 🎯 **[台] 大郭公鳥 tuā-kueh-kong-tsiáu**
-- 🎯 **[台] 大豆仔鳥 tuā-tāu-á-tsiáu**
-- ✳️ [台] 杜鵑 tōo-kuan
-- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
-- ✳️ [台] 郭公鳥 kueh-kong-tsiáu
-- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
+- 🎯 **大杜鵑 tuā-tōo-kuan**
+- 🎯 **大郭公鳥 tuā-kueh-kong-tsiáu**
+- 🎯 **大豆仔鳥 tuā-tāu-á-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 郭公鳥 kueh-kong-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
 
 :::
 
@@ -348,15 +348,15 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 北方中杜鵑 pak-hng-tiong-tōo-kuan**
-- 🎯 **[台] 北方中郭公鳥 pak-hng-tiong-kueh-kong-tsiáu**
-- 🎯 **[台] 北方中豆仔鳥 pak-hng-tiong-tāu-á-tsiáu**
-- 🎯 **[台] 北方筒鳥 pak-hng-tâng-tsiáu**
-- ✳️ [台] 杜鵑 tōo-kuan
-- ✳️ [台] 豆仔鳥 tāu-á-tsiáu
-- ✳️ [台] 郭公鳥 kueh-kong-tsiáu
-- ✳️ [台] 吐血鳥 thòo-hueh-tsiáu
-- ✳️ [台] 筒鳥 tâng-tsiáu
+- 🎯 **北方中杜鵑 pak-hng-tiong-tōo-kuan**
+- 🎯 **北方中郭公鳥 pak-hng-tiong-kueh-kong-tsiáu**
+- 🎯 **北方中豆仔鳥 pak-hng-tiong-tāu-á-tsiáu**
+- 🎯 **北方筒鳥 pak-hng-tâng-tsiáu**
+- ✳️ 杜鵑 tōo-kuan
+- ✳️ 豆仔鳥 tāu-á-tsiáu
+- ✳️ 郭公鳥 kueh-kong-tsiáu
+- ✳️ 吐血鳥 thòo-hueh-tsiáu
+- ✳️ 筒鳥 tâng-tsiáu
 
 :::
 

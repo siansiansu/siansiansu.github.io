@@ -16,10 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 海鸕鶿 hái-lôo-tsî**
-- ✳️ [台] 老仔 lāu-á
-- ✳️ [台] 鶿鸕 tsû-lôo
-- ✳️ [台] 烏魚郎 oo-hî-lông
+- 🎯 **海鸕鶿 hái-lôo-tsî**
+- ✳️ 老仔 lāu-á
+- ✳️ 鶿鸕 tsû-lôo
+- ✳️ 烏魚郎 oo-hî-lông
 
 :::
 
@@ -40,10 +40,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 鸕鶿 lôo-tsî**
-- ✳️ [台] 老仔 lāu-á
-- ✳️ [台] 鶿鸕 tsû-lôo
-- ✳️ [台] 烏魚郎 oo-hî-lông
+- 🎯 **鸕鶿 lôo-tsî**
+- ✳️ 老仔 lāu-á
+- ✳️ 鶿鸕 tsû-lôo
+- ✳️ 烏魚郎 oo-hî-lông
 
 :::
 
@@ -63,11 +63,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 丹氏鸕鶿 tan-sī-lôo-tsî**
-- 🎯 **[英] 日本鸕鶿 ji̍t-pún-lôo-tsî**
-- ✳️ [台] 老仔 lāu-á
-- ✳️ [台] 鶿鸕 tsû-lôo
-- ✳️ [台] 烏魚郎 oo-hî-lông
+- 🎯 **丹氏鸕鶿 tan-sī-lôo-tsî**
+- 🎯 **日本鸕鶿 ji̍t-pún-lôo-tsî**
+- ✳️ 老仔 lāu-á
+- ✳️ 鶿鸕 tsû-lôo
+- ✳️ 烏魚郎 oo-hî-lông
 
 :::
 

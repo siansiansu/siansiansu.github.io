@@ -16,11 +16,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 目鏡鵁鴒 ba̍k-kiànn-ka-līng
-- 🎯 [台] 厝鵁鴒 tshù-ka-līng
-- 🎯 [華] 厝八哥 tshù-pat-ko
-- ✳️ [台] 鵁鴒 ka-līng
-- ✳️ [華] 八哥 pat-ko
+- 🎯 目鏡鵁鴒 ba̍k-kiànn-ka-līng
+- 🎯 厝鵁鴒 tshù-ka-līng
+- 🎯 厝八哥 tshù-pat-ko
+- ✳️ 鵁鴒 ka-līng
+- ✳️ 八哥 pat-ko
 
 :::
 
@@ -34,12 +34,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 白尾鵁鴒 pe̍h-bué-ka-līn
-- 🎯 [華] 白尾八哥 pe̍h-bué-pat-ko
-- 🎯 [英][日] 爪哇八哥 jiáu-ua-pat-ko
-- 🎯 [英][日] 爪哇鵁鴒 jiáu-ua-ka-līng
-- ✳️ [台] 鵁鴒 ka-līng
-- ✳️ [華] 八哥 pat-ko
+- 🎯 白尾鵁鴒 pe̍h-bué-ka-līn
+- 🎯 白尾八哥 pe̍h-bué-pat-ko
+- 🎯 爪哇八哥 jiáu-ua-pat-ko
+- 🎯 爪哇鵁鴒 jiáu-ua-ka-līng
+- ✳️ 鵁鴒 ka-līng
+- ✳️ 八哥 pat-ko
 
 :::
 
@@ -53,12 +53,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 冠鵁鴒 kuàn-ka-līng
-- 🎯 [台] 台灣鵁鴒 tâi-oân-ka-līng
-- 🎯 [台] 聳毛鵁鴒 tshàng-thâu-ka-līng
-- 🎯 [華] 冠八哥 kuàn-pat-ko
-- ✳️ [台] 鵁鴒 ka-līng
-- ✳️ [華] 八哥 pat-ko
+- 🎯 冠鵁鴒 kuàn-ka-līng
+- 🎯 台灣鵁鴒 tâi-oân-ka-līng
+- 🎯 聳毛鵁鴒 tshàng-thâu-ka-līng
+- 🎯 冠八哥 kuàn-pat-ko
+- ✳️ 鵁鴒 ka-līng
+- ✳️ 八哥 pat-ko
 
 :::
 
@@ -72,8 +72,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 小椋鳥 sió-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 小椋鳥 sió-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -87,10 +87,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 歐洲椋鳥 au-tsiu-liông-tsiáu
-- 🎯 [日] 星椋鳥 tshenn-liông-tsiáu
-- [台] 白點仔 pe̍h-tiám-á
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 歐洲椋鳥 au-tsiu-liông-tsiáu
+- 🎯 星椋鳥 tshenn-liông-tsiáu
+- 白點仔 pe̍h-tiám-á
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -104,9 +104,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 灰頭椋鳥 hue-thâu-liông-tsiáu
-- 🎯 [英] 栗尾椋鳥 lik-bué-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 灰頭椋鳥 hue-thâu-liông-tsiáu
+- 🎯 栗尾椋鳥 lik-bué-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -120,8 +120,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 北椋鳥 pak-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 北椋鳥 pak-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -135,9 +135,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 灰背椋鳥 hue-puè-liông-tsiáu
-- 🎯 [日] 唐椋鳥 tn̂g-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 灰背椋鳥 hue-puè-liông-tsiáu
+- 🎯 唐椋鳥 tn̂g-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -151,9 +151,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 絲光椋鳥 si-kong-liông-tsiáu
-- 🎯 [日] 銀椋鳥 gîn-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 絲光椋鳥 si-kong-liông-tsiáu
+- 🎯 銀椋鳥 gîn-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -167,8 +167,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 亞洲輝椋鳥 a-tsiu-hui-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 亞洲輝椋鳥 a-tsiu-hui-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -182,8 +182,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 烏領椋鳥 oo-niá-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 烏領椋鳥 oo-niá-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::
 
@@ -197,7 +197,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 灰椋鳥 hue-liông-tsiáu
-- ✳️ [華] 椋鳥仔 liông-tsiáu-á
+- 🎯 灰椋鳥 hue-liông-tsiáu
+- ✳️ 椋鳥仔 liông-tsiáu-á
 
 :::

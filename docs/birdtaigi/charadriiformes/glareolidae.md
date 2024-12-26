@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 燕仔鴴 iàn-á-hîng**
+- 🎯 **燕仔鴴 iàn-á-hîng**
 
 :::
 

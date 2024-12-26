@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 赤頭花翼 tshiah-thâu-hue-i̍k
-- 🎯 [華] 褐頭花翼 hat-thâu-hue-i̍k
-- ✳️ [台] 花眉仔 hue-bî-á
+- 🎯 赤頭花翼 tshiah-thâu-hue-i̍k
+- 🎯 褐頭花翼 hat-thâu-hue-i̍k
+- ✳️ 花眉仔 hue-bî-á
 
 :::
 
@@ -32,8 +32,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 黃羽鸚嘴 n̂g-ú-ing-tshuì
-- ✳️ [台] 圓頭仔 înn-thâu-á
+- 🎯 黃羽鸚嘴 n̂g-ú-ing-tshuì
+- ✳️ 圓頭仔 înn-thâu-á
 
 :::
 
@@ -47,7 +47,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 粉紅鸚嘴 hún-âng-ing-tshuì
-- ✳️ [台] 圓頭仔 înn-thâu-á
+- 🎯 粉紅鸚嘴 hún-âng-ing-tshuì
+- ✳️ 圓頭仔 înn-thâu-á
 
 :::

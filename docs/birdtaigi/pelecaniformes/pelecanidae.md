@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 虯毛布袋鵝 khiû-moo-pòo-tē-gô**
-- ✳️ [台] 布袋鵝 pòo-tē-gô
+- 🎯 **虯毛布袋鵝 khiû-moo-pòo-tē-gô**
+- ✳️ 布袋鵝 pòo-tē-gô
 
 :::
 

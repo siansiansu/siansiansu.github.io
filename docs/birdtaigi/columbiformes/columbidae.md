@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 粉鳥 hún-tsiáu**
+- 🎯 **粉鳥 hún-tsiáu**
 
 :::
 
@@ -36,7 +36,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 山粉鳥 suann-hún-tsiáu**
+- 🎯 **山粉鳥 suann-hún-tsiáu**
 
 :::
 
@@ -56,7 +56,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 烏粉鳥 oo-hún-tsiáu**
+- 🎯 **烏粉鳥 oo-hún-tsiáu**
 
 :::
 
@@ -76,8 +76,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 白喉粉鳥 pe̍h-âu-hún-tsiáu**
-- 🎯 **[日] 赤目烏粉鳥 tshiah-ba̍k-oo-hún-tsiáu**
+- 🎯 **白喉粉鳥 pe̍h-âu-hún-tsiáu**
+- 🎯 **赤目烏粉鳥 tshiah-ba̍k-oo-hún-tsiáu**
 
 :::
 
@@ -98,8 +98,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 山斑鴿 suann-pan-kah**
-- 🎯 **[台] 大花斑 tuā-hue-pan**
+- 🎯 **山斑鴿 suann-pan-kah**
+- 🎯 **大花斑 tuā-hue-pan**
 
 :::
 
@@ -121,7 +121,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 殕色斑鴿 phú-sik-pan-kah**
+- 🎯 **殕色斑鴿 phú-sik-pan-kah**
 
 :::
 
@@ -141,9 +141,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 火鵻仔 hué-tsui-á**
-- 🎯 **[台] 火斑鴿 hué-pan-kah**
-- 🎯 **[台] 紅斑鴿 âng-pan-kah**
+- 🎯 **火鵻仔 hué-tsui-á**
+- 🎯 **火斑鴿 hué-pan-kah**
+- 🎯 **紅斑鴿 âng-pan-kah**
 
 :::
 
@@ -165,8 +165,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 斑鴿 pan-kah**
-- 🎯 **[台] 數珠仔 sòo-tsu-a**
+- 🎯 **斑鴿 pan-kah**
+- 🎯 **數珠仔 sòo-tsu-a**
 :::
 
 :::tip[註解]
@@ -186,7 +186,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
+- 🎯 **橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
 
 :::
 
@@ -206,8 +206,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 長尾鴿 tn̂g-bé-kah**
-- 🎯 [英] 菲律賓長尾鴿 hui-lu̍t-pin-tn̂g-bé-kah
+- 🎯 **長尾鴿 tn̂g-bé-kah**
+- 🎯 菲律賓長尾鴿 hui-lu̍t-pin-tn̂g-bé-kah
 
 :::
 
@@ -228,8 +228,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 金鵻 kim-tsui**
-- **🎯 [台] 林跤鳥 nâ-kha-tsiáu**
+- 🎯 **金鵻 kim-tsui**
+- **🎯 林跤鳥 nâ-kha-tsiáu**
 
 :::
 
@@ -251,8 +251,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 花條鴿 hue-tiâu-kah**
-- 🎯 **[台] 花斑鴿 hue-pan-kah**
+- 🎯 **花條鴿 hue-tiâu-kah**
+- 🎯 **花斑鴿 hue-pan-kah**
 
 :::
 
@@ -273,14 +273,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
+- 🎯 **柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
 
 :::
 
 :::tip[註解]
 
 - 橙胸 -> 柑仔色胸 kam-á-sik-hing
-- 想無較適合 ê 名，暫時參考華語
+- 暫時參考華語
 
 :::
 
@@ -294,7 +294,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 厚喙青鵻 kāu-tshuì-tshenn-tsui**
+- 🎯 **厚喙青鵻 kāu-tshuì-tshenn-tsui**
 
 :::
 
@@ -314,8 +314,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 青鵻 tshenn-tsui**
-- 🎯 **[台] 黃鵻 n̂g-tsui**
+- 🎯 **青鵻 tshenn-tsui**
+- 🎯 **黃鵻 n̂g-tsui**
 
 :::
 
@@ -336,7 +336,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 紅頭青鵻 âng-thâu-tshenn-tsui**
+- 🎯 **紅頭青鵻 âng-thâu-tshenn-tsui**
 
 :::
 
@@ -356,7 +356,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 小青鵻 sió-tshenn-tsui**
+- 🎯 **小青鵻 sió-tshenn-tsui**
 
 :::
 

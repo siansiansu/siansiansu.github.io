@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅頭山雀 âng-thâu-suann-tshiok
-- ✳️ [台] 紅頭仔 âng-thâu-á
+- 🎯 紅頭山雀 âng-thâu-suann-tshiok
+- ✳️ 紅頭仔 âng-thâu-á
 
 :::

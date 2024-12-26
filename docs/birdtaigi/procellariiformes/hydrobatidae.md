@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 黃扒洋海燕仔 n̂g-pê-iûnn-hái-iàn-á**
+- 🎯 **黃扒洋海燕仔 n̂g-pê-iûnn-hái-iàn-á**
 
 :::
 
@@ -38,7 +38,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á**
+- 🎯 **白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á**
 
 :::
 
@@ -58,7 +58,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á**
+- 🎯 **烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á**
 
 :::
 
@@ -78,7 +78,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á**
+- 🎯 **日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á**
 
 :::
 
@@ -98,7 +98,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 赤翅叉尾海燕仔 tshiah-tshì-tshe-bé-hái-iàn-á**
+- 🎯 **赤翅叉尾海燕仔 tshiah-tshì-tshe-bé-hái-iàn-á**
 
 :::
 

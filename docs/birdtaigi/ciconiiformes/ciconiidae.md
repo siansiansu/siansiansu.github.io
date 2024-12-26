@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 烏鸛 oo-kuàn**
+- 🎯 **烏鸛 oo-kuàn**
 
 :::
 
@@ -36,7 +36,7 @@ Black Stork -> 烏鸛 oo-kuàn
 
 :::info[台語名]
 
-- 🎯 **[英] 東方白鸛 tong-hong-pe̍h-kuàn**
+- 🎯 **東方白鸛 tong-hong-pe̍h-kuàn**
 
 :::
 

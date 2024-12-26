@@ -16,11 +16,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 青胸抾箬仔 tshenn-hing-khioh-ha̍h-á
-- [華] 青胸八色鳥 tshenn-hing-peh-sik-tsiáu
-- ✳️ [台] 青翼仔 tshenn-si̍t-á
-- ✳️ [台] 抾箬仔 khioh-ha̍h-á
-- ✳️ [華] 八色鳥 peh-sik-tsiáu
+- 🎯 青胸抾箬仔 tshenn-hing-khioh-ha̍h-á
+- 青胸八色鳥 tshenn-hing-peh-sik-tsiáu
+- ✳️ 青翼仔 tshenn-si̍t-á
+- ✳️ 抾箬仔 khioh-ha̍h-á
+- ✳️ 八色鳥 peh-sik-tsiáu
 
 :::
 
@@ -34,9 +34,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 抾箬仔 khioh-ha̍h-á
-- [台] 青翼仔 tshenn-si̍t-á
-- [華] 八色鳥 peh-sik-tsiáu
+- 🎯 抾箬仔 khioh-ha̍h-á
+- 青翼仔 tshenn-si̍t-á
+- 八色鳥 peh-sik-tsiáu
 
 :::
 
@@ -50,10 +50,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台][英] 藍翼抾箬仔 lâm-si̍t-khioh-ha̍h-á
-- [華][英] 藍翼八色鳥 lâm-si̍t-peh-sik-tsiáu
-- ✳️ [台] 青翼仔 tshenn-si̍t-á
-- ✳️ [台] 抾箬仔 khioh-ha̍h-á
-- ✳️ [華] 八色鳥 peh-sik-tsiáu
+- 🎯 [台]藍翼抾箬仔 lâm-si̍t-khioh-ha̍h-á
+- 藍翼八色鳥 lâm-si̍t-peh-sik-tsiáu
+- ✳️ 青翼仔 tshenn-si̍t-á
+- ✳️ 抾箬仔 khioh-ha̍h-á
+- ✳️ 八色鳥 peh-sik-tsiáu
 
 :::

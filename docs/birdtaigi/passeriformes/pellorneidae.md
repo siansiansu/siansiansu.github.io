@@ -16,6 +16,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 頭烏線 thâu-oo-suànn
+- 🎯 頭烏線 thâu-oo-suànn
 
 :::

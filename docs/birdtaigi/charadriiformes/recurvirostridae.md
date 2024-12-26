@@ -16,11 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 躼跤鴴 lò-kha-hîng**
-- 🎯 **[台] 長跤鴴 tng-kha-hîng**
-- [華] 高蹺鴴 ko-khiau-hîng
-- [中] 烏翼高鷸 oo-tshì-ko-u̍t
-- ✳️ [台] 躼跤仔 lò-kha-á
+- 🎯 **躼跤鴴 lò-kha-hîng**
+- 🎯 **長跤鴴 tng-kha-hîng**
+- 高蹺鴴 ko-khiau-hîng
+- ✳️ 躼跤仔 lò-kha-á
 
 :::
 
@@ -40,9 +39,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-- 🎯 **[台] 烏領躼跤鴴 oo-niá-lò-kha-hîng**
-- 🎯 **[台] 烏領長跤鴴 oo-niá-tng-kha-hîng**
-- ✳️ [台] 躼跤仔 lò-kha-á
+- 🎯 **烏領躼跤鴴 oo-niá-lò-kha-hîng**
+- 🎯 **烏領長跤鴴 oo-niá-tng-kha-hîng**
+- ✳️ 躼跤仔 lò-kha-á
 :::
 
 :::tip[註解]
@@ -61,9 +60,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 翹喙鴴 khiàu-tshuì-hîng**
-- [華] 反嘴鴴 huán-tshuì-hîng
-- ✳️ [台] 翹喙仔 khiàu-tshuì-á
+- 🎯 **翹喙鴴 khiàu-tshuì-hîng**
+- 反嘴鴴 huán-tshuì-hîng
+- ✳️ 翹喙仔 khiàu-tshuì-á
 
 :::
 

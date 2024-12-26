@@ -16,8 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 青畫眉 tshenn-uē-bâi
-- [中] 白腹畫眉 pe̍h-pak-ue-bâi
-- ✳️ [台] 花眉仔 hue-bî-á
+- 🎯 青畫眉 tshenn-uē-bâi
+- ✳️ 花眉仔 hue-bî-á
 
 :::

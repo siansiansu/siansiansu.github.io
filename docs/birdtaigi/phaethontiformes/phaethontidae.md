@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu**
-- ✳️ [英] 熱帶鳥 jia̍t-tài-tsiáu
+- 🎯 **白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu**
+- ✳️ 熱帶鳥 jia̍t-tài-tsiáu
 
 :::
 
@@ -37,8 +37,8 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 
 :::info[台語名]
 
-- 🎯 **[英] 紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu**
-- ✳️ [英] 熱帶鳥 jia̍t-tài-tsiáu
+- 🎯 **紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu**
+- ✳️ 熱帶鳥 jia̍t-tài-tsiáu
 
 :::
 
@@ -58,8 +58,8 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 
 :::info[台語名]
 
-- 🎯 **[英] 紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu**
-- ✳️ [英] 熱帶鳥 jia̍t-tài-tsiáu
+- 🎯 **紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu**
+- ✳️ 熱帶鳥 jia̍t-tài-tsiáu
 
 :::
 

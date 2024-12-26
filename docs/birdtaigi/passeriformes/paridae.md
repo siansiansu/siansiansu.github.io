@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 司公仔鳥 sai-kong-á-tsiáu
-- [華] 黃山雀 n̂g-suann-tshiok
+- 🎯 司公仔鳥 sai-kong-á-tsiáu
+- 黃山雀 n̂g-suann-tshiok
 
 :::
 
@@ -31,7 +31,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 黃腹山雀 n̂g-pak-suann-tshiok
+- 🎯 黃腹山雀 n̂g-pak-suann-tshiok
 
 :::
 
@@ -45,8 +45,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅腹山雀 âng-pak-suann-tshiok
-- [華] 赤腹山雀 tshiah-pak-suann-tshiok
+- 🎯 紅腹山雀 âng-pak-suann-tshiok
+- 赤腹山雀 tshiah-pak-suann-tshiok
 
 :::
 
@@ -60,8 +60,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 雜色山雀 tsa̍p-sik-suann-tshiok
-- [日] 山雀 suann-tshiok
+- 🎯 雜色山雀 tsa̍p-sik-suann-tshiok
+- 山雀 suann-tshiok
 
 :::
 
@@ -75,9 +75,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 日本山雀 ji̍t-pún-suann-tshiok
-- [華] 白頰山雀 pe̍h-kiap-suann-tshiok
-- [日] 四十雀 sì-tsa̍p-tshiok
+- 🎯 日本山雀 ji̍t-pún-suann-tshiok
+- 白頰山雀 pe̍h-kiap-suann-tshiok
+- 四十雀 sì-tsa̍p-tshiok
 
 :::
 
@@ -91,8 +91,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 青背山雀 tshinn-puē-suann-tshiok
-- [日] 黄腹四十雀 n̂g-pak-sì-tsa̍p-tshiok
+- 🎯 青背山雀 tshinn-puē-suann-tshiok
+- 黄腹四十雀 n̂g-pak-sì-tsa̍p-tshiok
 
 :::
 
@@ -106,7 +106,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 煤山雀 muê-suann-tshiok
-- [日] 日雀 ji̍t-tshiok
+- 🎯 煤山雀 muê-suann-tshiok
+- 日雀 ji̍t-tshiok
 
 :::

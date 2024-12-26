@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 青尾食蜂鳥 tshenn-bué-tsia̍h-phang-tsiáu
-- [華] 栗喉蜂虎 lik-âu-phang-hóo
+- 🎯 青尾食蜂鳥 tshenn-bué-tsia̍h-phang-tsiáu
+- 栗喉蜂虎 lik-âu-phang-hóo
 
 :::
 
@@ -31,8 +31,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 彩虹食蜂鳥 khīng-sik-tsia̍h-phang-tsiáu
-- [華] 彩虹蜂虎 khīng-sik-phang-hóo
+- 🎯 彩虹食蜂鳥 khīng-sik-tsia̍h-phang-tsiáu
+- 彩虹蜂虎 khīng-sik-phang-hóo
 
 :::
 
@@ -46,7 +46,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 青喉食蜂鳥 tshenn-âu-tsia̍h-phang-tsiáu
-- [華] 青喉蜂虎 tshenn-âu-phang-hóo
+- 🎯 青喉食蜂鳥 tshenn-âu-tsia̍h-phang-tsiáu
+- 青喉蜂虎 tshenn-âu-phang-hóo
 
 :::

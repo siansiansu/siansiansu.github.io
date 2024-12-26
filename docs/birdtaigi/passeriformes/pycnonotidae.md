@@ -16,8 +16,8 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [台] 白頭鵠仔 pe̍h-thâu-khok-á
-- [華] 白頭翁 pe̍h-thâu-ong
+- 🎯 白頭鵠仔 pe̍h-thâu-khok-á
+- 白頭翁 pe̍h-thâu-ong
 - [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
 :::
@@ -32,10 +32,10 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [台] 紅喙烏鶖 âng-tshuì-oo-tshiu
-- [台] 紅喙鶖仔 âng-tshuì-tshiu-á
-- [日] 紅喙烏鵯 âng-tshuì-oo-pi
-- [日] 烏鵯 oo-pi
+- 🎯 紅喙烏鶖 âng-tshuì-oo-tshiu
+- 紅喙鶖仔 âng-tshuì-tshiu-á
+- 紅喙烏鵯 âng-tshuì-oo-pi
+- 烏鵯 oo-pi
 
 :::
 
@@ -49,12 +49,12 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [台] 石鸚哥 tsio̍h-ing-ko
-- 🎯 [台] 林投雞 nâ-tâu-ke
-- 🎯 [台] 林投公 nâ-tâu-kong
-- [華] 圓嘴鵯 înn-tshuì-pi
-- [日] 萱昇 suan-sing
-- [華] 白環鸚嘴鵯 pe̍h-khuân-ing-tshuì-pi
+- 🎯 石鸚哥 tsio̍h-ing-ko
+- 🎯 林投雞 nâ-tâu-ke
+- 🎯 林投公 nâ-tâu-kong
+- 圓嘴鵯 înn-tshuì-pi
+- 萱昇 suan-sing
+- 白環鸚嘴鵯 pe̍h-khuân-ing-tshuì-pi
 
 :::
 
@@ -68,8 +68,8 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [台] 烏頭鵠仔 oo-thâu-khok-á
-- [華] 烏頭翁 oo-thâu-ong
+- 🎯 烏頭鵠仔 oo-thâu-khok-á
+- 烏頭翁 oo-thâu-ong
 - [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
 :::
@@ -84,8 +84,8 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [日] 栗色鵯 lik-sik-pi
-- 🎯 [中] 栗背短跤鵯 lik-puè-té-kha-pi
+- 🎯 栗色鵯 lik-sik-pi
+- 🎯 栗背短跤鵯 lik-puè-té-kha-pi
 
 :::
 
@@ -99,7 +99,7 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [英][華] 棕耳鵯 tsang-hīnn-pi
+- 🎯 棕耳鵯 tsang-hīnn-pi
 
 :::
 
@@ -113,8 +113,8 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [華] 白喉紅臀鵯 pe̍h-âu-âng-tûn-pi
-- [日] 腰白鵯 io-pe̍h-pi
+- 🎯 白喉紅臀鵯 pe̍h-âu-âng-tûn-pi
+- 腰白鵯 io-pe̍h-pi
 
 :::
 
@@ -128,9 +128,9 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [中] 橄欖褐鵯 kan-ná-hat-pi
-- 🎯 [日][英] 紅目橄欖鵯 âng-ba̍k-kan-ná-pi
-- [中] 橄欖茶色鵯 kan-ná-tê-sik-pi
+- 🎯 橄欖褐鵯 kan-ná-hat-pi
+- 🎯 紅目橄欖鵯 âng-ba̍k-kan-ná-pi
+- 橄欖茶色鵯 kan-ná-tê-sik-pi
 
 :::
 
@@ -144,7 +144,7 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [英] 橄欖鵯 kan-ná-pi
+- 🎯 橄欖鵯 kan-ná-pi
 
 :::
 
@@ -158,7 +158,7 @@ no rights reserved, uploaded by 葉子
 
 :::info[台語名]
 
-- 🎯 [英] 紅目鵯 âng-ba̍k-pi
-- 🎯 [日] 紅目茶色鵯 âng-ba̍k-tê-sik-pi
+- 🎯 紅目鵯 âng-ba̍k-pi
+- 🎯 紅目茶色鵯 âng-ba̍k-tê-sik-pi
 
 :::

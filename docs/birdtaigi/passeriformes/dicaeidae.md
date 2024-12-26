@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 紅胸啄花 âng-hing-tok-hue-tsiáu
+- 🎯 紅胸啄花 âng-hing-tok-hue-tsiáu
 
 :::
 
@@ -30,7 +30,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 青啄花鳥 tshenn-tok-hue-tsiáu
-- [英] 綠啄花鳥 li̍k-tok-hue-tsiáu
+- 🎯 青啄花鳥 tshenn-tok-hue-tsiáu
+- 綠啄花鳥 li̍k-tok-hue-tsiáu
 
 :::

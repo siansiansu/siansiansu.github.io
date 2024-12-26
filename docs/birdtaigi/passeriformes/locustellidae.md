@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 台灣叢樹鶯 tâi-uân-tshông-tshiū-ing
+- 🎯 台灣叢樹鶯 tâi-uân-tshông-tshiū-ing
 
 :::
 
@@ -30,7 +30,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 茅斑蝗鶯 hm̂-pan-hông-ing
+- 🎯 茅斑蝗鶯 hm̂-pan-hông-ing
 
 :::
 
@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 小蝗鶯 sió-hông-ing
+- 🎯 小蝗鶯 sió-hông-ing
 
 :::
 
@@ -58,7 +58,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 北蝗鶯 pak-hông-ing
+- 🎯 北蝗鶯 pak-hông-ing
 
 :::
 
@@ -72,7 +72,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 史氏蝗鶯 sú-sī-hông-ing
+- 🎯 史氏蝗鶯 sú-sī-hông-ing
 
 :::
 
@@ -86,8 +86,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 蒼眉蝗鶯 tshong-bâi-hông-ing
-- [日] 蒼眉急鳥 tshong-bâi-kip
+- 🎯 蒼眉蝗鶯 tshong-bâi-hông-ing
+- 蒼眉急鳥 tshong-bâi-kip
 
 :::
 
@@ -101,6 +101,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 庫頁島蝗鶯 khòo-ia̍h-tó-hông-ing
+- 🎯 庫頁島蝗鶯 khòo-ia̍h-tó-hông-ing
 
 :::

@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 茶腹鳾 tê-pak-su
-- 🎯 [日] 五十雀
+- 🎯 茶腹鳾 tê-pak-su
+- 🎯 五十雀
 
 :::

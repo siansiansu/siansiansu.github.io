@@ -16,6 +16,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [中][英] 白胸燕鵑 pe̍h-hing-ìnn-kio̍k
+- 🎯 白胸燕鵑 pe̍h-hing-ìnn-kio̍k
 
 :::

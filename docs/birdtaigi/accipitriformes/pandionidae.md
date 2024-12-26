@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 魚鷹 hî-ing**
+- 🎯 **魚鷹 hî-ing**
 
 :::
 

@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 染布鳥 ní-pòo-tsiá
-- [華] 烏枕藍鶲 oo-tsím-nâ-ong
+- 🎯 染布鳥 ní-pòo-tsiá
+- 烏枕藍鶲 oo-tsím-nâ-ong
 
 :::
 
@@ -31,11 +31,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日][英] 烏三光鳥 sann-kong-tsiáu
-- 🎯 [華] 紫綬帶 tsí-siū-tuà
-- [華] 紫色綬帶 tsí-sik-siū-tuà
-- ✳️ [華] 綬帶 siū-tuà
-- ✳️ [日] 三光鳥 sann-kong-tsiáu
+- 🎯 烏三光鳥 sann-kong-tsiáu
+- 🎯 紫綬帶 tsí-siū-tuà
+- 紫色綬帶 tsí-sik-siū-tuà
+- ✳️ 綬帶 siū-tuà
+- ✳️ 三光鳥 sann-kong-tsiáu
 
 :::
 
@@ -49,9 +49,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日][英] 阿穆爾三光鳥 amur-sann-kong-tsiáu
-- 🎯 [華][英] 阿穆爾綬帶 amur-siū-tuà
-- ✳️ [華] 綬帶 siū-tuà
-- ✳️ [日] 三光鳥 sann-kong-tsiáu
+- 🎯 阿穆爾三光鳥 amur-sann-kong-tsiáu
+- 🎯 阿穆爾綬帶 amur-siū-tuà
+- ✳️ 綬帶 siū-tuà
+- ✳️ 三光鳥 sann-kong-tsiáu
 
 :::

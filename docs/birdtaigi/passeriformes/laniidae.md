@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 虎紋伯勞 hóo-bûn-pik-lô
-- ✳️ [台] 伯勞仔 pik-lô-á
+- 🎯 虎紋伯勞 hóo-bûn-pik-lô
+- ✳️ 伯勞仔 pik-lô-á
 
 :::
 
@@ -31,8 +31,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 紅背伯勞 âng-puè-pik-lô
-- ✳️ [台] 伯勞仔 pik-lô-á
+- 🎯 紅背伯勞 âng-puè-pik-lô
+- ✳️ 伯勞仔 pik-lô-á
 
 :::
 
@@ -46,9 +46,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅尾伯勞 âng-bé-pik-lô
-- 🎯 [英][日] 赤伯勞 tshiah-pik-lô
-- ✳️ [台] 伯勞仔 pik-lô-á
+- 🎯 紅尾伯勞 âng-bé-pik-lô
+- 🎯 赤伯勞 tshiah-pik-lô
+- ✳️ 伯勞仔 pik-lô-á
 
 :::
 
@@ -62,8 +62,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 紅頭伯勞 âng-thâu-pik-lô
-- ✳️ [台] 伯勞仔 pik-lô-á
+- 🎯 紅頭伯勞 âng-thâu-pik-lô
+- ✳️ 伯勞仔 pik-lô-á
 
 :::
 
@@ -77,10 +77,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 棕背伯勞 tsang-puē-pik-lô
-- [日] 高砂伯勞 ko-sua-pik-lô
-- [英] 長尾伯勞 tn̂g-bué-pik-lô
-- ✳️ [台] 伯勞仔 pik-lô-á
+- 🎯 棕背伯勞 tsang-puē-pik-lô
+- 高砂伯勞 ko-sua-pik-lô
+- 長尾伯勞 tn̂g-bué-pik-lô
+- ✳️ 伯勞仔 pik-lô-á
 
 :::
 
@@ -94,9 +94,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 喫尾伯勞 khuè-bé-pik-lô
-- [日] 大唐伯勞 tuā-tn̂g-pik-lô
-- [英] 灰伯勞 hue-pik-lô
-- ✳️ [台] 伯勞仔 pik-lô-á
+- 🎯 喫尾伯勞 khuè-bé-pik-lô
+- 大唐伯勞 tuā-tn̂g-pik-lô
+- 灰伯勞 hue-pik-lô
+- ✳️ 伯勞仔 pik-lô-á
 
 :::

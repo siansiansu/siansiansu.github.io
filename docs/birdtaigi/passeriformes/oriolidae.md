@@ -16,11 +16,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 黃鶯 n̂g-ing
-- 🎯 [華] 黃鸝 hông-lê
-- [中][英] 烏枕黃鸝 oo-tsím-hông-lê
-- [華] 黃鳥 n̂g-tsiáu
-- [華] 黃鸝黃鳥 hông-lê-n̂g-tsiáu
+- 🎯 黃鶯 n̂g-ing
+- 🎯 黃鸝 hông-lê
+- 烏枕黃鸝 oo-tsím-hông-lê
+- 黃鳥 n̂g-tsiáu
+- 黃鸝黃鳥 hông-lê-n̂g-tsiáu
 
 :::
 
@@ -34,6 +34,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 紅鶯 âng-ing
+- 🎯 紅鶯 âng-ing
 
 :::

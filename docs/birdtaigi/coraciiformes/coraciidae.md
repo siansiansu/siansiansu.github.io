@@ -16,8 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 山鸚哥 suann-ing-ko
-- [華] 佛法僧 hu̍t-huat-tsing
-- [中] 三寶鳥 san-pòo-tsiáu
+- 🎯 山鸚哥 suann-ing-ko
+- 佛法僧 hu̍t-huat-tsing
 
 :::

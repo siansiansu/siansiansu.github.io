@@ -16,6 +16,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 方尾鶲 hong-bué-ong
+- 🎯 方尾鶲 hong-bué-ong
 
 :::

@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 朱連雀 tsu-liân-tshiok
-- 🎯 [日] 緋連雀 hui-liân-tshiok
-- 🎯 [日] 十二紅 tsa̍p-jī-âng
+- 🎯 朱連雀 tsu-liân-tshiok
+- 🎯 緋連雀 hui-liân-tshiok
+- 🎯 十二紅 tsa̍p-jī-âng
 
 :::
 
@@ -32,6 +32,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 黃連雀 n̂g-liân-tshiok
+- 🎯 黃連雀 n̂g-liân-tshiok
 
 :::

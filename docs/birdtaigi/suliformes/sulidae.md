@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 紅跤海雞母 âng-kha-hái-ke-bó**
-- ✳️ [台] 海雞母 hái-ke-bó
+- 🎯 **紅跤海雞母 âng-kha-hái-ke-bó**
+- ✳️ 海雞母 hái-ke-bó
 
 :::
 
@@ -38,8 +38,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 白腹海雞母 pe̍h-pak-hái-ke-bó**
-- ✳️ [台] 海雞母 hái-ke-bó
+- 🎯 **白腹海雞母 pe̍h-pak-hái-ke-bó**
+- ✳️ 海雞母 hái-ke-bó
 
 :::
 
@@ -60,8 +60,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 青面海雞母 tshenn-bīn-hái-ke-bó
-- ✳️ [台] 海雞母 hái-ke-bó
+- 🎯 青面海雞母 tshenn-bīn-hái-ke-bó
+- ✳️ 海雞母 hái-ke-bó
 
 :::
 

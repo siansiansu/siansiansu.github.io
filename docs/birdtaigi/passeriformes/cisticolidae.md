@@ -16,15 +16,15 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 赤頭望冬 tshiah-thâu-bāng-tang
-- 🎯 [日] 眉羽団扇鳥 bâi-ú-thuân-sìnn-tsiáu
-- 🎯 [華] 台灣鷦鶯 Tâi-uân-tsiau-ing
-- 🎯 [華] 赤頭鷦鶯 tshiah-thâu-tsiau-ing
-- ✳️ [華] 鷦鶯 tsiau-ing
-- ✳️ [台] 布袋鳥 pòo-tē-tsiáu
-- ✳️ [台] 布袋鳥仔 pòo-tē-tsiáu-á
-- ✳️ [台] 望冬 bāng-tang
-- ✳️ [台] 望冬丟仔 bāng-tang-tiú-á
+- 🎯 赤頭望冬 tshiah-thâu-bāng-tang
+- 🎯 眉羽団扇鳥 bâi-ú-thuân-sìnn-tsiáu
+- 🎯 台灣鷦鶯 Tâi-uân-tsiau-ing
+- 🎯 赤頭鷦鶯 tshiah-thâu-tsiau-ing
+- ✳️ 鷦鶯 tsiau-ing
+- ✳️ 布袋鳥 pòo-tē-tsiáu
+- ✳️ 布袋鳥仔 pòo-tē-tsiáu-á
+- ✳️ 望冬 bāng-tang
+- ✳️ 望冬丟仔 bāng-tang-tiú-á
 
 :::
 
@@ -38,14 +38,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 山鷦鶯 suann-tsiau-ing
-- 🎯 [華] 斑紋鷦鶯 pan-bûn-tsiau-ing
-- 🎯 [台] 斑紋望冬 pan-bûn-bāng-tang
-- ✳️ [華] 鷦鶯 tsiau-ing
-- ✳️ [台] 布袋鳥 pòo-tē-tsiáu
-- ✳️ [台] 布袋鳥仔 pòo-tē-tsiáu-á
-- ✳️ [台] 望冬 bāng-tang
-- ✳️ [台] 望冬丟仔 bāng-tang-tiú-á
+- 🎯 山鷦鶯 suann-tsiau-ing
+- 🎯 斑紋鷦鶯 pan-bûn-tsiau-ing
+- 🎯 斑紋望冬 pan-bûn-bāng-tang
+- ✳️ 鷦鶯 tsiau-ing
+- ✳️ 布袋鳥 pòo-tē-tsiáu
+- ✳️ 布袋鳥仔 pòo-tē-tsiáu-á
+- ✳️ 望冬 bāng-tang
+- ✳️ 望冬丟仔 bāng-tang-tiú-á
 
 :::
 
@@ -59,14 +59,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日] 青羽団扇鳥 tshinn-ú-thuân-sìnn-tsiáu
-- 🎯 [台] 灰頭鷦鶯 hue-thâu-tsiau-ing
-- 🎯 [台] 灰頭望冬 hue-thâu-bāng-tang
-- ✳️ [華] 鷦鶯 tsiau-ing
-- ✳️ [台] 布袋鳥 pòo-tē-tsiáu
-- ✳️ [台] 布袋鳥仔 pòo-tē-tsiáu-á
-- ✳️ [台] 望冬 bāng-tang
-- ✳️ [台] 望冬丟仔 bāng-tang-tiú-á
+- 🎯 青羽団扇鳥 tshinn-ú-thuân-sìnn-tsiáu
+- 🎯 灰頭鷦鶯 hue-thâu-tsiau-ing
+- 🎯 灰頭望冬 hue-thâu-bāng-tang
+- ✳️ 鷦鶯 tsiau-ing
+- ✳️ 布袋鳥 pòo-tē-tsiáu
+- ✳️ 布袋鳥仔 pòo-tē-tsiáu-á
+- ✳️ 望冬 bāng-tang
+- ✳️ 望冬丟仔 bāng-tang-tiú-á
 
 :::
 
@@ -80,13 +80,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 黃頭扇尾鶯 n̂g-thâu-sìnn-bué-ing
-- 🎯 [華] 黃頭尾扇 n̂g-thâu-bué-sìnn
-- [日] 台灣雪加 tâi-uân-suat-ka
-- ✳️ [台] 塚仔鳥 thióng-á-tsiáu
-- ✳️ [台] 墓仔鳥 bōng-á-tsiáu
-- ✳️ [台] 布袋鳥 pòo-tē-tsiáu
-- ✳️ [台] 布袋鳥仔 pòo-tē-tsiáu-á
+- 🎯 黃頭扇尾鶯 n̂g-thâu-sìnn-bué-ing
+- 🎯 黃頭尾扇 n̂g-thâu-bué-sìnn
+- 台灣雪加 tâi-uân-suat-ka
+- ✳️ 塚仔鳥 thióng-á-tsiáu
+- ✳️ 墓仔鳥 bōng-á-tsiáu
+- ✳️ 布袋鳥 pòo-tē-tsiáu
+- ✳️ 布袋鳥仔 pòo-tē-tsiáu-á
 
 :::
 
@@ -100,13 +100,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 白尾扇 pe̍h-bué-sìnn
-- 🎯 [台] 赤尾扇 tshiah-bué-sìnn
-- 🎯 [華] 棕扇尾鶯 tsang-sìnn-bué-ing
-- 🎯 [華] 赤扇尾鶯 tshiah-sìnn-bué-ing
-- [日] 雪加 suat-ka
-- ✳️ [台] 布袋鳥 pòo-tē-tsiáu
-- ✳️ [台] 布袋鳥仔 pòo-tē-tsiáu-á
+- 🎯 白尾扇 pe̍h-bué-sìnn
+- 🎯 赤尾扇 tshiah-bué-sìnn
+- 🎯 棕扇尾鶯 tsang-sìnn-bué-ing
+- 🎯 赤扇尾鶯 tshiah-sìnn-bué-ing
+- 雪加 suat-ka
+- ✳️ 布袋鳥 pòo-tē-tsiáu
+- ✳️ 布袋鳥仔 pòo-tē-tsiáu-á
 
 :::
 
@@ -120,8 +120,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日] 長尾裁縫鳥 tn̂g-bé-tshâi-hông-tsiáu
-- 🎯 [日] 長尾紩葉鶯 tn̂g-bé-thīnn-hio̍h-ing
-- 🎯 [日] 長尾縫葉鶯 tn̂g-bé-hông-hio̍h-ing
+- 🎯 長尾裁縫鳥 tn̂g-bé-tshâi-hông-tsiáu
+- 🎯 長尾紩葉鶯 tn̂g-bé-thīnn-hio̍h-ing
+- 🎯 長尾縫葉鶯 tn̂g-bé-hông-hio̍h-ing
 
 :::

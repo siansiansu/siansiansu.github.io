@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 岩鷚 gān-liù
-- 🎯 [日] 岩雲雀 gān-hûn-tshiok
+- 🎯 岩鷚 gān-liù
+- 🎯 岩雲雀 gān-hûn-tshiok
 
 :::
 
@@ -31,7 +31,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 棕眉山岩鷚 tsang-bâi-suann-gān-liù
-- 🎯 [日] 山雲雀 suann-hûn-tshiok
+- 🎯 棕眉山岩鷚 tsang-bâi-suann-gān-liù
+- 🎯 山雲雀 suann-hûn-tshiok
 
 :::

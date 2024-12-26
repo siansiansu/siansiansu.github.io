@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 猴面鷹 kâu-bīn-ing
-- 🎯 [台][華] 猴面鴞 kâu-bīn-hiau
-- 🎯 [華] 草鴞 tsháu-hiau
-- 🎯 [日] 面鴞 bīn-hiau
+- 🎯 猴面鷹 kâu-bīn-ing
+- 🎯 [台]猴面鴞 kâu-bīn-hiau
+- 🎯 草鴞 tsháu-hiau
+- 🎯 面鴞 bīn-hiau
 
 :::

@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 簑毛鶴 sui-moo-ho̍h**
-- ✳️ [台] 鶴 ho̍h
+- 🎯 **簑毛鶴 sui-moo-ho̍h**
+- ✳️ 鶴 ho̍h
 
 :::
 
@@ -37,10 +37,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 白鶴 pe̍h-ho̍h**
-- 🎯 **[英] 西伯利亞白鶴 se-pik-lī-a-pe̍h-ho̍h**
-- [日] 烏袖鶴 oo-siù-ho̍h
-- ✳️ [台] 鶴 ho̍h
+- 🎯 **白鶴 pe̍h-ho̍h**
+- 🎯 **西伯利亞白鶴 se-pik-lī-a-pe̍h-ho̍h**
+- 烏袖鶴 oo-siù-ho̍h
+- ✳️ 鶴 ho̍h
 
 :::
 
@@ -60,8 +60,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 沙崙鶴 sua-lūn-ho̍h**
-- 🎯 [日] 加拿大鶴 Ka-ná-ta-ho̍h
+- 🎯 **沙崙鶴 sua-lūn-ho̍h**
+- 🎯 加拿大鶴 Ka-ná-ta-ho̍h
 
 :::
 
@@ -82,8 +82,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 白頂鶴 pe̍h-tsím-ho̍h**
-- ✳️ [台] 鶴 ho̍h
+- 🎯 **白頂鶴 pe̍h-tsím-ho̍h**
+- ✳️ 鶴 ho̍h
 
 :::
 
@@ -104,8 +104,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 殕色鶴 phú-sik-ho̍h**
-- ✳️ [台] 鶴 ho̍h
+- 🎯 **殕色鶴 phú-sik-ho̍h**
+- ✳️ 鶴 ho̍h
 
 :::
 
@@ -125,8 +125,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 白頭鶴 pe̍h-thâu-ho̍h**
-- ✳️ [台] 鶴 ho̍h
+- 🎯 **白頭鶴 pe̍h-thâu-ho̍h**
+- ✳️ 鶴 ho̍h
 
 :::
 
@@ -146,9 +146,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 紅頭鶴 âng-thâu-ho̍h**
-- ✳️ [台] 仙鶴 sian-ho̍h
-- ✳️ [台] 鶴 ho̍h
+- 🎯 **紅頭鶴 âng-thâu-ho̍h**
+- ✳️ 仙鶴 sian-ho̍h
+- ✳️ 鶴 ho̍h
 
 :::
 

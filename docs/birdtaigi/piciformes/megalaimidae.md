@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 花仔和尚 hue-á huê-siūnn
-- [華] 五色鳥 ngóo-sik-tsiáu
+- 🎯 花仔和尚 hue-á huê-siūnn
+- 五色鳥 ngóo-sik-tsiáu
 
 :::

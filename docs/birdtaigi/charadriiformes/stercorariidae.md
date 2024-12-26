@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 長尾賊仔鷗 tn̂g-bué-tsha̍t-á-oo**
-- ✳️ [華] 賊仔鷗 tsha̍t-á-oo
+- 🎯 **長尾賊仔鷗 tn̂g-bué-tsha̍t-á-oo**
+- ✳️ 賊仔鷗 tsha̍t-á-oo
 
 :::
 
@@ -37,8 +37,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 短尾賊仔鷗 té-bé-tsha̍t-á-oo**
-- ✳️ [華] 賊仔鷗 tsha̍t-á-oo
+- 🎯 **短尾賊仔鷗 té-bé-tsha̍t-á-oo**
+- ✳️ 賊仔鷗 tsha̍t-á-oo
 
 :::
 
@@ -58,8 +58,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 中賊仔鷗 tiong-tsha̍t-á-oo**
-- ✳️ [華] 賊仔鷗 tsha̍t-á-oo
+- 🎯 **中賊仔鷗 tiong-tsha̍t-á-oo**
+- ✳️ 賊仔鷗 tsha̍t-á-oo
 
 :::
 
@@ -79,8 +79,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 殕色賊仔鷗 phú-sik-tsha̍t-á-oo**
-- ✳️ [華] 賊仔鷗 tsha̍t-á-oo
+- 🎯 **殕色賊仔鷗 phú-sik-tsha̍t-á-oo**
+- ✳️ 賊仔鷗 tsha̍t-á-oo
 
 :::
 

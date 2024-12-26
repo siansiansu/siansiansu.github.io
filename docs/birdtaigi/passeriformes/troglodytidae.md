@@ -16,6 +16,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][日] 鷦鷯 tsiau-liâu
+- 🎯 鷦鷯 tsiau-liâu
 
 :::

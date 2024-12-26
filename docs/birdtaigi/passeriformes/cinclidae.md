@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 水叮噹 tsuí-tin-tang
-- [華][日] 河烏 hô-oo
-- [日] 川鴉 tshuan-a
+- 🎯 水叮噹 tsuí-tin-tang
+- 河烏 hô-oo
+- 川鴉 tshuan-a
 
 :::

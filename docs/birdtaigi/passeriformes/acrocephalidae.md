@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 細紋葦鶯 suè-bûn-uí-ing
+- 🎯 細紋葦鶯 suè-bûn-uí-ing
 
 :::
 
@@ -30,7 +30,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 雙眉葦鶯 siang-bâi-uí-ing
+- 🎯 雙眉葦鶯 siang-bâi-uí-ing
 
 :::
 
@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 田葦鶯 tshân-uí-ing
+- 🎯 田葦鶯 tshân-uí-ing
 
 :::
 
@@ -58,7 +58,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 遠東葦鶯 uán-tong-uí-ing
+- 🎯 遠東葦鶯 uán-tong-uí-ing
 
 :::
 
@@ -72,7 +72,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 厚喙葦鶯 kāu-tshuì-uí-ing
+- 🎯 厚喙葦鶯 kāu-tshuì-uí-ing
 
 :::
 
@@ -86,7 +86,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 東方大葦鶯 tong-hong-tuā-uí-ing
+- 🎯 東方大葦鶯 tong-hong-tuā-uí-ing
 
 :::
 
@@ -100,7 +100,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 布萊氏葦鶯 pòo-lâi-sī-uí-ing
+- 🎯 布萊氏葦鶯 pòo-lâi-sī-uí-ing
 
 :::
 
@@ -114,6 +114,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 靴籬鶯 hia-lî-ing
+- 🎯 靴籬鶯 hia-lî-ing
 
 :::

@@ -16,13 +16,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 釣龜 tiò-ku**
-- 🎯 **[台] 紅跤竹雞 âng-kha-tek-ke**
-- 🎯 **[台] 報時鳥 pò-sî-tsiáu**
-- 🎯 **[台] 時鐘鳥 sî-tsing-tsiáu**
-- [華] 台灣山鷓鴣 tâi-uân-suann-tsià-koo
-- [台] 深山鷓鴣 tshim-suann-tsià-koo
-- ✳️ [台] 紅跤仔 âng-kha-á
+- 🎯 **釣龜 tiò-ku**
+- 🎯 **紅跤竹雞 âng-kha-tek-ke**
+- 🎯 **報時鳥 pò-sî-tsiáu**
+- 🎯 **時鐘鳥 sî-tsing-tsiáu**
+- 台灣山鷓鴣 tâi-uân-suann-tsià-koo
+- 深山鷓鴣 tshim-suann-tsià-koo
+- ✳️ 紅跤仔 âng-kha-á
 
 :::
 
@@ -44,10 +44,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 烏雉 oo-thī**
-- 🎯 **[台] 烏雉雞 oo-thī-ke**
-- 🎯 **[日] 帝雉 tè-thī**
-- 🎯 [華] 烏長尾雉 oo-tng-bué-thī
+- 🎯 **烏雉 oo-thī**
+- 🎯 **烏雉雞 oo-thī-ke**
+- 🎯 **帝雉 tè-thī**
+- 🎯 烏長尾雉 oo-tng-bué-thī
 
 :::
 
@@ -68,9 +68,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 啼雞 thî-ke**
-- [華] 環頸雉 khuân-kīng-thī
-- ✳️ [台] 野雞 iá-ke
+- 🎯 **啼雞 thî-ke**
+- 環頸雉 khuân-kīng-thī
+- ✳️ 野雞 iá-ke
 
 :::
 
@@ -90,13 +90,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 哇雞 ua-ke**
-- 🎯 **[台] 華雞 huâ-ke**
-- 🎯 **[台] 烏尾雞 oo-bué-ke**
-- [華] 藍腹鷴 nâ-pak-hiân
-- ✳️ [台] 山雞 suann-ke
-- ✳️ [台] 紅跤仔 âng-kha-á
-- ✳️ [台] 雉雞 thī-ke
+- 🎯 **哇雞 ua-ke**
+- 🎯 **華雞 huâ-ke**
+- 🎯 **烏尾雞 oo-bué-ke**
+- 藍腹鷴 nâ-pak-hiân
+- ✳️ 山雞 suann-ke
+- ✳️ 紅跤仔 âng-kha-á
+- ✳️ 雉雞 thī-ke
 
 :::
 
@@ -116,8 +116,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 藍孔雀 nâ-khóng-tshiok**
-- 🎯 **[英] 印度孔雀 ìn-tōo-khóng-tshiok**
+- 🎯 **藍孔雀 nâ-khóng-tshiok**
+- 🎯 **印度孔雀 ìn-tōo-khóng-tshiok**
 
 :::
 
@@ -137,8 +137,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 台灣竹雞 tâi-uân-tik-ke**
-- 🎯 [台] 竹雞 tik-ke
+- 🎯 **台灣竹雞 tâi-uân-tik-ke**
+- 🎯 竹雞 tik-ke
 
 :::
 
@@ -158,12 +158,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 五鳴雞 ngóo-bêng-ke**
+- 🎯 **五鳴雞 ngóo-bêng-ke**
 - 🎯 **五更雞 gōo-kenn-ke**
-- 🎯 **[台] 小鵪鶉 sió-ian-thun**
-- 🎯 **[台] 小無尾鵪鶉 sió-bô-bué-ian-thun**
-- ✳️ [台] 無尾鵪鶉 bô-bué-ian-thun
-- ✳️ **[台] 紅腹鶉 âng-hôo-tshun
+- 🎯 **小鵪鶉 sió-ian-thun**
+- 🎯 **小無尾鵪鶉 sió-bô-bué-ian-thun**
+- ✳️ 無尾鵪鶉 bô-bué-ian-thun
+- ✳️ **紅腹鶉 âng-hôo-tshun
 
 :::
 
@@ -186,9 +186,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 鵪鶉 ian-thun**
-- 🎯 **[台] 紅腹鶉 âng-hôo-tshun
-- 🎯 [台] 無尾鵪鶉 bô-bué-ian-thun
+- 🎯 **鵪鶉 ian-thun**
+- 🎯 **紅腹鶉 âng-hôo-tshun
+- 🎯 無尾鵪鶉 bô-bué-ian-thun
 
 :::
 
@@ -211,9 +211,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] lài-tsiáu**
-- 🎯 **[日] 雷鳥 luî-tsiáu**
-- 🎯 **[日] 雷公鳥 luî-kong-tsiáu**
+- 🎯 **lài-tsiáu**
+- 🎯 **雷鳥 luî-tsiáu**
+- 🎯 **雷公鳥 luî-kong-tsiáu**
 
 :::
 

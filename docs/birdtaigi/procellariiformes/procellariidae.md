@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 風暴鸌 hong-pō-hōo**
+- 🎯 **風暴鸌 hong-pō-hōo**
 
 :::
 
@@ -37,7 +37,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 克島圓尾鸌 khik-tóo-înn-bué-hōo**
+- 🎯 **克島圓尾鸌 khik-tóo-înn-bué-hōo**
 
 :::
 
@@ -58,14 +58,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 索氏圓尾鸌 soh-sī-înn-bué-hōo**
+- 🎯 **索氏圓尾鸌 soh-sī-înn-bué-hōo**
 
 :::
 
 :::tip[註解]
 
 
-- 想無較適合 ê 名，暫時參考華語
+- 暫時參考華語
 - 鸌 hōo - 1973 Embree台英辭典
 
 :::
@@ -80,7 +80,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 費島圓尾鸌 huì-tóo-înn-bué-hōo**
+- 🎯 **費島圓尾鸌 huì-tóo-înn-bué-hōo**
 
 :::
 
@@ -102,8 +102,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 白腹穴鳥 pe̍h-pak-hia̍t-tsiáu**
-- [日] 白腹水薙鳥 pe̍h-pak-tsuí-thì-tsiáu
+- 🎯 **白腹穴鳥 pe̍h-pak-hia̍t-tsiáu**
+- 白腹水薙鳥 pe̍h-pak-tsuí-thì-tsiáu
 
 :::
 
@@ -124,7 +124,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 穴鳥 hia̍t-tsiáu**
+- 🎯 **穴鳥 hia̍t-tsiáu**
 
 :::
 
@@ -144,13 +144,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 烏背白腹穴鳥 oo-puè-pe̍h-pak-hia̍t-tsiáu**
+- 🎯 **烏背白腹穴鳥 oo-puè-pe̍h-pak-hia̍t-tsiáu**
 
 :::
 
 :::tip[註解]
 
-- 想無較適合 ê 名，暫時參考華語
+- 暫時參考華語
 
 :::
 
@@ -164,8 +164,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 大水薙鳥 tuā-tsuí-thì-tsiáu
-- ✳️ [華] 水薙鳥 tsuí-thì-tsiáu
+- 🎯 大水薙鳥 tuā-tsuí-thì-tsiáu
+- ✳️ 水薙鳥 tsuí-thì-tsiáu
 
 :::
 
@@ -179,8 +179,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[日] 赤跤水薙鳥 tshiah-kha-tsuí-thì-tsiáu**
-- ✳️ [華] 水薙鳥 tsuí-thì-tsiáu
+- 🎯 **赤跤水薙鳥 tshiah-kha-tsuí-thì-tsiáu**
+- ✳️ 水薙鳥 tsuí-thì-tsiáu
 
 :::
 
@@ -201,8 +201,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 長尾水薙鳥 tn̂g-bé-tsuí-thì-tsiáu**
-- ✳️ [華] 水薙鳥 tsuí-thì-tsiáu
+- 🎯 **長尾水薙鳥 tn̂g-bé-tsuí-thì-tsiáu**
+- ✳️ 水薙鳥 tsuí-thì-tsiáu
 
 :::
 
@@ -222,8 +222,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 殕色水薙鳥 phú-sik-tsuí-thì-tsiáu**
-- ✳️ [華] 水薙鳥 tsuí-thì-tsiáu
+- 🎯 **殕色水薙鳥 phú-sik-tsuí-thì-tsiáu**
+- ✳️ 水薙鳥 tsuí-thì-tsiáu
 
 :::
 
@@ -243,9 +243,9 @@ Sooty -> 殕色 phú-sik
 
 :::info[台語名]
 
-- 🎯 **[英] 短尾水薙鳥 té-bé-tsuí-thì-tsiáu**
-- 🎯 **[英] 細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu**
-- ✳️ [華] 水薙鳥 tsuí-thì-tsiáu
+- 🎯 **短尾水薙鳥 té-bé-tsuí-thì-tsiáu**
+- 🎯 **細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu**
+- ✳️ 水薙鳥 tsuí-thì-tsiáu
 
 :::
 
@@ -266,13 +266,13 @@ Sooty -> 殕色 phú-sik
 
 :::info[台語名]
 
-- 🎯 **[日] 小水薙鳥 sió-tsuí-thì-tsiáu**
+- 🎯 **小水薙鳥 sió-tsuí-thì-tsiáu**
 
 :::
 
 :::tip[註解]
 
-- 想無較適合 ê 名，暫時參考日語
+- 暫時參考日語
 
 :::
 
@@ -286,12 +286,12 @@ Sooty -> 殕色 phú-sik
 
 :::info[台語名]
 
-- 🎯 **[華] 所羅門鸌 sóo-lô-bûn-hōo**
+- 🎯 **所羅門鸌 sóo-lô-bûn-hōo**
 
 :::
 
 :::tip[註解]
 
-- 想無較適合 ê 名，暫時參考華語
+- 暫時參考華語
 
 :::

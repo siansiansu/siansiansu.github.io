@@ -16,8 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 山紅頭 suann-âng-thâu
-- [中] 紅頭穗鶥 âng-thâu-suī-bâi
+- 🎯 山紅頭 suann-âng-thâu
 
 :::
 
@@ -31,13 +30,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 奸臣仔鳥 kan-sîn-á-tsiáu
-- 🎯 [台] 竹跤花眉 tik-kha hue-bî
-- 🎯 [台] 花眉舅仔 hue-bî kū-á
-- 🎯 [台] 賊仔鳥 tsha̍t-á-tsiáu
-- 🎯 [華] 小彎喙 sió-uan-tshuì
-- 🎯 [華] 小彎喙畫眉 sió-uan-tshuì-uē-bâi
-- ✳️ [台] 花眉仔 hue-bî-á/hua-bî-á
+- 🎯 奸臣仔鳥 kan-sîn-á-tsiáu
+- 🎯 竹跤花眉 tik-kha hue-bî
+- 🎯 花眉舅仔 hue-bî kū-á
+- 🎯 賊仔鳥 tsha̍t-á-tsiáu
+- 🎯 小彎喙 sió-uan-tshuì
+- 🎯 小彎喙畫眉 sió-uan-tshuì-uē-bâi
+- ✳️ 花眉仔 hue-bî-á/hua-bî-á
 
 :::
 
@@ -51,7 +50,7 @@ no rights reserved, uploaded by Ben Keen
 
 :::info[台語名]
 
-- 🎯 [華] 大彎喙 tuā-uan-tshuì
-- 🎯 [華] 大彎喙畫眉 tuā-uan-tshuì-uē-bâi
+- 🎯 大彎喙 tuā-uan-tshuì
+- 🎯 大彎喙畫眉 tuā-uan-tshuì-uē-bâi
 
 :::

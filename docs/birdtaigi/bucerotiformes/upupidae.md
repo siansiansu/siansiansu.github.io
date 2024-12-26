@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台] 墓坑鳥 bōng-khenn-tsiáu
-- 🎯 [華] 戴勝 tì-sìng
+- 🎯 墓坑鳥 bōng-khenn-tsiáu
+- 🎯 戴勝 tì-sìng
 
 :::

@@ -16,10 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 骨簪仔 kut-tsiam-á**
-- 🎯 **[台] 骨簪鷸 kut-tsiam-u̍t**
-- [華] 彩鷸 tshái-u̍t
-- ✳️ [台] 塗礱鉤仔 thôo-lâng-kau-á
+- 🎯 **骨簪仔 kut-tsiam-á**
+- 🎯 **骨簪鷸 kut-tsiam-u̍t**
+- 彩鷸 tshái-u̍t
+- ✳️ 塗礱鉤仔 thôo-lâng-kau-á
 
 :::
 

@@ -16,13 +16,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 崖海鴉 gâi-hái-a**
+- 🎯 **崖海鴉 gâi-hái-a**
 
 :::
 
 :::tip[註解]
 
-- 想無較適合 ê 名，暫時參考華語
+- 暫時參考華語
 
 :::
 
@@ -36,7 +36,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 扁喙海雀 pínn-tshuì-hái-tshiok**
+- 🎯 **扁喙海雀 pínn-tshuì-hái-tshiok**
 
 :::
 
@@ -50,7 +50,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 聳毛海雀 tshàng-moo-hái-tshiok**
+- 🎯 **聳毛海雀 tshàng-moo-hái-tshiok**
 
 :::
 
@@ -64,9 +64,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 白眶海粉鳥 pe̍h-khing-hái-hún-tsiáu**
-- 🎯 [中] 白眶海雀 pe̍h-khing-hái-tshiok
-- 🎯 [中] 白眶海鴿 pe̍h-khing-hái-kah
+- 🎯 **白眶海粉鳥 pe̍h-khing-hái-hún-tsiáu**
+- 🎯 白眶海雀 pe̍h-khing-hái-tshiok
+- 🎯 白眶海鴿 pe̍h-khing-hái-kah
 
 :::
 
@@ -86,6 +86,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 角喙海雀 kak-tshuì-hái-tshiok**
+- 🎯 **角喙海雀 kak-tshuì-hái-tshiok**
 
 :::

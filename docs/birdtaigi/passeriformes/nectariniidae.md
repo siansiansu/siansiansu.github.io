@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu
-- ✳️ [英] 太陽鳥 thài-iông-tsiáu
-- ✳️ [英] 花蜜鳥 hue-bi̍t-tsiáu
+- 🎯 黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu
+- ✳️ 太陽鳥 thài-iông-tsiáu
+- ✳️ 花蜜鳥 hue-bi̍t-tsiáu
 
 :::
 
@@ -32,8 +32,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 叉尾太陽鳥 tshe-bé-thài-iông-tsiáu
-- ✳️ [英] 太陽鳥 thài-iông-tsiáu
-- ✳️ [英] 花蜜鳥 hue-bi̍t-tsiáu
+- 🎯 叉尾太陽鳥 tshe-bé-thài-iông-tsiáu
+- ✳️ 太陽鳥 thài-iông-tsiáu
+- ✳️ 花蜜鳥 hue-bi̍t-tsiáu
 
 :::

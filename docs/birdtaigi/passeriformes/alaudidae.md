@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 大短趾百靈 tuā-té-tsí-pik-lîng
+- 🎯 大短趾百靈 tuā-té-tsí-pik-lîng
 
 :::
 
@@ -30,7 +30,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 亞洲短址百靈 a-tsiu-té-tsí-pik-lîng
+- 🎯 亞洲短址百靈 a-tsiu-té-tsí-pik-lîng
 
 :::
 
@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 蒙古百靈 bông-kóo-pik-lîng
+- 🎯 蒙古百靈 bông-kóo-pik-lîng
 
 :::
 
@@ -58,7 +58,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日][英] 歐亞雲雀 au-a-hûn-tshiok
+- 🎯 歐亞雲雀 au-a-hûn-tshiok
 
 :::
 
@@ -72,8 +72,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日] 半天鳥 puànn-thinn-tsiáu
-- 🎯 [日] 叫天鳥 kiò-thinn-tsiáu
-- 🎯 [華] 小雲雀 sió-hûn-tshiok
+- 🎯 半天鳥 puànn-thinn-tsiáu
+- 🎯 叫天鳥 kiò-thinn-tsiáu
+- 🎯 小雲雀 sió-hûn-tshiok
 
 :::

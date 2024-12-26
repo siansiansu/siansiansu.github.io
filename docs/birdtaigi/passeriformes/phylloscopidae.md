@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英][華] 黃眉柳鶯 n̂g-bâi-liú-ing
+- 🎯 黃眉柳鶯 n̂g-bâi-liú-ing
 
 :::
 
@@ -30,7 +30,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 巨嘴柳鶯 kū-tshuì-liú-ing
+- 🎯 巨嘴柳鶯 kū-tshuì-liú-ing
 
 :::
 
@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 白跤柳鶯 pe̍h-kha-liú-ing
+- 🎯 白跤柳鶯 pe̍h-kha-liú-ing
 
 :::
 
@@ -58,7 +58,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 極北柳鶯 ki̍k-pak-liú-ing
+- 🎯 極北柳鶯 ki̍k-pak-liú-ing
 
 :::
 
@@ -72,7 +72,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華][英] 庫頁島柳鶯 khòo-ia̍h-tó-liú-ing
+- 🎯 庫頁島柳鶯 khòo-ia̍h-tó-liú-ing
 
 :::
 
@@ -86,7 +86,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 日本柳鶯 ji̍t-pún-liú-ing
+- 🎯 日本柳鶯 ji̍t-pún-liú-ing
 
 :::
 
@@ -100,7 +100,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 堪察加柳鶯 kham-tshâ-tsham-liú-ing
+- 🎯 堪察加柳鶯 kham-tshâ-tsham-liú-ing
 
 :::
 
@@ -114,7 +114,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 雙斑綠柳鶯 siang-pan-li̍k-liú-ing
+- 🎯 雙斑綠柳鶯 siang-pan-li̍k-liú-ing
 
 :::
 
@@ -128,7 +128,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 黃腰柳鶯 n̂g-io-liú-ing
+- 🎯 黃腰柳鶯 n̂g-io-liú-ing
 
 :::
 
@@ -142,7 +142,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 哈氏冠紋柳鶯 ha-sī-kuan-bûn-liú-ing
+- 🎯 哈氏冠紋柳鶯 ha-sī-kuan-bûn-liú-ing
 
 :::
 
@@ -156,7 +156,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英] 克氏冠紋柳鶯 khik-sī-kuan-bûn-liú-ing
+- 🎯 克氏冠紋柳鶯 khik-sī-kuan-bûn-liú-ing
 
 :::
 
@@ -170,7 +170,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [英][華] 冠羽柳鶯 kuan-ú-liú-ing
+- 🎯 冠羽柳鶯 kuan-ú-liú-ing
 
 :::
 
@@ -184,7 +184,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [日][英] 飯島柳鶯 ijima-liú-ing
+- 🎯 飯島柳鶯 ijima-liú-ing
 
 :::
 
@@ -198,6 +198,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [華] 烏眉柳鶯 oo-bâi-liú-ing
+- 🎯 烏眉柳鶯 oo-bâi-liú-ing
 
 :::

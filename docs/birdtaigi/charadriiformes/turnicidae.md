@@ -16,11 +16,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 黃跤無尾三爪鵪鶉 n̂g-kha-bô-bué-sann-jiáu-ian-thun**
-- [英] 黃跤三趾鶉 n̂g-kha-sann-tsí-tshun
-- ✳️ [日] 三斑鶉 sann-pan-tshun
-- ✳️ [華] 三趾鶉 sann-tsí-tshun
-- ✳️ [台] 三爪鵪鶉 sann-jiáu-ian-thun
+- 🎯 **黃跤無尾三爪鵪鶉 n̂g-kha-bô-bué-sann-jiáu-ian-thun**
+- 黃跤三趾鶉 n̂g-kha-sann-tsí-tshun
+- ✳️ 三斑鶉 sann-pan-tshun
+- ✳️ 三趾鶉 sann-tsí-tshun
+- ✳️ 三爪鵪鶉 sann-jiáu-ian-thun
 
 :::
 
@@ -41,12 +41,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 赤無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
-- 🎯 **[台] 無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
-- 🎯 **[華] 赤三趾鶉 tshiah-sann-tsí-tshun**
-- ✳️ [日] 三斑鶉 sann-pan-tshun
-- ✳️ [華] 三趾鶉 sann-tsí-tshun
-- ✳️ [台] 三爪鵪鶉 sann-jiáu-ian-thun
+- 🎯 **赤無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
+- 🎯 **無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
+- 🎯 **赤三趾鶉 tshiah-sann-tsí-tshun**
+- ✳️ 三斑鶉 sann-pan-tshun
+- ✳️ 三趾鶉 sann-tsí-tshun
+- ✳️ 三爪鵪鶉 sann-jiáu-ian-thun
 
 :::
 
@@ -67,13 +67,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[台] 小無尾三爪鵪鶉 sió-bô-bué-sann-jiáu-ian-thun**
-- 🎯 **[台] 林無尾三爪鵪鶉 lîm-bô-bué-sann-jiáu-ian-thun**
-- [英] 小三趾鶉 sió-sann-tsí-tshun
-- [華] 林三趾鶉 lîm-sann-tsí-tshun
-- ✳️ [日] 三斑鶉 sann-pan-tshun
-- ✳️ [華] 三趾鶉 sann-tsí-tshun
-- ✳️ [台] 三爪鵪鶉 sann-jiáu-ian-thun
+- 🎯 **小無尾三爪鵪鶉 sió-bô-bué-sann-jiáu-ian-thun**
+- 🎯 **林無尾三爪鵪鶉 lîm-bô-bué-sann-jiáu-ian-thun**
+- 小三趾鶉 sió-sann-tsí-tshun
+- 林三趾鶉 lîm-sann-tsí-tshun
+- ✳️ 三斑鶉 sann-pan-tshun
+- ✳️ 三趾鶉 sann-tsí-tshun
+- ✳️ 三爪鵪鶉 sann-jiáu-ian-thun
 
 :::
 

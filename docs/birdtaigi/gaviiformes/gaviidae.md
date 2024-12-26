@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 紅喉潛鳥 âng-âu-tsiâm-tsiáu**
+- 🎯 **紅喉潛鳥 âng-âu-tsiâm-tsiáu**
 
 :::
 
@@ -36,7 +36,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 烏喉潛鳥 oo-âu-tsiâm-tsiáu**
+- 🎯 **烏喉潛鳥 oo-âu-tsiâm-tsiáu**
 
 :::
 
@@ -56,7 +56,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[華] 太平洋潛鳥 thài-pîng-iûnn-tsiâm-tsiáu**
+- 🎯 **太平洋潛鳥 thài-pîng-iûnn-tsiâm-tsiáu**
 
 :::
 
@@ -76,7 +76,7 @@ Pacific Loon -> 太平洋 thài-pîng-iûnn + 潛鳥 tsiâm-tsiáu
 
 :::info[台語名]
 
-- 🎯 [華] 白喙潛鳥 pe̍h-tshuì-tsiâm-tsiáu
+- 🎯 白喙潛鳥 pe̍h-tshuì-tsiâm-tsiáu
 
 :::
 

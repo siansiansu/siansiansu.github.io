@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 白斑軍艦鳥 pe̍h-pan-kun-lām-tsiáu**
-- 🎯 **[英] 小軍艦鳥 sió-kun-lām-tsiáu**
+- 🎯 **白斑軍艦鳥 pe̍h-pan-kun-lām-tsiáu**
+- 🎯 **小軍艦鳥 sió-kun-lām-tsiáu**
 
 :::
 
@@ -38,8 +38,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 軍艦鳥 kun-lām-tsiáu**
-- 🎯 **[英] 大軍艦鳥 tuā-kun-lām-tsiáu**
+- 🎯 **軍艦鳥 kun-lām-tsiáu**
+- 🎯 **大軍艦鳥 tuā-kun-lām-tsiáu**
 
 :::
 
@@ -60,7 +60,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **[英] 聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
+- 🎯 **聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
 
 :::
 
