@@ -50,7 +50,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]藍翼抾箬仔 lâm-si̍t-khioh-ha̍h-á
+- 🎯 藍翼抾箬仔 lâm-si̍t-khioh-ha̍h-á
 - 藍翼八色鳥 lâm-si̍t-peh-sik-tsiáu
 - ✳️ 青翼仔 tshenn-si̍t-á
 - ✳️ 抾箬仔 khioh-ha̍h-á

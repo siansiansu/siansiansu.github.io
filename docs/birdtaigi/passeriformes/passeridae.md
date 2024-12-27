@@ -40,7 +40,7 @@ import Image from '@theme/IdealImage';
 - 🎯 雀鳥仔 tshiok-tsiáu-á
 - 🎯 厝角鳥仔 tshù-kak-tsiáu-á
 - 🎯 粟鳥仔 tshik-tsiáu-á
-- [台]樹雀鳥仔 tshiū-tshiok-tsiáu-á
+- 樹雀鳥仔 tshiū-tshiok-tsiáu-á
 
 :::
 

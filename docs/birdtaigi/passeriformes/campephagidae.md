@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]灰喉戲班仔 hue-âu-hì-pan-á
+- 🎯 灰喉戲班仔 hue-âu-hì-pan-á
 - 🎯 灰喉山椒鳥 hue-âu-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
@@ -67,7 +67,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]灰戲班仔 hue-hì-pan-á
+- 🎯 灰戲班仔 hue-hì-pan-á
 - 🎯 灰山椒鳥 hue-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
@@ -86,7 +86,7 @@ import Image from '@theme/IdealImage';
 
 - 🎯 小灰戲班仔 sió-hue-hì-pan-á
 - 🎯 小灰山椒鳥 sió-hue-suann-tsiau-tsiáu
-- 🎯 [台]茶色戲班仔 tê-sik-hì-pan-á
+- 🎯 茶色戲班仔 tê-sik-hì-pan-á
 - 🎯 茶色山椒鳥 tê-sik-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu

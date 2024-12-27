@@ -18,7 +18,7 @@ import Image from '@theme/IdealImage';
 
 - 🎯 斯氏青笛仔 su-sī-tshenn-thî-á
 - 🎯 斯氏繡眼 su-sī-siù-gán
-- [台]斯文豪氏青笛仔 su-bûn-hô-sī-tshenn-thî-á
+- 斯文豪氏青笛仔 su-bûn-hô-sī-tshenn-thî-á
 - ✳️ 青笛仔 tshenn-thî-á
 
 :::
@@ -34,7 +34,7 @@ import Image from '@theme/IdealImage';
 :::info[台語名]
 
 - 🎯 尖頭花眉 tsiam-thâu-hue-bî
-- 🎯 [台]尖頭畫眉 tsiam-thâu-uē-bâi
+- 🎯 尖頭畫眉 tsiam-thâu-uē-bâi
 - 🎯 冠羽畫眉 kuan-ú-uē-bâi
 - ✳️ 尖頭仔 tsiam-thâu-á
 - ✳️ 花眉仔 hue-bî-á

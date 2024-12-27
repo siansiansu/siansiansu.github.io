@@ -77,6 +77,10 @@ const config = {
           trackingID: 'G-S4S5T3DX6G',
           anonymizeIP: true,
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
       }),
     ],
   ],

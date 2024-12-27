@@ -10,7 +10,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]山烏鶖 suann-oo-tshiu
+- 🎯 山烏鶖 suann-oo-tshiu
 
 :::
 
@@ -18,7 +18,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]烏鶖 oo-tshiu
+- 🎯 烏鶖 oo-tshiu
 
 :::
 
@@ -26,7 +26,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]灰烏鶖 hue-oo-tshiu
+- 🎯 灰烏鶖 hue-oo-tshiu
 
 :::
 

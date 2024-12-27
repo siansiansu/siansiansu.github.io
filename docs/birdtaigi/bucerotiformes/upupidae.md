@@ -1,10 +1,10 @@
 ---
-description: 墓坑鳥科 bōng-khenn-tsiáu-kho
+description: 戴勝的台語
 ---
 
 import Image from '@theme/IdealImage';
 
-# 墓坑鳥科 bōng-khenn-tsiáu-kho
+# 墓壙鳥 bōng-khòng-tsiáu-kho
 
 ## [戴勝 ヤツガシラ Eurasian Hoopoe](https://ebird.org/species/hoopoe)
 
@@ -16,7 +16,21 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 墓坑鳥 bōng-khenn-tsiáu
-- 🎯 戴勝 tì-sìng
+- 🎯 **墓壙鳥 bōng-khòng-tsiáu**
+- 墓坑鳥 bōng-khenn-tsiáu
+- 臭鳥 tshàu-tsiáu
+- 呼鵓鵓 hoo-pu̍t-pu̍t
+- 棺柴鳥 kuann-tshâ-tsiáu
+- 骨鵃 kut-tsiu
+- 山呼相 suann-hoo-siunn
+- 戴任 tè-jīm
+- 戴髻鳥 tì-kè-tsiáu
+- 戴勝 tì-sìng
+
+:::
+
+:::tip[註解]
+
+- 2002⁺ 台華線頂辭典
 
 :::

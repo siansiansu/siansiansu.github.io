@@ -329,7 +329,7 @@ import Image from '@theme/IdealImage';
 
 - 🎯 日本鴝鳥 ji̍t-pún-kù-tsiáu
 - 🎯 日本歌鴝 ji̍t-pún-kua-kù
-- 🎯 [台]鴝鳥 kù-tsiáu
+- 🎯 鴝鳥 kù-tsiáu
 
 :::
 

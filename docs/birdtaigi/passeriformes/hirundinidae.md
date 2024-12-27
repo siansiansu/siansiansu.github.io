@@ -47,7 +47,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]棕沙燕仔 tsang-sua-ìnn-á
+- 🎯 棕沙燕仔 tsang-sua-ìnn-á
 - 🎯 台灣小洞燕 tâi-uân-sió-tōng-ìnn
 - ✳️ 燕仔 ìnn-á
 
@@ -63,7 +63,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]灰沙燕仔 hue-sua-ìnn-á
+- 🎯 灰沙燕仔 hue-sua-ìnn-á
 - 🎯 小洞燕 sió-tōng-ìnn
 - ✳️ 燕仔 ìnn-á
 

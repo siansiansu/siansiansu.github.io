@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]長尾山娘 tn̂g-bué-suann-niû
-- 🎯 [台]山娘仔 suann-niû-á
+- 🎯 長尾山娘 tn̂g-bué-suann-niû
+- 🎯 山娘仔 suann-niû-á
 - 長尾津仔 tn̂g-bué-tin-á
 - 長尾竹 tn̂g-bué-tik
 - 台灣藍鵲 tâi-uân-nâ-tshiok
@@ -68,7 +68,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]灰客鳥 hue-kheh-tsiáu
+- 🎯 灰客鳥 hue-kheh-tsiáu
 - 灰喜鵲 hue-hí-tshiok
 
 :::
@@ -144,8 +144,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]深山烏 tshim-suann-oo
-- [台]山烏鴉 suann-oo-a
+- 🎯 深山烏 tshim-suann-oo
+- 山烏鴉 suann-oo-a
 - 禿鼻鴉 thut-phīnn-a
 - 山老公 suann-lāu-kong
 - ✳️ 烏鴉 oo-a

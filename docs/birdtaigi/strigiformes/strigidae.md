@@ -97,7 +97,7 @@ import Image from '@theme/IdealImage';
 
 :::tip[註解]
 
-- 蘭嶼 lân-sū + 貓頭鳥 niau-thâu-tsiáu
+- 參考華語
 
 :::
 
@@ -127,7 +127,7 @@ import Image from '@theme/IdealImage';
 
 :::tip[註解]
 
-- 東方 tong-hong + 貓頭鳥 niau-thâu-tsiáu
+- 參考英語
 
 :::
 
@@ -171,8 +171,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 鵂鶹 hiu-liû
-- 🎯 領鵂鶹 niá-hiu-liû
+- 🎯 **鵂鶹 hiu-liû**
+- 🎯 **領鵂鶹 niá-hiu-liû**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
 - ✳️ 孤黃 koo-n̂g
 - ✳️ 孤黃貓 koo-n̂g-niau
@@ -249,7 +249,7 @@ import Image from '@theme/IdealImage';
 
 :::tip[註解]
 
-Brown Wood-Owl -> 赤色 tshiah-sik + 林貓頭鳥 lîm-niau-thâu-tsiáu
+- 參考英語
 
 :::
 
@@ -311,7 +311,7 @@ Brown Wood-Owl -> 赤色 tshiah-sik + 林貓頭鳥 lîm-niau-thâu-tsiáu
 
 :::tip[註解]
 
-Long-eared Owl -> 長耳 tn̂g-hīnn + 貓頭鳥 niau-thâu-tsiáu
+- 參考英語
 
 :::
 
@@ -341,7 +341,7 @@ Long-eared Owl -> 長耳 tn̂g-hīnn + 貓頭鳥 niau-thâu-tsiáu
 
 :::tip[註解]
 
-- Short-eared Owl -> 短耳 tn̂g-hīnn + 貓頭鳥 niau-thâu-tsiáu
+- 參考英語
 
 :::
 

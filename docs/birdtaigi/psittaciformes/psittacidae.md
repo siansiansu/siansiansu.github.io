@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 [台]和尚鸚哥 huê-siūnn ing-ko
+- 🎯 和尚鸚哥 huê-siūnn ing-ko
 - ✳️ 鸚哥 ing-ko
 
 :::
