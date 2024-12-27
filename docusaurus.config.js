@@ -12,7 +12,7 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bîn-hiân',
+  title: '鳥仔 ê 名',
   tagline: '鳥仔 | 台語 | 賞鳥簿仔 | eBird | 軟工 | 演算法 | 遊戲',
   favicon: 'img/favicon.ico',
 
@@ -111,6 +111,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      headTags: [
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'alternate',
+            hreflang: 'zh-TW',
+            href: 'https://siansiansu.github.io/'
+          },
+        },
+      ],
       metadata: [
         {
           name: 'keywords',
@@ -126,7 +136,7 @@ const config = {
         },
         {
           name: 'og:description',
-          content: '台語, 鳥仔, 賞鳥簿仔, eBird, 軟工, 演算法, 遊戲, 鳥仔ê名, 認捌鳥仔ê台語, 台文, 台羅'
+          content: '鳥類的台語'
         },
       ],
       image: 'img/profile.jpg',
@@ -232,7 +242,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} Bîn-hiân ê bāng-tsām, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 鳥仔 ê 名, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
