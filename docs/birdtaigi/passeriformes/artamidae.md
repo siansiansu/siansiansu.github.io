@@ -1,5 +1,5 @@
 ---
-description: 本文整理了燕鵙的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+description: 本文整理了燕鵙科鳥類的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
 ---
 
 import Image from '@theme/IdealImage';
@@ -16,6 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 白胸燕鵑 pe̍h-hing-ìnn-kio̍k
+- 🎯 **白胸燕鵑 pe̍h-hing-ìnn-kio̍k**
 
+:::
+
+:::tip[註解]
+參考特徵、華語
 :::

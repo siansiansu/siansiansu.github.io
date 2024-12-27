@@ -199,7 +199,7 @@ import Image from '@theme/IdealImage';
 
 ## [黑翅山椒鳥 アサクラサンショウクイ Black-winged Cuckooshrike](https://ebird.org/species/bkwcus1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457455874/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457455874/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Griha Hasanov, some rights reserved (CC-BY)

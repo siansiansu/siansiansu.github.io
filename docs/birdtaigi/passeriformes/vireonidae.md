@@ -1,10 +1,10 @@
 ---
-description: 綠鵙科 li̍k-kio̍k-kho
+description: 本文整理了綠畫眉的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
 ---
 
 import Image from '@theme/IdealImage';
 
-# 綠鵙科 li̍k-kio̍k-kho
+# 青花眉科 tshenn-hue-bî
 
 ## [綠畫眉 アオチメドリ White-bellied Erpornis](https://ebird.org/species/whbyuh1)
 
@@ -16,7 +16,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 青畫眉 tshenn-uē-bâi
+- 🎯 **青花眉 tshenn-hue-bî**
 - ✳️ 花眉仔 hue-bî-á
+
+:::
+
+:::tip[註解]
+
+- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 參考特徵、華語
 
 :::
