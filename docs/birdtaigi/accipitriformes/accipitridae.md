@@ -1,5 +1,5 @@
 ---
-description: 鷹科 ing-kho
+description: 本文整理了鷹仔的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
 ---
 
 import Image from '@theme/IdealImage';
@@ -192,7 +192,7 @@ Greater Spotted Eagle -> 花鷹 hue-ing
 
 ## [靴隼鵰 ヒメクマタカ Booted Eagle](https://ebird.org/species/booeag1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455662036/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455662036/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © sunnyjosef, some rights reserved (CC-BY)
@@ -432,7 +432,7 @@ Golden Eagle -> 金鷹 kim-ing
 
 ## [西方澤鵟 ヨーロッパチュウヒ Western Marsh Harrier](https://ebird.org/species/wemhar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459240182/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459240182/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Полина Полежанкина, some rights reserved (CC-BY)

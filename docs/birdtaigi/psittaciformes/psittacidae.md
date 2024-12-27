@@ -8,7 +8,7 @@ import Image from '@theme/IdealImage';
 
 ## [紅領綠鸚鵡 ホンセイインコ Rose-ringed Parakeet](https://ebird.org/species/rorpar)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459576276/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459576276/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Grze Swis, some rights reserved (CC-BY)

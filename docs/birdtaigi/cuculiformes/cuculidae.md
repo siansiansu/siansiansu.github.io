@@ -1,5 +1,5 @@
 ---
-description: 杜鵑科 tōo-kuan-kho
+description: 本文整理了杜鵑的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
 ---
 
 import Image from '@theme/IdealImage';

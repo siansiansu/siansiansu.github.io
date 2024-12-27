@@ -1,5 +1,5 @@
 ---
-description: 百靈科 pik-lîng-kho
+description: 本文整理了百靈的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
 ---
 
 import Image from '@theme/IdealImage';

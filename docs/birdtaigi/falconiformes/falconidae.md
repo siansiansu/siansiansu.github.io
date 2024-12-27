@@ -8,7 +8,7 @@ import Image from '@theme/IdealImage';
 
 ## [黃爪隼 ヒメチョウゲンボウ Lesser Kestrel](https://ebird.org/species/leskes1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457504160/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457504160/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Timothy Whitehead, some rights reserved (CC-BY)
