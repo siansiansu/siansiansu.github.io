@@ -19,7 +19,7 @@ import Image from '@theme/IdealImage';
 :::info[台語名]
 
 - 🎯 **釣魚翁 tiò-hî-ang**
-- 魚狗 hî-káu
+- ✳️ 魚狗 hî-káu
 - ✳️ 天狗 thian-káu
 - ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
@@ -39,23 +39,21 @@ import Image from '@theme/IdealImage';
 
 :::
 
-## [蒼翡翠 アオショウビン White-throated Kingfisher](https://ebird.org/species/whtkin2)
+## [黑背三趾翠鳥 ミツユビカワセミ Black-backed Dwarf-Kingfisher](https://ebird.org/species/bkbkin1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/389472567/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)
+© Focus Saranpat Ouilapan, some rights reserved (CC-BY)
 </p>
 
 :::info[台語名]
 
-- 🎯 **白喉釣魚翁 pe̍h-âu-tiò-hî-ang**
-- 蒼翡翠 tshong-huí-tshuì
+- 🎯 **烏背三爪釣魚翁 oo-puē-sam-jiáu-tiò-hî-ang**
+- ✳️ 魚狗 hî-káu
 - ✳️ 天狗 thian-káu
 - ✳️ 水狗 tsuí-káu
 - ✳️ 漁師 hî-sai
-- ✳️ 釣魚翁 tiò-hî-ang
-- ✳️ 魚狗 hî-káu
 - ✳️ 魚虎 hî-hóo
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
@@ -63,67 +61,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-參考英語
-
-:::
-
-## [斑翡翠 ヒメヤマセミ Pied Kingfisher](https://ebird.org/species/piekin1)
-
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Koshy Koshy, some rights reserved (CC BY)
-</p>
-
-:::info[台語名]
-
-- 🎯 **斑點釣魚翁 pan-tiám-tiò-hî-ang**
-- 斑點翡翠 pan-tiám-huí-tshuì
-- ✳️ 天狗 thian-káu
-- ✳️ 水狗 tsuí-káu
-- ✳️ 漁師 hî-sai
-- ✳️ 釣魚翁 tiò-hî-ang
-- ✳️ 魚狗 hî-káu
-- ✳️ 魚虎 hî-hóo
-- ✳️ 鴗鳥 liu-tshuì
-- ✳️ 翡翠 huí-tshuì
-
-:::
-
-:::tip[註解]
-
-參考英語
-
-:::
-
-## [黑頭翡翠 ヤマショウビン Black-capped Kingfisher](https://ebird.org/species/blckin1)
-
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG" alt="image" style={{marginBottom: '0rem'}} />
-
-<p className="image-caption">
-(c) Carmelo López Abad, some rights reserved (CC BY-NC)
-</p>
-
-:::info[台語名]
-
-- 🎯 **烏頭釣魚翁 oo-thâu-tiò-hî-ang**
-- 烏頭翡翠 oo-thâu-huí-tshuì
-- ✳️ 天狗 thian-káu
-- ✳️ 水狗 tsuí-káu
-- ✳️ 漁師 hî-sai
-- ✳️ 釣魚翁 tiò-hî-ang
-- ✳️ 魚狗 hî-káu
-- ✳️ 魚虎 hî-hóo
-- ✳️ 鴗鳥 liu-tshuì
-- ✳️ 翡翠 huí-tshuì
-
-:::
-
-:::tip[註解]
-
-參考英語
-
+參考華語、英語
 :::
 
 ## [赤翡翠 アカショウビン Ruddy Kingfisher](https://ebird.org/species/rudkin1)
@@ -160,6 +98,60 @@ import Image from '@theme/IdealImage';
 
 :::
 
+## [蒼翡翠 アオショウビン White-throated Kingfisher](https://ebird.org/species/whtkin2)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)
+</p>
+
+:::info[台語名]
+
+- 🎯 **白喉釣魚翁 pe̍h-âu-tiò-hî-ang**
+- 蒼翡翠 tshong-huí-tshuì
+- ✳️ 天狗 thian-káu
+- ✳️ 水狗 tsuí-káu
+- ✳️ 漁師 hî-sai
+- ✳️ 釣魚翁 tiò-hî-ang
+- ✳️ 魚狗 hî-káu
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
+
+:::
+
+:::tip[註解]
+參考英語
+:::
+
+## [黑頭翡翠 ヤマショウビン Black-capped Kingfisher](https://ebird.org/species/blckin1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Carmelo López Abad, some rights reserved (CC BY-NC)
+</p>
+
+:::info[台語名]
+
+- 🎯 **烏頭釣魚翁 oo-thâu-tiò-hî-ang**
+- 烏頭翡翠 oo-thâu-huí-tshuì
+- ✳️ 天狗 thian-káu
+- ✳️ 水狗 tsuí-káu
+- ✳️ 漁師 hî-sai
+- ✳️ 釣魚翁 tiò-hî-ang
+- ✳️ 魚狗 hî-káu
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
+
+:::
+
+:::tip[註解]
+參考英語
+:::
+
 ## [白領翡翠 ナンヨウショウビン Collared Kingfisher](https://ebird.org/species/colkin1)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -184,7 +176,32 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
+參考英語
+:::
 
-- 參考英語
+## [斑翡翠 ヒメヤマセミ Pied Kingfisher](https://ebird.org/species/piekin1)
 
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+(c) Koshy Koshy, some rights reserved (CC BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **斑點釣魚翁 pan-tiám-tiò-hî-ang**
+- 斑點翡翠 pan-tiám-huí-tshuì
+- ✳️ 天狗 thian-káu
+- ✳️ 水狗 tsuí-káu
+- ✳️ 漁師 hî-sai
+- ✳️ 釣魚翁 tiò-hî-ang
+- ✳️ 魚狗 hî-káu
+- ✳️ 魚虎 hî-hóo
+- ✳️ 鴗鳥 liu-tshuì
+- ✳️ 翡翠 huí-tshuì
+
+:::
+
+:::tip[註解]
+參考英語
 :::
