@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **菲律賓扇尾鶲 hui-lu̍t-pin-sìnn-bué-ong**
-- 🎯 **菲律賓尾扇 hui-lu̍t-pin-bué-sìnn**
+- 🎯 **菲律賓烏白扇尾鶲 hui-lu̍t-pin-oo-pe̍h-sìnn-bué-ong**
+- 🎯 **菲律賓烏白尾扇 hui-lu̍t-pin-oo-pe̍h-bué-sìnn**
 
 :::
 
@@ -35,9 +35,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **斑尾扇 pan-bué-sìnn**
-- 🎯 **斑扇尾鶲 pan-sìnn-bué-ong**
-- 🎯 **馬來西亞花斑扇尾鶲 Má-lâi-se-a-hue-pan-sìnn-bué-ong**
+- 🎯 **烏白尾扇 oo-pe̍h-bué-sìnn**
+- 🎯 **烏白扇尾鶲 oo-pe̍h-sìnn-bué-ong**
+- 🎯 **馬來西亞烏白扇尾鶲 Má-lâi-se-a-oo-pe̍h-sìnn-bué-ong**
 
 :::
 

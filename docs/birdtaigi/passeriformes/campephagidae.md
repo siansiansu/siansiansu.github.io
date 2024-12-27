@@ -185,7 +185,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **斑戲班仔 pan-tshì-hì-pan-á**
+- 🎯 **烏白戲班仔 oo-pe̍h-tshì-hì-pan-á**
 - 斑山椒鳥 pan-tshì-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu

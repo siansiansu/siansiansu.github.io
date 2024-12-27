@@ -16,9 +16,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 松鴉 siông-a
+- 🎯 **八萬仔 peh-bān-á**
+- 松仔 siông-á
 - ✳️ 烏鴉 oo-a
 
+:::
+
+:::tip[註解]
+《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [灰喜鵲 オナガ Azure-winged Magpie](https://ebird.org/species/azwmag2)

@@ -503,15 +503,13 @@ Golden Eagle -> 金鷹 kim-ing
 
 :::info[台語名]
 
-- 🎯 **花斑湳仔鷹 hue-pan-làm-á-ing**
+- 🎯 **烏白湳仔鷹 oo-pe̍h-làm-á-ing**
 - ✳️ 鷹仔 ing-á
 
 :::
 
 :::tip[備註]
-
-- Pied Harrier -> 花斑 hue-pan + 湳仔 làm-á + 鷹 ing
-
+參考英語
 :::
 
 ## [黑鳶 トビ Black Kite](https://ebird.org/species/blakit1)

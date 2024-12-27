@@ -189,7 +189,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **斑點釣魚翁 pan-tiám-tiò-hî-ang**
+- 🎯 **烏白釣魚翁 oo-pe̍h-tiám-tiò-hî-ang**
 - 斑點翡翠 pan-tiám-huí-tshuì
 - ✳️ 天狗 thian-káu
 - ✳️ 水狗 tsuí-káu

@@ -4,7 +4,7 @@ description: 本文整理了潛鳥的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 潛鳥科 tsiâm-tsiáu-kho
+# 藏水鳥科 tshàng-tsuí-tsiáu-kho
 
 ## [紅喉潛鳥 アビ Red-throated Loon](https://ebird.org/species/retloo)
 
@@ -16,14 +16,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **紅喉潛鳥 âng-âu-tsiâm-tsiáu**
+- 🎯 **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
 
 :::
 
 :::tip[註解]
-
-- Red-throated Loon -> 紅喉 an-âu + 潛鳥 tsiâm-tsiáu
-
+參考行為
 :::
 
 ## [黑喉潛鳥 オオハム Arctic Loon](https://ebird.org/species/arcloo)
@@ -36,14 +34,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **烏喉潛鳥 oo-âu-tsiâm-tsiáu**
+- 🎯 **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
 
 :::
 
 :::tip[註解]
-
-黑喉潛鳥 -> 烏喉 an-âu + 潛鳥 tsiâm-tsiáu
-
+參考行為
 :::
 
 ## [太平洋潛鳥 シロエリオオハム Pacific Loon](https://ebird.org/species/pacloo)
@@ -56,14 +52,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **太平洋潛鳥 thài-pîng-iûnn-tsiâm-tsiáu**
+- 🎯 **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
 
 :::
 
 :::tip[註解]
-
-Pacific Loon -> 太平洋 thài-pîng-iûnn + 潛鳥 tsiâm-tsiáu
-
+參考行為
 :::
 
 ## [白嘴潛鳥 ハシジロアビ Yellow-billed Loon](https://ebird.org/species/yebloo)
@@ -76,12 +70,10 @@ Pacific Loon -> 太平洋 thài-pîng-iûnn + 潛鳥 tsiâm-tsiáu
 
 :::info[台語名]
 
-- 🎯 白喙潛鳥 pe̍h-tshuì-tsiâm-tsiáu
+- 🎯 **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
 
 :::
 
 :::tip[註解]
-
-- 白嘴潛鳥 -> 白喙 pe̍h-tshuì + 潛鳥 tsiâm-tsiáu
-
+參考行為
 :::
