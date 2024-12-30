@@ -4,7 +4,7 @@ description: 本文整理了燕鴴的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 燕仔鴴科 iàn-á-hîng-kho
+# 草埔燕仔科 tsháu-poo-iàn-á-kho
 
 ## [燕鴴 ツバメチドリ Oriental Pratincole](https://ebird.org/species/oripra)
 
@@ -16,12 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **燕仔鴴 iàn-á-hîng**
+- 🎯 **草埔燕仔 tsháu-poo-iàn-á**
 
 :::
 
 :::tip[註解]
-
-- 燕仔 iàn-á + 鴴 hîng
-
+《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::

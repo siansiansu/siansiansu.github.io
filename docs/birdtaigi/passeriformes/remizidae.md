@@ -16,7 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 攀雀 phan-tshiok
-- 🎯 吊巣雀 tiàu-tsâu-tshiok
+- 🎯 **攀雀 phan-tshiok**
 
+:::
+
+:::tip[註解]
+參考華語
 :::
