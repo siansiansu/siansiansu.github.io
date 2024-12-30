@@ -154,7 +154,9 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 台灣叢樹鶯 tâi-uân-tshông-tshiū-ing
+- 🎯 **赤色蝗鶯 tshiah-hông-ing**
+- 赤色急鳥 tshiah-kip-tsiáu
+- ✳️ 急鳥 kip-tsiáu
 
 :::
 

@@ -4,9 +4,9 @@ description: 本文整理了鷦眉的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 鷦眉科 tsiau-bî-kho
+# 鷦眉科 tsiau-bâi-kho
 
-## [台灣鷦眉 タイワンサザイチメドリ Taiwan Cupwing](https://ebird.org/species/taiwrb1)
+## [臺灣鷦眉 タイワンサザイチメドリ Taiwan Cupwing](https://ebird.org/species/taiwrb1)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/89046451/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
@@ -16,6 +16,6 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 台灣鷦眉 tâi-uân-tsiau-bî
+- 🎯 **臺灣鷦眉 tâi-uân-tsiau-bâi**
 
 :::
