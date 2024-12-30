@@ -48,7 +48,7 @@ import Image from '@theme/IdealImage';
 
 ## [賽氏短趾百靈 ヒメコウテンシ Mongolian Short-toed Lark](https://ebird.org/species/sstlar4)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459909384/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459909384/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Afsar Nayakkan, some rights reserved (CC-BY)

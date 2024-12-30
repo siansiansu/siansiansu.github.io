@@ -144,7 +144,7 @@ import Image from '@theme/IdealImage';
 
 ## [灰背伯勞 チベットモズ Gray-backed Shrike](https://ebird.org/species/gybshr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457844807/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457844807/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dutta Roy Sagnik, some rights reserved (CC-BY)
@@ -163,7 +163,7 @@ import Image from '@theme/IdealImage';
 
 ## [西方灰伯勞 ヨーロッパオオモズ Great Gray Shrike](https://ebird.org/species/norshr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459263045/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459263045/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Mourad Harzallah, some rights reserved (CC-BY)

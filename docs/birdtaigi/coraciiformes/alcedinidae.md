@@ -41,7 +41,7 @@ import Image from '@theme/IdealImage';
 
 ## [黑背三趾翠鳥 ミツユビカワセミ Black-backed Dwarf-Kingfisher](https://ebird.org/species/bkbkin1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/389472567/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/389472567/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Focus Saranpat Ouilapan, some rights reserved (CC-BY)

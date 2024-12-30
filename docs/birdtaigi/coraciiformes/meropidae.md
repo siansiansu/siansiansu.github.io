@@ -29,7 +29,7 @@ import Image from '@theme/IdealImage';
 
 ## [藍頰蜂虎 ルリホオハチクイ Blue-cheeked Bee-eater](https://ebird.org/species/bcbeat1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457214671/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457214671/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Parth Kansara, some rights reserved (CC-BY)

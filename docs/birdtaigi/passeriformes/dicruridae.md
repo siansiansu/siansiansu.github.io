@@ -8,7 +8,7 @@ import Image from '@theme/IdealImage';
 
 ## [大卷尾 オウチュウ Black Drongo](https://ebird.org/species/bladro1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459477767/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459477767/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © kumarkv, some rights reserved (CC-BY)
@@ -62,7 +62,7 @@ import Image from '@theme/IdealImage';
 
 ## [小卷尾 ヒメオウチュウ Bronzed Drongo](https://ebird.org/species/brodro1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/456685752/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/456685752/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Rohit Naniwadekar, some rights reserved (CC-BY)
