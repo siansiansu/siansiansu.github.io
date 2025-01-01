@@ -127,7 +127,7 @@ no rights reserved, uploaded by 葉子
 
 ## [紅耳鵯 コウラウン Red-whiskered Bulbul](https://ebird.org/species/rewbul)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460288318/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460288318/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Daniel S. Katz, some rights reserved (CC-BY)

@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 ## [淡眉柳鶯 バフマユムシクイ Hume's Warbler](https://ebird.org/species/humwar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460449536/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460449536/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Giuliana Pirotta, some rights reserved (CC-BY)
@@ -134,7 +134,7 @@ import Image from '@theme/IdealImage';
 
 ## [黃腹柳鶯 キバラムシクイ Tickell's Leaf Warbler (Tickell's)](https://ebird.org/species/tilwar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/445986590/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/445986590/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dutta Roy Sagnik, some rights reserved (CC-BY)
@@ -206,7 +206,7 @@ import Image from '@theme/IdealImage';
 
 ## [嘰喳柳鶯 チフチャフ Common Chiffchaff](https://ebird.org/species/comchi1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460476625/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460476625/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © David Pereira, some rights reserved (CC-BY)
@@ -278,7 +278,7 @@ import Image from '@theme/IdealImage';
 
 ## [比氏鶲鶯 インドシナモリムシクイ Bianchi's Warbler](https://ebird.org/species/biawar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/104703187/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/104703187/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Christoph Moning, some rights reserved (CC-BY)
@@ -314,7 +314,7 @@ import Image from '@theme/IdealImage';
 
 ## [淡尾鶲鶯 ムジオモリムシクイ Alström's Warbler](https://ebird.org/species/pltwar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/129254419/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/129254419/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © ian_dugdale, some rights reserved (CC-BY)
@@ -332,7 +332,7 @@ import Image from '@theme/IdealImage';
 
 ## [暗綠柳鶯 ヤナギムシクイ Greenish Warbler](https://ebird.org/species/grewar3)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459646861/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459646861/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © kumarkv, some rights reserved (CC-BY)
@@ -458,7 +458,7 @@ import Image from '@theme/IdealImage';
 
 ## [栗頭鶲鶯 クリガシラモリムシクイ Chestnut-crowned Warbler](https://ebird.org/species/chcwar2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/451769027/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/451769027/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dutta Roy Sagnik, some rights reserved (CC-BY)

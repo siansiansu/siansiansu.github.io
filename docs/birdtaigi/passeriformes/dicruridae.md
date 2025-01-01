@@ -80,7 +80,7 @@ import Image from '@theme/IdealImage';
 
 ## [髮冠卷尾 カンムリオウチュウ Hair-crested Drongo](https://ebird.org/species/hacdro1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/446805348/large.png" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/446805348/medium.png" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Andrew Lai, some rights reserved (CC-BY)

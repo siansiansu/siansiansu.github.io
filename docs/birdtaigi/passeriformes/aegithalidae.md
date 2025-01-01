@@ -4,7 +4,7 @@ description: 本文整理了紅頭山雀的台語名，並對照英語與華語�
 
 import Image from '@theme/IdealImage';
 
-# 長尾山雀科 tn̂g-bé-suann-tshiok-kho
+# 長尾山雀科 tn̂g-bué-suann-tshiok-kho
 
 ## [紅頭山雀 ズアカエナガ Black-throated Tit](https://ebird.org/species/blttit2)
 
@@ -16,7 +16,11 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 紅頭山雀 âng-thâu-suann-tshiok
+- 🎯 **紅頭山雀 âng-thâu-suann-tshiok**
 - ✳️ 紅頭仔 âng-thâu-á
 
+:::
+
+:::tip[註解]
+1973 Embree台英辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
