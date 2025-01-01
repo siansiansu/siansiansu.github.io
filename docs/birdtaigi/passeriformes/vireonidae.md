@@ -4,7 +4,7 @@ description: 本文整理了綠畫眉的台語名，並對照英語與華語翻�
 
 import Image from '@theme/IdealImage';
 
-# 青花眉科 tshenn-hue-bî
+# 青花眉科 tshenn-hue-bâi
 
 ## [綠畫眉 アオチメドリ White-bellied Erpornis](https://ebird.org/species/whbyuh1)
 
@@ -16,8 +16,8 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 **青花眉 tshenn-hue-bî**
-- ✳️ 花眉仔 hue-bî-á
+- 🎯 **青花眉 tshenn-hue-bâi**
+- ✳️ 花眉仔 hue-bâi-á
 
 :::
 

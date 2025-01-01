@@ -17,8 +17,8 @@ import Image from '@theme/IdealImage';
 :::info[台語名]
 
 - 🎯 **赤頭花翼 tshiah-thâu-hue-i̍k**
-- 🎯 **臺灣花眉仔 tâi-uân-hue-bî-á**
-- ✳️ 花眉仔 hue-bî-á
+- 🎯 **臺灣花眉仔 tâi-uân-hue-bâi-á**
+- ✳️ 花眉仔 hue-bâi-á
 
 :::
 

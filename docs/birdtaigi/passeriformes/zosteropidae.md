@@ -34,7 +34,7 @@ import Image from '@theme/IdealImage';
 
 - 🎯 **尖頭花眉 tsiam-thâu-hue-bâi**
 - ✳️ 尖頭仔 tsiam-thâu-á
-- ✳️ 花眉仔 hue-bî-á
+- ✳️ 花眉仔 hue-bâi-á
 
 :::
 

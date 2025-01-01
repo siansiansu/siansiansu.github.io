@@ -16,8 +16,10 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 水叮噹 tsuí-tin-tang
-- 河烏 hô-oo
-- 川鴉 tshuan-a
+- 🎯 **水叮噹 tsuí-tin-tang**
 
+:::
+
+:::tip[註解]
+《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
