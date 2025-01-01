@@ -1,10 +1,10 @@
 ---
-description: 畫眉科 hue-bî-kho
+description: 本文整理了山紅頭、大小彎嘴的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
 ---
 
 import Image from '@theme/IdealImage';
 
-# 畫眉科 hue-bî-kho
+# 花眉仔科 hue-bâi-á-kho
 
 ## [山紅頭 ズアカチメドリ Rufous-capped Babbler](https://ebird.org/species/rucbab1)
 
@@ -16,8 +16,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 山紅頭 suann-âng-thâu
+- 🎯 **山紅頭 suann-âng-thâu**
 
+:::
+
+:::tip[註解]
+1973 Embree台英辭典
 :::
 
 ## [小彎嘴 タイワンヒメマルハシ Taiwan Scimitar-Babbler](https://ebird.org/species/taiscb1)
@@ -30,14 +34,16 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 奸臣仔鳥 kan-sîn-á-tsiáu
-- 🎯 竹跤花眉 tik-kha hue-bî
-- 🎯 花眉舅仔 hue-bî kū-á
-- 🎯 賊仔鳥 tsha̍t-á-tsiáu
-- 🎯 小彎喙 sió-uan-tshuì
-- 🎯 小彎喙畫眉 sió-uan-tshuì-uē-bâi
-- ✳️ 花眉仔 hue-bî-á/hua-bî-á
+- 🎯 **竹跤花眉 tik-kha-hue-bâi**
+- 🎯 **奸臣仔鳥 kan-sîn-á-tsiáu**
+- 🎯 **花眉舅仔 hue-bâi-kū-á**
+- 🎯 **賊仔鳥 tsha̍t-á-tsiáu**
+- ✳️ 花眉仔 hue-bâi-á
 
+:::
+
+:::tip[註解]
+《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2016⁺ iTaigi、2002⁺ 台華線頂辭典
 :::
 
 ## [大彎嘴 ムナフマルハシ Black-necklaced Scimitar-Babbler](https://ebird.org/species/sbsbab2)
@@ -50,7 +56,14 @@ no rights reserved, uploaded by Ben Keen
 
 :::info[台語名]
 
-- 🎯 大彎喙 tuā-uan-tshuì
-- 🎯 大彎喙畫眉 tuā-uan-tshuì-uē-bâi
+- 🎯 **大竹跤花眉 tuā-tik-kha-hue-bâi**
+- 🎯 **大奸臣仔鳥 tuā-kan-sîn-á-tsiáu**
+- 🎯 **大花眉舅仔 tuā-hue-bâi-kū-á**
+- 🎯 **大賊仔鳥 tuā-tsha̍t-á-tsiáu**
+- ✳️ 花眉仔 hue-bâi-á
 
+:::
+
+:::tip[註解]
+參考小彎嘴台語
 :::
