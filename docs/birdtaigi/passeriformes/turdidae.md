@@ -16,11 +16,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 白氏地鶇 pe̍h-sī-tē-tong
-- ✳️ 虎鶇 hóo-tong
+- 🎯 **白氏鶇仔 pe̍h-sī-tang-á**
 - ✳️ 花柿仔 hue-khī-á
 - ✳️ 鶇仔 tang-á
 
+:::
+
+:::tip[註解]
+參考《台灣野鳥鄉土名》、華語、英語
 :::
 
 ## [虎斑地鶇 ミナミトラツグミ Scaly Thrush](https://ebird.org/species/scathr8/)
@@ -33,12 +36,14 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 小虎鶇 sió-hóo-tong
-- 🎯 虎斑地鶇 hóo-pan-tē-tong
-- ✳️ 虎鶇 hóo-tong
+- 🎯 **虎皮鶇仔 hóo-phuê-tang-á**
 - ✳️ 花柿仔 hue-khī-á
 - ✳️ 鶇仔 tang-á
 
+:::
+
+:::tip[註解]
+參考《台灣野鳥鄉土名》、華語、英語
 :::
 
 ## [白眉地鶇 マミジロ Siberian Thrush](https://ebird.org/species/sibthr1)
@@ -51,9 +56,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 白眉地鶇 pe̍h-bâi-tē-tong
+- 🎯 **白眉鶇仔 pe̍h-bâi-tang-á**
 - ✳️ 鶇仔 tang-á
 
+:::
+
+:::tip[註解]
+參考華語
 :::
 
 ## [橙頭地鶇 オレンジジツグミ Orange-headed Thrush](https://ebird.org/species/orhthr1)

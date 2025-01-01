@@ -4,7 +4,7 @@ description: 本文整理了河烏的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 河烏科 hô-oo-kho
+# 水叮噹科 tsuí-tin-tang-kho
 
 ## [河烏 カワガラス Brown Dipper](https://ebird.org/species/brodip1)
 
