@@ -148,6 +148,7 @@ import Image from '@theme/IdealImage';
 :::info[台語名]
 
 - 🎯 **白頭鶇仔 pe̍h-thâu-tang-á**
+- 🎯 **台灣鶇仔 tâi-uân-tang-á**
 - ✳️ 白頭仔 pe̍h-thâu-á
 - ✳️ 鶇仔 tang-á
 
