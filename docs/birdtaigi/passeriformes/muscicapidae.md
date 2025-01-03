@@ -4,7 +4,7 @@ description: 本文整理了鶲的台語名，並對照英語與華語翻譯，�
 
 import Image from '@theme/IdealImage';
 
-# 鶲科 ong-kho
+# 鶲仔科 ong-á-kho
 
 ## [灰斑鶲 エゾビタキ Gray-streaked Flycatcher](https://ebird.org/species/gysfly1)
 
@@ -16,9 +16,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 灰斑鶲 hue-pan-ong
-- ✳️ 鶲仔 ong-á
+- 🎯 **殕斑鶲 phú-pan-ong**
 
+:::
+
+:::tip[註解]
+1973 Embree台英辭典
 :::
 
 ## [烏鶲 サメビタキ Dark-sided Flycatcher](https://ebird.org/species/dasfly)
@@ -31,9 +34,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 烏鶲 oo-ong
-- 鮫鶲 ka-ong
+- 🎯 **烏鶲 oo-ong**
 
+:::
+
+:::tip[註解]
+1973 Embree台英辭典
 :::
 
 ## [紅尾鶲 ミヤマヒタキ Ferruginous Flycatcher](https://ebird.org/species/ferfly1)
@@ -46,9 +52,13 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 紅尾鶲 âng-bé-ong
-- 🎯 深山鶲 tshim-suann-ong
+- 🎯 **紅尾鶲 âng-bé-ong**
+- 🎯 **深山鶲 tshim-suann-ong**
 
+:::
+
+:::tip[註解]
+1973 Embree台英辭典
 :::
 
 ## [寬嘴鶲 コサメビタキ Asian Brown Flycatcher](https://ebird.org/species/asbfly)
@@ -61,14 +71,49 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 闊喙鶲 khuan-tshuì-ong
-- 小鮫鶲 sió-ka-ong
+- 🎯 **闊喙鶲 khuan-tshuì-ong**
 
 :::
 
-## 褐胸鶲
+:::tip[註解]
+1973 Embree台英辭典
+:::
 
-## 斑鶲
+## [褐胸鶲 チャムネサメビタキ Brown-breasted Flycatcher](https://ebird.org/species/brbfly2)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455477740/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© sunnyjosef, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **赤胸鶲 tshiah-hing-ong**
+
+:::
+
+:::tip[註解]
+參考特徵
+:::
+
+## [斑鶲 ムナフヒタキ Spotted Flycatcher](https://ebird.org/species/spofly1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/454393690/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Timothy Whitehead, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **斑鶲 pan-ong**
+
+:::
+
+:::tip[註解]
+參考特徵
+:::
 
 ## [鵲鴝 シキチョウ Oriental Magpie-Robin](https://ebird.org/species/magrob)
 
@@ -80,9 +125,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 鵲鴝 tshio̍k-kù
-- 🎯 四季鳥 sù-kuì-tsiáu
+- 🎯 **客鳥鴝仔 kheh-tsiáu-kî-á**
 
+:::
+
+:::tip[註解]
+參考英語、華語
 :::
 
 ## [白腰鵲鴝 アカハラシキチョウ White-rumped Shama](https://ebird.org/species/whrsha)
@@ -95,9 +143,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 白腰鵲鴝 pe̍h-io-tshio̍k-kù
-- 🎯 赤腹四季鳥 tshiah-pak-sù-kuì-tsiáu
+- 🎯 **白腰客鳥鴝仔 pe̍h-io-kheh-tsiáu-kî-á**
 
+:::
+
+:::tip[註解]
+參考英語、華語
 :::
 
 ## [棕腹大仙鶲 フッケンアオヒタキ Fujian Niltava](https://ebird.org/species/fujnil1)
@@ -110,8 +161,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 棕腹大仙鶲 tsang-pak-tuā-sian-ong
+- 🎯 **福建琉璃 hok-kiàn-liû-lî**
 
+:::
+
+:::tip[註解]
+參考日語
 :::
 
 ## [棕腹仙鶲 コチャバラオオルリ Rufous-bellied Niltava](https://ebird.org/species/rubnil1)
@@ -124,12 +179,31 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 棕腹仙鶲 tsang-pak-sian-ong
-- 🎯 小茶腹大瑠璃 sió-tê-pak-tuā-liû-lî
+- 🎯 **小赤腹大琉璃 sió-tshiah-pak-tuā-liû-lî**
 
 :::
 
-## 棕腹藍仙鶲
+:::tip[註解]
+參考日語
+:::
+
+## [棕腹藍仙鶲 Chinese Vivid Niltava](https://ebird.org/species/vivnil2)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/181517848/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Sevin Dee, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **中國青琉璃 tiong-kok-tshenn-liû-lî**
+
+:::
+
+:::tip[註解]
+參考日語、英語
+:::
 
 ## [黃腹琉璃 チャバラオオルリ Taiwan Vivid Niltava](https://ebird.org/species/vivnil3)
 
@@ -141,9 +215,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 黃腹琉璃 n̂g-pak-liû-lî
-- 🎯 茶腹大瑠璃 tê-pak-tuā-liû-lî
+- 🎯 **黃腹琉璃 n̂g-pak-liû-lî**
 
+:::
+
+:::tip[註解]
+參考華語
 :::
 
 ## [白腹琉璃 オオルリ Blue-and-white Flycatcher](https://ebird.org/species/bawfly2)
@@ -156,13 +233,33 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 白腹琉璃 pe̍h-pak-liû-lî
-- 🎯 大瑠璃 tuā-liû-lî
+- 🎯 **白腹琉璃 pe̍h-pak-liû-lî**
+- 大瑠璃 tuā-liû-lî
 - 竹林鳥 tik-lîm-tsiáu
 
 :::
 
-## 琉璃藍鶲
+:::tip[註解]
+2002⁺ 台華線頂辭典
+:::
+
+## [琉璃藍鶲 カラオオルリ Zappey's Flycatcher](https://ebird.org/species/zapfly1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/185974190/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **琉璃青鶲 liû-lî-tshenn-ong**
+
+:::
+
+:::tip[註解]
+參考華語
+:::
 
 ## [銅藍鶲 ロクショウヒタキ Verditer Flycatcher](https://ebird.org/species/verfly4)
 
@@ -174,9 +271,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 銅藍鶲 tâng-lâm-ong
-- 🎯 緑青鶲 li̍k-tshenn-ong
+- 🎯 **青鶲 tshenn-ong**
 
+:::
+
+:::tip[註解]
+參考特徵
 :::
 
 ## [海南藍仙鶲 ハイナンヒメアオヒタキ Hainan Blue Flycatcher](https://ebird.org/species/habfly1)
@@ -189,17 +289,89 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 海南藍仙鶲 hái-lâm-tâng-sian-ong
+- 🎯 **海南青鶲 hái-lâm-tshenn-ong**
 
 :::
 
-## 中華藍仙鶲
+:::tip[註解]
+參考英語、日語
+:::
 
-## 山藍仙鶲
+## [中華藍仙鶲 チュウゴクヒメアオヒタキ Chinese Blue Flycatcher](https://ebird.org/species/butfly2)
 
-## 白喉林鶲
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457207507/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-## 白喉短翅鶇
+<p className="image-caption">
+© Sevin Dee, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **中國青鶲 tiong-kok-tshenn-ong**
+
+:::
+
+
+:::tip[註解]
+參考英語
+:::
+
+## [山藍仙鶲 ミヤマヒメアオヒタキ Hill Blue Flycatcher](https://ebird.org/species/hibfly1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450136575/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **山青鶲 suann-tshenn-ong**
+
+:::
+
+
+:::tip[註解]
+參考英語
+:::
+
+## [白喉林鶲 ムナオビミツリンヒタキ Brown-chested Jungle Flycatcher](https://ebird.org/species/bncjuf1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/367778479/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **白喉林鶲 pe̍h-âu-lîm-ong**
+
+:::
+
+
+:::tip[註解]
+參考華語
+:::
+
+## [白喉短翅鶇 ヒメコバネヒタキ Lesser Shortwing](https://ebird.org/species/lessho1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/419194426/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Rejoice Gassah, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **白喉短翼鶇仔 pe̍h-âu-té-si̍t-tang-á**
+
+:::
+
+
+:::tip[註解]
+參考華語、英語
+:::
 
 ## [小翼鶇 タイワンコバネヒタキ Taiwan Shortwing](https://ebird.org/species/whbsho6)
 
@@ -211,11 +383,31 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 小翼鶇 sió-i̍k-tang
+- 🎯 **短翼鶇仔 té-si̍t-tang-á**
 
 :::
 
-## 紅尾歌鴝
+:::tip[註解]
+參考英語
+:::
+
+## [紅尾歌鴝 シマゴマ Rufous-tailed Robin](https://ebird.org/species/rutrob1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/254194095/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Andrew Lai, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **紅尾鴝仔 âng-bué-kî-á**
+
+:::
+
+:::tip[註解]
+參考英語
+:::
 
 ## [日本歌鴝 コマドリ Japanese Robin](https://ebird.org/species/japrob2)
 
@@ -227,10 +419,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 日本鴝鳥 ji̍t-pún-kù-tsiáu
-- 🎯 日本歌鴝 ji̍t-pún-kua-kù
-- 🎯 鴝鳥 kù-tsiáu
+- 🎯 **日本鴝仔 ji̍t-pún-kî-á**
 
+:::
+
+:::tip[註解]
+參考英語
 :::
 
 ## [琉球歌鴝 アカヒゲ Ryukyu Robin](https://ebird.org/species/ryurob2)
@@ -243,9 +437,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 琉球鴝鳥 liû-kiû-kù-tsiáu
-- 🎯 琉球歌鴝 liû-kiû-kua-kù
+- 🎯 琉球鴝仔 liû-kiû-kî-á
 
+:::
+
+:::tip[註解]
+參考英語
 :::
 
 ## [藍歌鴝 コルリ Siberian Blue Robin](https://ebird.org/species/sibrob)
@@ -258,10 +455,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 藍歌鴝 lâm-kua-kù
-- 🎯 藍鴝鳥 lâm-kua-tsiáu
-- 小瑠璃 sió-liû-lî
+- 🎯 **青鴝仔 tshenn-kî-á**
 
+:::
+
+:::tip[註解]
+參考華語
 :::
 
 ## 藍喉鴝

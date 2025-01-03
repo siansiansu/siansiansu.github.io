@@ -153,7 +153,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## 📖 鳥仔名 ê 註解
+## 鳥仔名 ê 註解
 
 - 🎯：推薦做為這个唯一物種 ê 台語俗名。
 - ✳️：統稱，有兩個以上 ê 物種攏會使叫這个名。
