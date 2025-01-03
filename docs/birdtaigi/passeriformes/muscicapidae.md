@@ -465,7 +465,7 @@ import Image from '@theme/IdealImage';
 
 ## 藍喉鴝
 
-## [台灣紫嘯鶇 ルリチョウ Taiwan Whistling-Thrush](https://ebird.org/species/fowthr1)
+## [臺灣紫嘯鶇 ルリチョウ Taiwan Whistling-Thrush](https://ebird.org/species/fowthr1)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/263010281/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
@@ -565,7 +565,7 @@ no rights reserved, uploaded by 葉子
 
 :::
 
-## [白眉林鴝 キクチヒタキ White-browed Bush-Robin](https://ebird.org/species/wbbrob1)
+## [臺灣白眉林鴝 キクチヒタキ White-browed Bush-Robin](https://ebird.org/species/wbbrob1)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/100656737/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
