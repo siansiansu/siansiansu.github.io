@@ -463,7 +463,23 @@ import Image from '@theme/IdealImage';
 參考華語
 :::
 
-## 藍喉鴝
+## [藍喉鴝 オガワコマドリ Bluethroat](https://ebird.org/species/blueth)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458982543/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Dan Vickers, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+
+- 🎯 **青喉鴝仔 tshenn-âu-kî-á**
+
+:::
+
+:::tip[註解]
+參考英語、特徵
+:::
 
 ## [臺灣紫嘯鶇 ルリチョウ Taiwan Whistling-Thrush](https://ebird.org/species/fowthr1)
 
