@@ -15,11 +15,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **紅連雀 âng-liân-tshiok**
+:::
 
-- 🎯 朱連雀 tsu-liân-tshiok
-- 🎯 緋連雀 hui-liân-tshiok
-- 🎯 十二紅 tsa̍p-jī-âng
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [黃連雀 キレンジャク Bohemian Waxwing](https://ebird.org/species/bohwax)
@@ -31,7 +31,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **黃連雀 n̂g-liân-tshiok**
+:::
 
-- 🎯 黃連雀 n̂g-liân-tshiok
-
+:::tip[註解]
+參考華語鳥類名錄
 :::

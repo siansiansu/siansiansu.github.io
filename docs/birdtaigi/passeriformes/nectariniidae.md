@@ -16,11 +16,17 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu
+- 🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
 - ✳️ 太陽鳥 thài-iông-tsiáu
 - ✳️ 花蜜鳥 hue-bi̍t-tsiáu
 
 :::
+
+:::tip[註解]
+參考華語鳥類名錄
+:::
+
+## 藍喉太陽鳥
 
 ## [叉尾太陽鳥 エンビタイヨウチョウ Fork-tailed Sunbird](https://ebird.org/species/fotsun1)
 
@@ -32,8 +38,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 叉尾太陽鳥 tshe-bé-thài-iông-tsiáu
+- 🎯 **叉尾太陽鳥 tshe-bé-thài-iông-tsiáu**
 - ✳️ 太陽鳥 thài-iông-tsiáu
 - ✳️ 花蜜鳥 hue-bi̍t-tsiáu
 
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
 :::
