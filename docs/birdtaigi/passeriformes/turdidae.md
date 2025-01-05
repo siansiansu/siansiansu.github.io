@@ -85,7 +85,7 @@ import Image from '@theme/IdealImage';
 
 ## [寶興歌鶇 チベットウタツグミ Chinese Thrush](https://ebird.org/species/chithr2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/424401565/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/424401565/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sun Jiao, some rights reserved (CC-BY)
@@ -103,7 +103,7 @@ import Image from '@theme/IdealImage';
 
 ## [槲鶇 ヤドリギツグミ Mistle Thrush](https://ebird.org/species/misthr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461132142/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461132142/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Anton Labachou, some rights reserved (CC-BY)
@@ -179,7 +179,7 @@ import Image from '@theme/IdealImage';
 
 ## [灰背鶇 カラアカハラ Gray-backed Thrush](https://ebird.org/species/gybthr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459838494/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459838494/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Toby Y, some rights reserved (CC-BY)
@@ -216,7 +216,7 @@ import Image from '@theme/IdealImage';
 
 ## [褐頭鶇 カキイロツグミ Gray-sided Thrush](https://ebird.org/species/gysthr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/182169242/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/182169242/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sevin Dee, some rights reserved (CC-BY)
@@ -270,7 +270,7 @@ import Image from '@theme/IdealImage';
 
 ## [黑頸鶇 ノドグロツグミ Black-throated Thrush](https://ebird.org/species/datthr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/454179349/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/454179349/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Anton Barbyshev, some rights reserved (CC-BY)
@@ -288,7 +288,7 @@ import Image from '@theme/IdealImage';
 
 ## [赤頸鶇 ノドアカツグミ Red-throated Thrush](https://ebird.org/species/retthr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/453922882/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/453922882/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Анна Васильченко, some rights reserved (CC-BY)

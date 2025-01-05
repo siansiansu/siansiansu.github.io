@@ -84,7 +84,7 @@ import Image from '@theme/IdealImage';
 
 ## [白腹毛腳燕 ニシイワツバメ Siberian House-Martin](https://ebird.org/species/comhom2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459061250/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459061250/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dan Vickers, some rights reserved (CC-BY)

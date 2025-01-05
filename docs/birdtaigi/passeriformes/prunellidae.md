@@ -15,10 +15,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **岩鷚 gâm-liù**
+:::
 
-- 🎯 岩鷚 gān-liù
-- 🎯 岩雲雀 gān-hûn-tshiok
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [棕眉山岩鷚 ヤマヒバリ Siberian Accentor](https://ebird.org/species/sibacc)
@@ -30,8 +31,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **山岩鷚 suann-gān-liù**
+:::
 
-- 🎯 棕眉山岩鷚 tsang-bâi-suann-gān-liù
-- 🎯 山雲雀 suann-hûn-tshiok
-
+:::tip[註解]
+參考華語鳥類名錄、日語
 :::

@@ -87,7 +87,7 @@ import Image from '@theme/IdealImage';
 
 ## [黃胸藪眉 ヤブドリ Taiwan Liocichla](https://ebird.org/species/stelio1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/341230227/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/341230227/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Licheng Shih, some rights reserved (CC-BY)
@@ -140,7 +140,7 @@ import Image from '@theme/IdealImage';
 
 ## [黑喉噪眉 タイカンチョウ Black-throated Laughingthrush](https://ebird.org/species/bltlau1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/353931532/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/353931532/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Andrew Lai, some rights reserved (CC-BY)
@@ -159,7 +159,7 @@ import Image from '@theme/IdealImage';
 
 ## [白頰噪眉 カオジロガビチョウ White-browed Laughingthrush](https://ebird.org/species/whblau1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/392864450/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/392864450/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © porkytama, some rights reserved (CC-BY)
@@ -178,7 +178,7 @@ import Image from '@theme/IdealImage';
 
 ## [黑臉噪眉 カオグロガビチョウ Masked Laughingthrush](https://ebird.org/species/maslau1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/413448820/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/413448820/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sun Jiao, some rights reserved (CC-BY)
@@ -197,7 +197,7 @@ import Image from '@theme/IdealImage';
 
 ## [臺灣白喉噪眉 ズアカノドジロガビチョウ Rufous-crowned Laughingthrush](https://ebird.org/species/ruclau2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/184160914/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/184160914/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Redbird Wu, some rights reserved (CC-BY)
@@ -216,7 +216,7 @@ import Image from '@theme/IdealImage';
 
 ## [棕噪眉 タイワンタケドリ Rusty Laughingthrush](https://ebird.org/species/ruslau1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/346197642/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/346197642/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © 呂一起(Lu i-chi), some rights reserved (CC-BY)

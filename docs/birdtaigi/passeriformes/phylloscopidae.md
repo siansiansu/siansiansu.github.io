@@ -8,7 +8,7 @@ import Image from '@theme/IdealImage';
 
 ## [林柳鶯 モリムシクイ Wood Warbler](https://ebird.org/species/woowar)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/425567297/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/425567297/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Andrew Bazdyrev, some rights reserved (CC-BY)
@@ -62,7 +62,7 @@ import Image from '@theme/IdealImage';
 
 ## [雲南柳鶯 ウンナンムシクイ Chinese Leaf Warbler](https://ebird.org/species/chilew1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/365121103/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/365121103/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wang.QG, some rights reserved (CC-BY)
@@ -116,7 +116,7 @@ import Image from '@theme/IdealImage';
 
 ## [棕眉柳鶯 モウコムジセッカ Yellow-streaked Warbler](https://ebird.org/species/yeswar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/63647296/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/63647296/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © William Stephens, some rights reserved (CC-BY)
@@ -152,7 +152,7 @@ import Image from '@theme/IdealImage';
 
 ## [褐色柳鶯 ムジセッカ Dusky Warbler](https://ebird.org/species/duswar)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/445020582/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/445020582/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Devin, some rights reserved (CC-BY)
@@ -170,7 +170,7 @@ import Image from '@theme/IdealImage';
 
 ## [棕腹柳鶯 バフイロムシクイ Buff-throated Warbler](https://ebird.org/species/butwar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/421958195/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/421958195/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wang.QG, some rights reserved (CC-BY)
@@ -188,7 +188,7 @@ import Image from '@theme/IdealImage';
 
 ## [歐亞柳鶯 キタヤナギムシクイ Willow Warbler](https://ebird.org/species/wlwwar)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455269274/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455269274/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Timothy Whitehead, some rights reserved (CC-BY)
@@ -260,7 +260,7 @@ import Image from '@theme/IdealImage';
 
 ## [白眶鶲鶯 メジロモリムシクイ White-spectacled Warbler](https://ebird.org/species/whswar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/173497243/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/173497243/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
@@ -296,7 +296,7 @@ import Image from '@theme/IdealImage';
 
 ## [峨眉鶲鶯 ガビモリムシクイ Martens's Warbler](https://ebird.org/species/marwar4)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/286474468/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/286474468/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wang.QG, some rights reserved (CC-BY)

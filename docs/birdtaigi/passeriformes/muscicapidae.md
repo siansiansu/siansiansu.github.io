@@ -75,7 +75,7 @@ import Image from '@theme/IdealImage';
 
 ## [褐胸鶲 チャムネサメビタキ Brown-breasted Flycatcher](https://ebird.org/species/brbfly2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455477740/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455477740/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © sunnyjosef, some rights reserved (CC-BY)
@@ -91,7 +91,7 @@ import Image from '@theme/IdealImage';
 
 ## [斑鶲 ムナフヒタキ Spotted Flycatcher](https://ebird.org/species/spofly1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/454393690/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/454393690/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Timothy Whitehead, some rights reserved (CC-BY)
@@ -171,7 +171,7 @@ import Image from '@theme/IdealImage';
 
 ## [棕腹藍仙鶲 Chinese Vivid Niltava](https://ebird.org/species/vivnil2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/181517848/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/181517848/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sevin Dee, some rights reserved (CC-BY)
@@ -223,7 +223,7 @@ import Image from '@theme/IdealImage';
 
 ## [琉璃藍鶲 カラオオルリ Zappey's Flycatcher](https://ebird.org/species/zapfly1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/185974190/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/185974190/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
@@ -271,7 +271,7 @@ import Image from '@theme/IdealImage';
 
 ## [中華藍仙鶲 チュウゴクヒメアオヒタキ Chinese Blue Flycatcher](https://ebird.org/species/butfly2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457207507/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457207507/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Sevin Dee, some rights reserved (CC-BY)
@@ -288,7 +288,7 @@ import Image from '@theme/IdealImage';
 
 ## [山藍仙鶲 ミヤマヒメアオヒタキ Hill Blue Flycatcher](https://ebird.org/species/hibfly1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450136575/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450136575/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
@@ -305,7 +305,7 @@ import Image from '@theme/IdealImage';
 
 ## [白喉林鶲 ムナオビミツリンヒタキ Brown-chested Jungle Flycatcher](https://ebird.org/species/bncjuf1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/367778479/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/367778479/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
@@ -322,7 +322,7 @@ import Image from '@theme/IdealImage';
 
 ## [白喉短翅鶇 ヒメコバネヒタキ Lesser Shortwing](https://ebird.org/species/lessho1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/419194426/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/419194426/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Rejoice Gassah, some rights reserved (CC-BY)
@@ -355,7 +355,7 @@ import Image from '@theme/IdealImage';
 
 ## [紅尾歌鴝 シマゴマ Rufous-tailed Robin](https://ebird.org/species/rutrob1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/254194095/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/254194095/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Andrew Lai, some rights reserved (CC-BY)
@@ -419,7 +419,7 @@ import Image from '@theme/IdealImage';
 
 ## [藍喉鴝 オガワコマドリ Bluethroat](https://ebird.org/species/blueth)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458982543/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458982543/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dan Vickers, some rights reserved (CC-BY)
@@ -601,7 +601,7 @@ no rights reserved, uploaded by 葉子
 
 ## [琉球姬鶲 リュウキュウキビタキ Ryukyu Flycatcher](https://ebird.org/species/narfly3)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/387804928/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/387804928/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
@@ -633,7 +633,7 @@ no rights reserved, uploaded by 葉子
 
 ## [鏽胸藍姬鶲 セアオビタキ Slaty-backed Flycatcher](https://ebird.org/species/slbfly1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/221743100/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/221743100/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wang.QG, some rights reserved (CC-BY)
@@ -649,7 +649,7 @@ no rights reserved, uploaded by 葉子
 
 ## [黃胸青鶲 ムネアカヒタキ Snowy-browed Flycatcher](https://ebird.org/species/snbfly1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/427684671/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/427684671/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Rejoice Gassah, some rights reserved (CC-BY)
@@ -665,7 +665,7 @@ no rights reserved, uploaded by 葉子
 
 ## [橙胸姬鶲 ノドグロヒタキ Rufous-gorgeted Flycatcher](https://ebird.org/species/rugfly1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/372222910/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/372222910/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Tristan Jobin, some rights reserved (CC-BY)
@@ -713,7 +713,7 @@ no rights reserved, uploaded by 葉子
 
 ## [藍額紅尾鴝 ルリビタイジョウビタキ Blue-fronted Redstart](https://ebird.org/species/blfred1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/444680443/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/444680443/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Paulmathi Vinod, some rights reserved (CC-BY)
@@ -746,7 +746,7 @@ no rights reserved, uploaded by 葉子
 
 ## [白頂溪鴝 シロボウシカワビタキ White-capped Redstart](https://ebird.org/species/whcred1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/452919638/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/452919638/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Griha Hasanov, some rights reserved (CC-BY)
@@ -762,7 +762,7 @@ no rights reserved, uploaded by 葉子
 
 ## [赭紅尾鴝 クロジョウビタキ Black Redstart](https://ebird.org/species/blared1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459931725/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459931725/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Jacky Judas, some rights reserved (CC-BY)
@@ -848,7 +848,7 @@ no rights reserved, uploaded by 葉子
 
 ## [白斑黑石䳭 クロノビタキ Pied Bushchat](https://ebird.org/species/piebus1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459876193/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459876193/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © kumarkv, some rights reserved (CC-BY)
@@ -864,7 +864,7 @@ no rights reserved, uploaded by 葉子
 
 ## [灰叢鴝 ヤマザキヒタキ Gray Bushchat](https://ebird.org/species/grybus1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459396612/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459396612/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Dutta Roy Sagnik, some rights reserved (CC-BY)
@@ -928,7 +928,7 @@ no rights reserved, uploaded by 葉子
 
 ## [白頂䳭 セグロサバクヒタキ Pied Wheatear](https://ebird.org/species/piewhe1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/443923027/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/443923027/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Anastasiia Merkulova, some rights reserved (CC-BY)

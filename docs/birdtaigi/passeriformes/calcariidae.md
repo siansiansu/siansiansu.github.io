@@ -4,7 +4,7 @@ description: 本文整理了鐵爪鵐的台語名，並對照英語與華語翻�
 
 import Image from '@theme/IdealImage';
 
-# 鐵爪鵐科 thih-jiáu-bû-kho
+# 鐵爪鵐仔科 thih-jiáu-bû-á-kho
 
 ## [鐵爪鵐 ツメナガホオジロ Lapland Longspur](https://ebird.org/species/laplon)
 
@@ -15,9 +15,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **鐵爪鵐仔 thih-jiáu-bû-á**
+:::
 
-- 🎯 鐵爪鵐 thih-jiáu-bû
-
+:::tip[註解]
+參考華語鳥類圖鑑
 :::
 
 ## [雪鵐 ユキホオジロ Snow Bunting](https://ebird.org/species/snobun)
@@ -29,7 +31,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **雪鵐仔 seh-bû-á**
+:::
 
-- 🎯 雪鵐 seh-bû
-
+:::tip[註解]
+參考華語鳥類圖鑑
 :::

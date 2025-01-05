@@ -139,7 +139,7 @@ import Image from '@theme/IdealImage';
 
 ## [東方寒鴉 コクマルガラス Daurian Jackdaw](https://ebird.org/species/daujac1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/453518367/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/453518367/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)

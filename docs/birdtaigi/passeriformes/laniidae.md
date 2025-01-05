@@ -104,7 +104,7 @@ import Image from '@theme/IdealImage';
 
 ## [栗背伯勞 ハイガシラモズ Burmese Shrike](https://ebird.org/species/burshr1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/448840434/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/448840434/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Griha Hasanov, some rights reserved (CC-BY)

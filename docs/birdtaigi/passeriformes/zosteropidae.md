@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 ## [紅脇繡眼 チョウセンメジロ Chestnut-flanked White-eye](https://ebird.org/species/cfweye1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450773912/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450773912/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Griha Hasanov, some rights reserved (CC-BY)

@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 ## [粉紅椋鳥 バライロムクドリ Rosy Starling](https://ebird.org/species/rossta2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459865557/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459865557/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Rohit Naniwadekar, some rights reserved (CC-BY)
@@ -208,7 +208,7 @@ import Image from '@theme/IdealImage';
 
 ## [葡萄胸椋鳥 Vinous-breasted Myna](https://ebird.org/species/vibsta4)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450128929/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450128929/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © zr217, some rights reserved (CC-BY)

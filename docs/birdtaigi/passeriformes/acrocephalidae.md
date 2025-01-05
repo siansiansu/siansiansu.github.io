@@ -98,7 +98,7 @@ import Image from '@theme/IdealImage';
 
 ## [鈍翅葦鶯 コバネヨシキリ Blunt-winged Warbler](https://ebird.org/species/blwwar1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/116598968/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/116598968/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)

@@ -26,7 +26,7 @@ import Image from '@theme/IdealImage';
 
 ## [灰卷尾 ハイイロオウチュウ Ashy Drongo](https://ebird.org/species/ashdro1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458240747/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458240747/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © James M. Maley, some rights reserved (CC-BY)
@@ -44,7 +44,7 @@ import Image from '@theme/IdealImage';
 
 ## [鴉嘴卷尾 ハシブトオウチュウ Crow-billed Drongo](https://ebird.org/species/crbdro1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/371005752/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/371005752/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)

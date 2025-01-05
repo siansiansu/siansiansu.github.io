@@ -4,7 +4,7 @@ description: 本文整理了吸蜜鳥的台語名，並對照英語與華語翻�
 
 import Image from '@theme/IdealImage';
 
-# 吸蜜鳥科 khip-bi̍t-tsiáu-kho
+# 食蜜鳥科 tsia̍h-bi̍t-tsiáu-kho
 
 ## [黃腹花蜜鳥 Ornate Sunbird](https://ebird.org/species/olbsun4)
 
@@ -15,18 +15,28 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
-- ✳️ 太陽鳥 thài-iông-tsiáu
-- ✳️ 花蜜鳥 hue-bi̍t-tsiáu
-
+🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
 :::
 
 :::tip[註解]
 參考華語鳥類名錄
 :::
 
-## 藍喉太陽鳥
+## [藍喉太陽鳥 ルリオタイヨウチョウ Mrs. Gould's Sunbird](https://ebird.org/species/gousun1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/403147723/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© hoshi, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+🎯 **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
+:::
 
 ## [叉尾太陽鳥 エンビタイヨウチョウ Fork-tailed Sunbird](https://ebird.org/species/fotsun1)
 
@@ -37,13 +47,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **叉尾太陽鳥 tshe-bé-thài-iông-tsiáu**
-- ✳️ 太陽鳥 thài-iông-tsiáu
-- ✳️ 花蜜鳥 hue-bi̍t-tsiáu
-
+🎯 **攕仔尾太陽鳥 tshiám-á-bué-thài-iông-tsiáu**
 :::
 
 :::tip[註解]
-參考華語鳥類名錄
+參考英語
 :::
