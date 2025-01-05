@@ -198,7 +198,7 @@ const config = {
           },
           {
             to: 'comments',
-            label: '留言板',
+            label: '留話簿仔',
             position: 'left',
           },
           {
