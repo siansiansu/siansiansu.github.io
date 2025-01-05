@@ -196,11 +196,11 @@ const config = {
             label: '遊戲',
             position: 'left'
           },
-          {
-            to: 'comments',
-            label: '留話簿仔',
-            position: 'left',
-          },
+          // {
+          //   to: 'comments',
+          //   label: '留話簿仔',
+          //   position: 'right',
+          // },
           {
             type: 'search',
             position: 'right',
@@ -214,35 +214,35 @@ const config = {
       },
       footer: {
         style: 'dark',
-        // links: [
-        //   {
-        //     title: 'Community',
-        //     items: [
-        //       {
-        //         label: 'Stack Overflow',
-        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //       },
-        //       {
-        //         label: 'Discord',
-        //         href: 'https://discordapp.com/invite/docusaurus',
-        //       },
-        //       {
-        //         label: 'X',
-        //         href: 'https://x.com/docusaurus',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'More',
-        //     items: [
-        //       {
-        //         label: 'GitHub',
-        //         href: 'https://github.com/facebook/docusaurus',
-        //       },
-        //     ],
-        //   },
-        // ],
-        copyright: `Copyright © ${new Date().getFullYear()} 鳥仔 ê 名, Inc. Built with Docusaurus.`,
+        links: [
+          {
+            title: '聯絡我',
+            items: [
+              {
+                label: '留話簿仔',
+                to: 'comments'
+              },
+              {
+                label: 'Instagram',
+                href: 'https://instagram.com/siansiansu',
+              },
+              {
+                label: 'X',
+                href: 'https://x.com/siansiansu',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/siansiansu',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} Soo bîn-hiân`,
       },
       prism: {
         theme: prismThemes.github,
