@@ -2,6 +2,7 @@
   "label": "雁形目 gān-hîng-ba̍k",
   "position": 2,
   "link": {
-    "id": "birdtaigi/anseriformes"
+    "type": "doc",
+    "id": "birdtaigi/anseriformes/index"
   }
 }
