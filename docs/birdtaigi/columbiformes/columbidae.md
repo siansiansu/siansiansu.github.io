@@ -15,15 +15,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **粉鳥 hún-tsiáu**
-
+🎯 **粉鳥 hún-tsiáu**
 :::
 
 :::tip[註解]
-
-- 教育部臺灣台語常用詞辭典
-
+參考教育部臺灣台語常用詞辭典
 :::
 
 ## [灰林鴿 タイワンジュズカケバト Ashy Wood-Pigeon](https://ebird.org/species/aswpig1)
@@ -35,15 +31,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **山粉鳥 suann-hún-tsiáu**
-
+🎯 **山粉鳥 suann-hún-tsiáu**
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [黑林鴿 カラスバト Black Wood-Pigeon](https://ebird.org/species/jawpig1)
@@ -55,15 +47,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **烏粉鳥 oo-hún-tsiáu**
-
+🎯 **烏粉鳥 oo-hún-tsiáu**
 :::
 
 :::tip[註解]
-
-- 烏 oo + 粉鳥 hún-tsiáu 取自特徵
-
+參考華語鳥類名錄
 :::
 
 ## [白喉林鴿 アカメカラスバト Metallic Pigeon](https://ebird.org/species/metpig1)
@@ -82,10 +70,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 赤目烏粉鳥 tshiah-ba̍k-oo-hún-tsiáu 取自日文漢字。
-- 白喉粉鳥 pe̍h-âu-hún-tsiáu 取自特徵
-
+參考華語鳥類名錄、日語
 :::
 
 ## [金背鳩 キジバト Oriental Turtle-Dove](https://ebird.org/species/ortdov)
@@ -104,11 +89,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 1973 Embree台英辭典
-- 2002⁺ 台華線頂辭典
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典、2002⁺ 台華線頂辭典
 :::
 
 ## [灰斑鳩 シラコバト Eurasian Collared-Dove](https://ebird.org/species/eucdov)
@@ -126,9 +107,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 殕色斑鴿 phú-sik-pan-kah 取自特徵、華語名
-
+參考華語鳥類名錄
 :::
 
 ## [紅鳩 ベニバト Red Collared-Dove](https://ebird.org/species/recdov1)
@@ -148,11 +127,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 1973 Embree台英辭典
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [珠頸斑鳩 カノコバト Spotted Dove](https://ebird.org/species/spodov)
@@ -167,13 +142,11 @@ import Image from '@theme/IdealImage';
 
 - 🎯 **斑鴿 pan-kah**
 - 🎯 **數珠仔 sòo-tsu-a**
+
 :::
 
 :::tip[註解]
-
-- 數珠仔 sòo-tsu-a 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 2002⁺ 台華線頂辭典
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
 :::
 
 ## [斑尾鵑鳩 ヨコジマオナガバト Barred Cuckoo-Dove](https://ebird.org/species/bacdov1)
@@ -185,15 +158,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
-
+🎯 **橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
 :::
 
 :::tip[註解]
-
-- 橫紋 huâinn-bûn + 長尾鳩 tn̂g-bé-kah 取自特徵
-
+參考特徵、日語
 :::
 
 ## [長尾鳩 フィリピンオナガバト Philippine Cuckoo-Dove](https://ebird.org/species/phcdov1)
@@ -212,10 +181,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 長尾鴿 tn̂g-bé-kah 取自特徵、華語
-- 菲律賓 hui-lu̍t-pin 為 Philippine 翻譯
-
+參考特徵、華語鳥類名錄
 :::
 
 ## [翠翼鳩 キンバト Asian Emerald Dove](https://ebird.org/species/emedov2)
@@ -234,11 +200,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 1973 Embree台英辭典
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [斑馬鳩 チョウショウバト Zebra Dove](https://ebird.org/species/zebdov)
@@ -257,10 +219,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 花條鴿取自花條馬 hue-tiâu-bé
-- 花條馬 hue-tiâu-bé - 教育部臺灣台語常用詞辭典
-
+參考華語鳥類名錄
 :::
 
 ## [橙胸綠鳩 ムネアカアオバト Orange-breasted Green-Pigeon](https://ebird.org/species/orbpig1)
@@ -272,16 +231,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
-
+🎯 **柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
 :::
 
 :::tip[註解]
-
-- 橙胸 -> 柑仔色胸 kam-á-sik-hing
-- 暫時參考華語
-
+參考華語鳥類名錄
 :::
 
 ## [厚嘴綠鳩 ハシブトアオバト Thick-billed Green-Pigeon](https://ebird.org/species/thbpig1)
@@ -293,15 +247,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **厚喙青鵻 kāu-tshuì-tshenn-tsui**
-
+🎯 **厚喙青鵻 kāu-tshuì-tshenn-tsui**
 :::
 
 :::tip[註解]
-
-厚嘴 -> 厚喙 kāu-tshuì
-
+參考華語鳥類名錄
 :::
 
 ## [綠鳩 アオバト White-bellied Green-Pigeon](https://ebird.org/species/whbpig1)
@@ -320,10 +270,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [紅頭綠鳩 ズアカアオバト Whistling Green-Pigeon](https://ebird.org/species/whgpig1)
@@ -335,15 +282,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **紅頭青鵻 âng-thâu-tshenn-tsui**
-
+🎯 **紅頭青鵻 âng-thâu-tshenn-tsui**
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [小綠鳩 クロアゴヒメアオバト Black-chinned Fruit-Dove](https://ebird.org/species/bcfdov1)
@@ -355,13 +298,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **小青鵻 sió-tshenn-tsui**
-
+🎯 **小青鵻 sió-tshenn-tsui**
 :::
 
 :::tip[註解]
-
-- 頭前加上小 sió 區分，小 sió + 青鵻 tshenn-tsui
-
+參考華語鳥類名錄
 :::

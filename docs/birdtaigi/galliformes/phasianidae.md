@@ -4,7 +4,7 @@ description: 本文整理了雉科的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 雉科 thī-kho
+# 雉雞科 thī-ke-kho
 
 ## [台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge](https://ebird.org/species/taipar1)
 
@@ -27,11 +27,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 1973 Embree台英辭典
-- 玉山國家公園鳥類資訊系統
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典、玉山國家公園鳥類資訊系統
 :::
 
 ## [黑長尾雉 ミカドキジ Mikado Pheasant](https://ebird.org/species/mikphe1)
@@ -52,10 +48,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 烏雉雞 oo-thī-ke 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 帝雉 tè-thī 源自日語 ミカドキジ。
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [環頸雉 コウライキジ Ring-necked Pheasant](https://ebird.org/species/rinphe1)
@@ -75,9 +68,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [藍腹鷴 サンケイ Swinhoe's Pheasant](https://ebird.org/species/swiphe1)
@@ -101,9 +92,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [藍孔雀 インドクジャク Indian Peafowl](https://ebird.org/species/compea)
@@ -122,9 +111,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 孔雀 khóng-tshiok - 教育部台灣台語常用詞辭典
-
+參考教育部台灣台語常用詞辭典、英語
 :::
 
 ## [台灣竹雞 テッケイ Taiwan Bamboo-Partridge](https://ebird.org/species/taibap1)
@@ -143,9 +130,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 竹雞 tik-ke - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [小鵪鶉 ヒメウズラ Blue-breasted Quail](https://ebird.org/species/blbqua1)
@@ -168,12 +153,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 五鳴雞 ngóo-bêng-ke - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 2002⁺ 台華線頂辭典
-- 2016⁺ iTaigi
-- 1973 Embree台英辭典
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典
 :::
 
 ## [鵪鶉 ウズラ Japanese Quail](https://ebird.org/species/japqua)
@@ -193,12 +173,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 2002⁺ 台華線頂辭典
-- 2016⁺ iTaigi
-- 1973 Embree台英辭典
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典
 :::
 
 ## [雷鳥 ライチョウ Rock Ptarmigan](https://ebird.org/species/rocpta1)
@@ -218,8 +193,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- lài-tsiáu 是借用 ライ ê 音譯
-- luî-tsiáu/luî-kong-tsiáu 是用「雷」ê 意譯。
-
+參考日語、英語
 :::

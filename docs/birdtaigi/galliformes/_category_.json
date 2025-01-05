@@ -2,6 +2,7 @@
   "label": "雞形目 ke-hîng-ba̍k",
   "position": 3,
   "link": {
-    "id": "birdtaigi/galliformes"
+    "type": "doc",
+    "id": "birdtaigi/galliformes/index"
   }
 }
