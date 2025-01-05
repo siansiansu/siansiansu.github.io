@@ -120,6 +120,20 @@ import Image from '@theme/IdealImage';
 
 ## [北朱雀 オオマシコ Pallas's Rosefinch](https://ebird.org/species/palros2)
 
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459044069/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© 김대환, some rights reserved (CC-BY-NC)
+</p>
+
+:::info[台語名]
+🎯 **北紅鳥仔 pak-âng-tsiáu-á**
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
+:::
+
 ## [褐鷽 チャイロウソ Brown Bullfinch](https://ebird.org/species/brobul1)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/113793253/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
@@ -129,9 +143,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **赤面猴 tshiah-bīn-kâu**
+:::
 
-- 🎯 赤面猴 tshiah-bīn-kâu
-
+:::tip[註解]
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [灰鷽 タイワンウソ Taiwan Bullfinch](https://ebird.org/species/gyhbul5)
@@ -143,12 +159,28 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 烏面猴 oo-bīn-kâu
-
+🎯 **烏面猴 oo-bīn-kâu**
 :::
 
-## 歐亞鷽
+:::tip[註解]
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+:::
+
+## [歐亞鷽 ウソ Eurasian Bullfinch](https://ebird.org/species/eurbul)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461638978/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Edoardo Nardelli, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+🎯 **歐亞烏面猴 au-a-oo-bīn-kâu**
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
+:::
 
 ## [金翅雀 カワラヒワ Oriental Greenfinch](https://ebird.org/species/origre)
 
@@ -159,16 +191,60 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 金翼雀 kim-si̍t-tshiok
-
+🎯 **金翼雀 kim-tshì-tshiok**
 :::
 
-## 赤胸朱頂雀
+:::tip[註解]
+參考 1973 Embree台英辭典
+:::
 
-## 普通朱頂雀
+## [赤胸朱頂雀 ムネアカヒワ Eurasian Linnet](https://ebird.org/species/eurlin1)
 
-## 紅交嘴雀
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460440343/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Mourad Harzallah, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+🎯 **紅胸紅頂雀 âng-hing-âng-tíng-tshiok**
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
+:::
+
+## [普通朱頂雀 ベニヒワ Redpoll (Common)](https://ebird.org/species/comred)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/240528986/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Анна Васильченко, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+🎯 **普通紅頂雀 phóo-thong-âng-tíng-tshiok**
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
+:::
+
+## [紅交嘴雀 イスカ Red Crossbill](https://ebird.org/species/redcro)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455868293/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Yves Bas, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+🎯 **紅必叉喙鳥 âng-pit-tshe-tshuì-tsiáu**
+:::
+
+:::tip[註解]
+參考英語
+:::
 
 ## [黃雀 マヒワ Eurasian Siskin](https://ebird.org/species/eursis)
 
@@ -179,9 +255,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **黃雀 n̂g-tshiok**
+:::
 
-- 🎯 黃雀 n̂g-tshiok
-
+:::tip[註解]
+參考 1973 Embree台英辭典
 :::
 
 ## [長尾朱雀 ベニマシコ Long-tailed Rosefinch](https://ebird.org/species/lotros1)
@@ -193,9 +271,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
+🎯 **長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á**
+:::
 
-- 🎯 長尾朱衣 tn̂g-bué-tsu-i
-- 🎯 長尾朱雀 tn̂g-bué-tsu-tshiok
-- 🎯 長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á
-
+:::tip[註解]
+參考華語鳥類名錄
 :::

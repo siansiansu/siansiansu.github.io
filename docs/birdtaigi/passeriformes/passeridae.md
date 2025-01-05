@@ -74,3 +74,19 @@ import Image from '@theme/IdealImage';
 :::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
+
+## [稀樹草鵐 Savannah Sparrow](https://ebird.org/species/savspa)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461756962/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<p className="image-caption">
+© Brandon Johnson, some rights reserved (CC-BY)
+</p>
+
+:::info[台語名]
+🎯 **山蚊母草鵐仔 suann-bûn-bó-tsháu-bû-á**
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
+:::

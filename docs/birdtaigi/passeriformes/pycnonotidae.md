@@ -4,7 +4,7 @@ description: 本文整理了白頭翁、鵯科的台語名，並對照英語與�
 
 import Image from '@theme/IdealImage';
 
-# 鵯科 pi-kho
+# 鵯仔科 pi-á-kho
 
 ## [栗背短腳鵯 クリイロヒヨドリ Chestnut Bulbul](https://ebird.org/species/chebul1)
 
