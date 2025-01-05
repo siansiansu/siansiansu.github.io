@@ -2,6 +2,7 @@
   "label": "鷹形目 ing-hîng-ba̍k",
   "position": 18,
   "link": {
-    "id": "birdtaigi/accipitriformes"
+    "type": "doc",
+    "id": "birdtaigi/accipitriformes/index"
   }
 }

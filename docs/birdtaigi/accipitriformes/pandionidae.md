@@ -15,13 +15,9 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **魚鷹 hî-ing**
-
+🎯 **魚鷹 hî-ing**
 :::
 
 :::tip[備註]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::

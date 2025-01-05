@@ -4,7 +4,7 @@ description: 本文整理了鷹仔的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 鷹科 ing-kho
+# 鷹仔科 ing-á-kho
 
 ## [黑翅鳶 カタグロトビ Black-winged Kite](https://ebird.org/species/bkskit1)
 
@@ -15,16 +15,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **烏翼鷹 oo-si̍t-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **烏翼鷹 oo-si̍t-ing**
 :::
 
-:::tip[備註]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+:::tip[註解]
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [黑冠鵑隼 クロカッコウハヤブサ Black Baza](https://ebird.org/species/blabaz1)
@@ -36,16 +31,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **烏冠鵑鷹 oo-kuàn-kuan-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **烏冠鵑鷹 oo-kuàn-kuan-ing**
 :::
 
-:::tip[備註]
-
-- 暫時參考華語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [東方蜂鷹 ハチクマ Oriental Honey-buzzard](https://ebird.org/species/orihob2)
@@ -62,14 +52,11 @@ import Image from '@theme/IdealImage';
 - 🎯 **東方食蜂鷹 tong-hong-tsia̍h-phang-ing**
 - 🎯 **蜂鷹 phang-ing**
 - 🎯 **食蜂鷹 tsia̍h-phang-ing**
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- Oriental Honey-buzzard -> 東方蜂鷹 tong-hong-phang-ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [禿鷲 クロハゲワシ Cinereous Vulture](https://ebird.org/species/cinvul1)
@@ -85,15 +72,11 @@ import Image from '@theme/IdealImage';
 - 🎯 **狗頭鷹 káu-thâu-ing**
 - 🎯 **狗頭鵰 káu-thâu-tiau**
 - 🎯 禿鷹 thut-ing
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 1973 Embree台英辭典
-- 2002⁺ 台華線頂辭典
-
+:::tip[註解]
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典
 :::
 
 ## [大冠鷲 カンムリワシ Crested Serpent-Eagle](https://ebird.org/species/crseag1)
@@ -108,15 +91,11 @@ import Image from '@theme/IdealImage';
 
 - 🎯 **蛇鷹 tsuâ-ing**
 - **蛇鵰 tsuâ-tiau**
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+:::tip[註解]
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [熊鷹 クマタカ Mountain Hawk-Eagle](https://ebird.org/species/mouhae1)
@@ -133,16 +112,11 @@ import Image from '@theme/IdealImage';
 - 🎯 **白毛跤鷹 pe̍h-moo-kha-ing**
 - 🎯 **角鷹 kak-ing**
 - 🎯 **大花鵰 tuā-hue-tiau**
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng goola Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 熊鷹 -> 熊鷹 hîm-ing
-
+:::tip[註解]
+參考 2002⁺ 台華線頂辭典、《Hêng goola Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [林鵰 カザノワシ Black Eagle](https://ebird.org/species/blaeag1)
@@ -162,10 +136,8 @@ import Image from '@theme/IdealImage';
 
 :::
 
-:::tip[備註]
-
-- 烏毛跤鷹 pe̍h-moo-kha-ing - 《Hêng goola Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+:::tip[註解]
+參考《Hêng goola Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [花鵰 カラフトワシ Greater Spotted Eagle](https://ebird.org/species/grseag1)
@@ -180,14 +152,11 @@ import Image from '@theme/IdealImage';
 
 - 🎯 **花鷹 hue-ing**
 - 🎯 **花鵰 hue-tiau**
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-Greater Spotted Eagle -> 花鷹 hue-ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [靴隼鵰 ヒメクマタカ Booted Eagle](https://ebird.org/species/booeag1)
@@ -199,15 +168,11 @@ Greater Spotted Eagle -> 花鷹 hue-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **靴管鷹 hia-kóng-ing**
-
+🎯 **靴管鷹 hia-kóng-ing**
 :::
 
-:::tip[備註]
-
-Booted Eagle -> 靴管鷹 hia-kóng-ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [白肩鵰 カタシロワシ Imperial Eagle](https://ebird.org/species/impeag1)
@@ -222,14 +187,11 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 
 - 🎯 **白肩鷹 pe̍h-king-ing**
 - 白肩鵰 pe̍h-king-tiau
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 暫時參考華語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [金鵰 イヌワシ Golden Eagle](https://ebird.org/species/goleag)
@@ -241,15 +203,11 @@ Booted Eagle -> 靴管鷹 hia-kóng-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **金鷹 kim-ing**
-
+🎯 **金鷹 kim-ing**
 :::
 
-:::tip[備註]
-
-Golden Eagle -> 金鷹 kim-ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [白腹鵰 ボネリークマタカ Bonelli's Eagle](https://ebird.org/species/boneag2)
@@ -264,14 +222,11 @@ Golden Eagle -> 金鷹 kim-ing
 
 - 🎯 **白腹鷹 pe̍h-pak-ing**
 - 白腹鵰 pe̍h-pak-tiau
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 白腹鵰 -> 白腹鷹 pe̍h-pak-ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [鳳頭蒼鷹 カンムリオオタカ Crested Goshawk](https://ebird.org/species/cregos1)
@@ -287,16 +242,12 @@ Golden Eagle -> 金鷹 kim-ing
 - 🎯 **粉鳥鷹 hún-tsiáu-ing**
 - 🎯 **鴿鷹 kap-ing**
 - 🎯 **斑鴿鷹 pang-kah-ing**
-- 鳳頭蒼鷹 hōng-thâu-tshong-ing
 - 聳毛蒼鷹 tshàng-moo-tshong-ing
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 2002⁺ 台華線頂辭典
-
+:::tip[註解]
+參考 2002⁺ 台華線頂辭典
 :::
 
 ## [松雀鷹 ミナミツミ Besra](https://ebird.org/species/besra1)
@@ -313,14 +264,11 @@ Golden Eagle -> 金鷹 kim-ing
 - 🎯 **雀鷹 tshiok-ing**
 - 🎯 **雀賊 tshiok-tsha̍t**
 - 松雀鷹 siông-tshiok-ing
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 2002⁺ 台華線頂辭典
-
+:::tip[註解]
+參考 2002⁺ 台華線頂辭典
 :::
 
 ## [日本松雀鷹 ツミ Japanese Sparrowhawk](https://ebird.org/species/japspa1)
@@ -337,8 +285,11 @@ Golden Eagle -> 金鷹 kim-ing
 - 🎯 **日本雀鷹 ji̍t-pún-tshiok-ing**
 - 🎯 **日本雀賊 ji̍t-pún-tshiok-tsha̍t**
 - 日本松雀鷹 ji̍t-pún-siông-tshiok-ing
-- ✳️ 鷹仔 ing-á
 
+:::
+
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [褐耳鷹 タカサゴダカ Shikra](https://ebird.org/species/shikra1)
@@ -353,14 +304,11 @@ Golden Eagle -> 金鷹 kim-ing
 
 - 🎯 **赤耳鷹 tshiah-hīnn-ing**
 - 褐耳鷹 hat-hīnn-ing
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 褐耳 -> 赤耳 tshiah-hīnn
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [赤腹鷹 アカハラダカ Chinese Sparrowhawk](https://ebird.org/species/grfhaw1)
@@ -381,10 +329,8 @@ Golden Eagle -> 金鷹 kim-ing
 
 :::
 
-:::tip[備註]
-
-- 2002⁺ 台華線頂辭典
-
+:::tip[註解]
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [北雀鷹 ハイタカ Eurasian Sparrowhawk](https://ebird.org/species/eurspa1)
@@ -399,14 +345,11 @@ Golden Eagle -> 金鷹 kim-ing
 
 - 🎯 **北雀鷹 pak-tshiok-ing**
 - 🎯 歐洲雀鷹 au-tsiu-tshiok-ing
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 暫時參考華語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [蒼鷹 オオタカ Eurasian Goshawk](https://ebird.org/species/norgos1)
@@ -418,16 +361,11 @@ Golden Eagle -> 金鷹 kim-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **蒼鷹 tshong-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **蒼鷹 tshong-ing**
 :::
 
-:::tip[備註]
-
-- 暫時參考華語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [西方澤鵟 ヨーロッパチュウヒ Western Marsh Harrier](https://ebird.org/species/wemhar1)
@@ -439,17 +377,12 @@ Golden Eagle -> 金鷹 kim-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **西方湳仔鷹 se-hong-làm-á-ing**
-
+🎯 **西方湳仔鷹 se-hong-làm-á-ing**
 :::
 
-:::tip[備註]
-
-- Western Marsh Harrier -> 西方 se-hong + 湳仔 làm-á + 鷹 ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
-
 
 ## [東方澤鵟 チュウヒ Eastern Marsh Harrier](https://ebird.org/species/easmah1)
 
@@ -460,16 +393,11 @@ Golden Eagle -> 金鷹 kim-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **東方湳仔鷹 tong-hong-làm-á-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **東方湳仔鷹 tong-hong-làm-á-ing**
 :::
 
-:::tip[備註]
-
-- Eastern Marsh Harrier -> 東方 tong-hong + 湳仔 làm-á + 鷹 ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [灰澤鵟 ハイイロチュウヒ Hen Harrier](https://ebird.org/species/norhar1)
@@ -481,16 +409,11 @@ Golden Eagle -> 金鷹 kim-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **殕色湳仔鷹 phú-sik-làm-á-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **殕色湳仔鷹 phú-sik-làm-á-ing**
 :::
 
-:::tip[備註]
-
-- Hen Harrier -> 殕色 phú-sik + 湳仔 làm-á + 鷹 ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [花澤鵟 マダラチュウヒ Pied Harrier](https://ebird.org/species/piehar1)
@@ -502,14 +425,11 @@ Golden Eagle -> 金鷹 kim-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **烏白湳仔鷹 oo-pe̍h-làm-á-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **烏白湳仔鷹 oo-pe̍h-làm-á-ing**
 :::
 
-:::tip[備註]
-參考英語
+:::tip[註解]
+參考特徵
 :::
 
 ## [黑鳶 トビ Black Kite](https://ebird.org/species/blakit1)
@@ -524,15 +444,11 @@ Golden Eagle -> 金鷹 kim-ing
 
 - 🎯 **鶆鴞 lāi-hio̍h**
 - 🎯 **鴟鴞 bā-hio̍h**
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 2002⁺ 台華線頂辭典
-
+:::tip[註解]
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
 :::
 
 ## [栗鳶 シロガシラトビ Brahminy Kite](https://ebird.org/species/brakit1)
@@ -549,14 +465,11 @@ Golden Eagle -> 金鷹 kim-ing
 - 🎯 **赤鴟鴞 tshiah-bā-hio̍h**
 - 🎯 **白頭鶆鴞 pe̍h-thâu-lāi-hio̍h**
 - 🎯 **白頭鴟鴞 pe̍h-thâu-bā-hio̍h**
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 參考黑鳶 ê 台語
-
+:::tip[註解]
+參考特徵
 :::
 
 ## [白尾海鵰 オジロワシ White-tailed Eagle](https://ebird.org/species/whteag)
@@ -568,16 +481,11 @@ Golden Eagle -> 金鷹 kim-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 白尾海鷹 pe̍h-bué-hái-ing
-- ✳️ 鷹仔 ing-á
-
+🎯 **白尾海鷹 pe̍h-bué-hái-ing**
 :::
 
-:::tip[備註]
-
-White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [白腹海鵰 シロハラウミワシ White-bellied Sea-Eagle](https://ebird.org/species/wbseag1)
@@ -589,16 +497,11 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 白腹海鷹 pe̍h-pak-hái-ing
-- ✳️ 鷹仔 ing-á
-
+🎯 **白腹海鷹 pe̍h-pak-hái-ing**
 :::
 
-:::tip[備註]
-
-白腹海鵰 -> 白腹海鷹 pe̍h-pak-hái-ing
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [灰面鵟鷹 サシバ Gray-faced Buzzard](https://ebird.org/species/gyfbuz1)
@@ -613,15 +516,11 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 
 - 🎯 **山後鳥 suann-āu-tsiáu**
 - 🎯 **南路鷹 lâm-lōo-ing**
-- ✳️ 鷹仔 ing-á
 
 :::
 
-:::tip[備註]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 教育部臺灣台語常用詞辭典
-
+:::tip[註解]
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、教育部臺灣台語常用詞辭典
 :::
 
 ## [毛足鵟 ケアシノスリ Rough-legged Hawk](https://ebird.org/species/rolhaw)
@@ -640,10 +539,8 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 
 :::
 
-:::tip[備註]
-
-- 1973 Embree台英辭典
-
+:::tip[註解]
+參考 1973 Embree台英辭典
 :::
 
 ## [歐亞鵟 ヨーロッパノスリ Common Buzzard](https://ebird.org/species/combuz5)
@@ -655,15 +552,11 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **歐亞鵟 au-a-kông**
-
+🎯 **歐亞鵟 au-a-kông**
 :::
 
-:::tip[備註]
-
-- 參考華語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [大鵟 オオノスリ Upland Buzzard](https://ebird.org/species/uplbuz1)
@@ -675,16 +568,11 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **大鵟 tuā-kông**
-- ✳️ 鷹仔 ing-á
-
+🎯 **大鵟 tuā-kông**
 :::
 
-:::tip[備註]
-
-- 參考華語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [東方鵟 ノスリ Eastern Buzzard](https://ebird.org/species/combuz6)
@@ -696,16 +584,11 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **東方鵟 tong-hong-kông**
-- ✳️ 鷹仔 ing-á
-
+🎯 **東方鵟 tong-hong-kông**
 :::
 
-:::tip[備註]
-
-- 參考英語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [虎頭海鵰 オオワシ Steller's Sea-Eagle](https://ebird.org/species/stseag)
@@ -717,16 +600,11 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **虎頭海鷹 hóo-thâu-hái-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **虎頭海鷹 hóo-thâu-hái-ing**
 :::
 
-:::tip[備註]
-
-- 參考華語
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [灰頭魚鵰 ウオクイワシ Gray-headed Fish-Eagle](https://ebird.org/species/gyhfie1)
@@ -738,14 +616,9 @@ White-tailed Eagle -> 白尾海鷹 pe̍h-bué-hái-ing
 </p>
 
 :::info[台語名]
-
-- 🎯 **灰頭魚鷹 hue-thâu hî-ing**
-- ✳️ 鷹仔 ing-á
-
+🎯 **灰頭魚鷹 hue-thâu-hî-ing**
 :::
 
-:::tip[備註]
-
-- 參考英語
-
+:::tip[註解]
+參考英語
 :::
