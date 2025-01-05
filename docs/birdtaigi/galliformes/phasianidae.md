@@ -4,7 +4,7 @@ description: 本文整理了雉科的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 雉雞科 thī-ke-kho
+# 雉雞科 thī-kei-kho
 
 ## [台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge](https://ebird.org/species/taipar1)
 
