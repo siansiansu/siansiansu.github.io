@@ -72,7 +72,7 @@ import Image from '@theme/IdealImage';
 
 ## [普通朱雀 アカマシコ Common Rosefinch](https://ebird.org/species/comros)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460381794/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460381794/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Paulmathi Vinod, some rights reserved (CC-BY)
@@ -88,7 +88,7 @@ import Image from '@theme/IdealImage';
 
 ## [酒紅朱雀 タカサゴマシコ Vinaceous Rosefinch](https://ebird.org/species/vinros2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/410195946/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/410195946/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © 大鹅Goose, some rights reserved (CC-BY-NC)
@@ -120,7 +120,7 @@ import Image from '@theme/IdealImage';
 
 ## [北朱雀 オオマシコ Pallas's Rosefinch](https://ebird.org/species/palros2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459044069/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459044069/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © 김대환, some rights reserved (CC-BY-NC)
@@ -168,7 +168,7 @@ import Image from '@theme/IdealImage';
 
 ## [歐亞鷽 ウソ Eurasian Bullfinch](https://ebird.org/species/eurbul)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461638978/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461638978/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Edoardo Nardelli, some rights reserved (CC-BY)
@@ -200,7 +200,7 @@ import Image from '@theme/IdealImage';
 
 ## [赤胸朱頂雀 ムネアカヒワ Eurasian Linnet](https://ebird.org/species/eurlin1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460440343/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460440343/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Mourad Harzallah, some rights reserved (CC-BY)
@@ -216,7 +216,7 @@ import Image from '@theme/IdealImage';
 
 ## [普通朱頂雀 ベニヒワ Redpoll (Common)](https://ebird.org/species/comred)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/240528986/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/240528986/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Анна Васильченко, some rights reserved (CC-BY)
@@ -232,7 +232,7 @@ import Image from '@theme/IdealImage';
 
 ## [紅交嘴雀 イスカ Red Crossbill](https://ebird.org/species/redcro)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455868293/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455868293/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Yves Bas, some rights reserved (CC-BY)

@@ -40,7 +40,7 @@ import Image from '@theme/IdealImage';
 
 ## [褐頭鵐 チャキンチョウ Red-headed Bunting](https://ebird.org/species/rehbun1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/443923092/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/443923092/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Anastasiia Merkulova, some rights reserved (CC-BY)
@@ -76,7 +76,7 @@ import Image from '@theme/IdealImage';
 
 ## [白頂鵐 ハイガシラホオジロ White-capped Bunting](https://ebird.org/species/chbbun1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/425048406/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/425048406/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Andrew Bazdyrev, some rights reserved (CC-BY)
@@ -100,7 +100,7 @@ import Image from '@theme/IdealImage';
 
 ## [圃鵐 ズアオホオジロ Ortolan Bunting](https://ebird.org/species/ortbun1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457201499/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457201499/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © H01, some rights reserved (CC-BY)
@@ -164,7 +164,7 @@ import Image from '@theme/IdealImage';
 
 ## [蘆鵐 オオジュリン Reed Bunting](https://ebird.org/species/reebun)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461638448/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461638448/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Jordi Casanovas, some rights reserved (CC-BY)
@@ -325,7 +325,7 @@ Masked Bunting
 
 ## [灰鵐 クロジ Gray Bunting](https://ebird.org/species/grybun)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/404825296/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/404825296/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Валерия Ковалева, some rights reserved (CC-BY)

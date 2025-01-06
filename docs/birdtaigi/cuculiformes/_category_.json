@@ -2,6 +2,7 @@
   "label": "鵑形目 kuan-hîng-ba̍k",
   "position": 5,
   "link": {
-    "id": "birdtaigi/cuculiformes"
+    "type": "doc",
+    "id": "birdtaigi/cuculiformes/index"
   }
 }

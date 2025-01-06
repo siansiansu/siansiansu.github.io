@@ -23,9 +23,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 草嘓頭前加上 大 tuā 區分
-
+參考番鵑台語
 :::
 
 ## [番鵑 バンケン Lesser Coucal](https://ebird.org/species/lescou1)
@@ -45,10 +43,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 2002⁺ 台華線頂辭典
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
 :::
 
 ## [冠郭公 カンムリカッコウ Chestnut-winged Cuckoo](https://ebird.org/species/chwcuc1)
@@ -67,10 +62,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 聳毛杜鵑 tshàng-moo-tōo-kuan - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 冠郭公 kuan-kueh-kong - 2002⁺ 台華線頂辭典、1973 Embree台英辭典
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典、1973 Embree台英辭典
 :::
 
 ## [斑翅鳳頭鵑 クロシロカンムリカッコウ Pied Cuckoo](https://ebird.org/species/piecuc1)
@@ -82,17 +74,11 @@ import Image from '@theme/IdealImage';
 </p>
 
 :::info[台語名]
-
-- 🎯 **烏白冠郭公 oo-pe̍h-kuan-kueh-kong**
-- 斑翅鳳頭鵑 pan-tshì-hōng-thâu-kuan
-
+🎯 **烏白冠郭公 oo-pe̍h-kuan-kueh-kong**
 :::
 
 :::tip[註解]
-
-- 烏白冠郭公 oo-pe̍h-kuan-kueh-kong 借用日文漢字
-- 盡量不採用中國的稱呼
-
+參考日語
 :::
 
 ## [噪鵑 オニカッコウ Asian Koel](https://ebird.org/species/asikoe2)
@@ -111,10 +97,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 姑鳥 koo-tsiáu - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 鬼郭公 kuí-kueh-kong - 2002⁺ 台華線頂辭典
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
 :::
 
 ## [八聲杜鵑 ヒメカッコウ Plaintive Cuckoo](https://ebird.org/species/placuc1)
@@ -138,11 +121,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 吐血鳥 thòo-hueh-tsiáu - 陳勁榛《臺灣民間故事選》
-- 頭前加上八聲 peh-siann 區分
-- 2002⁺ 台華線頂辭典
-
+參考陳勁榛《臺灣民間故事選》、2002⁺ 台華線頂辭典
 :::
 
 ## [方尾烏鵑 オウチュウカッコウ Square-tailed Drongo-Cuckoo](https://ebird.org/species/asidrc3)
@@ -161,9 +140,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 烏鶖郭公 oo-tshiu-kueh-kong 取自日語
-
+參考日語
 :::
 
 ## [鷹鵑 オオジュウイチ medium Hawk-Cuckoo](https://ebird.org/species/larhac2)
@@ -183,9 +160,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 咕鳥 koo-tsiáu 是統稱，用鷹仔 ing-á 來區分
-
+參考華語鳥類名錄
 :::
 
 ## [北方鷹鵑 ジュウイチ Northern Hawk-Cuckoo](https://ebird.org/species/nohcuc1)
@@ -204,9 +179,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-北方 pak-hng + 鷹仔 ing-á + 咕鳥 koo-tsiáu
-
+參考華語鳥類名錄
 :::
 
 ## [棕腹鷹鵑 インドシナジュウイチ Hodgson's Hawk-Cuckoo](https://ebird.org/species/hodhac1)
@@ -226,10 +199,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 棕腹 -> 赤腹 tshiah-pak
-- 若不歡喜華語，可用英文名 Hodgson's Hawk-Cuckoo -> 霍氏鷹仔咕鳥 Hok-sī-ing-á-koo-tsiáu
-
+參考華語鳥類名錄、英語
 :::
 
 ## [小杜鵑 ホトトギス Lesser Cuckoo](https://ebird.org/species/lescuc1)
@@ -253,9 +223,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 頭前加上小 sió 以區分
-
+參考華語鳥類名錄、英語
 :::
 
 ## [四聲杜鵑 セグロカッコウ Indian Cuckoo](https://ebird.org/species/indcuc1)
@@ -278,9 +246,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 頭前加上四聲 sì-siann 以區分其他杜鵑
-
+參考華語鳥類名錄
 :::
 
 ## [喜馬拉雅中杜鵑 ヒマラヤツツドリ Himalayan Cuckoo](https://ebird.org/species/himcuc1)
@@ -307,17 +273,15 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-頭前加上喜馬拉雅 hí-má-la-ngá 以區分其他中杜鵑
-
+參考華語鳥類名錄
 :::
 
 ## [大杜鵑 カッコウ Common Cuckoo](https://ebird.org/species/comcuc)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/135795698/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/435729856/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
-(c) Alan King, some rights reserved (CC BY-NC)
+© Виктор, some rights reserved (CC-BY)
 </p>
 
 :::info[台語名]
@@ -333,9 +297,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-頭前加上大 tuā 以區分其他杜鵑
-
+參考華語鳥類名錄
 :::
 
 ## [北方中杜鵑 ツツドリ Oriental Cuckoo](https://ebird.org/species/oricuc2)
@@ -361,7 +323,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-頭前加上北方 pak-hng 以區分其他中杜鵑
-
+參考華語鳥類名錄
 :::

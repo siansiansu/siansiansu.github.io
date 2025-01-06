@@ -136,7 +136,7 @@ import Image from '@theme/IdealImage';
 
 ## [稻田鷚 ヒメマミジロタヒバリ Paddyfield Pipit](https://ebird.org/species/oripip1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461374511/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461374511/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Afsar Nayakkan, some rights reserved (CC-BY)
@@ -184,7 +184,7 @@ import Image from '@theme/IdealImage';
 
 ## [粉紅胸鷚 ウスベニタヒバリ Rosy Pipit](https://ebird.org/species/rospip1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/370528644/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/370528644/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Tristan Jobin, some rights reserved (CC-BY)

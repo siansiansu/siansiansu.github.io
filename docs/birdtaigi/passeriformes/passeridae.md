@@ -77,7 +77,7 @@ import Image from '@theme/IdealImage';
 
 ## [稀樹草鵐 Savannah Sparrow](https://ebird.org/species/savspa)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461756962/large.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461756962/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <p className="image-caption">
 © Brandon Johnson, some rights reserved (CC-BY)
