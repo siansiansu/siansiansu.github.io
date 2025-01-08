@@ -30,11 +30,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 頭前加上普通 phóo-thong，以區別於其他夜鷹。
-- 頭前加上殕色 phú-sik，以區別於其他夜鷹，取自英文 Gray。
-
+參考華語鳥類名錄、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [南亞夜鷹 シロアゴヨタカ Savanna Nightjar](https://ebird.org/species/savnig1)
@@ -64,9 +60,6 @@ import Image from '@theme/IdealImage';
 :::tip[註解]
 
 - 山蚊母 suann-bûn-bó 源自英語名 Savanna。
-- 1973 Embree台英辭典
-- 2002⁺ 台華線頂辭典
-- 頭前加上 lâm-a，以區別於其他夜鷹。
-- 抑是頭前加上 suann-bûn-bó，以區別於其他夜鷹。
+- 參考華語鳥類名錄、1973 Embree台英辭典、2002⁺ 台華線頂辭典
 
 :::

@@ -15,6 +15,7 @@ const config = {
   title: '鳥仔 ê 名',
   tagline: '鳥仔 | 台語 | 賞鳥簿仔 | eBird | 軟工 | 演算法 | 遊戲',
   favicon: 'img/favicon.ico',
+  trailingSlash: false,
 
   // Set the production url of your site here
   url: 'https://siansiansu.github.io/',
@@ -76,10 +77,6 @@ const config = {
         gtag: {
           trackingID: 'G-S4S5T3DX6G',
           anonymizeIP: true,
-        },
-        sitemap: {
-          changefreq: 'weekly',
-          priority: 0.5,
         },
       }),
     ],
