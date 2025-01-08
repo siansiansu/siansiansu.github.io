@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Daniel Liepack, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **烏翼鷹 oo-si̍t-ing**
@@ -26,9 +26,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12615159/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **烏冠鵑鷹 oo-kuàn-kuan-ing**
@@ -42,9 +42,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/83922668/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -63,9 +63,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) rociomar, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -83,9 +83,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/10099169/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -102,9 +102,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/174790909/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Jagdish Singh Negi, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -123,9 +123,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/227323165/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) awayk3n, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -144,9 +144,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57957069/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Koshy Koshy, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -163,9 +163,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455662036/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © sunnyjosef, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **靴管鷹 hia-kóng-ing**
@@ -179,9 +179,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/91597033/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Christoph Moning, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -198,9 +198,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458877596/medium.jpeg" alt="金鵰" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Sue Carnahan, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **金鷹 kim-ing**
@@ -214,9 +214,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg" alt="白腹鵰" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Ricardo Rodero Henández, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -233,9 +233,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/113687435/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) 尹若宇, some rights reserved (CC BY-NC),
-</p>
+</div>
 
 :::info[台語名]
 
@@ -254,9 +254,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/66481205/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) 尹若宇, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -275,9 +275,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/251281815/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Benjamin Koh, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -296,9 +296,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/10099183/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -315,9 +315,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/15811956/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -337,9 +337,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/203152836/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Julia Wittmann, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -356,9 +356,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/61773674/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Luigi Andena, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **蒼鷹 tshong-ing**
@@ -372,9 +372,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459240182/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Полина Полежанкина, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **西方湳仔鷹 se-hong-làm-á-ing**
@@ -388,9 +388,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/127663648/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Griha Hasanov, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **東方湳仔鷹 tong-hong-làm-á-ing**
@@ -404,9 +404,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Константин Самодуров, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **殕色湳仔鷹 phú-sik-làm-á-ing**
@@ -420,9 +420,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/176375263/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Wich’yanan L, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **烏白湳仔鷹 oo-pe̍h-làm-á-ing**
@@ -436,9 +436,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Josh Martin, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -455,9 +455,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/56410339/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Dougal Townsend, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -476,9 +476,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/164904961/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Jacob Spinks, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **白尾海鷹 pe̍h-bué-hái-ing**
@@ -492,9 +492,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60297171/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Allan Lugg, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **白腹海鷹 pe̍h-pak-hái-ing**
@@ -508,9 +508,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/103974891/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) tki, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -527,9 +527,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/5813/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Rick Leche - Photography, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -547,9 +547,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458476446/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Anton Popovich, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **歐亞鵟 au-a-kông**
@@ -563,9 +563,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/228335432/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **大鵟 tuā-kông**
@@ -579,9 +579,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/254005853/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Hitoshi WATANABE 渡辺仁, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **東方鵟 tong-hong-kông**
@@ -595,9 +595,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/133749731/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) jitensha2021, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **虎頭海鷹 hóo-thâu-hái-ing**
@@ -611,9 +611,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1964061/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) bhanukiran, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **灰頭魚鷹 hue-thâu-hî-ing**

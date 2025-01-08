@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/47190674/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Steve Harbula, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -32,9 +32,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/211511287/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Максим Стефанович, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -54,9 +54,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/214608110/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) abelardomendesjr, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 

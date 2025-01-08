@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1725240/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Soham Dixit, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -44,9 +44,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/90724859/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) hokoonwong, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -75,9 +75,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/104619954/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Attila Steiner, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -105,9 +105,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/182504854/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -135,9 +135,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/6467390/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) David J Barton, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -165,9 +165,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/110503572/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Morten Ross, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -197,9 +197,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459270216/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Mourad Harzallah, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -227,9 +227,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57850672/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) John Clough, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -257,9 +257,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/44506086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) N. Mahathi, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -289,9 +289,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/133553640/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) caroline legg, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -319,9 +319,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/246932846/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Suzanne Labbé, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -349,9 +349,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/365963948/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © james-patrick, some rights reserved (CC-BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 

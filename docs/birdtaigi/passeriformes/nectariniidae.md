@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/11596150/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) John Dumbacher, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
@@ -26,9 +26,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/403147723/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © hoshi, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
@@ -42,9 +42,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60958137/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Dickson, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **攕仔尾太陽鳥 tshiám-á-bué-thài-iông-tsiáu**

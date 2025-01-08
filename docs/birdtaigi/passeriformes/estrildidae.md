@@ -20,9 +20,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/161725682/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Daniel Raposo, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **斑嗶仔 pan-pit-á**
@@ -36,9 +36,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/94111218/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Altaf Hussain Talpur, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **白腰嗶仔 pe̍h-io-pit-á**
@@ -52,9 +52,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/109990638/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) David Monroy R, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **烏頭嗶仔 oo-thâu-pit-á**
@@ -68,9 +68,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1939265/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **柑仔面梅花雀 kam-á-bīn-muî-hue-tshiok**
@@ -84,9 +84,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461779783/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Damien Wallace, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **橫斑梅花雀 huâinn-pan-muî-hue-tshiok**
@@ -100,9 +100,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/361888379/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Catalina Tong, some rights reserved (CC-BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **烏喉嗶仔 oo-âu-pit-á**

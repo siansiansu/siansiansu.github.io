@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://static.inaturalist.org/photos/363330481/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Aline Horikawa, all rights reserved
-</p>
+</div>
 
 :::info[台語名]
 🎯 **紅連雀 âng-liân-tshiok**
@@ -26,9 +26,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59611753/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Илья Сухов, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **黃連雀 n̂g-liân-tshiok**

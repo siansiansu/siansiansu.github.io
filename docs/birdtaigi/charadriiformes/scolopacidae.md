@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1940369/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -36,9 +36,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2674128/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -62,9 +62,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/211611483/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Pete Woodall, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -89,9 +89,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/149829117/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) alexey_nesmelov, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -108,9 +108,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/21556074/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Marina Nikonorova, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -130,9 +130,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/3382123/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -152,9 +152,9 @@ Black-tailed -> 烏尾 oo-bé
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/49029274/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) andriy, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -174,9 +174,9 @@ Black-tailed -> 烏尾 oo-bé
 
 <Image img="" alt="image" style={{marginBottom: '0rem'}} />
 https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
-<p className="image-caption">
+<div className="image-caption">
 © Cricket Raspet, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -197,9 +197,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/73040184/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Blair Dudeck, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -220,9 +220,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1935764/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -240,9 +240,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/64987854/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Roberto Ghiglia, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -260,9 +260,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/102481916/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Christoph Moning, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -280,9 +280,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2742174/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -304,9 +304,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/55748193/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) alexdersu, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -328,9 +328,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/46595821/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) deborod, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -352,9 +352,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/68093511/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Luigi Andena, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -375,9 +375,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1940554/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -397,9 +397,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/239811/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -420,9 +420,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/239832/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -443,9 +443,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/79473370/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Вячеслав Ложкин, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -465,9 +465,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/10092536/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -488,9 +488,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/234816154/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Joel Poyitt, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -510,9 +510,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/237187/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -532,9 +532,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/123250846/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Dina Nesterkova, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -552,9 +552,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/8758782/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -574,9 +574,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/52766331/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -596,9 +596,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13184983/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) U.S. Fish and Wildlife Service Northeast Region, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -618,9 +618,9 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/105857408/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) suchihfen, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -642,9 +642,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/173273546/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -664,9 +664,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/147018668/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) alexey_nesmelov, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -686,9 +686,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57282715/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) John Clough, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -709,9 +709,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2720940/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -733,9 +733,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/236294/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -758,9 +758,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60599329/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -782,9 +782,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2001377/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -804,9 +804,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2721130/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -826,9 +826,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2324759/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -848,9 +848,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/231298/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -870,9 +870,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/8758781/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -892,9 +892,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2722355/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -916,9 +916,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/209826148/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Cameron Eckert, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -938,9 +938,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/97672047/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Peter Ericsson, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -961,9 +961,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/109409618/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Cameron Eckert, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -983,9 +983,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/55826082/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) lemurtaquin, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -1006,9 +1006,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60498420/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -1030,9 +1030,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/29188802/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Никифорова Валерия, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -1052,9 +1052,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/166627642/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Andrew Cannizzaro, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -1075,9 +1075,9 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/3256542/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 

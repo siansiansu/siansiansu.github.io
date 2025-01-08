@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457442495/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Gergely Nigg, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -38,9 +38,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/351215957/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © mami_t_t, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -64,9 +64,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/11787275/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Catalina Tong, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -90,9 +90,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/426872479/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © SIA, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -116,9 +116,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Alexis Lours, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -146,9 +146,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Wei Li Jiang, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -168,9 +168,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/344911929/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) cdewerowe, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -193,9 +193,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/441732701/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Legawa, Everest C, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -213,9 +213,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1513783/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -234,9 +234,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) bscrl, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -263,9 +263,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13561160/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) tanhk, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -286,9 +286,9 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/80007025/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Sharma BC, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -308,9 +308,9 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/89570100/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -337,9 +337,9 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -360,9 +360,9 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/398887224/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Sun Jiao, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -383,9 +383,9 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 

@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 
-</p>
+</div>
 
 :::info[台語名]
 

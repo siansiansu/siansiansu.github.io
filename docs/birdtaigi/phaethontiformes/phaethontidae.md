@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/58912831/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) hokoonwong, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -31,9 +31,9 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/161427459/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Tom Benson, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -52,9 +52,9 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59723853/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) juju98, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 

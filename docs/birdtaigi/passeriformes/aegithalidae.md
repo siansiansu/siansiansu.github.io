@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57372256/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Gyeltshen Gyeltshen, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 

@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/43710488/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Геннадий, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **花鳥仔 hue-tsiáu-á**
@@ -26,9 +26,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/186241177/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) dirkey, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **臘喙雀 la̍h-tshuì-tshiok**
@@ -42,9 +42,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/107918215/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Xavier Rufray, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **小桑鳲 sió-sáng-si**
@@ -58,9 +58,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/90052009/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **桑鳲 sáng-si**
@@ -74,9 +74,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460381794/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Paulmathi Vinod, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **普通紅鳥仔 phóo-thong-âng-tsiáu-á**
@@ -90,9 +90,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/410195946/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © 大鹅Goose, some rights reserved (CC-BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **酒紅紅鳥仔 tsiú-âng-âng-tsiáu-á**
@@ -106,9 +106,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/88986493/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **台灣紅鳥仔 tâi-uân-âng-tsiáu-á**
@@ -122,9 +122,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459044069/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © 김대환, some rights reserved (CC-BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **北紅鳥仔 pak-âng-tsiáu-á**
@@ -138,9 +138,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/113793253/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **赤面猴 tshiah-bīn-kâu**
@@ -154,9 +154,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/101854380/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Christoph Moning, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **烏面猴 oo-bīn-kâu**
@@ -170,9 +170,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461638978/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Edoardo Nardelli, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **歐亞烏面猴 au-a-oo-bīn-kâu**
@@ -186,9 +186,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/34996415/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Aaron Maizlish, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **金翼雀 kim-tshì-tshiok**
@@ -202,9 +202,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460440343/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Mourad Harzallah, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **紅胸紅頂雀 âng-hing-âng-tíng-tshiok**
@@ -218,9 +218,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/240528986/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Анна Васильченко, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **普通紅頂雀 phóo-thong-âng-tíng-tshiok**
@@ -234,9 +234,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/455868293/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Yves Bas, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **紅必叉喙鳥 âng-pit-tshe-tshuì-tsiáu**
@@ -250,9 +250,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/177544237/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Mikhail Ezdakov, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **黃雀 n̂g-tshiok**
@@ -266,9 +266,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/114324712/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) zametnya, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á**

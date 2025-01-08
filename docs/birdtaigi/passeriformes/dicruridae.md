@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459477767/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © kumarkv, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -28,9 +28,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458240747/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © James M. Maley, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -46,9 +46,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/371005752/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -64,9 +64,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/456685752/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Rohit Naniwadekar, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -82,9 +82,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/446805348/medium.png" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Andrew Lai, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 

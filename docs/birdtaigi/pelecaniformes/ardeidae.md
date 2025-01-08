@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60579218/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Tatyana Zarubo, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -30,9 +30,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/131272058/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Seth Miller, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -50,9 +50,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/49444185/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) subhashc, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -70,9 +70,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/182943626/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) kenny_well, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -90,9 +90,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/155666451/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Gavin Goodyear, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -114,9 +114,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/49357930/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 no rights reserved, uploaded by Kyle Nessen
-</p>
+</div>
 
 :::info[台語名]
 
@@ -137,9 +137,9 @@ no rights reserved, uploaded by Kyle Nessen
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/29852321/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) David McCorquodale, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -159,9 +159,9 @@ no rights reserved, uploaded by Kyle Nessen
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60995427/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 no rights reserved, uploaded by 葉子
-</p>
+</div>
 
 :::info[台語名]
 
@@ -182,9 +182,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/359441888/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © かわう, some rights reserved (CC-BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -204,9 +204,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/29852525/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Bridget Spencer, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -227,9 +227,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/363689330/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Gerard van de Wiel, some rights reserved (CC-BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -252,9 +252,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/205293169/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Bengt Nyman, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -279,9 +279,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/82895539/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Nik Borrow, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -303,9 +303,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/42986215/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Jacqui Geux, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -325,9 +325,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/166334459/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Ad Konings, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -352,8 +352,8 @@ no rights reserved, uploaded by 葉子
 
 <Image img="" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
-</p>
+<div className="image-caption">
+</div>
 
 :::info[台語名]
 
@@ -373,9 +373,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/186374254/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -395,9 +395,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/188717524/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -417,9 +417,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/242146160/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Greg West, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -445,9 +445,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/56653891/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) daverowe, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -471,9 +471,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/169780988/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Hong, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -497,9 +497,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/97939450/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Corine Bliek, some rights reserved (CC BY-NC)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -520,9 +520,9 @@ no rights reserved, uploaded by 葉子
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/57662088/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Mike Quinn, Austin, TX, some rights reserved (CC BY-NC),
-</p>
+</div>
 
 :::info[台語名]
 

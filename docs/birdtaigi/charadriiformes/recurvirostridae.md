@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20455456/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Paolo, some rights reserved (CC BY)
-</p>
+</div>
 
 :::info[台語名]
 
@@ -34,9 +34,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/453916212/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © spacegecko, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 - 🎯 **烏領躼跤鴴 oo-niá-lò-kha-hîng**
@@ -54,9 +54,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/15387682/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 (c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC),
-</p>
+</div>
 
 :::info[台語名]
 

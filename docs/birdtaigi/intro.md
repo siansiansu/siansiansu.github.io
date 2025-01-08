@@ -20,9 +20,9 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 <Image img={require('./img/519273.png')} />
 
-<p className="image-caption">
+<div className="image-caption">
 圖片：https://news.pts.org.tw/article/519273
-</p>
+</div>
 
 來看這个範例，水尖仔是一般鷸科鳥仔 ê 統稱，有誠濟物種攏會使叫水尖仔，這是水尖仔、彼个嘛是水尖仔，用台語講，會毋知是佗一个物種，除非用華語講「黦鷸」。
 

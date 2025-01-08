@@ -10,9 +10,9 @@ import Image from '@theme/IdealImage';
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/454393323/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
-<p className="image-caption">
+<div className="image-caption">
 © Timothy Whitehead, some rights reserved (CC-BY)
-</p>
+</div>
 
 :::info[台語名]
 🎯 **烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu**
