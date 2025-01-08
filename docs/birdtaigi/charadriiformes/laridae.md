@@ -4,7 +4,7 @@ description: 本文整理了鷗的台語名，並對照英語與華語翻譯，�
 
 import Image from '@theme/IdealImage';
 
-# 鷗科 oo-kho
+# 海鷗科 hái-oo-kho
 
 ## [小鷗 ヒメカモメ Little Gull](https://ebird.org/species/litgul)
 

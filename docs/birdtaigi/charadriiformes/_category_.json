@@ -2,6 +2,7 @@
   "label": "鴴形目 hîng-hîng-ba̍k",
   "position": 9,
   "link": {
-    "id": "birdtaigi/charadriiformes"
+    "type": "doc",
+    "id": "birdtaigi/charadriiformes/index"
   }
 }
