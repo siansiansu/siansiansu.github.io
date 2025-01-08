@@ -28,10 +28,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 日語：ヨーロッパ au-tsiu + 米雞仔 bí-ke-á
-- 華語：西方 se-hong + 米雞仔 bí-ke-á
-
+參考華語鳥類名錄、日語
 :::
 
 ## [東亞秧雞 クイナ Brown-cheeked Rail](https://ebird.org/species/bncrai1)
@@ -55,9 +52,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 依據華語東亞 -> tang-a + 米雞仔 bí-ke-á
-
+參考華語鳥類名錄
 :::
 
 ## [灰胸秧雞 ハシナガクイナ Slaty-breasted Rail](https://ebird.org/species/slbrai1)
@@ -81,9 +76,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-Slaty-breasted -> 殕色胸 phú-sik-hing
-
+參考華語鳥類名錄
 :::
 
 ## [斑胸秧雞 コモンクイナ Spotted Crake](https://ebird.org/species/spocra1)
@@ -107,9 +100,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 :::
 
 :::tip[註解]
-
-- 斑胸 pan-hing
-
+參考華語鳥類名錄
 :::
 
 ## [紅冠水雞 バン Eurasian Moorhen](https://ebird.org/species/commoo3)
@@ -136,10 +127,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 :::
 
 :::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [白冠雞 オオバン Eurasian Coot](https://ebird.org/species/eurcoo)
@@ -159,9 +147,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 :::
 
 :::tip[註解]
-
-頭前加上白冠 pe̍h-kuan 以區別於其他烏雞仔 oo-ke-á
-
+參考華語鳥類名錄
 :::
 
 ## [灰頭紫水雞 ハイガシラセイケイ Gray-headed Swamphen](https://ebird.org/species/purswa3)
@@ -184,9 +170,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 :::
 
 :::tip[註解]
-
-- Gray-headed -> 殕色頭 phú-sik-thâu + 紫田雞 tsí-tshân-ke
-
+參考華語鳥類名錄
 :::
 
 ## [白眉秧雞 マミジロクイナ White-browed Crake](https://ebird.org/species/whbcra1)
@@ -198,15 +182,11 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 </div>
 
 :::info[台語名]
-
-- 🎯 **白眉米雞仔 pe̍h-bâi-bí-ke-á**
-
+🎯 **白眉米雞仔 pe̍h-bâi-bí-ke-á**
 :::
 
 :::tip[註解]
-
-- White-browed -> 白眉 pe̍h-bâi + 米雞仔 bí-ke-á
-
+參考華語鳥類名錄
 :::
 
 ## [董雞 ツルクイナ Watercock](https://ebird.org/species/waterc1)
@@ -218,16 +198,11 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 </div>
 
 :::info[台語名]
-
-- 🎯 **田頓 tshân-tòm**
-
+🎯 **田頓 tshân-tòm**
 :::
 
 :::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [白腹秧雞 シロハラクイナ White-breasted Waterhen](https://ebird.org/species/whbwat1)
@@ -252,11 +227,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 :::
 
 :::tip[註解]
-
-- 1973 Embree台英辭典
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [紅腳秧雞 ナンヨウオオクイナ Red-legged Crake](https://ebird.org/species/relcra1)
@@ -277,9 +248,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 :::
 
 :::tip[註解]
-
-- 紅跤 âng-kha + 米雞仔 bí-ke-á
-
+參考華語鳥類名錄
 :::
 
 ## [灰腳秧雞 オオクイナ Slaty-legged Crake](https://ebird.org/species/sllcra1)
@@ -299,9 +268,7 @@ Slaty-breasted -> 殕色胸 phú-sik-hing
 :::
 
 :::tip[註解]
-
-Slaty-legged -> 殕色跤 phú-sik-kha
-
+參考華語鳥類名錄
 :::
 
 ## [緋秧雞 ヒクイナ Ruddy-breasted Crake](https://ebird.org/species/rubcra1)
@@ -328,9 +295,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 :::
 
 :::tip[註解]
-
-頭前加上紅胸 âng-hing 以區別於其他米雞仔 bí-ke-á
-
+參考華語鳥類名錄
 :::
 
 ## [斑脇秧雞 コウライクイナ Band-bellied Crake](https://ebird.org/species/babcra1)
@@ -351,9 +316,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 :::
 
 :::tip[註解]
-
-斑脇 -> 斑胳 pan-kueh
-
+參考華語鳥類名錄
 :::
 
 ## [紅腳苦惡鳥 チャバネクイナ Brown Crake](https://ebird.org/species/brocra1)
@@ -374,9 +337,7 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 :::
 
 :::tip[註解]
-
-頭前加上紅跤 âng-kha 以區別於其他苦雞母 khóo-ke-bó
-
+參考華語鳥類名錄
 :::
 
 ## [小秧雞 ヒメクイナ Baillon's Crake](https://ebird.org/species/baicra1)
@@ -397,7 +358,5 @@ Slaty-legged -> 殕色跤 phú-sik-kha
 :::
 
 :::tip[註解]
-
-頭前加上小 sió 以區別於其他米雞仔 bí-ke-á
-
+參考華語鳥類名錄
 :::

@@ -15,16 +15,11 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
-
-- 🎯 **簑毛鶴 sui-moo-ho̍h**
-- ✳️ 鶴 ho̍h
-
+🎯 **簑毛鶴 sui-moo-ho̍h**
 :::
 
 :::tip[註解]
-
-取自蓑 sui
-
+參考華語鳥類名錄
 :::
 
 ## [白鶴 ソデグロヅル Siberian Crane](https://ebird.org/species/sibcra1)
@@ -39,15 +34,11 @@ import Image from '@theme/IdealImage';
 
 - 🎯 **白鶴 pe̍h-ho̍h**
 - 🎯 **西伯利亞白鶴 se-pik-lī-a-pe̍h-ho̍h**
-- 烏袖鶴 oo-siù-ho̍h
-- ✳️ 鶴 ho̍h
 
 :::
 
 :::tip[註解]
-
-- Siberian -> 西伯利亞 se-pik-lī-a
-
+參考華語鳥類名錄
 :::
 
 ## [沙丘鶴 カナダヅル Sandhill Crane](https://ebird.org/species/sancra)
@@ -66,10 +57,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Sandhill -> 沙丘 sua-lūn
-- 日語 かなだ -> 加拿大 Ka-ná-ta + 鶴 ho̍h
-
+參考華語鳥類名錄、日語
 :::
 
 ## [白枕鶴 マナヅル White-naped Crane](https://ebird.org/species/whncra1)
@@ -81,17 +69,11 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
-
-- 🎯 **白頂鶴 pe̍h-tsím-ho̍h**
-- ✳️ 鶴 ho̍h
-
+🎯 **白頂鶴 pe̍h-tsím-ho̍h**
 :::
 
 :::tip[註解]
-
-- 1973 Embree台英辭典
-- White-naped -> 白頂 pe̍h-tsím
-
+參考 1973 Embree台英辭典、華語鳥類圖鑑
 :::
 
 ## [灰鶴 クロヅル Common Crane](https://ebird.org/species/comcra)
@@ -103,16 +85,11 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
-
-- 🎯 **殕色鶴 phú-sik-ho̍h**
-- ✳️ 鶴 ho̍h
-
+🎯 **殕色鶴 phú-sik-ho̍h**
 :::
 
 :::tip[註解]
-
-- 灰鶴 -> 殕色鶴 phú-sik-ho̍h
-
+參考華語鳥類名錄
 :::
 
 ## [白頭鶴 ナベヅル Hooded Crane](https://ebird.org/species/hoocra1)
@@ -124,16 +101,11 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
-
-- 🎯 **白頭鶴 pe̍h-thâu-ho̍h**
-- ✳️ 鶴 ho̍h
-
+🎯 **白頭鶴 pe̍h-thâu-ho̍h**
 :::
 
 :::tip[註解]
-
-白頭 pe̍h-thâu + 鶴 ho̍h
-
+參考華語鳥類名錄
 :::
 
 ## [丹頂鶴 タンチョウ Red-crowned Crane](https://ebird.org/species/reccra1)
@@ -153,7 +125,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-Red-crowned Crane -> 紅頭 âng-thâu + 鶴 ho̍h
-
+參考華語鳥類名錄
 :::

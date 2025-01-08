@@ -2,6 +2,7 @@
   "label": "鶴形目 ho̍h-hîng-ba̍k",
   "position": 8,
   "link": {
-    "id": "birdtaigi/gruiformes"
+    "type": "doc",
+    "id": "birdtaigi/gruiformes/index"
   }
 }
