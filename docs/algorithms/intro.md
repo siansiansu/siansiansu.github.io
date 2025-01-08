@@ -6,31 +6,31 @@ sidebar_position: 1
 
 ## Core Topics
 
-- [Array](./core/array/)
-- [Binary Tree](./core/binary-tree/)
-- [Graph](./core/graph/)
-- [HashMap](./core/hashmap/)
-- [Linked List](./core/linked-list/)
-- [Queue](./core/queue/)
-- [Stack](./core/stack/)
-- [String](./core/string/)
-- [Trie (Prefix Tree)](./core/trie/)
+- [Array](./core/array/array.md)
+- [Binary Tree](./core/binary-tree/binary-tree.md)
+- [Graph](./core/graph/graph.md)
+- [HashMap](./core/hashmap/hashmap.md)
+- [Linked List](./core/linked-list/linked-list.md)
+- [Queue](./core/queue/queue.md)
+- [Stack](./core/stack/stack.md)
+- [String](./core/string/string.md)
+- [Trie (Prefix Tree)](./core/trie/trie.md)
 
 ## Advanced Topics
 
-- [Backtracking](./advanced/backtracking/)
-- [Binary Search](./advanced/binary-search/)
-- [Bit Manipulation](./advanced/bit/)
-- [Design](./advanced/design/)
-- [Dynamic Programming](./advanced/dp/)
-- [Greedy Algorithm](./advanced/greedy/)
-- [Intervals](./advanced/intervals/)
-- [Math](./advanced/math/)
-- [Matrix](./advanced/matrix/)
-- [Prefix Sum](./advanced/prefix-sum/)
-- [Sliding Window](./advanced/sliding-window/)
-- [Sorting](./advanced/sorting/)
-- [Two Pointers](./advanced/two-pointers/)
+- [Backtracking](./advanced/backtracking/backtracking.md)
+- [Binary Search](./advanced/binary-search/binary-search.md)
+- [Bit Manipulation](./advanced/bit/bit.md)
+- [Design](./advanced/design/design.md)
+- [Dynamic Programming](./advanced/dp/dp.md)
+- [Greedy Algorithm](./advanced/greedy/greedy.md)
+- [Intervals](./advanced/intervals/intervals.md)
+- [Math](./advanced/math/math.md)
+- [Matrix](./advanced/matrix/matrix.md)
+- [Prefix Sum](./advanced/prefix-sum/prefix-sum.md)
+- [Sliding Window](./advanced/sliding-window/sliding-window.md)
+- [Sorting](./advanced/sorting/sorting.md)
+- [Two Pointers](./advanced/two-pointers/two-pointers.md)
 
 ## Other Resources
 
