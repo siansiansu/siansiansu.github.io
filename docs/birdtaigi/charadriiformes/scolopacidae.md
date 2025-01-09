@@ -26,10 +26,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 中 tiong + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，中土礱鉤鷸 tiong-thôo-lâng-kau-u̍t
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [小勺鷸 コシャクシギ Little Curlew](https://ebird.org/species/litcur)
@@ -52,10 +49,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 小 sió + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，小土礱鉤鷸 sió-thôo-lâng-kau-u̍t
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [黦鷸 ホウロクシギ Far Eastern Curlew](https://ebird.org/species/faecur)
@@ -79,10 +73,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 紅腰 âng-io + 礱鉤仔 thôo-lâng-kau-á 抑是加上分類名鷸 u̍t，紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-u̍t
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [大勺鷸 ダイシャクシギ Eurasian Curlew](https://ebird.org/species/eurcur)
@@ -104,6 +95,10 @@ import Image from '@theme/IdealImage';
 
 :::
 
+:::tip[註解]
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+:::
+
 ## [斑尾鷸 オオソリハシシギ Bar-tailed Godwit](https://ebird.org/species/batgod)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/21556074/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
@@ -121,9 +116,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Bar-tailed -> 斑尾 pan-bé
-
+參考華語鳥類名錄
 :::
 
 ## [黑尾鷸 オグロシギ Black-tailed Godwit](https://ebird.org/species/bktgod)
@@ -143,9 +136,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-Black-tailed -> 烏尾 oo-bé
-
+參考華語鳥類名錄
 :::
 
 ## [半蹼鷸 シベリアオオハシシギ Asian Dowitcher](https://ebird.org/species/asidow1)
@@ -165,9 +156,7 @@ Black-tailed -> 烏尾 oo-bé
 :::
 
 :::tip[註解]
-
-半扒 puànn-pê
-
+參考華語鳥類名錄
 :::
 
 ## [短嘴半蹼鷸 アメリカオオハシシギ Short-billed Dowitcher](https://ebird.org/species/shbdow)
@@ -187,10 +176,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 半扒 puànn-pê
-- Short-billed -> 短喙 té-tshuì
-
+參考華語鳥類名錄
 :::
 
 ## [長嘴半蹼鷸 オオハシシギ Long-billed Dowitcher](https://ebird.org/species/lobdow)
@@ -210,10 +196,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 半扒 puànn-pê
-- Long-billed -> 長喙 tng-tshuì
-
+參考華語鳥類名錄
 :::
 
 ## [小鷸 コシギ Jack Snipe](https://ebird.org/species/jacsni)
@@ -225,15 +208,11 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 </div>
 
 :::info[台語名]
-
-- 🎯 **小田鑽仔 sió-tshân-tsǹg-á**
-
+🎯 **小田鑽仔 sió-tshân-tsǹg-á**
 :::
 
 :::tip[註解]
-
-- 小 sió + 田鑽仔 tshân-tsǹg-á
-
+參考華語鳥類名錄、田鷸台語
 :::
 
 ## [山鷸 ヤマシギ Eurasian Woodcock](https://ebird.org/species/eurwoo)
@@ -251,9 +230,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 山 suann + 田鑽仔 tshân-tsǹg-á
-
+參考華語鳥類名錄、田鷸台語
 :::
 
 ## [孤田鷸 アオシギ Solitary Snipe](https://ebird.org/species/solsni1)
@@ -271,9 +248,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 孤 koo + 田鑽仔 tshân-tsǹg-á
-
+參考華語鳥類名錄、田鷸台語
 :::
 
 ## [中地鷸 チュウジシギ Swinhoe's Snipe](https://ebird.org/species/swisni1)
@@ -295,9 +270,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 中地 tiong-tuē + 田鑽仔 tshân-tsǹg-á
-
+參考華語鳥類名錄、田鷸台語
 :::
 
 ## [針尾鷸 ハリオシギ Pin-tailed Snipe](https://ebird.org/species/pitsni)
@@ -319,9 +292,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 針尾 tsiam-bé + 田鑽仔 tshân-tsǹg-á
-
+參考華語鳥類名錄、田鷸台語
 :::
 
 ## [大地鷸 オオジシギ Latham's Snipe](https://ebird.org/species/latsni1)
@@ -342,10 +313,8 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 
 :::
 
-:::
-
-- 大地 tuā-tuē + 田鑽仔 tshân-tsǹg-á
-
+:::tip[註解]
+參考華語鳥類名錄、田鷸台語
 :::
 
 ## [田鷸 タシギ Common Snipe](https://ebird.org/species/comsni)
@@ -366,9 +335,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [灰瓣足鷸 ハイイロヒレアシシギ Red Phalarope](https://ebird.org/species/redpha1)
@@ -388,9 +355,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 暫時叫伊扒跤仔 pê-kha-á。
-
+參考華語鳥類名錄
 :::
 
 ## [紅領瓣足鷸 アカエリヒレアシシギ Red-necked Phalarope](https://ebird.org/species/renpha)
@@ -411,9 +376,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 暫時叫伊蹼跤仔 pê-kha-á。
-
+參考華語鳥類名錄
 :::
 
 ## [反嘴鷸 ソリハシシギ Terek Sandpiper](https://ebird.org/species/tersan)
@@ -434,9 +397,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 後壁加上分類名鷸 u̍t，佮翹喙鴴 khiàu-tshuì-hîng 區分
-
+後壁加上分類名鷸 u̍t，佮翹喙鴴 khiàu-tshuì-hîng 區分
 :::
 
 ## [磯鷸 イソシギ Common Sandpiper](https://ebird.org/species/comsan)
@@ -456,9 +417,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 磯鷸 ki-u̍t 源自日語漢字
-
+磯鷸 ki-u̍t 源自日語漢字
 :::
 
 ## [白腰草鷸 クサシギ Green Sandpiper](https://ebird.org/species/grnsan)
@@ -479,9 +438,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 參考華語日語
-
+參考華語鳥類名錄、日語名
 :::
 
 ## [黃足鷸 キアシシギ Gray-tailed Tattler](https://ebird.org/species/gyttat1)
@@ -501,9 +458,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-黃足 -> 黃跤 n̂g-kha
-
+參考華語鳥類名錄
 :::
 
 ## [美洲黃足鷸 メリケンキアシシギ Wandering Tattler](https://ebird.org/species/wantat1)
@@ -523,9 +478,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 美洲 bí-tsiu + 黃足 n̂g-kha + 鷸 u̍t
-
+參考華語鳥類名錄
 :::
 
 ## [小青足鷸 コアオアシシギ Marsh Sandpiper](https://ebird.org/species/marsan)
@@ -537,15 +490,11 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 </div>
 
 :::info[台語名]
-
-- 🎯 小青跤鷸 sió-tshinn-kha-u̍t
-
+🎯 小青跤鷸 sió-tshinn-kha-u̍t
 :::
 
 :::tip[註解]
-
-- 參考華語日語
-
+參考華語鳥類名錄
 :::
 
 ## [鷹斑鷸 タカブシギ Wood Sandpiper](https://ebird.org/species/woosan)
@@ -565,9 +514,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 參考華語日語
-
+參考華語鳥類名錄
 :::
 
 ## [赤足鷸 アカアシシギ Common Redshank](https://ebird.org/species/comred1)
@@ -587,9 +534,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- 赤足 -> 紅跤 âng-kha
-
+參考華語鳥類名錄
 :::
 
 ## [小黃腳鷸 コキアシシギ Lesser Yellowlegs](https://ebird.org/species/lesyel)
@@ -609,9 +554,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-- Lesser Yellowlegs -> 小黃跤 sió-n̂g-kha + 鷸 u̍t
-
+參考華語鳥類名錄
 :::
 
 ## [諾氏鷸 カラフトアオアシシギ Nordmann’s Greenshank](https://ebird.org/species/norgre1)
@@ -633,9 +576,7 @@ https://inaturalist-open-data.s3.amazonaws.com/photos/455202036/medium.jpeg
 :::
 
 :::tip[註解]
-
-Nordmann’s -> 諾曼氏 lo̍k-bân-sī
-
+參考華語鳥類名錄、英語名
 :::
 
 ## [鶴鷸 ツルシギ Spotted Redshank](https://ebird.org/species/spored)
@@ -655,9 +596,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 參考華語日語
-
+參考華語鳥類名錄
 :::
 
 ## [青足鷸 アオアシシギ Common Greenshank](https://ebird.org/species/comgre)
@@ -677,9 +616,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 青足 -> 青跤 tshinn-kha
-
+參考華語鳥類名錄
 :::
 
 ## [翻石鷸 キョウジョシギ Ruddy Turnstone](https://ebird.org/species/rudtur)
@@ -700,9 +637,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [大濱鷸 オバシギ Great Knot](https://ebird.org/species/grekno)
@@ -723,10 +658,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 姥鷸 bóo-u̍t 源自日語漢字。
-- Great Knot -> 大 tuā + 濱鷸 pin-u̍t
-
+姥鷸 bóo-u̍t 源自日語漢字。
 :::
 
 ## [紅腹濱鷸 コオバシギ Red Knot](https://ebird.org/species/redkno)
@@ -745,13 +677,10 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 - ✳️ 水尖仔 Tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-📍 小姥鷸 sió-bóo-u̍t 源自日語漢字。
 :::
 
 :::tip[註解]
-
-- 小姥鷸 sió-bóo-u̍t 源自日語漢字。
-
+小姥鷸 sió-bóo-u̍t 源自日語漢字。
 :::
 
 ## [流蘇鷸 エリマキシギ Ruff](https://ebird.org/species/ruff)
@@ -773,8 +702,8 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 
 :::tip[註解]
 
-- 襟巻鷸 khim-kńg-u̍t 源自日語漢字。
-- tshoo-king-u̍t - 1973 Embree台英辭典
+- 參考日語
+- 參考 1973 Embree台英辭典
 
 :::
 
@@ -795,9 +724,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- Broad-billed -> 闊喙 khuah-tshuì
-
+參考華語鳥類名錄
 :::
 
 ## [尖尾濱鷸 ウズラシギ Sharp-tailed Sandpiper](https://ebird.org/species/shtsan)
@@ -817,9 +744,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- Sharp-tailed -> 尖尾 tsiam-bé
-
+參考華語鳥類名錄
 :::
 
 ## [彎嘴濱鷸 サルハマシギ Curlew Sandpiper](https://ebird.org/species/cursan)
@@ -839,9 +764,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 暫時參考華語
-
+參考華語鳥類名錄
 :::
 
 ## [高蹺濱鷸 アシナガシギ Stilt Sandpiper](https://ebird.org/species/stisan)
@@ -861,9 +784,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 躼跤 lò-kha + 濱鷸 pin-u̍t
-
+參考華語鳥類名錄
 :::
 
 ## [丹氏濱鷸 オジロトウネン Temminck’s Stint](https://ebird.org/species/temsti)
@@ -883,9 +804,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- Temminck’s Stint-> 丹氏 tan-sī + 濱鷸 pin-u̍t
-
+參考華語鳥類名錄
 :::
 
 ## [長趾濱鷸 ヒバリシギ Long-toed Stint](https://ebird.org/species/lotsti)
@@ -906,10 +825,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 雲雀鷸 hûn-tshiok-u̍t 源自日語漢字。
-- Long-toed -> 長爪 tn̂g-jiáu
-
+雲雀鷸 hûn-tshiok-u̍t 源自日語漢字。
 :::
 
 ## [紅胸濱鷸 トウネン Red-necked Stint](https://ebird.org/species/rensti)
@@ -929,9 +845,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 暫時參考華語紅胸 âng-hing。
-
+參考華語鳥類名錄
 :::
 
 ## [琵嘴鷸 ヘラシギ Spoon-billed Sandpiper](https://ebird.org/species/spbsan1)
@@ -952,9 +866,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 琵嘴 -> 飯匙 pn̄g-sî 仰是湯匙仔 thng-sî-á + 分類名鷸 u̍t
-
+參考華語鳥類名錄
 :::
 
 ## [黃胸鷸 コモンシギ Buff-breasted Sandpiper](https://ebird.org/species/bubsan)
@@ -974,9 +886,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- Buff-breasted -> 黃胸 n̂g-hing
-
+參考華語鳥類名錄
 :::
 
 ## [三趾濱鷸 ミユビシギ Sanderling](https://ebird.org/species/sander)
@@ -997,9 +907,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 參考外觀特徵、華語日語
-
+參考華語鳥類名錄
 :::
 
 ## [黑腹濱鷸 ハマシギ Dunlin](https://ebird.org/species/dunlin)
@@ -1021,9 +929,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 參考外觀特徵、華語日語
-
+參考華語鳥類名錄
 :::
 
 ## [小濱鷸 ヨーロッパトウネン Little Stint](https://ebird.org/species/litsti)
@@ -1043,9 +949,7 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- Little Stint -> 小濱鷸 sió-pin-u̍t
-
+參考華語鳥類名錄
 :::
 
 ## [美洲尖尾濱鷸 アメリカウズラシギ Pectoral Sandpiper](https://ebird.org/species/pecsan)
@@ -1065,11 +969,8 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- 參考外觀特徵、華語日語
-
+參考華語鳥類名錄
 :::
-
 
 ## [西濱鷸 ヒメハマシギ Western Sandpiper](https://ebird.org/species/wessan)
 
@@ -1088,7 +989,5 @@ Nordmann’s -> 諾曼氏 lo̍k-bân-sī
 :::
 
 :::tip[註解]
-
-- Western Sandpiper -> 西濱鷸 se-pin-u̍t
-
+參考華語鳥類名錄
 :::

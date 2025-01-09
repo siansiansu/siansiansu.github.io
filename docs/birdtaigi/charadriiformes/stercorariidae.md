@@ -22,9 +22,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Long-tailed Jaeger -> 長尾 tn̂g-bué + 賊仔鷗 tsha̍t-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [短尾賊鷗 クロトウゾクカモメ Parasitic Jaeger](https://ebird.org/species/parjae)
@@ -43,9 +41,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 華語短尾賊鷗 -> 短尾 té-bé + 賊仔鷗 tsha̍t-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [中賊鷗 トウゾクカモメ Pomarine Jaeger](https://ebird.org/species/pomjae)
@@ -64,9 +60,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 華語中賊鷗 -> 中 tiong + 賊仔鷗 tsha̍t-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [灰賊鷗 オオトウゾクカモメ South Polar Skua](https://ebird.org/species/sopsku1)
@@ -85,7 +79,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 華語灰賊鷗 -> 殕色 phú-sik + 賊仔鷗 tsha̍t-á-oo
-
+參考華語鳥類名錄
 :::

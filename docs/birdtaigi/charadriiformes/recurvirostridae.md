@@ -24,10 +24,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 1973 Embree台英辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考 1973 Embree台英辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::
 
 ## [黑領高蹺鴴 オーストラリアセイタカシギ Pied Stilt](https://ebird.org/species/piesti1)
@@ -45,9 +42,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-黑領 -> 烏領 oo-niá
-
+參考華語鳥類名錄
 :::
 
 ## [反嘴鴴 ソリハシセイタカシギ Pied Avocet](https://ebird.org/species/pieavo1)
@@ -67,7 +62,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 2016⁺ iTaigi
-
+參考 2016⁺ iTaigi
 :::

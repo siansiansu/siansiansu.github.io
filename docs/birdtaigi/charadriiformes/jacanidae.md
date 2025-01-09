@@ -15,14 +15,9 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
-
-- 🎯 **菱角鳥 lîng-kak-tsiáu**
-- 水雉 tsuí-thī
-
+🎯 **菱角鳥 lîng-kak-tsiáu**
 :::
 
 :::tip[註解]
-
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::

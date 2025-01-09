@@ -26,7 +26,7 @@ import Image from '@theme/IdealImage';
 :::tip[註解]
 
 - 老一輩台灣人會講 カモメ
-- Little Gull -> 小 sió + 鷗 oo
+- 參考華語鳥類名錄、英語名
 
 :::
 
@@ -46,9 +46,7 @@ import Image from '@theme/IdealImage';
 - ✳️ カモメ ka-mo-me
 
 :::tip[註解]
-
-三趾 -> 三爪 sann-jiáu
-
+參考華語鳥類名錄
 :::
 
 ## [叉尾鷗 クビワカモメ Sabine's Gull](https://ebird.org/species/sabgul)
@@ -69,9 +67,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-叉尾 tshe-bué + 鷗 oo
-
+參考華語鳥類名錄
 :::
 
 ## [黑嘴鷗 ズグロカモメ Saunders's Gull](https://ebird.org/species/saugul2)
@@ -92,9 +88,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-黑嘴 -> 烏喙 oo-tshuì
-
+參考華語鳥類名錄
 :::
 
 ## [細嘴鷗 ハシボソカモメ Slender-billed Gull](https://ebird.org/species/slbgul1)
@@ -115,9 +109,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-細嘴 -> 薄喙 po̍h-tshuì
-
+參考華語鳥類名錄
 :::
 
 ## [紐澳紅嘴鷗 ギンカモメ Silver Gull](https://ebird.org/species/silgul2)
@@ -138,9 +130,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 暫時參考華語
-
+參考華語鳥類名錄
 :::
 
 ## [紅嘴鷗 ユリカモメ Black-headed Gull](https://ebird.org/species/bkhgul)
@@ -161,9 +151,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-紅嘴 -> 紅喙 âng-tshuì
-
+參考華語鳥類名錄
 :::
 
 ## [棕頭鷗 チャガシラカモメ Brown-headed Gull](https://ebird.org/species/bnhgul1)
@@ -184,9 +172,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 棕頭 -> 赤頭 tshiah-thâu
-
+參考華語鳥類名錄
 :::
 
 ## [笑鷗 ワライカモメ Laughing Gull](https://ebird.org/species/laugul)
@@ -207,9 +193,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Laughing Gull -> 笑鷗 tshiò-oo
-
+參考華語鳥類名錄、英語名
 :::
 
 ## [弗氏鷗 アメリカズグロカモメ Franklin's Gull](https://ebird.org/species/fragul)
@@ -231,10 +215,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 弗氏 -> 弗氏 hut-sī
-- 仰是全名 Franklin's Gull -> 富蘭克林鷗 Hù-lân-khik-lîm-oo
-
+參考華語鳥類名錄、英語名
 :::
 
 ## [漁鷗 オオズグロカモメ Pallas's Gull](https://ebird.org/species/gbhgul2)
@@ -247,7 +228,7 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
-- 🎯 烏頭大鷗 oo-thâu-tuā-oo
+- 🎯 **烏頭大鷗 oo-thâu-tuā-oo**
 - 漁鷗 hî-oo
 - ✳️ 海鷗 hái-oo
 - ✳️ 海鳥 hái-tsiáu
@@ -258,8 +239,8 @@ import Image from '@theme/IdealImage';
 
 :::tip[註解]
 
-- 烏頭大鷗 oo-thâu-tuā-oo 取自日文、外型特徵
 - 大隻鷗科嘛會叫海雞母 hái-ke-bó
+- 參考日語名
 
 :::
 
@@ -281,9 +262,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Relict Gull -> 遺鷗 î-oo
-
+參考華語鳥類名錄、英語名
 :::
 
 ## [黑尾鷗 ウミネコ Black-tailed Gull](https://ebird.org/species/bktgul)
@@ -297,7 +276,7 @@ import Image from '@theme/IdealImage';
 :::info[台語名]
 
 - 🎯 **海貓 hái-niau**
-- 🎯 烏尾鷗 oo-bué-oo
+- 烏尾鷗 oo-bué-oo
 - ✳️ 海鷗 hái-oo
 - ✳️ 海鳥 hái-tsiáu
 - ✳️ 海雞母 hái-ke-bó
@@ -306,9 +285,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 個人偏好叫海貓 hái-niau
-
+參考日語
 :::
 
 ## [歐亞海鷗 カモメ Common Gull](https://ebird.org/species/mewgul)
@@ -330,9 +307,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-海鷗 hái-oo 仰是頭前加上歐亞 au-a
-
+參考華語鳥類名錄
 :::
 
 ## [西伯利亞銀鷗 セグロカモメ Vega Gull](https://ebird.org/species/veggul1)
@@ -354,9 +329,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-西伯利亞 se-pik-lī-a + 銀鷗 gîn-oo
-
+參考華語鳥類名錄
 :::
 
 ## [蒙古銀鷗 モンゴルセグロカモメ Mongolian Gull](https://ebird.org/species/casgul4)
@@ -378,9 +351,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-蒙古 bông-kóo + 銀鷗 gîn-oo
-
+參考華語鳥類名錄
 :::
 
 ## [北極鷗 シロカモメ Glaucous Gull](https://ebird.org/species/glagul)
@@ -402,9 +373,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 北極 pak-ki̍k + 鷗 oo
-
+參考華語鳥類名錄
 :::
 
 ## [小黑背鷗 ニシセグロカモメ Lesser Black-backed Gull](https://ebird.org/species/lbbgul)
@@ -426,9 +395,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Lesser Black-backed Gull -> 小烏背 sió-oo-puè + 鷗 oo
-
+參考華語鳥類名錄
 :::
 
 ## [灰背鷗 オオセグロカモメ Slaty-backed Gull](https://ebird.org/species/slbgul)
@@ -450,9 +417,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Slaty-backed Gull -> 殕色 phú-sik + 背 puè + 鷗 oo
-
+參考華語鳥類名錄
 :::
 
 ## [玄燕鷗 クロアジサシ Brown Noddy](https://ebird.org/species/brnnod)
@@ -478,7 +443,7 @@ import Image from '@theme/IdealImage';
 
 - 小型燕鷗通常稱為「丁香鳥 ting-hiunn-tsiáu」
 - 個人偏好叫「茶色燕仔鷗 tê-sik-iàn-á-oo」
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+- 部分參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 :::
 
@@ -502,9 +467,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Black Noddy -> 烏色海燕仔 tê-sik-hái-ìnn-á
-
+參考華語鳥類名錄
 :::
 
 ## [白腰燕鷗 コシジロアジサシ Aleutian Tern](https://ebird.org/species/aleter1)
@@ -526,9 +489,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 白腰 pe̍h-io + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [烏領燕鷗 セグロアジサシ Sooty Tern](https://ebird.org/species/sooter1)
@@ -550,9 +511,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-烏領 oo-niá + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [白眉燕鷗 マミジロアジサシ Bridled Tern](https://ebird.org/species/briter1)
@@ -574,9 +533,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 白眉 pe̍h-bâi + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [小燕鷗 コアジサシ Little Tern](https://ebird.org/species/litter1)
@@ -598,9 +555,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Little Tern -> 小 sió + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [美洲小燕鷗 アメリカコアジサシ Least Tern](https://ebird.org/species/leater1)
@@ -622,9 +577,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 美洲 bí-tsiu + 小 sió + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [鷗嘴燕鷗 ハシブトアジサシ Gull-billed Tern](https://ebird.org/species/gubter2)
@@ -647,9 +600,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-個人偏好「厚喙燕仔鷗 kāu-tshuì-iàn-á-oo」
-
+參考特徵
 :::
 
 ## [裏海燕鷗 オニアジサシ Caspian Tern](https://ebird.org/species/caster1)
@@ -671,9 +622,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 裏海 li-hái + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [黑腹燕鷗 クロハラアジサシ Whiskered Tern](https://ebird.org/species/whiter2)
@@ -696,9 +645,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 烏腹 oo-pak + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [黑浮鷗 ハシグロクロハラアジサシ Black Tern](https://ebird.org/species/blkter)
@@ -720,9 +667,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 暫時參考華語
-
+參考華語鳥類名錄
 :::
 
 ## [白翅黑燕鷗 ハジロクロハラアジサシ White-winged Tern](https://ebird.org/species/whwter)
@@ -744,9 +689,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-白翅 pe̍h-tshì + 烏燕仔鷗 oo-iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [燕鷗 アジサシ Common Tern](https://ebird.org/species/comter)
@@ -767,9 +710,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-個人偏好叫燕仔 iàn-á + 鷗 oo = 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [蒼燕鷗 エリグロアジサシ Black-naped Tern](https://ebird.org/species/blnter1)
@@ -792,9 +733,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Black-naped Tern -> 烏頸 oo-kün + 燕仔鷗 iàn-á-oo
-
+參考英語
 :::
 
 ## [紅燕鷗 ベニアジサシ Roseate Tern](https://ebird.org/species/roster)
@@ -816,9 +755,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- Roseate Tern -> 紅 iàn + 燕鷗 oo
-
+參考華語鳥類名錄
 :::
 
 ## [白嘴端鳳頭燕鷗 サンドイッチアジサシ Sandwich Tern](https://ebird.org/species/santer1)
@@ -840,9 +777,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 白喙尖 pe̍h-tshuì-tsiam + 聳毛 tshàng-moo + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [小鳳頭燕鷗 ベンガルアジサシ Lesser Crested Tern](https://ebird.org/species/lecter2)
@@ -864,9 +799,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 小 sió + 聳毛 tshàng-moo + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [鳳頭燕鷗 オオアジサシ Great Crested Tern](https://ebird.org/species/grcter1)
@@ -888,9 +821,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 聳毛 tshàng-moo + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::
 
 ## [黑嘴端鳳頭燕鷗 ヒガシシナアジサシ Chinese Crested Tern](https://ebird.org/species/chcter2)
@@ -911,7 +842,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 烏喙尖 oo-tshuì-tsiam + 聳毛 tshàng-moo + 燕仔鷗 iàn-á-oo
-
+參考華語鳥類名錄
 :::

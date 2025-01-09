@@ -15,15 +15,11 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
-
-- 🎯 **崖海鴉 gâi-hái-a**
-
+🎯 **崖海鴉 gâi-hái-a**
 :::
 
 :::tip[註解]
-
-- 暫時參考華語
-
+參考華語鳥類名錄
 :::
 
 ## [扁嘴海雀 ウミスズメ Ancient Murrelet](https://ebird.org/species/ancmur)
@@ -35,9 +31,11 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
+🎯 **扁喙海雀 pínn-tshuì-hái-tshiok**
+:::
 
-- 🎯 **扁喙海雀 pínn-tshuì-hái-tshiok**
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [冠海雀 カンムリウミスズメ Japanese Murrelet](https://ebird.org/species/japmur1)
@@ -49,9 +47,11 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
+🎯 **聳毛海雀 tshàng-moo-hái-tshiok**
+:::
 
-- 🎯 **聳毛海雀 tshàng-moo-hái-tshiok**
-
+:::tip[註解]
+參考華語鳥類名錄
 :::
 
 ## [白眶海鴿 ケイマフリ Spectacled Guillemot](https://ebird.org/species/spegui1)
@@ -71,9 +71,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-- 白眶 pe̍h-khing + 海粉鳥 hái-hún-tsiáu
-
+參考華語
 :::
 
 ## [角嘴海雀 ウトウ Rhinoceros Auklet](https://ebird.org/species/rhiauk)
@@ -85,7 +83,9 @@ import Image from '@theme/IdealImage';
 </div>
 
 :::info[台語名]
+🎯 **角喙海雀 kak-tshuì-hái-tshiok**
+:::
 
-- 🎯 **角喙海雀 kak-tshuì-hái-tshiok**
-
+:::tip[註解]
+參考華語
 :::

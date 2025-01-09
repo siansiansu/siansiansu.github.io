@@ -4,7 +4,7 @@ description: 本文整理了彩鷸的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 骨簪仔科 kut-tsiam-á-kho
+# 骨簪鷸仔科 kut-tsiam-u̍t-á-kho
 
 ## [彩鷸 タマシギ Greater Painted-Snipe](https://ebird.org/species/grpsni1)
 
@@ -16,16 +16,12 @@ import Image from '@theme/IdealImage';
 
 :::info[台語名]
 
+- 🎯 **骨簪鷸仔 kut-tsiam-u̍t-á**
 - 🎯 **骨簪仔 kut-tsiam-á**
-- 🎯 **骨簪鷸 kut-tsiam-u̍t**
-- 彩鷸 tshái-u̍t
 - ✳️ 塗礱鉤仔 thôo-lâng-kau-á
 
 :::
 
 :::tip[註解]
-
-- 骨簪仔 kut-tsiam-á - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 骨簪 kut-tsiam + 鷸 u̍t
-
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 :::

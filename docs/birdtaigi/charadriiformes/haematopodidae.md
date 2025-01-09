@@ -23,7 +23,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-
-若不佮意華語，用 Oystercatcher ê 意思號名：**食蚵仔鳥 tsia̍h-ô-á-tsiáu** 抑是**蚵仔師 ô-á-sai**。
-
+參考英語名字
 :::

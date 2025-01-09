@@ -19,7 +19,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-參考華語鳥類圖鑑
+參考華語鳥類名錄
 :::
 
 ## [灰鶺鴒 キセキレイ Gray Wagtail](https://ebird.org/species/grywag)

@@ -19,7 +19,7 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-參考華語鳥類圖鑑
+參考華語鳥類名錄
 :::
 
 ## [雪鵐 ユキホオジロ Snow Bunting](https://ebird.org/species/snobun)
@@ -35,5 +35,5 @@ import Image from '@theme/IdealImage';
 :::
 
 :::tip[註解]
-參考華語鳥類圖鑑
+參考華語鳥類名錄
 :::
