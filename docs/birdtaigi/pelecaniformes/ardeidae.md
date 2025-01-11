@@ -98,13 +98,12 @@ no rights reserved, uploaded by Kyle Nessen
 
 **台語名**
 
-- 🎯 **烏頭暗光鳥 oo-thâu-àm-kong-tsiáu**
-- 夜鷺 iā-lōo
+- 🎯 **暗光鳥 àm-kong-tsiáu**
 - ✳️ 暗光鳥 àm-kong-tsiáu
 
 **註解**
 
-頭前加上烏頭 oo-thâu 區分其他暗光鳥
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [棕夜鷺 ハシブトゴイ Nankeen Night Heron](https://ebird.org/species/runher1)
 
