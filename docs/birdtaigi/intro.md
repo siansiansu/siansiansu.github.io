@@ -8,7 +8,7 @@ import Image from '@theme/IdealImage';
 
 <Image img={require('./img/cover_photo.jpeg')} />
 
-為著予 ta-ke 認捌鳥仔 ê 台語，我配合中華鳥仔會公告 ê，上新 ê 鳥仔名簿，整理 tse ê 鳥仔清單，予大家方便揣鳥仔 ê 台語名，希望會當藉著認捌鳥仔 ê 名，有愈來愈濟人來講台灣話。
+為著予 ta-ke 認捌鳥仔 ê 台語，我整理 tse ê 鳥仔清單，予大家方便揣鳥仔 ê 台語名，希望會當藉著認捌鳥仔 ê 名，有愈來愈濟人來講台灣話。
 
 ## 是按怎欲創作《鳥仔 ê 名 - 認捌鳥仔 ê 台語》？
 
@@ -45,113 +45,43 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="範例一">
-:::info[下跤 ê 物種攏是青笛仔]
-
-1. 斯氏繡眼 Swinhoe's White-eye (學名：*Zosterops simplex*)
-2. 日菲繡眼 Warbling White-eye (學名：*Zosterops japonicus*)
-3. 低地繡眼 Lowland White-eye (學名：*Zosterops meyeni*)
-4. 紅脇繡眼 Chestnut-flanked White-eye (學名：*Zosterops erythropleurus*)
-
-:::
-
-建議頭前加上形容詞 + 台灣本土台語稱呼區分：
-
-:::tip[建議台語名]
+**下跤 ê 物種攏是青笛仔**
 
   1. 斯氏繡眼 -> 斯氏青笛仔 su-sī-tshenn-thî-á
   2. 日菲繡眼 -> 日菲青笛仔 ji̍t-hui-tshenn-thî-á
   3. 低地繡眼 -> 低地青笛仔 kē-tē-tshenn-thî-á
   4. 紅脇繡眼 -> 赤胳青笛仔 tshiah-koh-tshenn-thî-á
 
-:::
   </TabItem>
   <TabItem value="範例二">
+  **下跤 ê 物種攏是水避仔 ê 一種**
 
-:::info[下跤 ê 物種攏是水避仔 ê 一種]
-
-1. 小鸊鷉 Little Grebe (學名：*Tachybaptus ruficollis*)
-2. 角鸊鷉 Horned Grebe (學名：*Podiceps auritus*)
-3. 赤頸鸊鷉 Red-necked Grebe (學名：*Podiceps grisegena*)
-4. 冠鸊鷉 Great Crested Grebe (學名：*Podiceps cristatus*)
-5. 黑頸鸊鷉 Eared Grebe (學名：*Podiceps nigricollis*)
-
-:::
-
-:::tip[建議台語名]
-
-1. 小鸊鷉 -> 水避仔 tsuí-pī-á
-2. 角鸊鷉 -> 角水避 kak-tsuí-pī
-3. 赤頸鸊鷉 -> 紅頸水避 âng-kún-tsuí-pī
-4. 冠鸊鷉 -> 聳毛水避 tshàng-moo-tsuí-pī
-5. 黑頸鸊鷉 -> 烏頸水避 oo-kún-tsuí-pī
-
-:::
-
+  1. 小鸊鷉 -> 水避仔 tsuí-pī-á
+  2. 角鸊鷉 -> 角水避 kak-tsuí-pī
+  3. 赤頸鸊鷉 -> 紅頸水避 âng-kún-tsuí-pī
+  4. 冠鸊鷉 -> 聳毛水避 tshàng-moo-tsuí-pī
+  5. 黑頸鸊鷉 -> 烏頸水避 oo-kún-tsuí-pī
   </TabItem>
   <TabItem value="範例三">
-
-:::info[以下物種 tī 辭典揣無台語俗名]
-
-- 鐵嘴鴴 Greater Sand-Plover (學名：*Anarhynchus leschenaultii*)
-- 赤腹鶇 Brown-headed Thrush (學名：*Turdus chrysolaus*)
-- 堪察加柳鶯 Kamchatka Leaf Warbler (學名：*Phylloscopus examinandus*)
-- 紅喉潛鳥 Red-throated Loon (學名： *Gavia stellata*)
-
-:::
-
-:::tip[建議台語名]
-
-- 鐵嘴鴴仔 -> 厚喙鴴 kāu-tshuì-hîng-á
-- 赤腹鶇仔 -> 紅腹鶇 âng-pak-tong-á
-- 堪察加柳鶯 -> 堪察加柳鶯 kham-tshâ-tsham-liú-ing
-- 紅喉潛鳥 -> 紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu
-
-:::
-
+  **下跤 ê 物種 tī 辭典揣無台語俗名**
+  1. 鐵嘴鴴仔 -> 厚喙鴴 kāu-tshuì-hîng-á
+  2. 赤腹鶇仔 -> 紅腹鶇 âng-pak-tong-á
+  3. 堪察加柳鶯 -> 堪察加柳鶯 kham-tshâ-tsham-liú-ing
+  4. 紅喉潛鳥 -> 紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu
   </TabItem>
-
   <TabItem value="範例四">
-
-:::info[mā 會參考日語、英語，無一定參考華語]
-
-- 華語「褐翅鴉鵑」是參考伊 ê 英語名「Greater Coucal」+ 華語「番鵑」 ê 台語號名。
-- 華語「斑背潛鴨」是參考伊 ê 日語名。
-- 華語「蠣鴴」是參考伊 ê 英語名。
-
-:::
-
-:::tip[建議台語名]
-
-- 褐翅鴉鵑 -> 大草嘓 tuā-tsháu-kok。
-- 斑背潛鴨 -> 鈴鴨 lîng-ah。
-- 蠣鴴 -> 食蚵仔鳥 tsia̍h-ô-á-tsiáu
-
-:::
-
+  **mā 會參考日語、英語，無一定參考華語**
+  1. 褐翅鴉鵑 -> 大草嘓 tuā-tsháu-kok。
+  2. 斑背潛鴨 -> 鈴鴨 lîng-ah。
+  3. 蠣鴴 -> 食蚵仔鳥 tsia̍h-ô-á-tsiáu
   </TabItem>
-
   <TabItem value="範例五">
-
-:::info[分類名盡量用台灣本土 ê 台語號名]
-
-- 夜鷹目 (Caprimulgiformes)
-- 鸊鷉科 (Grebes)
-- 秧雞科 (Rail)
-- 水雉科 (Jacanidae)
-- 草鴞科 (Tytonidae)
-
-:::
-
-:::tip[建議台語名]
-
-- 夜鷹目 -> 石磯仔目 tsio̍h-ki-á-ba̍k
-- 鸊鷉科 -> 水避仔科 tsuí-pī-á-koa
-- 秧雞科 -> 米雞仔科 bí-ke-á-koa
-- 水雉科 -> 菱角鳥科 lîng-kak-niû-koa
-- 草鴞科 -> 猴面鷹科 kâu-bīn-ing-kho
-
-:::
-
+  **分類名盡量用台灣本土 ê 台語號名**
+  1. 夜鷹目 -> 石磯仔目 tsio̍h-ki-á-ba̍k
+  2. 鸊鷉科 -> 水避仔科 tsuí-pī-á-koa
+  3. 秧雞科 -> 米雞仔科 bí-ke-á-koa
+  4. 水雉科 -> 菱角鳥科 lîng-kak-niû-koa
+  5. 草鴞科 -> 猴面鷹科 kâu-bīn-ing-kho
   </TabItem>
 </Tabs>
 
