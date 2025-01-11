@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **普通石磯仔 phóo-thong-tsio̍h-ki-á**
 - 🎯 **殕色石磯仔 phú-sik-tsio̍h-ki-á**
@@ -27,11 +27,10 @@ import Image from '@theme/IdealImage';
 - ✳️ 石磯仔 tsio̍h-ki-á
 - ✳️ 夜鷹 iā-ing
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+
 
 ## [南亞夜鷹 シロアゴヨタカ Savanna Nightjar](https://ebird.org/species/savnig1)
 
@@ -41,7 +40,7 @@ import Image from '@theme/IdealImage';
 (c) Rizki Kurnia Tohir, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **南亞石磯仔 lâm-a-tsio̍h-ki-á**
 - 🎯 **山蚊母石磯仔 suann-bûn-bó-tsio̍h-ki-á**
@@ -55,11 +54,7 @@ import Image from '@theme/IdealImage';
 - ✳️ 石磯仔 tsio̍h-ki-á
 - ✳️ 夜鷹 iā-ing
 
-:::
-
-:::tip[註解]
+**註解**
 
 - 山蚊母 suann-bûn-bó 源自英語名 Savanna。
 - 參考華語鳥類名錄、1973 Embree台英辭典、2002⁺ 台華線頂辭典
-
-:::

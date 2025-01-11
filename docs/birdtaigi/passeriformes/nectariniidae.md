@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) John Dumbacher, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **黃腹花蜜鳥 n̂g-pak-hue-bi̍t-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [藍喉太陽鳥 ルリオタイヨウチョウ Mrs. Gould's Sunbird](https://ebird.org/species/gousun1)
 
@@ -30,13 +30,13 @@ import Image from '@theme/IdealImage';
 © hoshi, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **藍喉太陽鳥 nâ-âu-thài-iông-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [叉尾太陽鳥 エンビタイヨウチョウ Fork-tailed Sunbird](https://ebird.org/species/fotsun1)
 
@@ -46,10 +46,10 @@ import Image from '@theme/IdealImage';
 (c) Paul Dickson, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **攕仔尾太陽鳥 tshiám-á-bué-thài-iông-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **攕仔尾太陽鳥 tshiám-á-bué-thài-iông-tsiáu**
+
+**註解**
+
 參考英語
-:::

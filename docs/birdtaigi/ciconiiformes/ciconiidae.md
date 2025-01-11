@@ -14,17 +14,13 @@ import Image from '@theme/IdealImage';
 (c) David Cook, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏鸛 oo-kuàn**
+🎯 **烏鸛 oo-kuàn**
 
-:::
+**註解**
 
-:::tip[註解]
-
-Black Stork -> 烏鸛 oo-kuàn
-
-:::
+參考華語鳥類名錄
 
 ## [東方白鸛 コウノトリ Oriental Stork](https://ebird.org/species/oristo1)
 
@@ -34,14 +30,10 @@ Black Stork -> 烏鸛 oo-kuàn
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **東方白鸛 tong-hong-pe̍h-kuàn**
+🎯 **東方白鸛 tong-hong-pe̍h-kuàn**
 
-:::
+**註解**
 
-:::tip[註解]
-
-Oriental Stork -> 東方白鸛 tong-hong-pe̍h-kuàn
-
-:::
+參考華語鳥類名錄

@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) Peter Ericsson, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青翼抾箬仔 tshenn-si̍t-khioh-ha̍h-á**
 - 藍翼八色鳥 lâm-si̍t-peh-sik-tsiáu
@@ -22,11 +22,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 抾箬仔 khioh-ha̍h-á
 - ✳️ 八色鳥 peh-sik-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [八色鳥 ヤイロチョウ Fairy Pitta](https://ebird.org/species/faipit1)
 
@@ -36,19 +34,15 @@ import Image from '@theme/IdealImage';
 (c) Sajee Kongsuwan, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **抾箬仔 khioh-ha̍h-á**
 - 🎯 **青翼仔 tshenn-si̍t-á**
 - 八色鳥 peh-sik-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [綠胸八色鳥 Western Hooded Pitta](https://ebird.org/species/wehpit1)
 
@@ -58,7 +52,7 @@ import Image from '@theme/IdealImage';
 (c) Nina Lester Finley, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青胸抾箬仔 tshenn-hing-khioh-ha̍h-á**
 - 青胸八色鳥 tshenn-hing-peh-sik-tsiáu
@@ -66,8 +60,6 @@ import Image from '@theme/IdealImage';
 - ✳️ 抾箬仔 khioh-ha̍h-á
 - ✳️ 八色鳥 peh-sik-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵
-:::

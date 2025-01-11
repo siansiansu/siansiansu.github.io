@@ -4,7 +4,7 @@ description: 本文整理了海雀的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 海雀科 hái-tshiok-kho
+# 海雀仔科 hái-tshiok-á-kho
 
 ## [崖海鴉 ウミガラス Common Murre](https://ebird.org/species/commur)
 
@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Allen Chartier, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **崖海鴉 gâi-hái-a**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **崖海鴉 gâi-hái-a**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [扁嘴海雀 ウミスズメ Ancient Murrelet](https://ebird.org/species/ancmur)
 
@@ -30,13 +30,13 @@ import Image from '@theme/IdealImage';
 (c) guyincognito, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **扁喙海雀 pínn-tshuì-hái-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **扁喙海雀 pínn-tshuì-hái-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [冠海雀 カンムリウミスズメ Japanese Murrelet](https://ebird.org/species/japmur1)
 
@@ -46,13 +46,13 @@ import Image from '@theme/IdealImage';
 (c) Christoph Moning, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **聳毛海雀 tshàng-moo-hái-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **聳毛海雀 tshàng-moo-hái-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [白眶海鴿 ケイマフリ Spectacled Guillemot](https://ebird.org/species/spegui1)
 
@@ -62,17 +62,15 @@ import Image from '@theme/IdealImage';
 (c) Eliezg, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白眶海粉鳥 pe̍h-khing-hái-hún-tsiáu**
 - 🎯 白眶海雀 pe̍h-khing-hái-tshiok
 - 🎯 白眶海鴿 pe̍h-khing-hái-kah
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語
-:::
 
 ## [角嘴海雀 ウトウ Rhinoceros Auklet](https://ebird.org/species/rhiauk)
 
@@ -82,10 +80,10 @@ import Image from '@theme/IdealImage';
 (c) Ad Konings, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **角喙海雀 kak-tshuì-hái-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **角喙海雀 kak-tshuì-hái-tshiok**
+
+**註解**
+
 參考華語
-:::

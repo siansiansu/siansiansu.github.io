@@ -14,17 +14,13 @@ import Image from '@theme/IdealImage';
 (c) bwood708, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **彩䴉 tshái-hiân**
+🎯 **彩䴉 tshái-hiân**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 暫時用彩䴉 tshái-hiân
-
-:::
+參考華語鳥類名錄
 
 ## [埃及聖䴉 African Sacred Ibis](https://ebird.org/species/sacibi2)
 
@@ -34,32 +30,24 @@ import Image from '@theme/IdealImage';
 (c) Federico Moroni, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **埃及聖䴉 ai-ki̍p-sìng-hiân**
+🎯 **埃及聖䴉 ai-ki̍p-sìng-hiân**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 暫時用埃及聖䴉 ai-ki̍p-sìng-hiân
-
-:::
+參考華語鳥類名錄
 
 ## [黑頭白䴉 クロトキ Black-headed Ibis](https://ebird.org/species/blhibi1)
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏朱鷺 oo-tsu-lōo**
 - 🎯 **烏頭白䴉 oo-thâu-pe̍h-hiân**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 烏朱鷺 oo-tsu-lōo 參考日語 クロトキ。
-
-:::
+參考日語
 
 ## [朱鷺 トキ Crested Ibis](https://ebird.org/species/creibi1)
 
@@ -69,17 +57,13 @@ import Image from '@theme/IdealImage';
 (c) Jay, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **朱鷺 tsu-lōo**
+🎯 **朱鷺 tsu-lōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 朱鷺 tsu-lōo 源自日語 トキ。
-
-:::
+參考日語
 
 ## [白琵鷺 ヘラサギ Eurasian Spoonbill](https://ebird.org/species/eurspo1)
 
@@ -89,19 +73,15 @@ import Image from '@theme/IdealImage';
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白面抐桮 pe̍h-bīn-lā-pue**
 - ✳️ 抐桮 lā-pue
 - ✳️ 飯匙鵝 puīnn-sî-gô
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [黑面琵鷺 クロツラヘラサギ Black-faced Spoonbill](https://ebird.org/species/blfspo1)
 
@@ -111,16 +91,12 @@ import Image from '@theme/IdealImage';
 (c) Hong, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏面抐桮 oo-bīn-lā-pue**
 - ✳️ 抐桮 lā-pue
 - ✳️ 飯匙鵝 puīnn-sî-gô
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

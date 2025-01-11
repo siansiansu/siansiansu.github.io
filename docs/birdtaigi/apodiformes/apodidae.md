@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) David Cook, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **白喉針尾雨燕仔 pe̍h-âu-tsiam-bé-ú-iàn-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白喉針尾雨燕仔 pe̍h-âu-tsiam-bé-ú-iàn-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [灰喉針尾雨燕 クロビタイハリオアマツバメ Silver-backed Needletail](https://ebird.org/species/sibnee1)
 
@@ -30,13 +30,13 @@ import Image from '@theme/IdealImage';
 © Kittakorn, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **殕色喉針尾雨燕 phú-sik-âu-tsiam-bé-ú-iàn**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **殕色喉針尾雨燕 phú-sik-âu-tsiam-bé-ú-iàn**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [紫針尾雨燕 セレベスハリオアマツバメ Purple Needletail](https://ebird.org/species/purnee1)
 
@@ -46,13 +46,13 @@ import Image from '@theme/IdealImage';
 (c) Forest Botial-Jarvis, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **紫色針尾雨燕 tsí-sik-tsiam-bé-ú-iàn**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **紫色針尾雨燕 tsí-sik-tsiam-bé-ú-iàn**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [灰腰金絲燕 ハイゴツアナツバメ Gray-rumped Swiftlet](https://ebird.org/species/gyrswi5)
 
@@ -62,14 +62,13 @@ import Image from '@theme/IdealImage';
 © dbeeke, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
+
 🎯 **殕色腰金絲燕 phú-sik-io-kim-si-tsiáu**
-:::
 
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [短嘴金絲燕 ヒマラヤアナツバメ Himalayan Swiftlet](https://ebird.org/species/himswi2)
 
@@ -79,26 +78,24 @@ import Image from '@theme/IdealImage';
 (c) kritadi, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **短喙金絲燕 té-tshuì-kim-si-tsiáu**
 - 🎯 **喜馬拉雅金絲燕 hí-má-la-ngá-kim-si-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、英語
-:::
 
 ## [白燕窩金絲燕 マレーアナツバメ White-nest Swiftlet (Germain's)](https://ebird.org/species/gerswi1)
 
-:::info[台語名]
-🎯 **白燕窩金絲燕 pe̍h-iàn-o-kim-si-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白燕窩金絲燕 pe̍h-iàn-o-kim-si-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [叉尾雨燕 アマツバメ Pacific Swift](https://ebird.org/species/fotswi)
 
@@ -108,16 +105,14 @@ import Image from '@theme/IdealImage';
 (c) Константин Самодуров, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **叉尾雨燕仔 tshe-bé-ú-iàn-á**
 - 🎯 **太平洋雨燕仔 thài-pîng-iûnn-ú-iàn-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、英語
-:::
 
 ## [小雨燕 ヒメアマツバメ House Swift](https://ebird.org/species/houswi1)
 
@@ -127,13 +122,11 @@ import Image from '@theme/IdealImage';
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小雨燕仔 sió-ú-iàn-á**
 - 🎯 **厝雨燕仔 sió-ú-iàn-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、英語
-:::

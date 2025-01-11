@@ -2,6 +2,7 @@
   "label": "鴞形目 hiau-hîng-ba̍k",
   "position": 19,
   "link": {
-    "id": "birdtaigi/strigiformes"
+    "type": "doc",
+    "id": "birdtaigi/strigiformes/index"
   }
 }

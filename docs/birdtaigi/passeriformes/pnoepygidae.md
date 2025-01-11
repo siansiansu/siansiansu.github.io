@@ -14,8 +14,10 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **臺灣鷦眉 tâi-uân-tsiau-bâi**
+🎯 **臺灣鷦眉 tâi-uân-tsiau-bâi**
 
-:::
+**註解**
+
+參考華語鳥類名錄

@@ -4,7 +4,7 @@ description: 本文整理了喜鵲、藍鵲、烏鴉的台語名，並對照英�
 
 import Image from '@theme/IdealImage';
 
-# 鴉科 a-kho
+# 烏鴉科 oo-a-kho
 
 ## [松鴉 カケス Eurasian Jay](https://ebird.org/species/eurjay1)
 
@@ -14,17 +14,15 @@ import Image from '@theme/IdealImage';
 (c) Mikhail Ezdakov, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **八萬仔 peh-bān-á**
 - 松仔 siông-á
 - ✳️ 烏鴉 oo-a
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [灰喜鵲 オナガ Azure-winged Magpie](https://ebird.org/species/azwmag2)
 
@@ -34,15 +32,13 @@ import Image from '@theme/IdealImage';
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **殕色客鳥 phú-sik-kheh-tsiáu**
+🎯 **殕色客鳥 phú-sik-kheh-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [台灣藍鵲 ヤマムスメ Taiwan Blue-Magpie](https://ebird.org/species/formag1)
 
@@ -52,7 +48,7 @@ import Image from '@theme/IdealImage';
 © lava_chen, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **長尾山娘 tn̂g-bué-suann-niû**
 - 🎯 **山娘仔 suann-niû-á**
@@ -61,14 +57,9 @@ import Image from '@theme/IdealImage';
 - 台灣藍鵲 tâi-uân-nâ-tshiok
 - 藍鵲 nâ-tshiok
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [樹鵲 タイワンオナガ Gray Treepie](https://ebird.org/species/grytre1)
 
@@ -78,18 +69,13 @@ import Image from '@theme/IdealImage';
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **咖咖仔 ka-ka-á**
+🎯 **咖咖仔 ka-ka-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [喜鵲 カササギ Oriental Magpie](https://ebird.org/species/orimag1)
 
@@ -99,22 +85,16 @@ import Image from '@theme/IdealImage';
 (c) FreckLes, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **客鳥 kheh-tsiáu**
 - 喜鵲 hí-tshiok
 - 飛北鳥 hui-pak-tsiáu
 - 烏鵲 oo-tshiok
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 2011⁺ 教育部辭典⁺
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考 2002⁺ 台華線頂辭典、2011⁺ 教育部辭典⁺、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [星鴉 ホシガラス Eurasian Nutcracker](https://ebird.org/species/eurnut1)
 
@@ -124,18 +104,13 @@ import Image from '@theme/IdealImage';
 (c) Vitalii Khustochka, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **松柏仔 tshîng-peh-á**
+🎯 **松柏仔 tshîng-peh-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [東方寒鴉 コクマルガラス Daurian Jackdaw](https://ebird.org/species/daujac1)
 
@@ -145,15 +120,13 @@ import Image from '@theme/IdealImage';
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **東方寒鴉 tang-hong-hân-a**
+🎯 **東方寒鴉 tang-hong-hân-a**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [家烏鴉 イエガラス House Crow](https://ebird.org/species/houcro1)
 
@@ -163,16 +136,14 @@ import Image from '@theme/IdealImage';
 (c) John Clough, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **厝烏鴉 tshù-oo-a**
 - ✳️ 烏鴉 oo-a
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [禿鼻鴉 ミヤマガラス Rook](https://ebird.org/species/rook1)
 
@@ -182,7 +153,7 @@ import Image from '@theme/IdealImage';
 (c) Александр Гончаров, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **深山烏 tshim-suann-oo**
 - 山烏鴉 suann-oo-a
@@ -190,11 +161,9 @@ import Image from '@theme/IdealImage';
 - 山老公 suann-lāu-kong
 - ✳️ 烏鴉 oo-a
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典
-:::
+參考 1973 Embree台英辭典
 
 ## [小嘴烏鴉 ハシボソガラス Carrion Crow](https://ebird.org/species/carcro1)
 
@@ -204,16 +173,14 @@ import Image from '@theme/IdealImage';
 (c) oculusaccipiter, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小喙烏鴉 sió-tshuì-oo-a**
 - ✳️ 烏鴉 oo-a
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [巨嘴鴉 ハシブトガラス Large-billed Crow](https://ebird.org/species/labcro1)
 
@@ -223,18 +190,16 @@ import Image from '@theme/IdealImage';
 (c) Joe Bourget, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **大喙烏鴉 tuā-tshì-oo-a**
 - 巨喙鴉 kū-tshuì-a
 - 孝鳥 hàu-tsiáu
 - ✳️ 烏鴉 oo-a
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [玉頸鴉 クビワガラス Collared Crow](https://ebird.org/species/colcro1)
 
@@ -244,14 +209,12 @@ import Image from '@theme/IdealImage';
 © garypoon, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 白頸烏鴉 pe̍h-kún-oo-a
 - 玉頸鴉 gio̍k-kún-a
 - ✳️ 烏鴉 oo-a
 
-:::
+**註解**
 
-:::tip[註解]
-參考特徵
-:::
+參考華語鳥類名錄、日語

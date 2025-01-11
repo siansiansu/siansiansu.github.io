@@ -2,6 +2,7 @@
   "label": "藏水鳥目 tshàng-tsuí-tsiáu-ba̍k",
   "position": 13,
   "link": {
-    "id": "birdtaigi/gaviiformes"
+    "type": "doc",
+    "id": "birdtaigi/gaviiformes/index"
   }
 }

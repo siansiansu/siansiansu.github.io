@@ -14,15 +14,13 @@ import Image from '@theme/IdealImage';
 © albertkwok20, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **山紅頭 suann-âng-thâu**
+🎯 **山紅頭 suann-âng-thâu**
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典
-:::
+參考 1973 Embree台英辭典
 
 ## [小彎嘴 タイワンヒメマルハシ Taiwan Scimitar-Babbler](https://ebird.org/species/taiscb1)
 
@@ -32,7 +30,7 @@ import Image from '@theme/IdealImage';
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **竹跤花眉 tik-kha-hue-bâi**
 - 🎯 **奸臣仔鳥 kan-sîn-á-tsiáu**
@@ -40,11 +38,9 @@ import Image from '@theme/IdealImage';
 - 🎯 **賊仔鳥 tsha̍t-á-tsiáu**
 - ✳️ 花眉仔 hue-bâi-á
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2016⁺ iTaigi、2002⁺ 台華線頂辭典
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2016⁺ iTaigi、2002⁺ 台華線頂辭典
 
 ## [大彎嘴 ムナフマルハシ Black-necklaced Scimitar-Babbler](https://ebird.org/species/sbsbab2)
 
@@ -54,7 +50,7 @@ import Image from '@theme/IdealImage';
 no rights reserved, uploaded by Ben Keen
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **大竹跤花眉 tuā-tik-kha-hue-bâi**
 - 🎯 **大奸臣仔鳥 tuā-kan-sîn-á-tsiáu**
@@ -62,8 +58,6 @@ no rights reserved, uploaded by Ben Keen
 - 🎯 **大賊仔鳥 tuā-tsha̍t-á-tsiáu**
 - ✳️ 花眉仔 hue-bâi-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考小彎嘴台語
-:::

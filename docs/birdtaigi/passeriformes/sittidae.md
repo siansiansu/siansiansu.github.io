@@ -14,12 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Frank Vassen, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **茶腹鳾 tê-pak-si**
+🎯 **茶腹鳾 tê-pak-si**
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典
-:::
+參考 1973 Embree台英辭典

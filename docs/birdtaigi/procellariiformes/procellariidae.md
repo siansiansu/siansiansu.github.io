@@ -14,18 +14,14 @@ import Image from '@theme/IdealImage';
 © Martine Lapointe, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **風暴鸌 hong-pō-hōo**
+🎯 **風暴鸌 hong-pō-hōo**
 
-:::
+**註解**
 
-:::tip[註解]
+參考華語鳥類名錄、1973 Embree台英辭典
 
-- 風暴 hong-pō - 教育部台灣台語常用詞辭典
-- 鸌 hōo - 1973 Embree台英辭典
-
-:::
 
 ## [克島圓尾鸌 カワリシロハラミズナギドリ Kermadec Petrel](https://ebird.org/species/kerpet)
 
@@ -35,18 +31,13 @@ import Image from '@theme/IdealImage';
 (c) Steve Murray, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **克島圓尾鸌 khik-tóo-înn-bué-hōo**
+🎯 **克島圓尾鸌 khik-tóo-înn-bué-hōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Kermadec -> 克島 khik-tóo
-- 鸌 hōo - 1973 Embree台英辭典
-
-:::
+參考華語鳥類名錄、1973 Embree台英辭典
 
 ## [索氏圓尾鸌 ハジロミズナギドリ Providence Petrel](https://ebird.org/species/solpet1)
 
@@ -56,19 +47,13 @@ import Image from '@theme/IdealImage';
 © Nathan Ruser, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **索氏圓尾鸌 soh-sī-înn-bué-hōo**
+🎯 **索氏圓尾鸌 soh-sī-înn-bué-hōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-
-- 暫時參考華語
-- 鸌 hōo - 1973 Embree台英辭典
-
-:::
+參考華語鳥類名錄、1973 Embree台英辭典
 
 ## [費島圓尾鸌 オオシロハラミズナギドリ Juan Fernandez Petrel](https://ebird.org/species/jufpet)
 
@@ -78,19 +63,13 @@ import Image from '@theme/IdealImage';
 © Christoph Moning, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **費島圓尾鸌 huì-tóo-înn-bué-hōo**
+🎯 **費島圓尾鸌 huì-tóo-înn-bué-hōo**
 
-:::
+**註解**
 
-
-:::tip[註解]
-
-- Juan Fernandez -> 費島 huì-tóo
-- 鸌 hōo - 1973 Embree台英辭典
-
-:::
+參考華語鳥類名錄、1973 Embree台英辭典
 
 ## [白腹穴鳥 シロハラミズナギドリ Bonin Petrel](https://ebird.org/species/bonpet)
 
@@ -100,19 +79,14 @@ import Image from '@theme/IdealImage';
 © Curtis Mahon, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白腹穴鳥 pe̍h-pak-hia̍t-tsiáu**
 - 白腹水薙鳥 pe̍h-pak-tsuí-thì-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 白腹 pe̍h-pak
-- 1973 Embree台英辭典
-
-:::
+參考華語鳥類名錄、1973 Embree台英辭典
 
 ## [穴鳥 アナドリ Bulwer's Petrel](https://ebird.org/species/bulpet)
 
@@ -122,17 +96,13 @@ import Image from '@theme/IdealImage';
 (c) Paul Bowyer, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **穴鳥 hia̍t-tsiáu**
+🎯 **穴鳥 hia̍t-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 1973 Embree台英辭典
-
-:::
+參考 1973 Embree台英辭典
 
 ## [黑背白腹穴鳥 セグロシロハラミズナギドリ Tahiti Petrel](https://ebird.org/species/tahpet1)
 
@@ -142,17 +112,13 @@ import Image from '@theme/IdealImage';
 (c) Steve Murray, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏背白腹穴鳥 oo-puè-pe̍h-pak-hia̍t-tsiáu**
+🎯 **烏背白腹穴鳥 oo-puè-pe̍h-pak-hia̍t-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 暫時參考華語
-
-:::
+參考華語鳥類名錄
 
 ## [大水薙鳥 オオミズナギドリ Streaked Shearwater](https://ebird.org/species/strshe)
 
@@ -162,34 +128,23 @@ import Image from '@theme/IdealImage';
 © Shanda Huang, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 大水薙鳥 tuā-tsuí-thì-tsiáu
-- ✳️ 水薙鳥 tsuí-thì-tsiáu
+🎯 大水薙鳥 tuā-tsuí-thì-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 水薙鳥 tsuí-thì-tsiáu - 1973 Embree台英辭典
-
-:::
+參考 1973 Embree台英辭典
 
 ## [肉足水薙鳥 アカアシミズナギドリ Flesh-footed Shearwater](https://ebird.org/species/flfshe)
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤跤水薙鳥 tshiah-kha-tsuí-thì-tsiáu**
-- ✳️ 水薙鳥 tsuí-thì-tsiáu
+🎯 **赤跤水薙鳥 tshiah-kha-tsuí-thì-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 赤跤 tshiah-kha - 取自外觀，參考日語
-- 水薙鳥 tsuí-thì-tsiáu - 1973 Embree台英辭典
-
-:::
+參考 1973 Embree台英辭典、日語
 
 ## [長尾水薙鳥 オナガミズナギドリ Wedge-tailed Shearwater](https://ebird.org/species/wetshe)
 
@@ -199,18 +154,13 @@ import Image from '@theme/IdealImage';
 (c) Marj Kibby, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **長尾水薙鳥 tn̂g-bé-tsuí-thì-tsiáu**
-- ✳️ 水薙鳥 tsuí-thì-tsiáu
+🎯 **長尾水薙鳥 tn̂g-bé-tsuí-thì-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-長尾 tn̂g-bé
-
-:::
+參考華語鳥類名錄
 
 ## [灰水薙鳥 ハイイロミズナギドリ Sooty Shearwater](https://ebird.org/species/sooshe)
 
@@ -220,18 +170,13 @@ import Image from '@theme/IdealImage';
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **殕色水薙鳥 phú-sik-tsuí-thì-tsiáu**
-- ✳️ 水薙鳥 tsuí-thì-tsiáu
+🎯 **殕色水薙鳥 phú-sik-tsuí-thì-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-Sooty -> 殕色 phú-sik
-
-:::
+參考華語鳥類名錄
 
 ## [短尾水薙鳥 ハシボソミズナギドリ Short-tailed Shearwater](https://ebird.org/species/shtshe)
 
@@ -241,20 +186,14 @@ Sooty -> 殕色 phú-sik
 (c) Simon Grove, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **短尾水薙鳥 té-bé-tsuí-thì-tsiáu**
 - 🎯 **細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu**
-- ✳️ 水薙鳥 tsuí-thì-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 細喙水薙鳥 iù-tshuì-tsuí-thì-tsiáu 源自日語 ハシボソミズナギドリ。
-- Short-tailed -> 短尾 té-bué
-
-:::
+參考華語鳥類名錄、日語名
 
 ## [黑細鸌 コミズナギドリ Christmas Shearwater](https://ebird.org/species/chrshe)
 
@@ -264,17 +203,15 @@ Sooty -> 殕色 phú-sik
 © Lucy Keith-Diagne, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **小水薙鳥 sió-tsuí-thì-tsiáu**
+🎯 **小水薙鳥 sió-tsuí-thì-tsiáu**
 
-:::
 
-:::tip[註解]
 
-- 暫時參考日語
+**註解**
 
-:::
+參考日語
 
 ## [所羅門鸌 ビスマルクミズナギドリ Heinroth's Shearwater](https://ebird.org/species/heishe1)
 
@@ -284,14 +221,10 @@ Sooty -> 殕色 phú-sik
 © kenny_well, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **所羅門鸌 sóo-lô-bûn-hōo**
+🎯 **所羅門鸌 sóo-lô-bûn-hōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 暫時參考華語
-
-:::
+參考華語鳥類名錄

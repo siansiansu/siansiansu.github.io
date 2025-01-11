@@ -14,12 +14,10 @@ import Image from '@theme/IdealImage';
 (c) caroline legg, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **鷦鷯 tsiau-liâu**
+🎯 **鷦鷯 tsiau-liâu**
 
-:::
+**註解**
 
-:::tip[註解]
-2002⁺ 台華線頂辭典、1973 Embree台英辭典
-:::
+參考 2002⁺ 台華線頂辭典、1973 Embree台英辭典

@@ -8,13 +8,13 @@ import Image from '@theme/IdealImage';
 
 ## [白喉文鳥 ギンバシ Indian Silverbill](https://ebird.org/species/indsil)
 
-:::info[台語名]
-🎯 **白喉嗶仔 pe̍h-âu-pit-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白喉嗶仔 pe̍h-âu-pit-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [斑文鳥 シマキンパラ Scaly-breasted Munia](https://ebird.org/species/nutman)
 
@@ -24,13 +24,13 @@ import Image from '@theme/IdealImage';
 (c) Daniel Raposo, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **斑嗶仔 pan-pit-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **斑嗶仔 pan-pit-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [白腰文鳥 コシジロキンパラ White-rumped Munia](https://ebird.org/species/whrmun)
 
@@ -40,13 +40,13 @@ import Image from '@theme/IdealImage';
 (c) Altaf Hussain Talpur, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **白腰嗶仔 pe̍h-io-pit-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白腰嗶仔 pe̍h-io-pit-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [黑頭文鳥 キンパラ Chestnut Munia](https://ebird.org/species/chemun)
 
@@ -56,13 +56,13 @@ import Image from '@theme/IdealImage';
 (c) David Monroy R, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **烏頭嗶仔 oo-thâu-pit-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **烏頭嗶仔 oo-thâu-pit-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [橙頰梅花雀 ホオアカカエデチョウ Orange-cheeked Waxbill](https://ebird.org/species/orcwax)
 
@@ -72,13 +72,13 @@ import Image from '@theme/IdealImage';
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **柑仔面梅花雀 kam-á-bīn-muî-hue-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **柑仔面梅花雀 kam-á-bīn-muî-hue-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [橫斑梅花雀 オナガカエデチョウ Common Waxbill](https://ebird.org/species/comwax)
 
@@ -88,13 +88,13 @@ import Image from '@theme/IdealImage';
 © Damien Wallace, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **橫斑梅花雀 huâinn-pan-muî-hue-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **橫斑梅花雀 huâinn-pan-muî-hue-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [黑喉文鳥 コシグロキンパラ Javan Munia](https://ebird.org/species/javmun1)
 
@@ -104,10 +104,10 @@ import Image from '@theme/IdealImage';
 © Catalina Tong, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **烏喉嗶仔 oo-âu-pit-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **烏喉嗶仔 oo-âu-pit-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::

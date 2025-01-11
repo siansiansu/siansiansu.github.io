@@ -8,19 +8,17 @@ import Image from '@theme/IdealImage';
 
 ## [葵花鳳頭鸚鵡 キバタン Sulphur-crested Cockatoo](https://ebird.org/species/succoc)
 
-<Image img="" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/462167367/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <div className="image-caption">
-
+© Gail A Baker, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃巴丹 n̂g-pa-tan**
 - ✳️ 鸚哥 ing-ko
 
-:::
+**註解**
 
-:::tip[註解]
 參考日語
-:::

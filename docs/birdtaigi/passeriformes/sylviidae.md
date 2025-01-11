@@ -14,15 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Максим Исмайлов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **白喉林鶯 pe̍h-âu-lîm-ing**
+🎯 **白喉林鶯 pe̍h-âu-lîm-ing**
 
-:::
+**註解**
 
-:::tip[備註]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [漠地林鶯 サバクムシクイ Asian Desert Warbler](https://ebird.org/species/asdwar1)
 
@@ -32,12 +30,10 @@ import Image from '@theme/IdealImage';
 (c) Birds of Qatar and Middle East, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **沙漠林鶯 sua-bôo-lîm-ing**
+🎯 **沙漠林鶯 sua-bôo-lîm-ing**
 
-:::
+**註解**
 
-:::tip[備註]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語

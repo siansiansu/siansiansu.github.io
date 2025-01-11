@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) Soh Kam Yung, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃鶯 n̂g-ing**
 - 黃鸝 n̂g-lê
@@ -22,11 +22,9 @@ import Image from '@theme/IdealImage';
 - 黃鳥 n̂g-tsiáu
 - 黃鸝黃鳥 hông-lê-n̂g-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [朱鸝 ヒゴロモ Maroon Oriole](https://ebird.org/species/marori2)
 
@@ -36,12 +34,10 @@ import Image from '@theme/IdealImage';
 (c) 尹若宇, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **紅鶯 âng-ing**
+🎯 **紅鶯 âng-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

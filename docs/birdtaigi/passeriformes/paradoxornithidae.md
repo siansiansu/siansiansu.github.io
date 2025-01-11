@@ -14,17 +14,15 @@ import Image from '@theme/IdealImage';
 © Allen Lyu, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤頭花翼 tshiah-thâu-hue-i̍k**
 - 🎯 **臺灣花眉仔 tâi-uân-hue-bâi-á**
 - ✳️ 花眉仔 hue-bâi-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考 2002⁺ 台華線頂辭典、日語、華語、特徵
-:::
 
 ## [黃羽鸚嘴 キンイロダルマエナガ Golden Parrotbill](https://ebird.org/species/golpar2)
 
@@ -34,16 +32,14 @@ import Image from '@theme/IdealImage';
 (c) Ron Knight, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃毛鸚哥喙 n̂g-moo-ing-ko-tshuì**
 - ✳️ 圓頭仔 înn-thâu-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考 1973 Embree台英辭典、英語
-:::
 
 ## [粉紅鸚嘴 ダルマエナガ Vinous-throated Parrotbill](https://ebird.org/species/vitpar1)
 
@@ -53,13 +49,11 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **粉紅鸚哥喙 hún-âng-ing-ko-tshuì**
 - ✳️ 圓頭仔 înn-thâu-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考 1973 Embree台英辭典、英語、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::

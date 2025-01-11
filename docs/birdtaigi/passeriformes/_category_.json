@@ -2,6 +2,7 @@
   "label": "雀形目 tshiok-hîng-ba̍k",
   "position": 25,
   "link": {
-    "id": "birdtaigi/passeriformes"
+    "type": "doc",
+    "id": "birdtaigi/passeriformes/index"
   }
 }

@@ -14,12 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Olga Sivokon, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **水叮噹 tsuí-tin-tang**
+🎯 **水叮噹 tsuí-tin-tang**
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

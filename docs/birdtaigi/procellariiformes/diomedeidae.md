@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) Frank, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏背信天翁 oo-puè-sìn-thian-ang**
 - 🎯 **烏背海南戇 oo-puè-hái-lâm-gōng**
@@ -22,14 +22,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 信天翁 sìn-thian-ang
 - ✳️ 海鵝 hái-gô
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 黑背信天翁 -> 烏背 oo-puè + 信天翁 sìn-thian-ang
-- 海南戇 hái-lâm-gōng - 2002⁺ 台華線頂辭典
-
-:::
+參考華語鳥類名錄、2002⁺ 台華線頂辭典
 
 ## [黑腳信天翁 クロアシアホウドリ Black-footed Albatross](https://ebird.org/species/bkfalb)
 
@@ -39,7 +34,7 @@ import Image from '@theme/IdealImage';
 (c) David J Barton, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏跤信天翁 oo-kha-sìn-thian-ang**
 - 🎯 **烏跤海南戇 oo-kha-hái-lâm-gōng**
@@ -47,14 +42,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 信天翁 sìn-thian-ang
 - ✳️ 海鵝 hái-gô
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Black-footed Albatross -> 烏跤 oo-kha + 信天翁 sìn-thian-ang
-- 海南戇 hái-lâm-gōng - 2002⁺ 台華線頂辭典
-
-:::
+參考華語鳥類名錄、2002⁺ 台華線頂辭典
 
 ## [短尾信天翁 アホウドリ Short-tailed Albatross](https://ebird.org/species/shtalb)
 
@@ -64,7 +54,7 @@ import Image from '@theme/IdealImage';
 (c) Tony Morris, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **短尾信天翁 té-bué-sìn-thian-ang**
 - 🎯 **短尾海南戇 té-bué-hái-lâm-gōng**
@@ -72,11 +62,6 @@ import Image from '@theme/IdealImage';
 - ✳️ 信天翁 sìn-thian-ang
 - ✳️ 海鵝 hái-gô
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Short-tailed Albatross -> 短尾 té-bué + 信天翁 sìn-thian-ang
-- 海南戇 hái-lâm-gōng - 2002⁺ 台華線頂辭典
-
-:::
+參考華語鳥類名錄、2002⁺ 台華線頂辭典

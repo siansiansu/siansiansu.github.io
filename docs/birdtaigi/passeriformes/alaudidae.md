@@ -14,15 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Ani Sarkisyan, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **歐亞半天鳥 au-a-puànn-thinn-tsiáu**
+🎯 **歐亞半天鳥 au-a-puànn-thinn-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語、英語、小雲雀台語
-:::
 
 ## [小雲雀 タイワンヒバリ Oriental Skylark](https://ebird.org/species/orisky1)
 
@@ -32,19 +30,14 @@ import Image from '@theme/IdealImage';
 (c) robbythai, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **半天鳥 puànn-thinn-tsiáu**
 - 叫天鳥 kiò-thinn-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 2002⁺ 台華線頂辭典
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
 
 ## [賽氏短趾百靈 ヒメコウテンシ Mongolian Short-toed Lark](https://ebird.org/species/sstlar4)
 
@@ -54,15 +47,13 @@ import Image from '@theme/IdealImage';
 © Afsar Nayakkan, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- **🎯 蒙古短爪百靈 bông-kóo-té-jiáu-pik-lîng**
+**🎯 蒙古短爪百靈 bông-kóo-té-jiáu-pik-lîng**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [蒙古百靈 コウテンシ Mongolian Lark](https://ebird.org/species/monlar1)
 
@@ -72,15 +63,13 @@ import Image from '@theme/IdealImage';
 © fattakhova_olga, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **蒙古百靈 bông-kóo-pik-lîng**
+🎯 **蒙古百靈 bông-kóo-pik-lîng**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [亞洲短址百靈 アジアコヒバリ Asian Short-toed Lark](https://ebird.org/species/lstlar2)
 
@@ -90,12 +79,10 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **亞洲短爪百靈 a-tsiu-té-jiáu-pik-lîng**
+🎯 **亞洲短爪百靈 a-tsiu-té-jiáu-pik-lîng**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::

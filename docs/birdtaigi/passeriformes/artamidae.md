@@ -14,12 +14,10 @@ import Image from '@theme/IdealImage';
 (c) juju98, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **白胸燕鵑 pe̍h-hing-ìnn-kio̍k**
+🎯 **白胸燕鵑 pe̍h-hing-ìnn-kio̍k**
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵、華語
-:::

@@ -2,6 +2,7 @@
   "label": "隼形目 tsún-hîng-ba̍k",
   "position": 23,
   "link": {
-    "id": "birdtaigi/falconiformes"
+    "type": "doc",
+    "id": "birdtaigi/falconiformes/index"
   }
 }

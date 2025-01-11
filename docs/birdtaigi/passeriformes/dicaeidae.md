@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Hong, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **青啄花 tshenn-tok-hue**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **青啄花 tshenn-tok-hue**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [紅胸啄花 Fire-breasted Flowerpecker](https://ebird.org/species/fibflo1)
 
@@ -30,10 +30,10 @@ import Image from '@theme/IdealImage';
 © Nick Volpe, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **紅胸啄花 âng-hing-tok-hue**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **紅胸啄花 âng-hing-tok-hue**
+
+**註解**
+
 參考華語鳥類名錄
-:::

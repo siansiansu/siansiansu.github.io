@@ -14,15 +14,13 @@ import Image from '@theme/IdealImage';
 © Andrew Bazdyrev, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **林柳鶯 lîn-liú-ing**
+🎯 **林柳鶯 lîn-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語
-:::
+參考華語鳥類名錄
 
 ## [黃眉柳鶯 キマユムシクイ Yellow-browed Warbler](https://ebird.org/species/yebwar3)
 
@@ -32,15 +30,13 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **黃眉柳鶯 n̂g-bâi-liú-ing**
+🎯 **黃眉柳鶯 n̂g-bâi-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語
-:::
+參考華語鳥類名錄
 
 ## [淡眉柳鶯 バフマユムシクイ Hume's Warbler](https://ebird.org/species/humwar1)
 
@@ -50,15 +46,13 @@ import Image from '@theme/IdealImage';
 © Giuliana Pirotta, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **淺眉柳鶯 tshián-bâi-liú-ing**
+🎯 **淺眉柳鶯 tshián-bâi-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [雲南柳鶯 ウンナンムシクイ Chinese Leaf Warbler](https://ebird.org/species/chilew1)
 
@@ -68,15 +62,13 @@ import Image from '@theme/IdealImage';
 © Wang.QG, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **雲南柳鶯 hûn-lâm-liú-ing**
+🎯 **雲南柳鶯 hûn-lâm-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [黃腰柳鶯 カラフトムシクイ Pallas's Leaf Warbler](https://ebird.org/species/palwar5)
 
@@ -86,15 +78,13 @@ import Image from '@theme/IdealImage';
 (c) Christoph Moning, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **黃腰柳鶯 n̂g-io-liú-ing**
+🎯 **黃腰柳鶯 n̂g-io-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [巨嘴柳鶯 カラフトムジセッカ Radde's Warbler](https://ebird.org/species/radwar1)
 
@@ -104,15 +94,13 @@ import Image from '@theme/IdealImage';
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **大喙柳鶯 tuā-tshuì-liú-ing**
+🎯 **大喙柳鶯 tuā-tshuì-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [棕眉柳鶯 モウコムジセッカ Yellow-streaked Warbler](https://ebird.org/species/yeswar1)
 
@@ -122,15 +110,13 @@ import Image from '@theme/IdealImage';
 © William Stephens, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤眉柳鶯 tshiah-bâi-liú-ing**
+🎯 **赤眉柳鶯 tshiah-bâi-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [黃腹柳鶯 キバラムシクイ Tickell's Leaf Warbler (Tickell's)](https://ebird.org/species/tilwar1)
 
@@ -140,15 +126,13 @@ import Image from '@theme/IdealImage';
 © Dutta Roy Sagnik, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **黃腹柳鶯 n̂g-pak-liú-ing**
+🎯 **黃腹柳鶯 n̂g-pak-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [褐色柳鶯 ムジセッカ Dusky Warbler](https://ebird.org/species/duswar)
 
@@ -158,15 +142,13 @@ import Image from '@theme/IdealImage';
 © Devin, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **褐色柳鶯 hat-sik-liú-ing**
+🎯 **褐色柳鶯 hat-sik-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [棕腹柳鶯 バフイロムシクイ Buff-throated Warbler](https://ebird.org/species/butwar1)
 
@@ -176,15 +158,13 @@ import Image from '@theme/IdealImage';
 © Wang.QG, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤腹柳鶯 tshiah-pak-liú-ing**
+🎯 **赤腹柳鶯 tshiah-pak-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [歐亞柳鶯 キタヤナギムシクイ Willow Warbler](https://ebird.org/species/wlwwar)
 
@@ -194,15 +174,13 @@ import Image from '@theme/IdealImage';
 © Timothy Whitehead, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **歐亞柳鶯 au-a-liú-ing**
+🎯 **歐亞柳鶯 au-a-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [嘰喳柳鶯 チフチャフ Common Chiffchaff](https://ebird.org/species/comchi1)
 
@@ -212,15 +190,13 @@ import Image from '@theme/IdealImage';
 © David Pereira, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **嘰喳柳鶯 ki-kia̍uh-liú-ing**
+🎯 **嘰喳柳鶯 ki-kia̍uh-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語
-:::
+參考華語鳥類名錄
 
 ## [冠羽柳鶯 センダイムシクイ Eastern Crowned Warbler](https://ebird.org/species/eacwar1)
 
@@ -230,15 +206,13 @@ import Image from '@theme/IdealImage';
 (c) andriy, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 聳毛柳鶯 tshàng-moo-liú-ing
+🎯 **聳毛柳鶯 tshàng-moo-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語
-:::
+參考華語鳥類名錄
 
 ## [飯島柳鶯 イイジマムシクイ Ijima's Leaf Warbler](https://ebird.org/species/ijlwar1)
 
@@ -248,15 +222,13 @@ import Image from '@theme/IdealImage';
 (c) Roman, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **飯島柳鶯 ijima-liú-ing**
+🎯 **飯島柳鶯 ijima-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語
-:::
+參考華語鳥類名錄
 
 ## [白眶鶲鶯 メジロモリムシクイ White-spectacled Warbler](https://ebird.org/species/whswar1)
 
@@ -266,15 +238,13 @@ import Image from '@theme/IdealImage';
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **白目箍鶲鶯 pe̍h-ba̍k-khoo-ong-ing**
+🎯 **白目箍鶲鶯 pe̍h-ba̍k-khoo-ong-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [比氏鶲鶯 インドシナモリムシクイ Bianchi's Warbler](https://ebird.org/species/biawar1)
 
@@ -284,15 +254,13 @@ import Image from '@theme/IdealImage';
 © Christoph Moning, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **比氏鶲鶯 pí-sī-ong-ing**
+🎯 **比氏鶲鶯 pí-sī-ong-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [峨眉鶲鶯 ガビモリムシクイ Martens's Warbler](https://ebird.org/species/marwar4)
 
@@ -302,15 +270,13 @@ import Image from '@theme/IdealImage';
 © Wang.QG, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **峨眉鶲鶯 ngôo-bî-ong-ing**
+🎯 **峨眉鶲鶯 ngôo-bî-ong-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [淡尾鶲鶯 ムジオモリムシクイ Alström's Warbler](https://ebird.org/species/pltwar1)
 
@@ -320,15 +286,13 @@ import Image from '@theme/IdealImage';
 © ian_dugdale, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **淺尾鶲鶯 tshián-bué-ong-ing**
+🎯 **淺尾鶲鶯 tshián-bué-ong-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [暗綠柳鶯 ヤナギムシクイ Greenish Warbler](https://ebird.org/species/grewar3)
 
@@ -338,15 +302,13 @@ import Image from '@theme/IdealImage';
 © kumarkv, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **暗綠柳鶯 àm-li̍k-liú-ing**
+🎯 **暗綠柳鶯 àm-li̍k-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [雙斑綠柳鶯 フタオビムシクイ Two-barred Warbler](https://ebird.org/species/grewar2)
 
@@ -356,15 +318,13 @@ import Image from '@theme/IdealImage';
 (c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **雙斑綠柳鶯 siang-pan-li̍k-liú-ing**
+🎯 **雙斑綠柳鶯 siang-pan-li̍k-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語
-:::
+參考華語鳥類名錄
 
 ## [淡腳柳鶯 アムールムシクイ Pale-legged Leaf Warbler](https://ebird.org/species/pllwar1)
 
@@ -374,15 +334,13 @@ import Image from '@theme/IdealImage';
 © Phakawat Kittikhunodom, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 白跤柳鶯 pe̍h-kha-liú-ing
+🎯 **白跤柳鶯 pe̍h-kha-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語、特徵
-:::
+參考華語鳥類名錄
 
 ## [庫頁島柳鶯 エゾムシクイ Sakhalin Leaf Warbler](https://ebird.org/species/salwar1)
 
@@ -392,15 +350,13 @@ import Image from '@theme/IdealImage';
 © Sam Hambly, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **庫頁島柳鶯 khòo-ia̍h-tó-liú-ing**
+🎯 **庫頁島柳鶯 khòo-ia̍h-tó-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [日本柳鶯 メボソムシクイ Japanese Leaf Warbler](https://ebird.org/species/arcwar3)
 
@@ -410,15 +366,13 @@ import Image from '@theme/IdealImage';
 © James Eaton, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **日本柳鶯 ji̍t-pún-liú-ing**
+🎯 **日本柳鶯 ji̍t-pún-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語
-:::
+參考華語鳥類名錄
 
 ## [極北柳鶯 コムシクイ Arctic Warbler](https://ebird.org/species/arcwar1)
 
@@ -428,15 +382,13 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **極北柳鶯 ki̍k-pak-liú-ing**
+🎯 **極北柳鶯 ki̍k-pak-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄
 
 ## [堪察加柳鶯 オオムシクイ Kamchatka Leaf Warbler](https://ebird.org/species/arcwar2)
 
@@ -446,15 +398,13 @@ import Image from '@theme/IdealImage';
 (c) andriy, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **堪察加柳鶯 kham-tshâ-tsham-liú-ing**
+🎯 **堪察加柳鶯 kham-tshâ-tsham-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語
 
 ## [栗頭鶲鶯 クリガシラモリムシクイ Chestnut-crowned Warbler](https://ebird.org/species/chcwar2)
 
@@ -464,15 +414,13 @@ import Image from '@theme/IdealImage';
 © Dutta Roy Sagnik, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤頭鶲鶯 tshiah-thâu-ong-ing**
+🎯 **赤頭鶲鶯 tshiah-thâu-ong-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、特徵
-:::
+參考華語鳥類名錄
 
 ## [黑眉柳鶯 マユグロムシクイ Sulphur-breasted Warbler](https://ebird.org/species/subwar3)
 
@@ -482,15 +430,13 @@ import Image from '@theme/IdealImage';
 (c) Julien Renoult, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏眉柳鶯 oo-bâi-liú-ing**
+🎯 **烏眉柳鶯 oo-bâi-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [克氏冠紋柳鶯 クラウディアムシクイ Claudia's Leaf Warbler](https://ebird.org/species/clalew1)
 
@@ -500,15 +446,13 @@ import Image from '@theme/IdealImage';
 (c) 茶棚, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **克氏冠紋柳鶯 khik-sī-kuan-bûn-liú-ing**
+🎯 **克氏冠紋柳鶯 khik-sī-kuan-bûn-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語
 
 ## [哈氏冠紋柳鶯 ハルテルトムシクイ Hartert's Leaf Warbler](https://ebird.org/species/harlew1)
 
@@ -518,12 +462,10 @@ import Image from '@theme/IdealImage';
 (c) thelittleman, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **哈氏冠紋柳鶯 ha-sī-kuan-bûn-liú-ing**
+🎯 **哈氏冠紋柳鶯 ha-sī-kuan-bûn-liú-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語

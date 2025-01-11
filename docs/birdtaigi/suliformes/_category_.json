@@ -2,6 +2,7 @@
   "label": "海雞母目 hái-ke-bó-ba̍k",
   "position": 16,
   "link": {
-    "id": "birdtaigi/suliformes"
+    "type": "doc",
+    "id": "birdtaigi/suliformes/index"
   }
 }

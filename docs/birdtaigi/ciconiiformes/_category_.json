@@ -2,6 +2,7 @@
   "label": "鸛形目 kuàn-hîng-ba̍k",
   "position": 15,
   "link": {
-    "id": "birdtaigi/ciconiiformes"
+    "type": "doc",
+    "id": "birdtaigi/ciconiiformes/index"
   }
 }

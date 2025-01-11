@@ -14,19 +14,13 @@ import Image from '@theme/IdealImage';
 © Ingvild Riska, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **黃扒洋海燕仔 n̂g-pê-iûnn-hái-iàn-á**
+🎯 **黃扒洋海燕仔 n̂g-pê-iûnn-hái-iàn-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 海燕 -> 海燕仔 hái-iàn-á
-- 蹼 -> 扒 pê
-
-:::
-
+參考華語鳥類名錄
 
 ## [白腰叉尾海燕 コシジロウミツバメ Leach's Storm-Petrel](https://ebird.org/species/lcspet)
 
@@ -36,17 +30,13 @@ import Image from '@theme/IdealImage';
 (c) pleasantbaymac, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á**
+🎯 **白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-海燕 -> 海燕仔 hái-iàn-á
-
-:::
+參考華語鳥類名錄
 
 ## [黑叉尾海燕 ヒメクロウミツバメ Swinhoe's Storm-Petrel](https://ebird.org/species/swspet)
 
@@ -56,17 +46,13 @@ import Image from '@theme/IdealImage';
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á**
+🎯 **烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-海燕 -> 海燕仔 hái-iàn-á
-
-:::
+參考華語鳥類名錄
 
 ## [日本叉尾海燕 クロウミツバメ Matsudaira's Storm-Petrel](https://ebird.org/species/maspet2)
 
@@ -76,17 +62,13 @@ import Image from '@theme/IdealImage';
 (c) Tony Morris, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á**
+🎯 **日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-海燕 -> 海燕仔 hái-iàn-á
-
-:::
+參考華語鳥類名錄
 
 ## [褐翅叉尾海燕 オーストンウミツバメ Tristram's Storm-Petrel](https://ebird.org/species/trspet)
 
@@ -96,14 +78,10 @@ import Image from '@theme/IdealImage';
 © Tony Palliser, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤翅叉尾海燕仔 tshiah-tshì-tshe-bé-hái-iàn-á**
+🎯 **赤翅叉尾海燕仔 tshiah-tshì-tshe-bé-hái-iàn-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-海燕 -> 海燕仔 hái-iàn-á
-
-:::
+參考華語鳥類名錄

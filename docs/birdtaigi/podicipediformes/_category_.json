@@ -2,6 +2,7 @@
   "label": "水避仔目 tsuí-pī-á-ba̍k",
   "position": 11,
   "link": {
-    "id": "birdtaigi/podicipediformes"
+    "type": "doc",
+    "id": "birdtaigi/podicipediformes/index"
   }
 }

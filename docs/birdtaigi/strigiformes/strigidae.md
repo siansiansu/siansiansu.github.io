@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) Soham Dixit, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃喙貓頭鳥 n̂g-tshuì-niau-thâu-tsiáu**
 - 黃喙角鴞 n̂g-tshuì-kak-hiau
@@ -29,16 +29,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-- 2011⁺ 教育部辭典⁺
-- 2016⁺ iTaigi
-- 黃喙 n̂g-tshuì + 貓頭鳥 niau-thâu-tsiáu
-
-:::
+參考 2002⁺ 台華線頂辭典、2011⁺ 教育部辭典⁺、2016⁺ iTaigi
 
 ## [領角鴞 ヒガシオオコノハズク Collared Scops-Owl](https://ebird.org/species/cosowl1)
 
@@ -48,7 +41,7 @@ import Image from '@theme/IdealImage';
 (c) hokoonwong, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **領貓頭鳥 niá-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -62,14 +55,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-
-- 領 niá + 貓頭鳥 niau-thâu-tsiáu
-
-:::
+領 niá + 貓頭鳥 niau-thâu-tsiáu
 
 ## [蘭嶼角鴞 リュウキュウコノハズク Ryukyu Scops-Owl](https://ebird.org/species/ryusco1)
 
@@ -79,7 +67,7 @@ import Image from '@theme/IdealImage';
 (c) Attila Steiner, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **蘭嶼貓頭鳥 lân-sū-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -93,13 +81,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考華語
-
-:::
+參考華語鳥類名錄
 
 ## [東方角鴞 コノハズク Oriental Scops-Owl](https://ebird.org/species/orsowl)
 
@@ -109,7 +93,7 @@ import Image from '@theme/IdealImage';
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **東方貓頭鳥 tong-hong-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -123,13 +107,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考英語
-
-:::
+參考華語鳥類名錄、英語
 
 ## [黃魚鴞 ウオミミズク Tawny Fish-Owl](https://ebird.org/species/tafowl1)
 
@@ -139,7 +119,7 @@ import Image from '@theme/IdealImage';
 (c) David J Barton, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **魚貓仔 hî-niau-á**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -153,13 +133,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [鵂鶹 ヒメフクロウ Collared Owlet](https://ebird.org/species/colowl1)
 
@@ -169,7 +145,7 @@ import Image from '@theme/IdealImage';
 (c) Morten Ross, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **鵂鶹 hiu-liû**
 - 🎯 **領鵂鶹 niá-hiu-liû**
@@ -184,14 +160,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 1973 Embree台英辭典
-
-:::
-
+參考 1973 Embree台英辭典
 
 ## [縱紋腹小鴞 コキンメフクロウ Little Owl](https://ebird.org/species/litowl1)
 
@@ -201,7 +172,7 @@ import Image from '@theme/IdealImage';
 © Mourad Harzallah, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小貓頭鳥 sió-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -215,13 +186,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考英語
-
-:::
+參考英語
 
 ## [褐林鴞 オオフクロウ Brown Wood-Owl](https://ebird.org/species/brwowl1)
 
@@ -231,7 +198,7 @@ import Image from '@theme/IdealImage';
 (c) John Clough, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤色林貓頭鳥 tshiah-sik-lîm-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -245,13 +212,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考英語
-
-:::
+參考英語
 
 ## [東方灰林鴞 ヒマラヤフクロウ Himalayan Owl](https://ebird.org/species/himowl1)
 
@@ -261,7 +224,7 @@ import Image from '@theme/IdealImage';
 (c) N. Mahathi, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - **🎯 東方殕色林貓頭鳥 tong-hong-phú-sik-lîm-niau-thâu-tsiáu**
 - **🎯 喜馬拉雅貓頭鳥 hí-má-la-ngá-niau-thâu-tsiáu**
@@ -276,14 +239,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考英語：Himalayan Owl -> 喜馬拉雅 hí-má-la-ngá + 貓頭鳥 niau-thâu-tsiáu
-- 參考華語：東方 tong-hong + 殕色 phú-sik + 林貓頭鳥 lîm-niau-thâu-tsiáu
-
-:::
+參考英語、華語鳥類名錄
 
 ## [長耳鴞 トラフズク Long-eared Owl](https://ebird.org/species/loeowl)
 
@@ -293,7 +251,7 @@ import Image from '@theme/IdealImage';
 (c) caroline legg, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **長耳貓頭鳥 tn̂g-hīnn-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -307,13 +265,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考英語
-
-:::
+參考英語
 
 ## [短耳鴞 コミミズク Short-eared Owl](https://ebird.org/species/sheowl)
 
@@ -323,7 +277,7 @@ import Image from '@theme/IdealImage';
 (c) Suzanne Labbé, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **短耳貓頭鳥 té-hīnn-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -337,13 +291,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考英語
-
-:::
+參考英語
 
 ## [褐鷹鴞 アオバズク Northern Boobook](https://ebird.org/species/norboo1)
 
@@ -353,7 +303,7 @@ import Image from '@theme/IdealImage';
 © james-patrick, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤色鷹仔貓頭鳥 tshiah-sik-ing-á-niau-thâu-tsiáu**
 - ✳️ 姑嫂鳥 koo-só-tsiáu
@@ -367,10 +317,6 @@ import Image from '@theme/IdealImage';
 - ✳️ 貓頭鷹 niau-thâu-ing
 - ✳️ 鴟鴞 tshi-hiau
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考華語
-
-:::
+參考華語

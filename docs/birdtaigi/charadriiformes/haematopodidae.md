@@ -14,14 +14,12 @@ import Image from '@theme/IdealImage';
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **食蚵仔鳥 tsia̍h-ô-á-tsiáu**
 - 🎯 **蚵仔師 ô-á-sai**
 - 🎯 **蠣鴴 lē-hing**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語名字
-:::

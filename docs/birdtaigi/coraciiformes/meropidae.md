@@ -14,18 +14,14 @@ import Image from '@theme/IdealImage';
 (c) benjamynweil, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 青喉食蜂鳥 tshenn-âu-tsia̍h-phang-tsiáu
 - 青喉蜂虎 tshenn-âu-phang-hóo
 
-:::
-
-:::tip[註解]
+**註解**
 
 參考英語
-
-:::
 
 ## [藍頰蜂虎 ルリホオハチクイ Blue-cheeked Bee-eater](https://ebird.org/species/bcbeat1)
 
@@ -35,18 +31,14 @@ import Image from '@theme/IdealImage';
 © Parth Kansara, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青面食蜂鳥 tshenn-bīn-tsia̍h-phang-tsiáu**
 - 青面蜂虎 tshenn-bīn-phang-hóo
 
-:::
-
-:::tip[註解]
+**註解**
 
 參考英語
-
-:::
 
 ## [栗喉蜂虎 ハリオハチクイ Blue-tailed Bee-eater](https://ebird.org/species/btbeat1)
 
@@ -56,18 +48,14 @@ import Image from '@theme/IdealImage';
 (c) Vijay Vanaparthy, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青尾食蜂鳥 tshenn-bué-tsia̍h-phang-tsiáu**
 - 栗喉蜂虎 lik-âu-phang-hóo
 
-:::
-
-:::tip[註解]
+**註解**
 
 參考英語
-
-:::
 
 ## [彩虹蜂虎 ハチクイ Rainbow Bee-eater](https://ebird.org/species/rabeat1)
 
@@ -77,15 +65,11 @@ import Image from '@theme/IdealImage';
 (c) Jean and Fred, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **虹色食蜂鳥 khīng-sik-tsia̍h-phang-tsiáu**
 - 彩色蜂虎 khīng-sik-phang-hóo
 
-:::
-
-:::tip[註解]
+**註解**
 
 參考英語
-
-:::

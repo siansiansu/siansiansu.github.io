@@ -14,19 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Chuangzao, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **水避仔 tsuí-pī-á**
-- 小鸊鷉 sió-phik-su
+🎯 **水避仔 tsuí-pī-á**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 1973 Embree台英辭典
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典
 
 ## [角鸊鷉 ミミカイツブリ Horned Grebe](https://ebird.org/species/horgre)
 
@@ -36,18 +30,13 @@ import Image from '@theme/IdealImage';
  (c) brian stahls, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **角水避 kak-tsuí-pī**
-- 角鸊鷉 kak-phik-su
+🎯 **角水避 kak-tsuí-pī**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 角 kak - 教育部台灣台語常用詞辭典
-
-:::
+參考華語鳥類名錄
 
 ## [赤頸鸊鷉 アカエリカイツブリ Red-necked Grebe](https://ebird.org/species/rengre)
 
@@ -57,18 +46,13 @@ import Image from '@theme/IdealImage';
 (c) kha, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **紅頸水避 âng-kún-tsuí-pī**
-- 紅頸鸊鷉 âng-kún-phik-su
+🎯 **紅頸水避 âng-kún-tsuí-pī**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Red-necked -> 紅頸 âng-kún
-
-:::
+參考華語鳥類名錄
 
 ## [冠鸊鷉 カンムリカイツブリ Great Crested Grebe](https://ebird.org/species/grcgre1)
 
@@ -78,19 +62,13 @@ import Image from '@theme/IdealImage';
 (c) Chris Moody, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 聳毛水避 tshàng-moo-tsuí-pī
-- 冠鸊鷉 kuan-phik-su
+🎯 **聳毛水避 tshàng-moo-tsuí-pī**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 1973 Embree台英辭典
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典
 
 ## [黑頸鸊鷉 ハジロカイツブリ Eared Grebe](https://ebird.org/species/eargre)
 
@@ -100,15 +78,10 @@ import Image from '@theme/IdealImage';
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏頸水避 oo-kún-tsuí-pī**
-- 烏頸鸊鷉 oo-kún-phik-su
+🎯 **烏頸水避 oo-kún-tsuí-pī**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 烏頸 oo-kún - 教育部台灣台語常用詞辭典
-
-:::
+參考華語鳥類名錄

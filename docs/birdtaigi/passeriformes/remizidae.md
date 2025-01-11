@@ -14,12 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **攀雀 phan-tshiok**
+🎯 **攀雀 phan-tshiok**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄

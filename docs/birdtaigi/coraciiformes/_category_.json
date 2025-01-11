@@ -2,6 +2,7 @@
   "label": "山鸚哥目 suann-ing-ko-ba̍k",
   "position": 21,
   "link": {
-    "id": "birdtaigi/coraciiformes"
+    "type": "doc",
+    "id": "birdtaigi/coraciiformes/index"
   }
 }

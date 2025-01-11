@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Joanne Muis Redwood, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **鐵爪鵐仔 thih-jiáu-bû-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **鐵爪鵐仔 thih-jiáu-bû-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [雪鵐 ユキホオジロ Snow Bunting](https://ebird.org/species/snobun)
 
@@ -30,10 +30,10 @@ import Image from '@theme/IdealImage';
 (c) Donna Pomeroy, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **雪鵐仔 seh-bû-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **雪鵐仔 seh-bû-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::

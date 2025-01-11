@@ -2,6 +2,7 @@
   "label": "鸚形目 ing-hîng-ba̍k",
   "position": 24,
   "link": {
-    "id": "birdtaigi/psittaciformes"
+    "type": "doc",
+    "id": "birdtaigi/psittaciformes/index"
   }
 }

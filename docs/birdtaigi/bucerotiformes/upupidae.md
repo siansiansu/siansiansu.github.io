@@ -4,7 +4,7 @@ description: 本文整理了戴勝的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 墓壙鳥 bōng-khòng-tsiáu-kho
+# 墓壙鳥科 bōng-khòng-tsiáu-kho
 
 ## [戴勝 ヤツガシラ Eurasian Hoopoe](https://ebird.org/species/hoopoe)
 
@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) Noam Markus, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **墓壙鳥 bōng-khòng-tsiáu**
 - 墓坑鳥 bōng-khenn-tsiáu
@@ -27,10 +27,6 @@ import Image from '@theme/IdealImage';
 - 戴髻鳥 tì-kè-tsiáu
 - 戴勝 tì-sìng
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 2002⁺ 台華線頂辭典
-
-:::
+參考 2002⁺ 台華線頂辭典

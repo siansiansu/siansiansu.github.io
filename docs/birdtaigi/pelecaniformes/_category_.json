@@ -2,6 +2,7 @@
   "label": "鵜形目 thê-hîng-ba̍k",
   "position": 17,
   "link": {
-    "id": "birdtaigi/pelecaniformes"
+    "type": "doc",
+    "id": "birdtaigi/pelecaniformes/index"
   }
 }

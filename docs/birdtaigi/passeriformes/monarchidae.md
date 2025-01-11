@@ -14,16 +14,14 @@ import Image from '@theme/IdealImage';
 (c) sunmr, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **染布鳥 ní-pòo-tsiá**
 - 烏枕藍鶲 oo-tsím-nâ-ong
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [紫綬帶 サンコウチョウ Black Paradise-Flycatcher](https://ebird.org/species/japfly1)
 
@@ -33,17 +31,15 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紫色綬帶 tsí-sik-siū-tuà**
 - ✳️ 青目孔仔 tshenn-ba̍k-khóng-á
 - ✳️ 綬帶 siū-tuà
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [阿穆爾綬帶 アムールサンコウチョウ Amur Paradise-Flycatcher](https://ebird.org/species/amupaf1)
 
@@ -53,14 +49,12 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **阿穆爾綬帶 a-bo̍k-nī-siū-tuà**
 - ✳️ 綬帶 siū-tuà
 - ✳️ 青目孔仔 tshenn-ba̍k-khóng-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語

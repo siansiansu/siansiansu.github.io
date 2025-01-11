@@ -4,7 +4,7 @@ description: 本文整理了鶴的台語名，並對照英語與華語翻譯，�
 
 import Image from '@theme/IdealImage';
 
-# 鶴科 ho̍h-kho
+# 白鶴科 pe̍h-ho̍h-kho
 
 ## [簑羽鶴 アネハヅル Demoiselle Crane](https://ebird.org/species/demcra1)
 
@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **簑毛鶴 sui-moo-ho̍h**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **簑毛鶴 sui-moo-ho̍h**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [白鶴 ソデグロヅル Siberian Crane](https://ebird.org/species/sibcra1)
 
@@ -30,16 +30,14 @@ import Image from '@theme/IdealImage';
 (c) Andy Lazere, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白鶴 pe̍h-ho̍h**
 - 🎯 **西伯利亞白鶴 se-pik-lī-a-pe̍h-ho̍h**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [沙丘鶴 カナダヅル Sandhill Crane](https://ebird.org/species/sancra)
 
@@ -49,16 +47,14 @@ import Image from '@theme/IdealImage';
 © David Dodd, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **沙崙鶴 sua-lūn-ho̍h**
 - 🎯 加拿大鶴 Ka-ná-ta-ho̍h
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、日語
-:::
 
 ## [白枕鶴 マナヅル White-naped Crane](https://ebird.org/species/whncra1)
 
@@ -68,13 +64,13 @@ import Image from '@theme/IdealImage';
 (c) Christoph Moning, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **白頂鶴 pe̍h-tsím-ho̍h**
-:::
+**台語名**
 
-:::tip[註解]
-參考 1973 Embree台英辭典、華語鳥類圖鑑
-:::
+🎯 **白頂鶴 pe̍h-tsím-ho̍h**
+
+**註解**
+
+參考 1973 Embree台英辭典、華語鳥類名錄
 
 ## [灰鶴 クロヅル Common Crane](https://ebird.org/species/comcra)
 
@@ -84,13 +80,13 @@ import Image from '@theme/IdealImage';
 (c) Blondinrikard Fröberg, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **殕色鶴 phú-sik-ho̍h**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **殕色鶴 phú-sik-ho̍h**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [白頭鶴 ナベヅル Hooded Crane](https://ebird.org/species/hoocra1)
 
@@ -100,13 +96,13 @@ import Image from '@theme/IdealImage';
 (c) Christoph Moning, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **白頭鶴 pe̍h-thâu-ho̍h**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白頭鶴 pe̍h-thâu-ho̍h**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [丹頂鶴 タンチョウ Red-crowned Crane](https://ebird.org/species/reccra1)
 
@@ -116,14 +112,12 @@ import Image from '@theme/IdealImage';
 (c) naturepower2021, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅頭鶴 âng-thâu-ho̍h**
 - ✳️ 仙鶴 sian-ho̍h
 - ✳️ 鶴 ho̍h
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::

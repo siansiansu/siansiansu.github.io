@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Геннадий, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **花鳥仔 hue-tsiáu-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **花鳥仔 hue-tsiáu-á**
+
+**註解**
+
 參考日語
-:::
 
 ## [臘嘴雀 シメ Hawfinch](https://ebird.org/species/hawfin)
 
@@ -30,13 +30,13 @@ import Image from '@theme/IdealImage';
 (c) dirkey, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **臘喙雀 la̍h-tshuì-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **臘喙雀 la̍h-tshuì-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [小桑鳲 コイカル Yellow-billed Grosbeak](https://ebird.org/species/yebgro1)
 
@@ -46,13 +46,13 @@ import Image from '@theme/IdealImage';
 (c) Xavier Rufray, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **小桑鳲 sió-sáng-si**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **小桑鳲 sió-sáng-si**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [桑鳲 イカル Japanese Grosbeak](https://ebird.org/species/japgro1)
 
@@ -62,13 +62,13 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **桑鳲 sáng-si**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **桑鳲 sáng-si**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [普通朱雀 アカマシコ Common Rosefinch](https://ebird.org/species/comros)
 
@@ -78,13 +78,13 @@ import Image from '@theme/IdealImage';
 © Paulmathi Vinod, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **普通紅鳥仔 phóo-thong-âng-tsiáu-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **普通紅鳥仔 phóo-thong-âng-tsiáu-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [酒紅朱雀 タカサゴマシコ Vinaceous Rosefinch](https://ebird.org/species/vinros2)
 
@@ -94,13 +94,13 @@ import Image from '@theme/IdealImage';
 © 大鹅Goose, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **酒紅紅鳥仔 tsiú-âng-âng-tsiáu-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **酒紅紅鳥仔 tsiú-âng-âng-tsiáu-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [臺灣朱雀 タイワンマシコ Taiwan Rosefinch](https://ebird.org/species/vinros3)
 
@@ -110,13 +110,13 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **台灣紅鳥仔 tâi-uân-âng-tsiáu-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **台灣紅鳥仔 tâi-uân-âng-tsiáu-á**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [北朱雀 オオマシコ Pallas's Rosefinch](https://ebird.org/species/palros2)
 
@@ -126,13 +126,13 @@ import Image from '@theme/IdealImage';
 © 김대환, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **北紅鳥仔 pak-âng-tsiáu-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **北紅鳥仔 pak-âng-tsiáu-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [褐鷽 チャイロウソ Brown Bullfinch](https://ebird.org/species/brobul1)
 
@@ -142,13 +142,13 @@ import Image from '@theme/IdealImage';
 (c) Ben Tsai蔡維哲, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **赤面猴 tshiah-bīn-kâu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **赤面猴 tshiah-bīn-kâu**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [灰鷽 タイワンウソ Taiwan Bullfinch](https://ebird.org/species/gyhbul5)
 
@@ -158,13 +158,13 @@ import Image from '@theme/IdealImage';
 (c) Christoph Moning, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **烏面猴 oo-bīn-kâu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **烏面猴 oo-bīn-kâu**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [歐亞鷽 ウソ Eurasian Bullfinch](https://ebird.org/species/eurbul)
 
@@ -174,13 +174,13 @@ import Image from '@theme/IdealImage';
 © Edoardo Nardelli, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **歐亞烏面猴 au-a-oo-bīn-kâu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **歐亞烏面猴 au-a-oo-bīn-kâu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [金翅雀 カワラヒワ Oriental Greenfinch](https://ebird.org/species/origre)
 
@@ -190,13 +190,13 @@ import Image from '@theme/IdealImage';
 (c) Aaron Maizlish, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **金翼雀 kim-tshì-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **金翼雀 kim-tshì-tshiok**
+
+**註解**
+
 參考 1973 Embree台英辭典
-:::
 
 ## [赤胸朱頂雀 ムネアカヒワ Eurasian Linnet](https://ebird.org/species/eurlin1)
 
@@ -206,13 +206,13 @@ import Image from '@theme/IdealImage';
 © Mourad Harzallah, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **紅胸紅頂雀 âng-hing-âng-tíng-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **紅胸紅頂雀 âng-hing-âng-tíng-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [普通朱頂雀 ベニヒワ Redpoll (Common)](https://ebird.org/species/comred)
 
@@ -222,13 +222,13 @@ import Image from '@theme/IdealImage';
 © Анна Васильченко, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **普通紅頂雀 phóo-thong-âng-tíng-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **普通紅頂雀 phóo-thong-âng-tíng-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [紅交嘴雀 イスカ Red Crossbill](https://ebird.org/species/redcro)
 
@@ -238,13 +238,13 @@ import Image from '@theme/IdealImage';
 © Yves Bas, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **紅必叉喙鳥 âng-pit-tshe-tshuì-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **紅必叉喙鳥 âng-pit-tshe-tshuì-tsiáu**
+
+**註解**
+
 參考英語
-:::
 
 ## [黃雀 マヒワ Eurasian Siskin](https://ebird.org/species/eursis)
 
@@ -254,13 +254,13 @@ import Image from '@theme/IdealImage';
 (c) Mikhail Ezdakov, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **黃雀 n̂g-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **黃雀 n̂g-tshiok**
+
+**註解**
+
 參考 1973 Embree台英辭典
-:::
 
 ## [長尾朱雀 ベニマシコ Long-tailed Rosefinch](https://ebird.org/species/lotros1)
 
@@ -270,10 +270,10 @@ import Image from '@theme/IdealImage';
 (c) zametnya, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **長尾紅鳥仔 tn̂g-bué-âng-tsiáu-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::

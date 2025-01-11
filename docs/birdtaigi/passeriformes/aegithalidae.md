@@ -14,13 +14,11 @@ import Image from '@theme/IdealImage';
 (c) Gyeltshen Gyeltshen, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅頭山雀 âng-thâu-suann-tshiok**
 - ✳️ 紅頭仔 âng-thâu-á
 
-:::
+**註解**
 
-:::tip[註解]
 1973 Embree台英辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::

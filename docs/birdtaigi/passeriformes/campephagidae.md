@@ -14,18 +14,16 @@ import Image from '@theme/IdealImage';
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **戲班仔 hì-pan-á**
 - 🎯 山椒鳥 suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [長尾山椒鳥 オナガベニサンショウクイ Long-tailed Minivet](https://ebird.org/species/lotmin1)
 
@@ -35,17 +33,15 @@ import Image from '@theme/IdealImage';
 © Griha Hasanov, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **長尾戲班仔 tn̂g-bué-hì-pan-á**
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [赤紅山椒鳥 シュイロサンショウクイ Scarlet Minivet](https://ebird.org/species/scamin1)
 
@@ -55,18 +51,16 @@ import Image from '@theme/IdealImage';
 (c) Dmitry Ivanov, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤紅戲班仔 tshiah-âng-hì-pan-á**
 - 赤紅山椒鳥 tshiah-âng-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵
-:::
 
 ## [琉球山椒鳥 リュウキュウサンショウクイ Ryukyu Minivet](https://ebird.org/species/ryumin1)
 
@@ -76,18 +70,16 @@ import Image from '@theme/IdealImage';
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **琉球戲班仔 liû-khiû-hì-pan-á**
 - 琉球山椒鳥 liû-khiû-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [灰山椒鳥 サンショウクイ Ashy Minivet](https://ebird.org/species/ashmin1/)
 
@@ -97,18 +89,16 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **殕色戲班仔 phú-sik-hì-pan-á**
 - 殕色山椒鳥 phú-sik-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [小灰山椒鳥 チャイロサンショウクイ Brown-rumped Minivet](https://ebird.org/species/brrmin1)
 
@@ -118,7 +108,7 @@ import Image from '@theme/IdealImage';
 (c) Cat Abbott, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 小殕色戲班仔 sió-phú-sik-hì-pan-á
 - 小殕色山椒鳥 sió-phú-sik-suann-tsiau-tsiáu
@@ -127,11 +117,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [粉紅山椒鳥 モモイロサンショウクイ Rosy Minivet](https://ebird.org/species/rosmin1)
 
@@ -141,18 +129,16 @@ import Image from '@theme/IdealImage';
 © jayaprakash Singha, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **粉紅戲班仔 hún-âng-hì-pan-á**
 - 粉紅山椒鳥 hún-âng-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [花翅山椒鳥 オオオニサンショウクイ Large Cuckooshrike](https://ebird.org/species/larcus1)
 
@@ -162,18 +148,16 @@ import Image from '@theme/IdealImage';
 © reginchen, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **花翼戲班仔 hue-tshì-hì-pan-á**
 - 花翼山椒鳥 hue-tshì-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [黑原鵑鵙 マダラナキサンショウクイ Pied Triller](https://ebird.org/species/pietri1)
 
@@ -183,19 +167,16 @@ import Image from '@theme/IdealImage';
 © Foo Chuan Wei, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏白戲班仔 oo-pe̍h-tshì-hì-pan-á**
 - 斑山椒鳥 pan-tshì-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵
-:::
-
 
 ## [黑翅山椒鳥 アサクラサンショウクイ Black-winged Cuckooshrike](https://ebird.org/species/bkwcus1)
 
@@ -205,15 +186,13 @@ import Image from '@theme/IdealImage';
 © Griha Hasanov, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏翅戲班仔 oo-tshì-hì-pan-á**
 - 烏翅山椒鳥 oo-tshì-suann-tsiau-tsiáu
 - ✳️ 戲班仔 hì-pan-á
 - ✳️ 山椒鳥 suann-tsiau-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::

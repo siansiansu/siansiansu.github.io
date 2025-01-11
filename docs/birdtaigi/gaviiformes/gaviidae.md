@@ -14,15 +14,14 @@ import Image from '@theme/IdealImage';
 (c) hillanddale, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
+🎯 **紅喉藏水鳥 âng-âu-tshàng-tsuí-tsiáu**
 
-:::
 
-:::tip[註解]
-參考行為
-:::
+**註解**
+
+參考華語鳥類名錄
 
 ## [黑喉潛鳥 オオハム Arctic Loon](https://ebird.org/species/arcloo)
 
@@ -32,15 +31,13 @@ import Image from '@theme/IdealImage';
 (c) Владимир Панкратов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
+🎯 **烏喉藏水鳥 oo-âu-tshàng-tsuí-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-參考行為
-:::
+參考華語鳥類名錄
 
 ## [太平洋潛鳥 シロエリオオハム Pacific Loon](https://ebird.org/species/pacloo)
 
@@ -50,15 +47,13 @@ import Image from '@theme/IdealImage';
 (c) Alexander Yakovlev, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
+🎯 **太平洋藏水鳥 thài-pîng-iûnn-tshàng-tsuí-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-參考行為
-:::
+參考華語鳥類名錄
 
 ## [白嘴潛鳥 ハシジロアビ Yellow-billed Loon](https://ebird.org/species/yebloo)
 
@@ -68,12 +63,10 @@ import Image from '@theme/IdealImage';
 (c) gramandy, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
+🎯 **白喙藏水鳥 pe̍h-tshuì-tshàng-tsuí-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-參考行為
-:::
+參考華語鳥類名錄

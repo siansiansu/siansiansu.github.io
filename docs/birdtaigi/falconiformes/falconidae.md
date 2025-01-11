@@ -14,16 +14,14 @@ import Image from '@theme/IdealImage';
 © Timothy Whitehead, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃跤鷹 n̂g-kha-ing**
 - ✳️ 鷹仔 ing-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考特徵
-:::
+參考華語鳥類名錄
 
 ## [紅隼 チョウゲンボウ Eurasian Kestrel](https://ebird.org/species/eurkes)
 
@@ -33,17 +31,15 @@ import Image from '@theme/IdealImage';
 (c) Luca Ghiraldi, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅鷹 âng-ing**
 - 紅隼 âng-tsún
 - ✳️ 鷹仔 ing-á
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [紅腳隼 アカアシチョウゲンボウ Amur Falcon](https://ebird.org/species/amufal1)
 
@@ -53,7 +49,7 @@ import Image from '@theme/IdealImage';
 (c) Nigel Voaden, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅跤鷹 âng-kha-ing**
 - 紅跤隼 âng-kha-tsún
@@ -61,11 +57,9 @@ import Image from '@theme/IdealImage';
 - 阿穆爾鷹 a-bo̍k-ní-ing
 - ✳️ 鷹仔 ing-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考特徵
-:::
+參考華語鳥類名錄
 
 ## [灰背隼 コチョウゲンボウ Merlin](https://ebird.org/species/merlin)
 
@@ -75,17 +69,15 @@ import Image from '@theme/IdealImage';
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **殕色背鷹 phú-sik-puē-ing**
 - 灰背隼 hue-puē-tsún
 - ✳️ 鷹仔 ing-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考特徵
-:::
+參考華語鳥類名錄
 
 ## [燕隼 チゴハヤブサ Eurasian Hobby](https://ebird.org/species/eurhob)
 
@@ -95,7 +87,7 @@ import Image from '@theme/IdealImage';
 (c) Наталия, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **燕仔鷹 iàn-á-ing**
 - 燕隼 iàn-tsún
@@ -103,11 +95,9 @@ import Image from '@theme/IdealImage';
 - 燕鷹 iàn-ing
 - ✳️ 鷹仔 ing-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [遊隼 ハヤブサ Peregrine Falcon](https://ebird.org/species/perfal)
 
@@ -117,13 +107,11 @@ import Image from '@theme/IdealImage';
 (c) silvertop41, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **鴨虎 ah-hóo**
 - ✳️ 鷹仔 ing-á
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

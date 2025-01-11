@@ -14,18 +14,13 @@ import Image from '@theme/IdealImage';
 (c) hokoonwong, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu**
-- ✳️ 熱帶鳥 jia̍t-tài-tsiáu
+🎯 **白尾熱帶鳥 pe̍h-bué-jia̍t-tài-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
-
-:::
+參考華語鳥類名錄
 
 ## [紅嘴熱帶鳥 アカハシネッタイチョウ Red-billed Tropicbird](https://ebird.org/species/rebtro)
 
@@ -35,18 +30,13 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 (c) Tom Benson, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu**
-- ✳️ 熱帶鳥 jia̍t-tài-tsiáu
+🎯 **紅喙熱帶鳥 âng-tshuì-jia̍t-tài-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Red-billed Tropicbird -> 紅喙 pe̍h-tshuì + 熱帶鳥 jia̍t-tài-tsiáu
-
-:::
+參考華語鳥類名錄
 
 ## [紅尾熱帶鳥 アカオネッタイチョウ Red-tailed Tropicbird](https://ebird.org/species/rettro)
 
@@ -56,15 +46,10 @@ White-tailed Tropicbird -> 白尾 pe̍h-bué + 熱帶鳥 jia̍t-tài-tsiáu
 (c) juju98, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu**
-- ✳️ 熱帶鳥 jia̍t-tài-tsiáu
+🎯 **紅尾熱帶鳥 âng-bé-jia̍t-tài-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Red-tailed Tropicbird -> 紅尾 pe̍h-bé + 熱帶鳥 jia̍t-tài-tsiáu
-
-:::
+參考華語鳥類名錄

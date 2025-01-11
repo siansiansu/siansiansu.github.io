@@ -14,15 +14,14 @@ import Image from '@theme/IdealImage';
 © kumarkv, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏鶖 oo-tshiu**
+🎯 **烏鶖 oo-tshiu**
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+
 
 ## [灰卷尾 ハイイロオウチュウ Ashy Drongo](https://ebird.org/species/ashdro1)
 
@@ -32,15 +31,14 @@ import Image from '@theme/IdealImage';
 © James M. Maley, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **殕色烏鶖 phú-sik-oo-tshiu**
+🎯 **殕色烏鶖 phú-sik-oo-tshiu**
 
-:::
 
-:::tip[註解]
-參考英語、特徵
-:::
+**註解**
+
+參考華語鳥類名錄
 
 ## [鴉嘴卷尾 ハシブトオウチュウ Crow-billed Drongo](https://ebird.org/species/crbdro1)
 
@@ -50,15 +48,13 @@ import Image from '@theme/IdealImage';
 © Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- - 🎯 **鴉喙烏鶖 a-tshuì-oo-tshiu**
+🎯 **鴉喙烏鶖 a-tshuì-oo-tshiu**
 
-:::
+**註解**
 
-:::tip[註解]
-參考特徵、英語
-:::
+參考華語鳥類名錄
 
 ## [小卷尾 ヒメオウチュウ Bronzed Drongo](https://ebird.org/species/brodro1)
 
@@ -68,15 +64,14 @@ import Image from '@theme/IdealImage';
 © Rohit Naniwadekar, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **山烏鶖 suann-oo-tshiu**
+🎯 **山烏鶖 suann-oo-tshiu**
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+
 
 ## [髮冠卷尾 カンムリオウチュウ Hair-crested Drongo](https://ebird.org/species/hacdro1)
 
@@ -86,15 +81,13 @@ import Image from '@theme/IdealImage';
 © Andrew Lai, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **聳毛烏鶖 tshàng-moo-oo-tshiu**
 - 髮冠烏鶖 huat-kuan-oo-tshiu
 - 冠烏鶖 huat-kuan-oo-tshiu
 - 聳頭烏鶖 tshàng-thâu-oo-tshiu
 
-:::
+**註解**
 
-:::tip[註解]
-參考特徵、英語
-:::
+參考華語鳥類名錄

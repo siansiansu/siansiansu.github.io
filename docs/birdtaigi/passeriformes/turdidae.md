@@ -14,17 +14,15 @@ import Image from '@theme/IdealImage';
 (c) sunmr, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白氏鶇仔 pe̍h-sī-tang-á**
 - ✳️ 花柿仔 hue-khī-á
 - ✳️ 鶇仔 tang-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《台灣野鳥鄉土名》、華語、英語
-:::
 
 ## [虎斑地鶇 ミナミトラツグミ Scaly Thrush](https://ebird.org/species/scathr8/)
 
@@ -34,17 +32,15 @@ import Image from '@theme/IdealImage';
 (c) karoconniff, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **虎皮鶇仔 hóo-phuê-tang-á**
 - ✳️ 花柿仔 hue-khī-á
 - ✳️ 鶇仔 tang-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《台灣野鳥鄉土名》、華語、英語
-:::
 
 ## [白眉地鶇 マミジロ Siberian Thrush](https://ebird.org/species/sibthr1)
 
@@ -54,16 +50,14 @@ import Image from '@theme/IdealImage';
 (c) Julien Renoult, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白眉鶇仔 pe̍h-bâi-tang-á**
 - ✳️ 鶇仔 tang-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [橙頭地鶇 オレンジジツグミ Orange-headed Thrush](https://ebird.org/species/orhthr1)
 
@@ -73,15 +67,13 @@ import Image from '@theme/IdealImage';
 (c) Ravisara Jayamanna, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **柑仔頭鶇仔 kam-á-thâu-tang-á**
+🎯 **柑仔頭鶇仔 kam-á-thâu-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::
 
 ## [寶興歌鶇 チベットウタツグミ Chinese Thrush](https://ebird.org/species/chithr2)
 
@@ -91,15 +83,13 @@ import Image from '@theme/IdealImage';
 © Sun Jiao, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **中國鶇仔 tiong-kok-tang-á**
+🎯 **中國鶇仔 tiong-kok-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [槲鶇 ヤドリギツグミ Mistle Thrush](https://ebird.org/species/misthr1)
 
@@ -109,15 +99,13 @@ import Image from '@theme/IdealImage';
 © Anton Labachou, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **槲寄生鶇仔 hôo-kià-senn-tang-á**
+🎯 **槲寄生鶇仔 hôo-kià-senn-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [中國黑鶇 クロウタドリ Chinese Blackbird](https://ebird.org/species/chibla1)
 
@@ -127,15 +115,13 @@ import Image from '@theme/IdealImage';
 (c) nanan, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **中國烏鶇仔 tiong-kok-oo-tang-á**
+🎯 **中國烏鶇仔 tiong-kok-oo-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [白頭鶇 タイワンツグミ Taiwan Thrush](https://ebird.org/species/islthr24)
 
@@ -145,18 +131,16 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白頭鶇仔 pe̍h-thâu-tang-á**
 - 🎯 **台灣鶇仔 tâi-uân-tang-á**
 - ✳️ 白頭仔 pe̍h-thâu-á
 - ✳️ 鶇仔 tang-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [烏灰鶇 クロツグミ Japanese Thrush](https://ebird.org/species/japthr1)
 
@@ -166,16 +150,14 @@ import Image from '@theme/IdealImage';
 © lhurteau, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **日本烏鶇仔 ji̍t-pún-oo-tang-á**
 - ✳️ 鶇仔 tang-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考日語、英語
-:::
 
 ## [灰背鶇 カラアカハラ Gray-backed Thrush](https://ebird.org/species/gybthr1)
 
@@ -185,15 +167,13 @@ import Image from '@theme/IdealImage';
 © Toby Y, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **殕背鶇仔 phú-puē-tang-á**
+🎯 **殕背鶇仔 phú-puē-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [白腹鶇 シロハラ Pale Thrush](https://ebird.org/species/palthr1)
 
@@ -203,16 +183,14 @@ import Image from '@theme/IdealImage';
 (c) Nash Chou, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白腹鶇仔 pe̍h-pak-tang-á**
 - ✳️ 鶇仔 tang-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [褐頭鶇 カキイロツグミ Gray-sided Thrush](https://ebird.org/species/gysthr1)
 
@@ -222,15 +200,13 @@ import Image from '@theme/IdealImage';
 © Sevin Dee, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤頭鶇仔 tshiah-thâu-tang-á**
+🎯 **赤頭鶇仔 tshiah-thâu-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [白眉鶇 マミチャジナイ Eyebrowed Thrush](https://ebird.org/species/eyethr)
 
@@ -240,15 +216,13 @@ import Image from '@theme/IdealImage';
 (c) Chuangzao, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **白眉鶇仔 pe̍h-bâi-tang-á**
+🎯 **白眉鶇仔 pe̍h-bâi-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵
-:::
 
 ## [赤腹鶇 アカハラ Brown-headed Thrush](https://ebird.org/species/brhthr1)
 
@@ -258,15 +232,13 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **紅腹鶇 âng-pak-tong**
+🎯 **紅腹鶇 âng-pak-tong**
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵
-:::
 
 ## [黑頸鶇 ノドグロツグミ Black-throated Thrush](https://ebird.org/species/datthr1)
 
@@ -276,15 +248,13 @@ import Image from '@theme/IdealImage';
 © Anton Barbyshev, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏頸鶇仔 oo-kún-tang-á**
+🎯 **烏頸鶇仔 oo-kún-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::
 
 ## [赤頸鶇 ノドアカツグミ Red-throated Thrush](https://ebird.org/species/retthr1)
 
@@ -294,15 +264,13 @@ import Image from '@theme/IdealImage';
 © Анна Васильченко, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤頸鶇仔 oo-kún-tang-á**
+🎯 **赤頸鶇仔 oo-kún-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::
 
 ## [斑點鶇 ツグミ Dusky Thrush](https://ebird.org/species/dusthr2)
 
@@ -312,15 +280,13 @@ import Image from '@theme/IdealImage';
 (c) belvedere04, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **斑點鶇仔 pan-tiám-tang-á**
+🎯 **斑點鶇仔 pan-tiám-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵
-:::
 
 ## [紅尾鶇 ハチジョウツグミ Naumann's Thrush](https://ebird.org/species/dusthr1)
 
@@ -330,12 +296,10 @@ import Image from '@theme/IdealImage';
 (c) johnallcock, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **紅尾鶇仔 âng-bué-tang-á**
+🎯 **紅尾鶇仔 âng-bué-tang-á**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、特徵
-:::
+參考華語鳥類名錄、特徵

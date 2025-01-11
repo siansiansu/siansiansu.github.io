@@ -14,19 +14,14 @@ import Image from '@theme/IdealImage';
 (c) Steve Harbula, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅跤海雞母 âng-kha-hái-ke-bó**
 - ✳️ 海雞母 hái-ke-bó
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Red-footed -> 紅跤 pe̍h-kha
-- 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [白腹鰹鳥 カツオドリ Brown Booby](https://ebird.org/species/brnboo)
 
@@ -36,19 +31,14 @@ import Image from '@theme/IdealImage';
 (c) Максим Стефанович, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白腹海雞母 pe̍h-pak-hái-ke-bó**
 - ✳️ 海雞母 hái-ke-bó
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 白腹 -> pe̍h-pak
-- 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [藍臉鰹鳥 アオツラカツオドリ Masked Booby](https://ebird.org/species/masboo)
 
@@ -58,16 +48,11 @@ import Image from '@theme/IdealImage';
 (c) abelardomendesjr, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 青面海雞母 tshenn-bīn-hái-ke-bó
 - ✳️ 海雞母 hái-ke-bó
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 青面 -> 青面 tshenn-bīn
-- 海雞母 hái-ke-bó - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

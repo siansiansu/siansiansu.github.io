@@ -14,11 +14,13 @@ import Image from '@theme/IdealImage';
 (c) baronsamedi, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 猴面鷹 kâu-bīn-ing
+- 🎯 **猴面鷹 kâu-bīn-ing**
 - 🎯 猴面鴞 kâu-bīn-hiau
 - 🎯 草鴞 tsháu-hiau
 - 🎯 面鴞 bīn-hiau
 
-:::
+**註解**
+
+參考 2002⁺ 台華線頂辭典

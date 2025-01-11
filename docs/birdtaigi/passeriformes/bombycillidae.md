@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 © Aline Horikawa, all rights reserved
 </div>
 
-:::info[台語名]
-🎯 **紅連雀 âng-liân-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **紅連雀 âng-liân-tshiok**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [黃連雀 キレンジャク Bohemian Waxwing](https://ebird.org/species/bohwax)
 
@@ -30,10 +30,11 @@ import Image from '@theme/IdealImage';
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **黃連雀 n̂g-liân-tshiok**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **黃連雀 n̂g-liân-tshiok**
+
+
+**註解**
+
 參考華語鳥類名錄
-:::

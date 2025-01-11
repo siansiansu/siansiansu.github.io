@@ -14,17 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Glenda Heng, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **花仔和尚 hue-á-huê-siūnn**
-- 五色鳥 ngóo-sik-tsiáu
+🎯 **花仔和尚 hue-á-huê-siūnn**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 1973 Embree台英辭典
-- 2016⁺ iTaigi
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考 1973 Embree台英辭典、2016⁺ iTaigi、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

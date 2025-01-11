@@ -14,17 +14,15 @@ import Image from '@theme/IdealImage';
 (c) Leonid, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **台灣日雀 tâi-uân-ji̍t-tshiok**
 - 🎯 **小山雀 sió-suann-tshiok**
 - 煤山雀 muê-suann-tshiok
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、日語
-:::
+參考華語鳥類名錄、日語
 
 ## [黃腹山雀 キバラガラ Yellow-bellied Tit](https://ebird.org/species/yebtit4)
 
@@ -34,15 +32,13 @@ import Image from '@theme/IdealImage';
 (c) andriy, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **黃腹山雀 n̂g-pak-suann-tshiok**
+🎯 **黃腹山雀 n̂g-pak-suann-tshiok**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語
 
 ## [赤腹山雀 タイワンヤマガラ Chestnut-bellied Tit](https://ebird.org/species/vartit3)
 
@@ -52,16 +48,14 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅腹山雀 âng-pak-suann-tshiok**
 - 🎯 **赤腹山雀 tshiah-pak-suann-tshiok**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::
 
 ## [雜色山雀 ヤマガラ Varied Tit](https://ebird.org/species/vartit1)
 
@@ -71,16 +65,14 @@ import Image from '@theme/IdealImage';
 (c) Bird Explorers, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **雜色山雀 tsa̍p-sik-suann-tshiok**
 - 🎯 **山雀 suann-tshiok**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、日語
-:::
 
 ## [青背山雀 キバラシジュウカラ Green-backed Tit](https://ebird.org/species/grbtit1)
 
@@ -90,15 +82,13 @@ import Image from '@theme/IdealImage';
 (c) Scott Bowers, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **青背山雀 tshinn-puē-suann-tshiok**
+🎯 **青背山雀 tshinn-puē-suann-tshiok**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::
 
 ## [白頰山雀 シジュウカラ Japanese Tit](https://ebird.org/species/gretit4)
 
@@ -108,16 +98,14 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **日本山雀 ji̍t-pún-suann-tshiok**
 - 🎯 **白喙䫌山雀 pe̍h-tshuì-phué-suann-tshiok**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::
 
 ## [黃山雀 タイワンシジュウカラ Taiwan Yellow Tit](https://ebird.org/species/yeltit2)
 
@@ -127,13 +115,11 @@ import Image from '@theme/IdealImage';
 © huaitech, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **司公仔鳥 sai-kong-á-tsiáu**
 - 🎯 **黃山雀 n̂g-suann-tshiok**
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

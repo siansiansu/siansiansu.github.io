@@ -14,10 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Dhammika Heenpella, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **菱角鳥 lîng-kak-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **菱角鳥 lîng-kak-tsiáu**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::

@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 © Sebastián Fornés, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **粉鳥 hún-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **粉鳥 hún-tsiáu**
+
+**註解**
+
 參考教育部臺灣台語常用詞辭典
-:::
 
 ## [灰林鴿 タイワンジュズカケバト Ashy Wood-Pigeon](https://ebird.org/species/aswpig1)
 
@@ -30,13 +30,13 @@ import Image from '@theme/IdealImage';
 (c) Avinash Bhagat, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **山粉鳥 suann-hún-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **山粉鳥 suann-hún-tsiáu**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [黑林鴿 カラスバト Black Wood-Pigeon](https://ebird.org/species/jawpig1)
 
@@ -46,13 +46,13 @@ import Image from '@theme/IdealImage';
 (c) Amaël Borzée, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **烏粉鳥 oo-hún-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **烏粉鳥 oo-hún-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [白喉林鴿 アカメカラスバト Metallic Pigeon](https://ebird.org/species/metpig1)
 
@@ -62,16 +62,14 @@ import Image from '@theme/IdealImage';
 © desertnaturalist, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白喉粉鳥 pe̍h-âu-hún-tsiáu**
 - 🎯 **赤目烏粉鳥 tshiah-ba̍k-oo-hún-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、日語
-:::
 
 ## [金背鳩 キジバト Oriental Turtle-Dove](https://ebird.org/species/ortdov)
 
@@ -81,16 +79,14 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **山斑鴿 suann-pan-kah**
 - 🎯 **大花斑 tuā-hue-pan**
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典、2002⁺ 台華線頂辭典
-:::
 
 ## [灰斑鳩 シラコバト Eurasian Collared-Dove](https://ebird.org/species/eucdov)
 
@@ -100,15 +96,13 @@ import Image from '@theme/IdealImage';
 (c) mattecasti, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **殕色斑鴿 phú-sik-pan-kah**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [紅鳩 ベニバト Red Collared-Dove](https://ebird.org/species/recdov1)
 
@@ -118,17 +112,15 @@ import Image from '@theme/IdealImage';
 (c) Catalina Tong, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **火鵻仔 hué-tsui-á**
 - 🎯 **火斑鴿 hué-pan-kah**
 - 🎯 **紅斑鴿 âng-pan-kah**
 
-:::
+**註解**
 
-:::tip[註解]
 參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [珠頸斑鳩 カノコバト Spotted Dove](https://ebird.org/species/spodov)
 
@@ -138,16 +130,14 @@ import Image from '@theme/IdealImage';
 (c) OZinOH, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **斑鴿 pan-kah**
 - 🎯 **數珠仔 sòo-tsu-a**
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
-:::
 
 ## [斑尾鵑鳩 ヨコジマオナガバト Barred Cuckoo-Dove](https://ebird.org/species/bacdov1)
 
@@ -157,13 +147,13 @@ import Image from '@theme/IdealImage';
 © Wang.QG, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **橫紋長尾鳩 huâinn-bûn-tn̂g-bé-kah**
+
+**註解**
+
 參考特徵、日語
-:::
 
 ## [長尾鳩 フィリピンオナガバト Philippine Cuckoo-Dove](https://ebird.org/species/phcdov1)
 
@@ -173,16 +163,14 @@ import Image from '@theme/IdealImage';
 (c) Chris Chafer, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **長尾鴿 tn̂g-bé-kah**
 - 🎯 菲律賓長尾鴿 hui-lu̍t-pin-tn̂g-bé-kah
 
-:::
+**註解**
 
-:::tip[註解]
 參考特徵、華語鳥類名錄
-:::
 
 ## [翠翼鳩 キンバト Asian Emerald Dove](https://ebird.org/species/emedov2)
 
@@ -192,16 +180,14 @@ import Image from '@theme/IdealImage';
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **金鵻 kim-tsui**
 - **🎯 林跤鳥 nâ-kha-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
 參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [斑馬鳩 チョウショウバト Zebra Dove](https://ebird.org/species/zebdov)
 
@@ -211,16 +197,14 @@ import Image from '@theme/IdealImage';
 (c) John Clough, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **花條鴿 hue-tiâu-kah**
 - 🎯 **花斑鴿 hue-pan-kah**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [橙胸綠鳩 ムネアカアオバト Orange-breasted Green-Pigeon](https://ebird.org/species/orbpig1)
 
@@ -230,13 +214,13 @@ import Image from '@theme/IdealImage';
 © ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **柑仔色胸青鵻 kam-á-sik-hing-tshenn-tsui**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [厚嘴綠鳩 ハシブトアオバト Thick-billed Green-Pigeon](https://ebird.org/species/thbpig1)
 
@@ -246,13 +230,13 @@ import Image from '@theme/IdealImage';
 © Roman Sergeychik, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **厚喙青鵻 kāu-tshuì-tshenn-tsui**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **厚喙青鵻 kāu-tshuì-tshenn-tsui**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [綠鳩 アオバト White-bellied Green-Pigeon](https://ebird.org/species/whbpig1)
 
@@ -262,16 +246,14 @@ import Image from '@theme/IdealImage';
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青鵻 tshenn-tsui**
 - 🎯 **黃鵻 n̂g-tsui**
 
-:::
+**註解**
 
-:::tip[註解]
 參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [紅頭綠鳩 ズアカアオバト Whistling Green-Pigeon](https://ebird.org/species/whgpig1)
 
@@ -281,13 +263,13 @@ import Image from '@theme/IdealImage';
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **紅頭青鵻 âng-thâu-tshenn-tsui**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **紅頭青鵻 âng-thâu-tshenn-tsui**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [小綠鳩 クロアゴヒメアオバト Black-chinned Fruit-Dove](https://ebird.org/species/bcfdov1)
 
@@ -297,10 +279,10 @@ import Image from '@theme/IdealImage';
 © 羅元甫, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **小青鵻 sió-tshenn-tsui**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **小青鵻 sió-tshenn-tsui**
+
+**註解**
+
 參考華語鳥類名錄
-:::

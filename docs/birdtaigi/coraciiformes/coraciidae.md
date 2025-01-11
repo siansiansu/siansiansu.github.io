@@ -14,19 +14,12 @@ import Image from '@theme/IdealImage';
 (c) Wich’yanan L, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **山鸚哥 suann-ing-ko**
 - 山布鳥 san-pòo-tsiáu
 - 佛法僧 hu̍t-huat-tsing
 
-:::
+**註解**
 
-
-:::tip[註解]
-
-- 1973 Embree台英辭典
-- 2002⁺ 台華線頂辭典
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

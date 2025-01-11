@@ -2,6 +2,7 @@
   "label": "鸌形目 hōo-hîng-ba̍k",
   "position": 14,
   "link": {
-    "id": "birdtaigi/procellariiformes"
+    "type": "doc",
+    "id": "birdtaigi/procellariiformes/index"
   }
 }

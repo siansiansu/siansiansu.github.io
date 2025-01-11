@@ -4,7 +4,7 @@ description: 本文整理了雁鴨的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 雁鴨科 gān-ah-kho
+# 雁鴨仔科 gān-ah-á-kho
 
 ## [樹鴨 リュウキュウガモ Lesser Whistling-Duck](https://ebird.org/species/lewduc1)
 
@@ -14,17 +14,16 @@ import Image from '@theme/IdealImage';
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **樹鴨 tshiū-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
+
 
 ## [斑頭雁 インドガン Bar-headed Goose](https://ebird.org/species/bahgoo)
 
@@ -34,7 +33,7 @@ import Image from '@theme/IdealImage';
 © Subir B. Shakya, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **斑頭雁 pan-thâu-gān**
 - ✳️ 海雁 hái-gān
@@ -42,11 +41,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [灰雁 ハイイロガン Graylag Goose](https://ebird.org/species/gragoo)
 
@@ -56,7 +53,7 @@ import Image from '@theme/IdealImage';
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **殕色雁 phú-sik-gān**
 - ✳️ 海雁 hái-gān
@@ -64,11 +61,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [鴻雁 サカツラガン Swan Goose](https://ebird.org/species/swagoo1)
 
@@ -78,7 +73,7 @@ import Image from '@theme/IdealImage';
 (c) fangchen, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **鴻雁 hông-gān**
 - ✳️ 海雁 hái-gān
@@ -86,11 +81,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [白額雁 マガン Greater White-fronted Goose](https://ebird.org/species/gwfgoo)
 
@@ -100,7 +93,7 @@ import Image from '@theme/IdealImage';
 (c) diomedea_exulans_li, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白額雁 pe̍h-hia̍h-gān**
 - ✳️ 海雁 hái-gān
@@ -108,11 +101,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [小白額雁 カリガネ Lesser White-fronted Goose](https://ebird.org/species/lwfgoo)
 
@@ -122,7 +113,7 @@ import Image from '@theme/IdealImage';
 (c) heliastes21, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小白額雁 sió-pe̍h-hia̍h-gān**
 - ✳️ 海雁 hái-gān
@@ -130,11 +121,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [寒林豆雁 オオヒシクイ Taiga Bean-Goose](https://ebird.org/species/taibeg1)
 
@@ -144,7 +133,7 @@ import Image from '@theme/IdealImage';
 (c) Владимир Панкратов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **寒林豆雁 hân-lîm-tāu-gān**
 - ✳️ 豆雁 tāu-gān
@@ -153,11 +142,8 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
-
-:::tip[註解]
+**註解**
 參考華語鳥類名錄
-:::
 
 ## [凍原豆雁 ヒシクイ Tundra Bean-Goose](https://ebird.org/species/tunbeg1)
 
@@ -167,7 +153,7 @@ import Image from '@theme/IdealImage';
 (c) Tristan Jobin, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **凍原豆雁 tàng-guân-tāu-gān**
 - ✳️ 豆雁 tāu-gān
@@ -176,11 +162,8 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
-
-:::tip[註解]
+**註解**
 參考華語鳥類名錄
-:::
 
 ## [黑雁 コクガン Brant](https://ebird.org/species/brant)
 
@@ -190,7 +173,7 @@ import Image from '@theme/IdealImage';
 (c) David Jeffrey Ringer, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏雁 oo-gān**
 - ✳️ 海雁 hái-gān
@@ -198,11 +181,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [小加拿大雁 シジュウカラガン Cackling Goose](https://ebird.org/species/cacgoo1)
 
@@ -212,7 +193,7 @@ import Image from '@theme/IdealImage';
 (c) guyincognito, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小加拿大雁 sió-ka-ná-tāi-gān**
 - ✳️ 海雁 hái-gān
@@ -220,11 +201,10 @@ import Image from '@theme/IdealImage';
 - ✳️ 野鵝 iá-gô
 - ✳️ 雁仔 gān-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
+
 
 ## [疣鼻天鵝 コブハクチョウ Mute Swan](https://ebird.org/species/mutswa)
 
@@ -234,16 +214,14 @@ import Image from '@theme/IdealImage';
 (c) spinomaly, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **瘤鼻天鵝 liû-phīnn-thian-gô**
 - ✳️ 天鵝 thian-gô
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [小天鵝 コハクチョウ Tundra Swan](https://ebird.org/species/tunswa)
 
@@ -253,14 +231,14 @@ import Image from '@theme/IdealImage';
 (c) Allan Claybon, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
+
 🎯 **小天鵝 sió-thian-gô**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
+
 
 ## [黃嘴天鵝 オオハクチョウ Whooper Swan](https://ebird.org/species/whoswa)
 
@@ -270,13 +248,13 @@ import Image from '@theme/IdealImage';
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **黃喙天鵝 n̂g-tshuì-thian-gô**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **黃喙天鵝 n̂g-tshuì-thian-gô**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [瀆鳧 アカツクシガモ Ruddy Shelduck](https://ebird.org/species/rudshe)
 
@@ -286,7 +264,7 @@ import Image from '@theme/IdealImage';
 © Tristan Jobin, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **瀆鳧 to̍k-hû**
 - 黃鳧 n̂g-hû
@@ -294,11 +272,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [花鳧 ツクシガモ Common Shelduck](https://ebird.org/species/comshe)
 
@@ -308,7 +284,7 @@ import Image from '@theme/IdealImage';
 (c) Aleksandr Popov / Александр Попов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白花仔 pe̍h-hue-á**
 - 🎯 **白花鴨 pe̍h-hue-ah**
@@ -320,11 +296,10 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+
 
 ## [棉鴨 ナンキンオシ Cotton Pygmy-Goose](https://ebird.org/species/copgoo1)
 
@@ -334,17 +309,15 @@ import Image from '@theme/IdealImage';
 (c) Thet Zaw Naing, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **棉鴨 mî-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [鴛鴦 オシドリ Mandarin Duck](https://ebird.org/species/manduc)
 
@@ -354,13 +327,13 @@ import Image from '@theme/IdealImage';
 (c) Blake Ross, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **鴛鴦 uan-iunn**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **鴛鴦 uan-iunn**
+
+**註解**
+
 參考教育部台灣台語常用詞辭典
-:::
 
 ## [巴鴨 トモエガモ Baikal Teal](https://ebird.org/species/baitea)
 
@@ -370,7 +343,7 @@ import Image from '@theme/IdealImage';
 © Yushi Wang, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **巴鴨 pa-ah**
 - 🎯 **丑鴨 thiú-ah**
@@ -378,11 +351,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [白眉鴨 シマアジ Garganey](https://ebird.org/species/gargan)
 
@@ -392,18 +363,16 @@ import Image from '@theme/IdealImage';
 (c) Ксения Соварцева, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白目眉鴨 pe̍h-ba̍k-bâi-ah**
 - 巡鳧 sûn-hû
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [琵嘴鴨 ハシビロガモ Northern Shoveler](https://ebird.org/species/norsho)
 
@@ -413,7 +382,7 @@ import Image from '@theme/IdealImage';
 (c) adri13114, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **大喙爬仔 tuā-tshuì-pê-á**
 - 🎯 **湯匙仔鴨 thng-sî-á-ah**
@@ -422,11 +391,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考台灣野鳥鄉土名、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [赤膀鴨 オカヨシガモ Gadwall](https://ebird.org/species/gadwal)
 
@@ -436,18 +403,16 @@ import Image from '@theme/IdealImage';
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅翼鴨 âng-si̍t-ah**
 - 🎯 赤膀鴨 tshiah-pōng-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [羅文鴨 ヨシガモ Falcated Duck](https://ebird.org/species/falduc)
 
@@ -457,18 +422,16 @@ import Image from '@theme/IdealImage';
 (c) David Tan, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **羅文鴨 lô-bûn-ah**
 - 🎯 **葦鴨 uí-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、日語
-:::
 
 ## [赤頸鴨 ヒドリガモ Eurasian Wigeon](https://ebird.org/species/eurwig)
 
@@ -478,18 +441,16 @@ import Image from '@theme/IdealImage';
 (c) zametnya, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **火燒仔 hué-sio-á**
 - 🎯 **紅頸鴨 âng-kīng-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、特徵
-:::
 
 ## [葡萄胸鴨 アメリカヒドリ American Wigeon](https://ebird.org/species/amewig)
 
@@ -499,18 +460,16 @@ import Image from '@theme/IdealImage';
 (c) aaronr, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 葡萄胸鴨 phû-tô-hing-ah
 - 🎯 美國鴨 bí-kok-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [呂宋鴨 アカノドカルガモ Philippine Duck](https://ebird.org/species/phiduc1)
 
@@ -520,18 +479,16 @@ import Image from '@theme/IdealImage';
 (c) Mike Prince, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **菲律賓鴨 hui-lu̍t-pin-ah**
 - 🎯 呂宋鴨 lū-sòng-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、英語
-:::
 
 ## [花嘴鴨 カルガモ Eastern Spot-billed Duck](https://ebird.org/species/spbduc)
 
@@ -541,18 +498,16 @@ import Image from '@theme/IdealImage';
 (c) bio96, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **花喙鴨 hue-tshuì-ah**
 - 🎯 斑喙鴨 pan-tshuì-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [綠頭鴨 マガモ Mallard](https://ebird.org/species/mallar3)
 
@@ -562,7 +517,7 @@ import Image from '@theme/IdealImage';
 (c) Mike Leveille, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **綠頭公 li̍k-thâu-kong**
 - 🎯 金頭鴨 kim-thâu-ah
@@ -571,11 +526,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考台灣野鳥鄉土名、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [尖尾鴨 オナガガモ Northern Pintail](https://ebird.org/species/norpin)
 
@@ -585,17 +538,15 @@ import Image from '@theme/IdealImage';
 (c) Luigi Andena, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **尖尾鴨 tsiam-bué-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [小水鴨 コガモ Green-winged Teal](https://ebird.org/species/gnwtea)
 
@@ -605,7 +556,7 @@ import Image from '@theme/IdealImage';
 © Ben Zerante, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **金翅鴨 kim-tshì-ah**
 - 🎯 **水薸鴨 chúi-phiô-ah**
@@ -614,11 +565,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考台灣野鳥鄉土名、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [赤嘴潛鴨 アカハシハジロ Red-crested Pochard](https://ebird.org/species/recpoc)
 
@@ -628,18 +577,15 @@ import Image from '@theme/IdealImage';
 (c) Antonio Xeira, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤嘴潛鴨 tshiah-tshuì-tsiâm-ah**
 - 🎯 紅喙潛鴨 âng-tshuì-tsiâm-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
-
-:::tip[註解]
+**註解**
 參考華語鳥類名錄、特徵
-:::
 
 ## [帆背潛鴨 オオホシハジロ Canvasback](https://ebird.org/species/canvas)
 
@@ -649,17 +595,15 @@ import Image from '@theme/IdealImage';
 © oneguy72, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **帆背潛鴨 phâng-puè-tsiâm-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [紅頭潛鴨 ホシハジロ Common Pochard](https://ebird.org/species/compoc)
 
@@ -669,17 +613,15 @@ import Image from '@theme/IdealImage';
 (c) Яна, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅頭潛鴨 âng-thâu-tsiâm-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、特徵
-:::
 
 ## [環頸潛鴨 クビワキンクロ Ring-necked Duck](https://ebird.org/species/rinduc)
 
@@ -689,17 +631,15 @@ import Image from '@theme/IdealImage';
 © Brandon Johnson, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **頸箍潛鴨 kún-khoo-tsiâm-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 頸箍 kún-khoo 取自特徵、英語，意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
-:::
 
 ## [白眼潛鴨 メジロガモ Ferruginous Duck](https://ebird.org/species/ferduc)
 
@@ -709,17 +649,15 @@ import Image from '@theme/IdealImage';
 (c) Paul Cools, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白眼潛鴨 pi̍k-gán-tsiâm-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [青頭潛鴨 アカハジロ Baer's Pochard](https://ebird.org/species/baepoc1)
 
@@ -729,17 +667,14 @@ import Image from '@theme/IdealImage';
 © fangchen, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青頭潛鴨 tshenn-thâu-tsiâm-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
-
-:::tip[註解]
+**註解**
 參考華語鳥類名錄
-:::
 
 ## [鳳頭潛鴨 キンクロハジロ Tufted Duck](https://ebird.org/species/tufduc)
 
@@ -749,7 +684,7 @@ import Image from '@theme/IdealImage';
 (c) Frans Vandewalle, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **阿不倒仔 a-put-tó-á**
 - 🎯 聳頭潛鴨 tshàng-moo-tsiâm-ah
@@ -758,11 +693,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [斑背潛鴨 スズガモ Greater Scaup](https://ebird.org/species/gresca)
 
@@ -772,18 +705,16 @@ import Image from '@theme/IdealImage';
 (c) kenbuc, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **鈴鴨 lîng-ah**
 - 🎯 斑背潛鴨 pan-puè-tsiâm-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考日語
-:::
 
 ## [小斑背潛鴨 コスズガモ Lesser Scaup](https://ebird.org/species/lessca)
 
@@ -793,17 +724,15 @@ import Image from '@theme/IdealImage';
 © Cricket Raspet, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小鈴鴨 sió-lîng-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考日語
-:::
 
 ## [長尾鴨 コオリガモ Long-tailed Duck](https://ebird.org/species/lotduc)
 
@@ -813,17 +742,15 @@ import Image from '@theme/IdealImage';
 (c) clicque, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **長尾鴨 tn̂g-bé-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [鵲鴨 ホオジロガモ Common Goldeneye](https://ebird.org/species/comgol)
 
@@ -833,18 +760,16 @@ import Image from '@theme/IdealImage';
 (c) brian stahls, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **金眼鴨 kim-gán-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 - ✳️ 金眼仔 kim-gán-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [白秋沙 ミコアイサ Smew](https://ebird.org/species/smew)
 
@@ -854,13 +779,13 @@ import Image from '@theme/IdealImage';
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **白秋沙 pe̍h-tshiu-sua**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白秋沙 pe̍h-tshiu-sua**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [川秋沙 カワアイサ Common Merganser](https://ebird.org/species/commer)
 
@@ -870,13 +795,13 @@ import Image from '@theme/IdealImage';
 (c) brian stahls, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **川秋沙 tshuan-tshiu-sua**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **川秋沙 tshuan-tshiu-sua**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [紅胸秋沙 ウミアイサ Red-breasted Merganser](https://ebird.org/species/rebmer)
 
@@ -886,17 +811,14 @@ import Image from '@theme/IdealImage';
 (c) Mario Finkel, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **海秋沙 hái-tshiu-sua**
 - 🎯 **紅胸秋沙 âng-hing-tshiu-sua**
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄、日語
-:::
-
 
 ## [唐秋沙 コウライアイサ Scaly-sided Merganser](https://ebird.org/species/scsmer1)
 
@@ -906,10 +828,10 @@ import Image from '@theme/IdealImage';
 © Kim, Hyun-tae, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **唐秋沙 tn̂g-tshiu-sua**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **唐秋沙 tn̂g-tshiu-sua**
+
+**註解**
+
 參考華語鳥類名錄
-:::

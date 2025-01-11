@@ -14,16 +14,14 @@ import Image from '@theme/IdealImage';
 © Grze Swis, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紅領鸚哥 âng-niá-ing-ko**
 - ✳️ 鸚哥 ing-ko
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [和尚鸚鵡 オキナインコ Monk Parakeet](https://ebird.org/species/monpar)
 
@@ -33,13 +31,11 @@ import Image from '@theme/IdealImage';
 (c) shierandrulist, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **和尚鸚哥 huê-siūnn-ing-ko**
 - ✳️ 鸚哥 ing-ko
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::

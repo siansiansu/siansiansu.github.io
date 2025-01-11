@@ -14,15 +14,13 @@ import Image from '@theme/IdealImage';
 © Chuan Xuan, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **短尾鶯 té-bué-ing**
+🎯 **短尾鶯 té-bué-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典
-:::
+參考 1973 Embree台英辭典
 
 ## [棕面鶯 コシジロムシクイ Rufous-faced Warbler](https://ebird.org/species/rufwar1)
 
@@ -32,15 +30,13 @@ import Image from '@theme/IdealImage';
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **赤面鶯 tshiah-bīn-ing**
+🎯 **赤面鶯 tshiah-bīn-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典
-:::
+參考 1973 Embree台英辭典
 
 ## [日本樹鶯 ウグイス Japanese Bush Warbler](https://ebird.org/species/jabwar)
 
@@ -50,15 +46,13 @@ import Image from '@theme/IdealImage';
 (c) Tristan Scholze, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **日本樹鶯 ji̍t-pún-tshiū-ing**
+🎯 **日本樹鶯 ji̍t-pún-tshiū-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語
 
 ## [遠東樹鶯 チョウセンウグイス Manchurian Bush Warbler](https://ebird.org/species/manbuw1)
 
@@ -68,15 +62,13 @@ import Image from '@theme/IdealImage';
 (c) Илья Сухов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **遠東樹鶯 uán-tong-tshiū-ing**
+🎯 **遠東樹鶯 uán-tong-tshiū-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語、英語
-:::
+參考華語鳥類名錄、英語
 
 ## [小鶯 タイワンコウグイス Brownish-flanked Bush Warbler](https://ebird.org/species/bfbwar1)
 
@@ -86,16 +78,14 @@ import Image from '@theme/IdealImage';
 (c) Allen Lyu, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小鶯 sió-ing**
 - 🎯 **台灣小鶯 tâi-uân-sió-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典
-:::
+參考 1973 Embree台英辭典
 
 ## [深山鶯 ミヤマウグイス Yellowish-bellied Bush Warbler](https://ebird.org/species/ybbwar1)
 
@@ -105,12 +95,10 @@ import Image from '@theme/IdealImage';
 (c) 洪廷維, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **深山鶯 tshim-suann-ing**
+🎯 **深山鶯 tshim-suann-ing**
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典
-:::
+參考 1973 Embree台英辭典

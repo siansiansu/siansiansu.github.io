@@ -14,21 +14,16 @@ import Image from '@theme/IdealImage';
 (c) Robin Gwen Agarwal, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **海鸕鶿 hái-lôo-tsî**
 - ✳️ 老仔 lāu-á
 - ✳️ 鶿鸕 tsû-lôo
 - ✳️ 烏魚郎 oo-hî-lông
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Pelagic -> 海 hái
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、華語鳥類名錄
 
 ## [鸕鶿 カワウ Great Cormorant](https://ebird.org/species/grecor)
 
@@ -38,20 +33,16 @@ import Image from '@theme/IdealImage';
 (c) Дмитрий Осипов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **鸕鶿 lôo-tsî**
 - ✳️ 老仔 lāu-á
 - ✳️ 鶿鸕 tsû-lôo
 - ✳️ 烏魚郎 oo-hî-lông
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、華語鳥類名錄
 
 ## [丹氏鸕鷀 ウミウ Japanese Cormorant](https://ebird.org/species/japcor1)
 
@@ -61,7 +52,7 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **丹氏鸕鶿 tan-sī-lôo-tsî**
 - 🎯 **日本鸕鶿 ji̍t-pún-lôo-tsî**
@@ -69,10 +60,6 @@ import Image from '@theme/IdealImage';
 - ✳️ 鶿鸕 tsû-lôo
 - ✳️ 烏魚郎 oo-hî-lông
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、華語鳥類名錄

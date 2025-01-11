@@ -14,16 +14,11 @@ import Image from '@theme/IdealImage';
 (c) robbythai, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青花眉 tshenn-hue-bâi**
 - ✳️ 花眉仔 hue-bâi-á
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- 參考特徵、華語
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、華語鳥類名錄

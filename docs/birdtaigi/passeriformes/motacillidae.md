@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Avinash Bhagat, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **山牛屎鳥 suann-gû-sái-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **山牛屎鳥 suann-gû-sái-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [灰鶺鴒 キセキレイ Gray Wagtail](https://ebird.org/species/grywag)
 
@@ -30,13 +30,13 @@ import Image from '@theme/IdealImage';
 (c) kellyr115, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **殕色牛屎鳥 phú-sik-gû-sái-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **殕色牛屎鳥 phú-sik-gû-sái-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [西方黃鶺鴒 ニシツメナガセキレイ Western Yellow Wagtail](https://ebird.org/species/eaywag1)
 
@@ -46,13 +46,13 @@ import Image from '@theme/IdealImage';
 (c) alexey_kuzmin, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **西方黃牛屎鳥 se-hong-n̂g-gû-sái-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **西方黃牛屎鳥 se-hong-n̂g-gû-sái-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [東方黃鶺鴒 ツメナガセキレイ Eastern Yellow Wagtail](https://ebird.org/species/eaywag)
 
@@ -62,13 +62,13 @@ import Image from '@theme/IdealImage';
 (c) Игорь Двуреков, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **東方黃牛屎鳥 tong-hong-n̂g-gû-sái-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **東方黃牛屎鳥 tong-hong-n̂g-gû-sái-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [黃頭鶺鴒 キガシラセキレイ Citrine Wagtail](https://ebird.org/species/citwag)
 
@@ -78,13 +78,13 @@ import Image from '@theme/IdealImage';
 (c) Pavel Shukov, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **黃頭牛屎鳥 n̂g-thâu-gû-sái-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **黃頭牛屎鳥 n̂g-thâu-gû-sái-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [日本鶺鴒 セグロセキレイ Japanese Wagtail](https://ebird.org/species/japwag1)
 
@@ -94,13 +94,13 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **日本牛屎鳥 ji̍t-pún-gû-sái-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **日本牛屎鳥 ji̍t-pún-gû-sái-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [白鶺鴒 ハクセキレイ White Wagtail](https://ebird.org/species/whiwag)
 
@@ -110,13 +110,13 @@ import Image from '@theme/IdealImage';
 (c) Dr Caesar Sengupta, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **白牛屎鳥仔 pe̍h-gû-sái-tsiáu-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白牛屎鳥仔 pe̍h-gû-sái-tsiáu-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [大花鷚 マミジロタヒバリ Richard's Pipit](https://ebird.org/species/ricpip1)
 
@@ -126,13 +126,13 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **大花鷚 tuā-hue-liù**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **大花鷚 tuā-hue-liù**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [稻田鷚 ヒメマミジロタヒバリ Paddyfield Pipit](https://ebird.org/species/oripip1)
 
@@ -142,13 +142,13 @@ import Image from '@theme/IdealImage';
 © Afsar Nayakkan, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **田鷚仔 tshân-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **田鷚仔 tshân-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [布萊氏鷚 コマミジロタヒバリ Blyth's Pipit](https://ebird.org/species/blypip1)
 
@@ -158,13 +158,13 @@ import Image from '@theme/IdealImage';
 (c) Андрей Беспалов, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **布萊氏鷚仔 Blyth's liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **布萊氏鷚仔 Blyth's liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [草地鷚 マキバタヒバリ Meadow Pipit](https://ebird.org/species/meapip1)
 
@@ -174,13 +174,13 @@ import Image from '@theme/IdealImage';
 (c) Valia Pavlou, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-- 🎯 **草埔鷚 tsháu-poo-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **草埔鷚 tsháu-poo-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [粉紅胸鷚 ウスベニタヒバリ Rosy Pipit](https://ebird.org/species/rospip1)
 
@@ -190,13 +190,13 @@ import Image from '@theme/IdealImage';
 © Tristan Jobin, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-- 🎯 **粉紅胸鷚仔 hún-âng-hing-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **粉紅胸鷚仔 hún-âng-hing-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [林鷚 ヨーロッパビンズイ Tree Pipit](https://ebird.org/species/trepip)
 
@@ -206,13 +206,13 @@ import Image from '@theme/IdealImage';
 (c) Alejandro Ocampo, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **林鷚仔 lîm-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **林鷚仔 lîm-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [樹鷚 ビンズイ Olive-backed Pipit](https://ebird.org/species/olbpip)
 
@@ -222,13 +222,13 @@ import Image from '@theme/IdealImage';
 © Benoît Segerer, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **樹鷚仔 tshiū-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **樹鷚仔 tshiū-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [白背鷚 セジロタヒバリ Pechora Pipit](https://ebird.org/species/pecpip)
 
@@ -238,13 +238,13 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **白背鷚仔 pe̍h-puē-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **白背鷚仔 pe̍h-puē-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [赤喉鷚 ムネアカタヒバリ Red-throated Pipit](https://ebird.org/species/retpip)
 
@@ -254,9 +254,9 @@ import Image from '@theme/IdealImage';
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
+
 🎯 **紅喉鷚仔 âng-âu-liû-á**
-:::
 
 ## [水鷚 ヒガシヨーロッパタヒバリ Water Pipit (Blakiston's)](https://ebird.org/species/watpip4)
 
@@ -266,13 +266,13 @@ import Image from '@theme/IdealImage';
 (c) CORDENOS Thierry, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **水鷚仔 tsuí-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **水鷚仔 tsuí-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [黃腹鷚 タヒバリ American Pipit](https://ebird.org/species/amepip)
 
@@ -282,10 +282,10 @@ import Image from '@theme/IdealImage';
 (c) BJ Stacey, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **黃腹鷚仔 n̂g-pak-liù-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **黃腹鷚仔 n̂g-pak-liù-á**
+
+**註解**
+
 參考華語鳥類名錄
-:::

@@ -14,14 +14,12 @@ import Image from '@theme/IdealImage';
 (c) Afsar Nayakkan, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **骨簪鷸仔 kut-tsiam-u̍t-á**
 - 🎯 **骨簪仔 kut-tsiam-á**
 - ✳️ 塗礱鉤仔 thôo-lâng-kau-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::

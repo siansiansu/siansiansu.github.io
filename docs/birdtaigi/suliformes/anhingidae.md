@@ -14,14 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Phil Benstead, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **烏腹蛇鵜 oo-pak-tsuâ-thê**
+🎯 **烏腹蛇鵜 oo-pak-tsuâ-thê**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 暫時用華語
-
-:::
+參考華語

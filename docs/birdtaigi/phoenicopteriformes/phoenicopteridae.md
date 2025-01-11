@@ -14,15 +14,10 @@ import Image from '@theme/IdealImage';
 (c) cog2022, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **大紅鶴 tuā-âng-ho̍h**
-- ✳️ 紅鶴 âng-ho̍h
+🎯 **大紅鶴 tuā-âng-ho̍h**
 
-:::
+**註解**
 
-:::tip[註解]
-
-Greater -> 大 tuā
-
-:::
+參考華語鳥類名錄

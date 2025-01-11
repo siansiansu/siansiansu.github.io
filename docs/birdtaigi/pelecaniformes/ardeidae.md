@@ -4,7 +4,7 @@ description: 本文整理了鷺的台語名，並對照英語與華語翻譯，�
 
 import Image from '@theme/IdealImage';
 
-# 鷺科 lōo-kho
+# 鷺仔科 lōo-á-kho
 
 ## [大麻鷺 サンカノゴイ Great Bittern](https://ebird.org/species/grebit1)
 
@@ -14,17 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Tatyana Zarubo, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **大麻鷺 tuā-muâ-lōo**
+🎯 **大麻鷺 tuā-muâ-lōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-暫時參考華語
-
-:::
+參考華語鳥類名錄
 
 ## [黃頸黑鷺 タカサゴクロサギ Black Bittern](https://ebird.org/species/blabit1)
 
@@ -34,17 +30,13 @@ import Image from '@theme/IdealImage';
 (c) Seth Miller, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **黃頸烏鷺 n̂g-kún-oo-lōo**
+🎯 **黃頸烏鷺 n̂g-kún-oo-lōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-暫時參考華語
-
-:::
+參考華語鳥類名錄
 
 ## [栗小鷺 リュウキュウヨシゴイ Cinnamon Bittern](https://ebird.org/species/cinbit1)
 
@@ -54,17 +46,13 @@ import Image from '@theme/IdealImage';
 (c) subhashc, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **栗小鷺 lik-sió-lōo**
+🎯 **栗小鷺 lik-sió-lōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-暫時參考華語
-
-:::
+參考華語鳥類名錄
 
 ## [秋小鷺 オオヨシゴイ Schrenck's Bittern](https://ebird.org/species/schbit1)
 
@@ -74,17 +62,13 @@ import Image from '@theme/IdealImage';
 (c) kenny_well, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **秋小鷺 tshiu-sió-lōo**
+🎯 **秋小鷺 tshiu-sió-lōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-暫時參考華語
-
-:::
+參考華語鳥類名錄
 
 ## [黃小鷺 ヨシゴイ Yellow Bittern](https://ebird.org/species/yelbit)
 
@@ -94,21 +78,15 @@ import Image from '@theme/IdealImage';
 (c) Gavin Goodyear, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃田隙仔 n̂g-tshân-khiah-á**
 - 黃小鷺 n̂g-sió-lōo
 - ✳️ 田隙仔 tshân-khiah-á
 
-:::
+**註解**
 
-:::tip[註解]
-
-
-- 黃 n̂g + 田隙仔 tshân-khiah-á
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [夜鷺 ゴイサギ Black-crowned Night Heron](https://ebird.org/species/bcnher)
 
@@ -118,20 +96,15 @@ import Image from '@theme/IdealImage';
 no rights reserved, uploaded by Kyle Nessen
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏頭暗光鳥 oo-thâu-àm-kong-tsiáu**
 - 夜鷺 iā-lōo
 - ✳️ 暗光鳥 àm-kong-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 頭前加上烏頭 oo-thâu 區分其他暗光鳥
-- Black-crowned -> 烏頭 oo-thâu
-
-:::
+頭前加上烏頭 oo-thâu 區分其他暗光鳥
 
 ## [棕夜鷺 ハシブトゴイ Nankeen Night Heron](https://ebird.org/species/runher1)
 
@@ -141,19 +114,15 @@ no rights reserved, uploaded by Kyle Nessen
 (c) David McCorquodale, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤色暗光鳥 tshiah-sin-àm-kong-tsiáu**
 - 🎯 棕夜鷺 tsang-iā-lōo
 - ✳️ 暗光鳥 àm-kong-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 參考華語
-
-:::
+參考華語鳥類名錄
 
 ## [黑冠麻鷺 ズグロミゾゴイ Malayan Night-Heron](https://ebird.org/species/manher1)
 
@@ -163,20 +132,16 @@ no rights reserved, uploaded by Kyle Nessen
 no rights reserved, uploaded by 葉子
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **山暗光 suann-àm-kong**
 - 蕃薯 han-tsî
 - 大戇呆 tuā-gōng-tai
 - 大戇鳥 tuā-gōng-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [麻鷺 ミゾゴイ Japanese Night Heron](https://ebird.org/species/janher1)
 
@@ -186,19 +151,15 @@ no rights reserved, uploaded by 葉子
 © かわう, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **日本山暗光 ji̍t-pún-suann-àm-kong**
 - 🎯 麻鷺 muâ-lōo
 - 🎯 日本麻鷺 ji̍t-pún-muâ-lōo
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 頭前加上日本 ji̍t-pún 區分其他山暗光
-
-:::
+頭前加上日本 ji̍t-pún 區分其他山暗光
 
 ## [岩鷺 クロサギ Pacific Reef-Heron](https://ebird.org/species/pacreh1)
 
@@ -208,20 +169,16 @@ no rights reserved, uploaded by 葉子
 (c) Bridget Spencer, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏翎鷥 oo-līng-si**
 - 🎯 烏鷺 oo-lōo
 - 🎯 烏鷺仔 oo-lōo-á
 - ✳️ 翎鷥 līng-si
 
-:::
-
-:::tip[註解]
+**註解**
 
 頭前加上烏 oo 區分其他翎鷥 līng-si
-
-:::
 
 ## [唐白鷺 カラシラサギ Chinese Egret](https://ebird.org/species/chiegr)
 
@@ -231,7 +188,7 @@ no rights reserved, uploaded by 葉子
 © Gerard van de Wiel, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **唐白翎鷥 tn̂g-pe̍h-līng-si**
 - 中國白鷺 tiong-kok-pe̍h-lōo
@@ -240,13 +197,9 @@ no rights reserved, uploaded by 葉子
 - ✳️ 白鷺仔 pe̍h-lōo-á
 - ✳️ 翎鷥 līng-si
 
-:::
+**註解**
 
-:::tip[註解]
-
-唐 tn̂g + 白翎鷥 pe̍h-līng-si
-
-:::
+參考華語鳥類名錄
 
 ## [小白鷺 コサギ Little Egret](https://ebird.org/species/litegr)
 
@@ -256,7 +209,7 @@ no rights reserved, uploaded by 葉子
 (c) Bengt Nyman, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小白翎鷥 sió-pe̍h-līng-si**
 - 小白鷺 sió-pe̍h-lōo
@@ -267,13 +220,9 @@ no rights reserved, uploaded by 葉子
 - ✳️ 翎鷥 līng-si
 - ✳️ 鷺仔 lōo-á
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [白頸黑鷺 ムナジロクロサギ Pied Heron](https://ebird.org/species/pieher2)
 
@@ -283,7 +232,7 @@ no rights reserved, uploaded by 葉子
 (c) Nik Borrow, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白胸烏翎鷥 pe̍h-hing-oo-līng-si**
 - 🎯 **白頸烏翎鷥 pe̍h-kún-oo-līng-si**
@@ -291,13 +240,10 @@ no rights reserved, uploaded by 葉子
 - 白頸烏鷺 pe̍h-kún-oo-lōo
 - ✳️ 翎鷥 līng-si
 - ✳️ 鷺仔 lōo-á
-:::
 
-:::tip[註解]
+**註解**
 
-白胸 pe̍h-hing + 烏翎鷥 oo-līng-si
-
-:::
+參考華語鳥類名錄
 
 ## [白臉鷺 カオジロサギ White-faced Heron](https://ebird.org/species/whfher1)
 
@@ -307,19 +253,17 @@ no rights reserved, uploaded by 葉子
 (c) Jacqui Geux, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白面翎鷥 pe̍h-bīn-līng-si**
 - ✳️ 翎鷥 līng-si
 - ✳️ 鷺仔 lōo-á
 
-:::
 
-:::tip[註解]
 
-- 白面 pe̍h-bīn + 翎鷥 līng-si
+**註解**
 
-:::
+參考華語鳥類名錄
 
 ## [綠簑鷺 ササゴイ Striated Heron](https://ebird.org/species/strher)
 
@@ -329,7 +273,7 @@ no rights reserved, uploaded by 葉子
 (c) Ad Konings, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **青翎鷥 tshenn-līng-si**
 - 🎯 **青鷺 tshenn-lōo**
@@ -340,13 +284,9 @@ no rights reserved, uploaded by 葉子
 - ✳️ 翎鷥 līng-si
 - ✳️ 鷺仔 lōo-á
 
-:::
+**註解**
 
-:::tip[註解]
-
-個人喜歡「青 tshenn + 翎鷥 līng-si」
-
-:::
+參考華語鳥類名錄
 
 ## [印度池鷺 インドアカガシラサギ Indian Pond-Heron](https://ebird.org/species/inpher1)
 
@@ -355,19 +295,15 @@ no rights reserved, uploaded by 葉子
 <div className="image-caption">
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **印度赤頭鷺 ìn-tōo-tshiah-thâu-lōo**
 - 印度池鷺 ìn-tōo-tî-lōo
 - 印度沼鷺 ìn-tōo-tsiáu-lōo
 
-:::
-
-:::tip[註解]
+**註解**
 
 參考日語
-
-:::
 
 ## [池鷺 アカガシラサギ Chinese Pond-Heron](https://ebird.org/species/chpher1)
 
@@ -377,19 +313,15 @@ no rights reserved, uploaded by 葉子
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤頭鷺 tshiah-thâu-lōo**
 - 🎯 池鷺 tî-lōo
 - 🎯 沼鷺 tsiáu-lōo
 
-:::
-
-:::tip[備註]
+**註解**
 
 參考日語
-
-:::
 
 ## [爪哇池鷺 ジャワアカガシラサギ Javan Pond-Heron](https://ebird.org/species/japher1)
 
@@ -399,19 +331,15 @@ no rights reserved, uploaded by 葉子
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **爪哇赤頭鷺 jiáu-ua-tshiah-thâu-lōo**
 - 🎯 爪哇池鷺 jiáu-ua-tî-lōo
 - 🎯 爪哇沼鷺 jiáu-ua-tsiáu-lōo
 
-:::
-
-:::tip[備註]
+**註解**
 
 參考日語
-
-:::
 
 ## [黃頭鷺 アマサギ Cattle Egret](https://ebird.org/species/categr2)
 
@@ -421,7 +349,7 @@ no rights reserved, uploaded by 葉子
 (c) Greg West, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃頭白翎鷥 n̂g-thâu-pe̍h-līng-si**
 - 🎯 **黃白翎鷥 n̂g-pe̍h-līng-si**
@@ -433,13 +361,9 @@ no rights reserved, uploaded by 葉子
 - ✳️ 翎鷥 līng-si
 - ✳️ 鷺仔 lōo-á
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [大白鷺 ダイサギ Great Egret](https://ebird.org/species/greegr)
 
@@ -449,7 +373,7 @@ no rights reserved, uploaded by 葉子
 (c) daverowe, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **大白翎鷥 tuā-pe̍h-līng-si**
 - 大白鷺 tuā-pe̍h-lōo
@@ -459,13 +383,9 @@ no rights reserved, uploaded by 葉子
 - ✳️ 翎鷥 līng-si
 - ✳️ 鷺仔 lōo-á
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [中白鷺 チュウサギ Medium Egret](https://ebird.org/species/integr1)
 
@@ -475,7 +395,7 @@ no rights reserved, uploaded by 葉子
 (c) Hong, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **中白翎鷥 tshun-pe̍h-līng-si**
 - 中白鷺 tshun-pe̍h-lōo
@@ -485,13 +405,9 @@ no rights reserved, uploaded by 葉子
 - ✳️ 翎鷥 līng-si
 - ✳️ 鷺仔 lōo-á
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [蒼鷺 アオサギ Gray Heron](https://ebird.org/species/graher1)
 
@@ -501,20 +417,15 @@ no rights reserved, uploaded by 葉子
 (c) Corine Bliek, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **海徛仔 hái-khiā-á**
 - 🎯 **殕色翎鷥 phú-sik-līng-si**
 - 🎯 **殕色鷺 phú-sik-lōo**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-- Gray Heron -> 殕色翎鷥 phú-sik-līng-si
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [紫鷺 ムラサキサギ Purple Heron](https://ebird.org/species/purher1)
 
@@ -524,15 +435,11 @@ no rights reserved, uploaded by 葉子
 (c) Mike Quinn, Austin, TX, some rights reserved (CC BY-NC),
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **紫色翎鷥 tsí-sik-līng-si**
 - 🎯 紫色鷺 tsí-sik-lōo
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 個人偏好「紫色翎鷥 tsí-sik-līng-si」
-
-:::
+參考華語鳥類名錄

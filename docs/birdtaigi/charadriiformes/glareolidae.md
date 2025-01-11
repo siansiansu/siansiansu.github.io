@@ -14,10 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Yuwaraj Gurjar, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **草埔燕仔 tsháu-poo-iàn-á**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **草埔燕仔 tsháu-poo-iàn-á**
+
+**註解**
+
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::

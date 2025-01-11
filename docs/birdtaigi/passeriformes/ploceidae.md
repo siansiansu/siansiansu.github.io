@@ -14,10 +14,10 @@ import Image from '@theme/IdealImage';
 © Timothy Whitehead, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-🎯 **烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **烏頭織布鳥 oo-thâu-tsit-pòo-tsiáu**
+
+**註解**
+
 參考華語鳥類名錄
-:::

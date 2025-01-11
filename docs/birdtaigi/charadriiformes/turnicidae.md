@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) benjamynweil, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **黃跤無尾三爪鵪鶉 n̂g-kha-bô-bué-sann-jiáu-ian-thun**
 - 黃跤三趾鶉 n̂g-kha-sann-tsí-tshun
@@ -22,11 +22,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 三趾鶉 sann-tsí-tshun
 - ✳️ 三爪鵪鶉 sann-jiáu-ian-thun
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、華語鳥類名錄
-:::
 
 ## [棕三趾鶉 ミフウズラ Barred Buttonquail](https://ebird.org/species/barbut1)
 
@@ -36,7 +34,7 @@ import Image from '@theme/IdealImage';
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **赤無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
 - 🎯 **無尾三爪鵪鶉 tshiah-bô-bué-sann-jiáu-ian-thun**
@@ -45,11 +43,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 三趾鶉 sann-tsí-tshun
 - ✳️ 三爪鵪鶉 sann-jiáu-ian-thun
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、華語鳥類名錄
-:::
 
 ## [林三趾鶉 ヒメミフウズラ Small Buttonquail](https://ebird.org/species/smabut2)
 
@@ -59,7 +55,7 @@ import Image from '@theme/IdealImage';
 (c) copper, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小無尾三爪鵪鶉 sió-bô-bué-sann-jiáu-ian-thun**
 - 🎯 **林無尾三爪鵪鶉 lîm-bô-bué-sann-jiáu-ian-thun**
@@ -69,8 +65,6 @@ import Image from '@theme/IdealImage';
 - ✳️ 三趾鶉 sann-tsí-tshun
 - ✳️ 三爪鵪鶉 sann-jiáu-ian-thun
 
-:::
+**註解**
 
-:::tip[註解]
 參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、華語鳥類名錄
-:::

@@ -14,12 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Chitra Shanker, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **方尾鶲 hong-bué-ong**
+🎯 **方尾鶲 hong-bué-ong**
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄

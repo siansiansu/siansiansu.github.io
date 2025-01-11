@@ -14,12 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Liu JimFood, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **頭烏線 thâu-oo-suànn**
+🎯 **頭烏線 thâu-oo-suànn**
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典、2002⁺ 台華線頂辭典
-:::
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典

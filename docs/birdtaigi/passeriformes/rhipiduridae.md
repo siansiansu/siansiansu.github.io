@@ -14,16 +14,14 @@ import Image from '@theme/IdealImage';
 © Casey Clark Sumalinog, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **菲律賓烏白扇尾鶲 hui-lu̍t-pin-oo-pe̍h-sìnn-bué-ong**
 - 🎯 **菲律賓烏白尾扇 hui-lu̍t-pin-oo-pe̍h-bué-sìnn**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail](https://ebird.org/species/piefan1)
 
@@ -33,17 +31,15 @@ import Image from '@theme/IdealImage';
 (c) Sam Hambly, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **烏白尾扇 oo-pe̍h-bué-sìnn**
 - 🎯 **烏白扇尾鶲 oo-pe̍h-sìnn-bué-ong**
 - 🎯 **馬來西亞烏白扇尾鶲 Má-lâi-se-a-oo-pe̍h-sìnn-bué-ong**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::
 
 ## [白喉扇尾鶲 ノドジロオウギビタキ White-throated Fantail](https://ebird.org/species/whtfan1)
 
@@ -53,13 +49,11 @@ import Image from '@theme/IdealImage';
 (c) Md. Zaber Ansary, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白喉扇尾鶲 pe̍h-âu-sìnn-bué-ong**
 - 🎯 **白喉尾扇 pe̍h-âu-bué-sìnn**
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語、特徵
-:::

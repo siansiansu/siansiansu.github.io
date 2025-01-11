@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 (c) Kinmatsu Lin, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **岩鷚 gâm-liù**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **岩鷚 gâm-liù**
+
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [棕眉山岩鷚 ヤマヒバリ Siberian Accentor](https://ebird.org/species/sibacc)
 
@@ -30,10 +30,10 @@ import Image from '@theme/IdealImage';
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
-🎯 **山岩鷚 suann-gān-liù**
-:::
+**台語名**
 
-:::tip[註解]
+🎯 **山岩鷚 suann-gān-liù**
+
+**註解**
+
 參考華語鳥類名錄、日語
-:::

@@ -14,19 +14,14 @@ import Image from '@theme/IdealImage';
 (c) juju98, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **白斑軍艦鳥 pe̍h-pan-kun-lām-tsiáu**
 - 🎯 **小軍艦鳥 sió-kun-lām-tsiáu**
 
-:::
+**註解**
 
-:::info[註解]
-
-- Lesser Frigatebird -> 小軍艦鳥 sió-kun-lām-tsiáu
-- 1973 Embree台英辭典
-
-:::
+參考英語、1973 Embree台英辭典、華語鳥類名錄
 
 ## [軍艦鳥 オオグンカンドリ Great Frigatebird](https://ebird.org/species/grefri)
 
@@ -36,19 +31,14 @@ import Image from '@theme/IdealImage';
 (c) Bernard Mayoff, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **軍艦鳥 kun-lām-tsiáu**
 - 🎯 **大軍艦鳥 tuā-kun-lām-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 1973 Embree台英辭典
-- Great Frigatebird -> 大軍艦鳥 tuā-kun-lām-tsiáu
-
-:::
+參考英語、1973 Embree台英辭典、華語鳥類名錄
 
 ## [聖誕島軍艦鳥 シロハラグンカンドリ Christmas Island Frigatebird](https://ebird.org/species/chifri1)
 
@@ -58,15 +48,10 @@ import Image from '@theme/IdealImage';
 © baccatta, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
-- 🎯 **聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
+🎯 **聖誕島軍艦鳥 sìng-tàn-tó-kun-lām-tsiáu**
 
-:::
+**註解**
 
-:::tip[註解]
-
-- Christmas Island Frigatebird -> 聖誕島 sìng-tàn-tó + 軍艦鳥 kun-lām-tsiáu
-
-:::
-
+參考英語、1973 Embree台英辭典、華語鳥類名錄

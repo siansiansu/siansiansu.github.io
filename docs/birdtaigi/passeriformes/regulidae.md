@@ -8,27 +8,24 @@ import Image from '@theme/IdealImage';
 
 ## [戴菊鳥 キクイタダキ Goldcrest](https://ebird.org/species/goldcr1)
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **杉仔鳥 sam-á-tsiáu**
 - 戴菊 tè-kiok
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+
 
 ## [火冠戴菊鳥 ニイタカキクイタダキ Flamecrest](https://ebird.org/species/flamec1)
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **火冠杉仔鳥 hué-kuan-sam-á-tsiáu**
 - 🎯 **火冠戴菊 hué-kuan-tè-kiok**
 - ✳️ 杉仔鳥 sam-á-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

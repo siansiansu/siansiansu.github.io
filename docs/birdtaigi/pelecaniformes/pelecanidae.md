@@ -14,15 +14,11 @@ import Image from '@theme/IdealImage';
 (c) Satyen Mehta, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **虯毛布袋鵝 khiû-moo-pòo-tē-gô**
 - ✳️ 布袋鵝 pòo-tē-gô
 
-:::
+**註解**
 
-:::tip[註解]
-
-- 布袋鵝 pòo-tē-gô - 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》

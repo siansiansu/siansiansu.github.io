@@ -14,10 +14,10 @@ import Image from '@theme/IdealImage';
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
-🎯 **魚鷹 hî-ing**
-:::
+**台語名**
 
-:::tip[備註]
+🎯 **魚鷹 hî-ing**
+
+**註解**
+
 參考 《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::

@@ -2,6 +2,7 @@
   "label": "啄樹鳥目 tok-tshiū-tsiáu-ba̍k",
   "position": 22,
   "link": {
-    "id": "birdtaigi/piciformes"
+    "type": "doc",
+    "id": "birdtaigi/piciformes/index"
   }
 }

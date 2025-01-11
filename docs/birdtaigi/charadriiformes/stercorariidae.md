@@ -14,16 +14,14 @@ import Image from '@theme/IdealImage';
 (c) Bill Bouton, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **長尾賊仔鷗 tn̂g-bué-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [短尾賊鷗 クロトウゾクカモメ Parasitic Jaeger](https://ebird.org/species/parjae)
 
@@ -33,16 +31,14 @@ import Image from '@theme/IdealImage';
 (c) Greg Lasley, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **短尾賊仔鷗 té-bé-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [中賊鷗 トウゾクカモメ Pomarine Jaeger](https://ebird.org/species/pomjae)
 
@@ -52,16 +48,14 @@ import Image from '@theme/IdealImage';
 (c) jomilo75, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **中賊仔鷗 tiong-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::
 
 ## [灰賊鷗 オオトウゾクカモメ South Polar Skua](https://ebird.org/species/sopsku1)
 
@@ -71,13 +65,11 @@ import Image from '@theme/IdealImage';
 © Charlotte Kirchner, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **殕色賊仔鷗 phú-sik-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語鳥類名錄
-:::

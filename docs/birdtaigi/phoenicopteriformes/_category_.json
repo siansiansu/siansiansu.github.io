@@ -2,6 +2,7 @@
   "label": "紅鸛目 âng-kuàn-ba̍k",
   "position": 10,
   "link": {
-    "id": "birdtaigi/phoenicopteriformes"
+    "type": "doc",
+    "id": "birdtaigi/phoenicopteriformes/index"
   }
 }

@@ -4,7 +4,7 @@ description: 本文整理了高蹺鴴的台語名，並對照英語與華語翻�
 
 import Image from '@theme/IdealImage';
 
-# 躼跤鷸科 lò-kha-u̍t-kho
+# 躼跤鷸仔科 lò-kha-u̍t-á-kho
 
 ## [高蹺鴴 セイタカシギ Black-winged Stilt](https://ebird.org/species/bkwsti)
 
@@ -14,18 +14,16 @@ import Image from '@theme/IdealImage';
 (c) Paolo, some rights reserved (CC BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **躼跤鴴 lò-kha-hîng**
 - 🎯 **長跤鴴 tng-kha-hîng**
 - 高蹺鴴 ko-khiau-hîng
 - ✳️ 躼跤仔 lò-kha-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考 1973 Embree台英辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
 
 ## [黑領高蹺鴴 オーストラリアセイタカシギ Pied Stilt](https://ebird.org/species/piesti1)
 
@@ -35,15 +33,15 @@ import Image from '@theme/IdealImage';
 © spacegecko, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
+
 - 🎯 **烏領躼跤鴴 oo-niá-lò-kha-hîng**
 - 🎯 **烏領長跤鴴 oo-niá-tng-kha-hîng**
 - ✳️ 躼跤仔 lò-kha-á
-:::
 
-:::tip[註解]
+**註解**
+
 參考華語鳥類名錄
-:::
 
 ## [反嘴鴴 ソリハシセイタカシギ Pied Avocet](https://ebird.org/species/pieavo1)
 
@@ -53,14 +51,12 @@ import Image from '@theme/IdealImage';
 (c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC),
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **翹喙鴴 khiàu-tshuì-hîng**
 - 反嘴鴴 huán-tshuì-hîng
 - ✳️ 翹喙仔 khiàu-tshuì-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考 2016⁺ iTaigi
-:::

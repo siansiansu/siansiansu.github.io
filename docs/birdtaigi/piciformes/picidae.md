@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage';
 (c) Геннадий, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **鯪鯉鳥 lâ-lí-tsiáu**
 - 地啄樹鳥 tē-tok-tshiū-tsiáu
@@ -25,11 +25,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ 啄樹鳥 tok-tshiū-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [小啄木 ハイガシラコゲラ Gray-capped Pygmy Woodpecker](https://ebird.org/species/gycwoo1)
 
@@ -39,7 +37,7 @@ import Image from '@theme/IdealImage';
 (c) David J Barton, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **小啄樹鳥 sió-tok-chhiū-chiáu**
 - 小啄木鳥 sió-tok-bo̍k-tsiáu
@@ -48,11 +46,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ 啄樹鳥 tok-tshiū-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [大赤啄木 オオアカゲラ White-backed Woodpecker](https://ebird.org/species/whbwoo1)
 
@@ -62,18 +58,16 @@ import Image from '@theme/IdealImage';
 (c) Frank Lin, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **大紅啄樹鳥 tuā-âng-tok-tshiū-tsiáu**
 - 大紅啄木鳥 tuā-âng-tok-bo̍k-tsiáu
 - ✳️ 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ 啄樹鳥 tok-tshiū-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [綠啄木 ヤマゲラ Gray-headed Woodpecker](https://ebird.org/species/gyfwoo1)
 
@@ -83,7 +77,7 @@ import Image from '@theme/IdealImage';
 (c) Павел, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **山啄樹鳥 suann-tok-tshiū-tsiáu**
 - 山啄木鳥 suann-tok-bo̍k-tsiáu
@@ -92,9 +86,9 @@ import Image from '@theme/IdealImage';
 - ✳️ 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ 啄樹鳥 tok-tshiū-tsiáu
 
-:::tip[註解]
-參考華語
-:::
+**註解**
+
+參考華語鳥類名錄
 
 ## [大斑啄木鳥 アカゲラ Great Spotted Woodpecker](https://ebird.org/species/grswoo)
 
@@ -104,18 +98,16 @@ import Image from '@theme/IdealImage';
 (c) Elio Giacone, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **大斑啄樹鳥 tuā-pan tok-tshiū-tsiáu**
 - 大斑啄木鳥 tuā-pan tok-bo̍k-tsiáu
 - ✳️ 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ 啄樹鳥 tok-tshiū-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::
 
 ## [花腹啄木鳥 タケアオゲラ Laced Woodpecker](https://ebird.org/species/lacwoo1)
 
@@ -125,7 +117,7 @@ import Image from '@theme/IdealImage';
 (c) manojmcn, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **花腹啄樹鳥 hue-pak-tok-tshiū-tsiáu**
 - 花腹啄木鳥 hue-pak-tok-bo̍k-tsiáu
@@ -134,8 +126,6 @@ import Image from '@theme/IdealImage';
 - ✳️ 啄木鳥 tok-bo̍k-tsiáu
 - ✳️ 啄樹鳥 tok-tshiū-tsiáu
 
-:::
+**註解**
 
-:::tip[註解]
 參考華語
-:::

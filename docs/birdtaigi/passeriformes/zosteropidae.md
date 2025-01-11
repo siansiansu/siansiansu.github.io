@@ -14,13 +14,13 @@ import Image from '@theme/IdealImage';
 © Andrew Lai, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
-- 🎯 **紅耳尖頭花眉 âng-hīnn-tsiam-thâu-hue-bâi**
-:::
+**台語名**
 
-:::tip[註解]
-參考華語、特徵
-:::
+🎯 **紅耳尖頭花眉 âng-hīnn-tsiam-thâu-hue-bâi**
+
+**註解**
+
+參考華語鳥類名錄、特徵
 
 ## [冠羽畫眉 カンムリチメドリ Taiwan Yuhina](https://ebird.org/species/taiyuh1)
 
@@ -30,17 +30,15 @@ import Image from '@theme/IdealImage';
 (c) Hong, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **尖頭花眉 tsiam-thâu-hue-bâi**
 - ✳️ 尖頭仔 tsiam-thâu-á
 - ✳️ 花眉仔 hue-bâi-á
 
-:::
+**註解**
 
-:::tip[註解]
-2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
-:::
+參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
 
 ## [紅脇繡眼 チョウセンメジロ Chestnut-flanked White-eye](https://ebird.org/species/cfweye1)
 
@@ -50,16 +48,14 @@ import Image from '@theme/IdealImage';
 © Griha Hasanov, some rights reserved (CC-BY)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **胳紅青笛仔 koh-âng-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考綠繡眼台語、特徵、英語
-:::
 
 ## [斯氏繡眼 ミナミメジロ Swinhoe's White-eye](https://ebird.org/species/swiwhe1)
 
@@ -69,17 +65,15 @@ import Image from '@theme/IdealImage';
 (c) Bronze Cheung Kwok Yee, some rights reserved (CC BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **斯氏青笛仔 su-sī-tshenn-thî-á**
 - 🎯 **斯文豪青笛仔 su-bûn-hô-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考英語、華語
-:::
+參考英語、參考華語鳥類名錄
 
 ## [日菲繡眼 メジロ Warbling White-eye](https://ebird.org/species/warwhe1)
 
@@ -89,16 +83,14 @@ import Image from '@theme/IdealImage';
 © Vitan2011, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **日菲青笛仔 ji̍t-hui-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-:::
+**註解**
 
-:::tip[註解]
-參考華語
-:::
+參考華語鳥類名錄
 
 ## [低地繡眼 フィリピンメジロ Lowland White-eye](https://ebird.org/species/loweye2)
 
@@ -108,13 +100,11 @@ import Image from '@theme/IdealImage';
 © Vitan2011, some rights reserved (CC-BY-NC)
 </div>
 
-:::info[台語名]
+**台語名**
 
 - 🎯 **低地青笛仔 kē-tē-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-:::
+**註解**
 
-:::tip[註解]
 參考英語
-:::

@@ -1,7 +1,8 @@
 {
-  "label": "犀鳥目 sai-tsiáu-ba̍k",
+  "label": "犀牛鳥目 sai-gû-tsiáu-ba̍k",
   "position": 20,
   "link": {
-    "id": "birdtaigi/bucerotiformes"
+    "type": "doc",
+    "id": "birdtaigi/bucerotiformes/index"
   }
 }
