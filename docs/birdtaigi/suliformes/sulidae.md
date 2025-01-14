@@ -4,7 +4,7 @@ description: 本文整理了鰹鳥的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 海雞母科 kian-tsiáu-kho
+# 海雞母科 Hái-ke-bó-kho
 
 ## [紅腳鰹鳥 アカアシカツオドリ Red-footed Booby](https://ebird.org/species/refboo)
 
@@ -50,7 +50,7 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-- 🎯 青面海雞母 tshenn-bīn-hái-ke-bó
+- 🎯 **青面海雞母 tshenn-bīn-hái-ke-bó**
 - ✳️ 海雞母 hái-ke-bó
 
 **註解**

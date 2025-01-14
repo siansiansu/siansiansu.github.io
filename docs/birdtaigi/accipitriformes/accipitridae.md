@@ -182,7 +182,7 @@ import Image from '@theme/IdealImage';
 
 ## [金鵰 イヌワシ Golden Eagle](https://ebird.org/species/goleag)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458877596/medium.jpeg" alt="金鵰" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/458877596/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <div className="image-caption">
 © Sue Carnahan, some rights reserved (CC-BY)
@@ -198,7 +198,7 @@ import Image from '@theme/IdealImage';
 
 ## [白腹鵰 ボネリークマタカ Bonelli's Eagle](https://ebird.org/species/boneag2)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg" alt="白腹鵰" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <div className="image-caption">
 (c) Ricardo Rodero Henández, some rights reserved (CC BY-NC)
