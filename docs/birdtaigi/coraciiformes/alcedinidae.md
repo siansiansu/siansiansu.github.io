@@ -6,8 +6,6 @@ import Image from '@theme/IdealImage';
 
 # 釣魚翁科 tiò-hî-ang-kho
 
-[![hackmd-github-sync-badge](https://hackmd.io/FCQW7xfNRGSQsXA3DPcTAQ/badge)](https://hackmd.io/FCQW7xfNRGSQsXA3DPcTAQ)
-
 ## [翠鳥 カワセミ Common Kingfisher](https://ebird.org/species/comkin1)
 
 <Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
