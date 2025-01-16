@@ -80,7 +80,7 @@ const config = {
         },
         sitemap: {
           lastmod: "date",
-          filename: "sitemap-auto.xml",
+          filename: "sitemap.xml",
           changefreq: null,
           priority: null,
         },
