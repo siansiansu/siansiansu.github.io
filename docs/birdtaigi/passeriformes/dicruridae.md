@@ -94,7 +94,7 @@ import Image from '@theme/IdealImage';
 
 ## [カザリオウチュウ Greater Racket-tailed Drongo](https://ebird.org/species/grtdro1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457150922/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457150922/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
 
 <div className="image-caption">
 © Rohit Naniwadekar, some rights reserved (CC-BY)
