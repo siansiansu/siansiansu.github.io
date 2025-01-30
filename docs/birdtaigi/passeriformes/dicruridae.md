@@ -91,3 +91,19 @@ import Image from '@theme/IdealImage';
 **註解**
 
 參考華語鳥類名錄
+
+## [カザリオウチュウ Greater Racket-tailed Drongo](https://ebird.org/species/grtdro1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457150922/large.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<div className="image-caption">
+© Rohit Naniwadekar, some rights reserved (CC-BY)
+</div>
+
+**台語名**
+
+🎯 **雙尾烏鶖 siang-bué-oo-tshiu**
+
+**註解**
+
+參考特徵
