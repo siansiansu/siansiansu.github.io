@@ -579,8 +579,8 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-- 🎯 **赤嘴潛鴨 tshiah-tshuì-tsiâm-ah**
-- 🎯 紅喙潛鴨 âng-tshuì-tsiâm-ah
+- 🎯 **赤嘴藏水鴨 tshiah-tshuì-tshàng-tsuí-ah**
+- 🎯 紅喙藏水鴨 âng-tshuì-tshàng-tsuí-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
@@ -597,7 +597,7 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-- 🎯 **帆背潛鴨 phâng-puè-tsiâm-ah**
+- 🎯 **帆背藏水鴨 phâng-puè-tshàng-tsuí-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
@@ -615,7 +615,7 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-- 🎯 **紅頭潛鴨 âng-thâu-tsiâm-ah**
+- 🎯 **紅頭藏水鴨 âng-thâu-tshàng-tsuí-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
@@ -633,7 +633,7 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-- 🎯 **頸箍潛鴨 kún-khoo-tsiâm-ah**
+- 🎯 **頸箍藏水鴨 kún-khoo-tshàng-tsuí-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
@@ -651,7 +651,7 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-- 🎯 **白眼潛鴨 pi̍k-gán-tsiâm-ah**
+- 🎯 **白眼藏水鴨 pi̍k-gán-tshàng-tsuí-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
@@ -669,7 +669,7 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-- 🎯 **青頭潛鴨 tshenn-thâu-tsiâm-ah**
+- 🎯 **青頭藏水鴨 tshenn-thâu-tshàng-tsuí-ah**
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
@@ -687,8 +687,6 @@ import Image from '@theme/IdealImage';
 **台語名**
 
 - 🎯 **阿不倒仔 a-put-tó-á**
-- 🎯 聳頭潛鴨 tshàng-moo-tsiâm-ah
-- 🎯 澤鳧 ti̍k-hû
 - 鳳頭潛鴨 hōng-thâu-tsiâm-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
@@ -708,7 +706,6 @@ import Image from '@theme/IdealImage';
 **台語名**
 
 - 🎯 **鈴鴨 lîng-ah**
-- 🎯 斑背潛鴨 pan-puè-tsiâm-ah
 - ✳️ 鴨仔 ah-á
 - ✳️ 水鴨仔 tsuí-ah-á
 
