@@ -6,7 +6,7 @@ import Image from '@theme/IdealImage';
 
 # 鳥仔 ê 名 - 認捌鳥仔 ê 台語
 
-<Image img={require('./img/cover_photo.jpeg')} />
+<Image img="https://github.com/siansiansu/siansiansu.github.io/blob/main/docs/birdtaigi/img/cover_photo.jpeg?raw=true" />
 
 <br/>
 
@@ -19,7 +19,7 @@ import Image from '@theme/IdealImage';
 - 市面上 ê 鳥仔名簿主要是使用華語，用台語寫 ê 鳥仔名簿是誠正少。為著補紩這 ê 空缺，《鳥仔 ê 名 - 認捌鳥仔 ê 台語》希望會當用現代分類學 ê 角度，重新看待台灣本土 ê 鳥仔名，所以內底包含真濟台語新詞 ê 創作，目的是鼓勵 lán 去揣看覓，敢有 khah 適合鳥仔物種 ê 台語名，以期待未來會當有一本台語為主 ê 鳥仔名簿。
 - 真濟人攏認為專業 ê 領域 kan-na 會當用華語講，m̄-koh 其實台語 kah 日語、英語仝款，有文法、有專門 ê 字，認捌鳥仔當然 mā 會當用台語講！
 
-<Image img={require('./img/519273.png')} />
+<Image img="https://github.com/siansiansu/siansiansu.github.io/blob/main/docs/birdtaigi/img/519273.png?raw=true" />
 
 <div className="image-caption">
 圖片：https://news.pts.org.tw/article/519273

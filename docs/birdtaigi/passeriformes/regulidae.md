@@ -8,6 +8,12 @@ import Image from '@theme/IdealImage';
 
 ## [戴菊鳥 キクイタダキ Goldcrest](https://ebird.org/species/goldcr1)
 
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/466187193/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<div className="image-caption">
+© Константин Селивёрстов, some rights reserved (CC-BY)
+</div>
+
 **台語名**
 
 - 🎯 **杉仔鳥 sam-á-tsiáu**
@@ -19,6 +25,12 @@ import Image from '@theme/IdealImage';
 
 
 ## [火冠戴菊鳥 ニイタカキクイタダキ Flamecrest](https://ebird.org/species/flamec1)
+
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/102378176/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+
+<div className="image-caption">
+© Christoph Moning, some rights reserved (CC-BY)
+</div>
 
 **台語名**
 

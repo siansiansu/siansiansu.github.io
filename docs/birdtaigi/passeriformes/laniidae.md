@@ -59,9 +59,10 @@ import Image from '@theme/IdealImage';
 
 ## [荒漠伯勞 モウコアカモズ Isabelline Shrike](https://ebird.org/species/isashr1)
 
-<Image img="" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459956441/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
 
 <div className="image-caption">
+© William Stephens, some rights reserved (CC-BY)
 </div>
 
 **台語名**
