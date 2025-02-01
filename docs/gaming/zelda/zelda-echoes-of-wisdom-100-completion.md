@@ -1,7 +1,5 @@
 # 智慧的再現 100% 全收集
 
-[![hackmd-github-sync-badge](https://hackmd.io/MubtaBGPTeGcT-IOzqh3hQ/badge)](https://hackmd.io/MubtaBGPTeGcT-IOzqh3hQ)
-
 ![463489126_9440042039344374_2499506619053182691_n](https://github.com/user-attachments/assets/3870a9a1-c775-4bf1-836f-c9e8574903ff)
 
 ### Collect All 40 Heart Pieces

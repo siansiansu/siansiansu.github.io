@@ -1,7 +1,5 @@
 # 禦天之劍 100% 全收集
 
-[![hackmd-github-sync-badge](https://hackmd.io/xulS8GrESceYQFi_YVauWg/badge)](https://hackmd.io/xulS8GrESceYQFi_YVauWg)
-
 - [x] 100% complete both Normal and Hero Mode.
 ![image](https://user-images.githubusercontent.com/33391637/235417234-20eaf69c-f161-47bf-b050-904d3dc52a33.png)
 - [x] Activate all 27 Goddess Cubes and open their respective Goddess's Treasure Chests.
