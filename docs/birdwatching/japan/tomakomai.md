@@ -1,12 +1,6 @@
----
-sidebar_position: 1
----
-
 # 苫小牧
 
-[![hackmd-github-sync-badge](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A/badge)](https://hackmd.io/6b15YCDHQbuoFofkl4vA5A)
-
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/523d9960-08a0-4aa6-8565-a544fae04003)
+![image](./tomakomai/cover-photo.png)
 
 上圖紅色圈起來的地方是苫小牧市的 2 個鳥點：
 
@@ -17,7 +11,7 @@ sidebar_position: 1
 
 ### 1. 新千歲機場到苫小牧車站
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d77e90dc-1760-4cfe-9333-2c5d81b8cc26)
+![image](./tomakomai/chitose-tomakomai.png)
 
 我們是從`新千歲機場`搭乘 JR `千歲線`接`室蘭本線`到`苫小牧車站`下車，車程大概 `1` 個小時左右，沿途風景滿漂亮的，也很好睡。
 

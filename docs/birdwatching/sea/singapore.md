@@ -1,12 +1,6 @@
----
-sidebar_position: 1
----
-
 # 新加坡
 
-[![hackmd-github-sync-badge](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw/badge)](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw)
-
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9d96b3da-3298-4890-b5e7-78295bb05a66)
+![image](./sg/cover-photo.png)
 
 這是新加坡主要的 12 個鳥點，如果是第一次去新加坡的話，就先從這邊開始逛吧！
 
@@ -34,7 +28,7 @@ sidebar_position: 1
 
 ### Sungei Buloh Wetland Reserve Wetland Centre 雙溪布洛濕地保護區
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/95e9122b-6e2a-4ce2-ab8b-538b875b393f)
+![image](./sg/sungei-buloh-1.png)
 
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
 - 週日：搭捷運到 `Kranji 克蘭芝 (NS7)` 站或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
@@ -53,17 +47,17 @@ sidebar_position: 1
 - 遊客中心裡面有個食堂，只有裡面才可以吃東西，其他地方都不行隨意飲食。
 - 澤巨蜥很多，還常常懶洋洋的躺在地上，不要踢到了！
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/48d727ff-1d8a-4387-82b0-19341a0f72cb)
+![image](./sg/sungei-buloh-2.png)
 
 在園區裡面可以看到很多這種圓圓的東西，可以當作休息的據點。我們到達後會補充水分休息一下，慢慢前進，不然真的太熱了！
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/2181a6f5-63b2-43cc-8e11-19c3c9298139)
+![image](./sg/sungei-buloh-3.png)
 
 園區裡面有兩個主要的休息點（上圖的紅色圈圈），都有販賣機、飲水機和廁所。
 
 ### Singapore Botanic Gardens 新加坡植物園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7acc5de2-269d-433d-8dd9-f913c81f3952)
+![image](./sg/singapore-botanic-gardens.png)
 
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens 植物園 (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens 植物園 (DT9)` 站下車。
@@ -83,7 +77,7 @@ sidebar_position: 1
 
 ### Gardens by the Bay 濱海灣花園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/400584c2-62a2-4281-9f01-4066e2613b55)
+![image](./sg/gardens-by-the-bay.png)
 
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到 `Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
@@ -91,17 +85,17 @@ sidebar_position: 1
 
 ### Pasir Ris Town Park 白沙公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/be836991-e3f4-49c4-acd5-9c13449529f6)
+![image](./sg/pasir-ris-town-park-1.png)
 
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/ae3f078b-1f67-47c4-b0a8-0a27776c5132)
+![image](./sg/pasir-ris-town-park-2.png)
 
 因為交通比較順的關係，上圖圈起來的地方可以安排在一起。
 
 ### Pulau Ubin 烏敏島
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/0f6f914c-f561-4fc8-82f8-be84424fa2f5)
+![image](./sg/pulau-ubin.png)
 
 - 從 `Pasir Ris Town Park 白沙公園` 過去的話，搭乘 `89` 號公車，到達 `Changi Village 樟宜村` 公共汽車轉運站後，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘 `2` 號公車至 `Changi Village 樟宜村` 公共汽車轉運站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
@@ -113,26 +107,26 @@ sidebar_position: 1
 
 ### Hampstead Wetlands Park 翰仕德濕地公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/3f4a2540-7733-48a2-836c-677ae5ed7038)
+![image](./sg/hampstead-wetlands-park.png)
 
 - 搭乘捷運經由 `North East Line` 線到 `Punggol 榜鵝 (NE17)` 站下車，再搭乘公車至 `Hampstead Wetlands Park`。
 
 ### Rifle Range Nature Park 射靶場自然公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/5a44d9b3-a557-48b9-afcc-9ab00ff0736a)
+![image](./sg/rifle-range-nature-park-1.png)
 
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
 - 上圖圈起來是可以休息上廁所的地方。
 - 入口在美世界購物中心樓上。
 - 在購物中心可以上廁所和休息，準備好再出發。
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/d99a6b04-2e80-4f77-97cc-bd39ff1058f7)
+![image](./sg/rifle-range-nature-park-2.png)
 
 因為交通比較順的關係，上圖圈起來的地方可以安排在一起，不過至少要抓一整天的時間賞鳥。
 
 ### Hindhede Nature Park 海希德自然公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/607d1ef4-2af5-4673-8677-d08f955a79ea)
+![image](./sg/hindhede-nature-park.png)
 
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
 - 上圖圈起來是可以休息上廁所的地方。
@@ -140,30 +134,30 @@ sidebar_position: 1
 
 ### Singapore Quarry 新加坡採石場
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9afce4df-4327-4d77-9904-146ab29d5688)
+![image](./sg/singapore-quarry-1.png)
 
 我們選擇從 `Hindhede Nature Park` 走過去，雖然是平地，但距離也不近，如果還有其他行程的話建議搭公車，保留一點體力。
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/903f5a9b-f474-4145-94df-870b6274a78e)
+![image](./sg/singapore-quarry-2.png)
 
 上圖圈起來的地方有一整排美食街，可以吃飯和休息。再往上就是捷運 `Hillview 山景 (DT3)` 站，從那裡搭車回家。
 
 ### Bukit Batok Nature Park 武吉巴督自然公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4dd74738-e4a5-438d-8402-b6c50ca88176)
+![image](./sg/bukit-batok-nature-park.png)
 
 - 搭乘捷運經由 `Downtown Line` 線到 `Beauty World 美世界 (DT5)` 站下車，再徒步或是搭乘公車至 `Bukit Batok Nature Park`。
 
 ### Windsor Nature Park 溫莎自然公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/b122dfb2-7c09-4560-b8e4-dc267d5df76e)
+![image](./sg/windsor-nature-park.png)
 
 - 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
 - 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
 
 ### Jurong Lake Gardens 裕廊湖花園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/233278fa-9a92-41af-a5aa-a39a5b1f423e)
+![image](./sg/jurong-lake-gardens.png)
 
 - 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
 - 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。

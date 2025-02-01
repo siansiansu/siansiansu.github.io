@@ -1,10 +1,4 @@
----
-sidebar_position: 1
----
-
 # 天売島
-
-[![hackmd-github-sync-badge](https://hackmd.io/Cta4xlQRSCOBU6F1wehnDw/badge)](https://hackmd.io/Cta4xlQRSCOBU6F1wehnDw)
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/ec2185c8-656a-421b-80cf-31ec2c78021e)
 
