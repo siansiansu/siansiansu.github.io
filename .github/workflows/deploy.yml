@@ -36,9 +36,6 @@ jobs:
       - name: Build Website
         run: npm run build
 
-      - name: Create .nojekyll file
-        run: touch build/.nojekyll
-      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

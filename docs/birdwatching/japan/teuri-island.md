@@ -136,31 +136,31 @@
 
 天売島手繪地圖，這張很值得收藏紀念。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/09d90258-d862-4111-8da0-0aecaf3822f8)
+![image](./teuri-island/teuri-12.png)
 
 天売島上的一些指引。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a777e7d9-48ef-4b2f-84c1-d4e391651826)
+![image](./teuri-island/teuri-13.png)
 
 很漂亮的地圖。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/d07cf726-384d-478a-a7ec-69b8d6db6d3e)
+![image](./teuri-island/teuri-14.png)
 
 候車亭很有年代感，上圖是裡面的手繪路線圖。
 
 我們在這裡大概待了半小時，休息和上廁所。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/09ffb79d-7cfe-4cf7-8748-9e95c303423a)
+![image](./teuri-island/teuri-15.png)
 
 上圖是`沿岸バス 本社ターミナル`到乘船處的距離，用走的大概`15`分鐘，也可以等接駁車。
 
 接駁車非常明顯，會停在候車亭旁，不會錯過的。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/830b02fd-fd04-430b-a454-462c9554b0a0)
+![image](./teuri-island/teuri-16.png)
 
 乘船處也非常明顯，有個藍色絕對不會認錯的屋頂。
 
-![24D48D5E-2EEB-4D61-8E74-C5443C5BD106](https://github.com/siansiansu/teuri-birding/assets/33391637/95d2485e-175a-4d1e-b0a9-b2d02a334600)
+![image](./teuri-island/teuri-17.jpeg)
 
 進去乘船處後，大門的左手邊是諮詢處，大門的右手邊是售票處。
 
@@ -188,7 +188,7 @@
 
 哇嗚怎麼這麼好！超棒的！！！！！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/9251a42a-438f-4c55-bd45-a996e2fe56c2)
+![image](./teuri-island/teuri-18.png)
 
 上圖是我們遊玩的路線，其實我們還到處兜風😆
 
@@ -202,15 +202,15 @@
 
 #### 北海道海鳥センター
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/2c3e5fb4-9856-49ac-97d9-af76c0be9e2d)
+![image](./teuri-island/teuri-19.png)
 
 上圖是從北海道海鳥センター門口往裡面拍的照片，非常推薦值得一逛。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a768eadc-9a2b-4ab3-9409-3c3778e2e4b2)
+![image](./teuri-island/teuri-20.png)
 
 裡頭的展示非常豐富，雖然主要都是日語解說，但我們用翻譯軟體一個一個看。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/5b1cc474-68e0-493a-b094-622987f7a299)
+![image](./teuri-island/teuri-21.png)
 
 也有各種鳥類的情報。
 
@@ -224,7 +224,7 @@
 
 #### 甘えびファクトリー 蝦名漁業部 えび漁師第51高砂丸直売店
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/b66eb41c-89be-4d49-9904-79e00965af07)
+![image](./teuri-island/teuri-22.png)
 
 直接上圖。
 
@@ -246,11 +246,11 @@
 
 #### カフェ＆イン吉里吉里
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/e7a81175-38da-438a-9dea-f77c057eebf2)
+![image](./teuri-island/teuri-23.png)
 
 晚上我們住在`カフェ＆イン吉里吉里`，雖然房子很簡陋，但晚餐非常非常的好吃，老闆夫妻也非常親切。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/62370a81-b12c-47a0-b209-d8541e9dff54)
+![image](./teuri-island/teuri-24.png)
 
 招牌甜蝦特寫。
 
@@ -258,7 +258,7 @@
 
 ### 羽幌 ⭢ 天売島
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3d18ed18-8fc2-400c-8db3-a20a36e1431b)
+![image](./teuri-island/teuri-25.png)
 
 天還沒亮我就起床，準備到附近的`羽幌公園`賞鳥，上圖是我走的路線。
 
@@ -270,11 +270,11 @@
 
 在羽幌公園還看到狐狸，超級幸運的。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/d31f0193-9817-450f-908f-acdfc4e41e95)
+![image](./teuri-island/teuri-26.png)
 
 羽幌各處都可以看到崖海鴉的裝飾，很可愛。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/32174947-1d22-4b01-be68-e0de67eac538)
+![image](./teuri-island/teuri-27.png)
 
 吉里吉里的早餐非常厲害。
 
@@ -288,7 +288,7 @@
 
 船有沒有開請參考這裡：[羽幌沿海フェリー](https://haboro-enkai.com/)
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/8f4feaa9-50dc-4258-8887-3fbca2328510)
+![image](./teuri-island/teuri-28.png)
 
 上圖是網站的截圖，請參考這邊的時間安排行程。
 
@@ -296,7 +296,7 @@
 
 旅程也請多安排一點緩衝的時間。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/cf50539d-b45d-43fc-a603-05ad0ad8748d)
+![image](./teuri-island/teuri-29.png)
 
 上圖是船的航線，航程大概兩個小時，會先到燒尻島，再到天売島。
 
@@ -308,11 +308,11 @@
 
 ## 鳥點
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/ec2185c8-656a-421b-80cf-31ec2c78021e)
+![image](./teuri-island/teuri-30.png)
 
 鳥點的話，就是我放在最前面封面圖的那張圖，總共有 `7` 個鳥點。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/529e6299-7bb9-42e1-ac00-65b51b5e26e2)
+![image](./teuri-island/teuri-31.png)
 
 上圖是[厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)，後面繞過去有個鎮魂碑，在這裡靜靜的等一下，會有很多鳥。
 
@@ -320,57 +320,57 @@
 📍 請抱著敬畏的心，不要打擾到當地的神明喔！
 :::
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/adc853d1-dfba-424b-8356-cf49c121b3ae)
+![image](./teuri-island/teuri-32.png)
 
 上圖是[海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)入口。
 
 沿著道路走，會接一個斜坡通到`天売葬斎場`。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/5f568d04-16e3-4f1f-86a6-a41ae3a82048)
+![image](./teuri-island/teuri-33.png)
 
 上圖是[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)。
 
 這裡已經荒廢了，路旁都是草，行走的時候要小心。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/f71b4c89-eea3-4f85-b075-6c68ef871344)
+![image](./teuri-island/teuri-34.png)
 
 上圖是[黒崎海岸](https://maps.app.goo.gl/NeHcrmf8iSvTeeSx6)。
 
 雖然鷗鷗已經很習慣人類了，但我們還是習慣躡手躡腳的前進。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/eb809a38-f3ad-4cb4-95e5-bda32c4b9109)
+![image](./teuri-island/teuri-35.png)
 
 上圖是海雀的巢區，順著步道走，不要隨意離開步道。
 
 有看到上面有個燈塔嗎？燈塔叫`赤岩埼灯台`，附近有個廁所。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/eaef10e7-f14b-40cf-addf-b955146a64a5)
+![image](./teuri-island/teuri-36.png)
 
 我把相對位置標出來，這裡是陡升段，建議在燈塔這休息一下補充體力。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/91140154-3353-442a-8320-5f773e45c317)
+![image](./teuri-island/teuri-37.png)
 
 上圖是[赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)，從海雀巢區往下走。
 
 到了展望台往下看就是赤岩，風非常非常的大，溫度非常非常的冷！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/896aee37-2120-4d6e-95c0-2cb5a060f52a)
+![image](./teuri-island/teuri-38.png)
 
 上圖是[海鳥観察舎](https://maps.app.goo.gl/XASqdGmt8J14GNpT8)。
 
 這裡是可以遮風避雨休息的地方，但沒有廁所。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/15996b8c-6bfd-4bb6-890d-4a677f8ceff8)
+![image](./teuri-island/teuri-39.png)
 
 上圖是[観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)，可以看到不少雨燕。
 
 請依照自己的時間安排行程囉。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/cf2e6123-2bae-4e68-811b-686af750505b)
+![image](./teuri-island/teuri-40.png)
 
 上圖箭頭畫起來陡升和陡降的地方要注意。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/772ffaae-ada6-45b2-8fb8-01582e21f4ca)
+![image](./teuri-island/teuri-41.png)
 
 `天売郵便局`可以買明信片和蓋紀念章。
 
@@ -380,7 +380,7 @@
 
 ## 住宿
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/1d84e08e-bab9-45ee-b7c9-4caa356dbdc3)
+![image](./teuri-island/teuri-42.png)
 
 我們住在[漁師の宿 民宿「栄丸」](http://sakaemaru.jp/)。
 
@@ -396,19 +396,19 @@
 
 我們也額外說明出發前有快篩過，沒有感染武漢肺炎，是個有禮貌的孩子呢！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/753396d0-24cc-4c24-9239-cd64214ca194)
+![image](./teuri-island/teuri-43.png)
 
 上圖是第一天民宿提供的晚餐。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/fb6f5870-9ca8-4770-87ef-57016668ea95)
+![image](./teuri-island/teuri-44.png)
 
 食材非常的新鮮。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/97d3995c-0110-4e33-8eca-e1d4cb967c24)
+![image](./teuri-island/teuri-45.png)
 
 特寫。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/d7e3799f-9c64-487d-94b5-93696240d9fb)
+![image](./teuri-island/teuri-46.png)
 
 海鮮丼飯。
 
@@ -418,31 +418,31 @@
 
 <br/>
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3b6e053f-26c2-4a2a-8eed-f5ed33f1bf37)
+![image](./teuri-island/teuri-47.png)
 
 上圖是第二天民宿提供的早餐。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/4e5cbc04-8e00-44ac-bfb2-201449a496e9)
+![image](./teuri-island/teuri-48.png)
 
 上圖是[炭火海鮮 番屋](https://maps.app.goo.gl/6Y1zY5UBW81DwSdc7)的午餐。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3bc1cbc2-c5c3-4bdc-be23-15ce50439946)
+![image](./teuri-island/teuri-49.png)
 
 再看一次。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/abca438e-fa7a-4840-8f7e-e7d8c430810a)
+![image](./teuri-island/teuri-50.png)
 
 來個特寫。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/e7de6a34-0d58-494d-931c-aa3d9912da23)
+![image](./teuri-island/teuri-51.png)
 
 上圖是第二天民宿提供的晚餐。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/8790d439-84f3-46fc-9802-fb5e740ce88d)
+![image](./teuri-island/teuri-52.png)
 
 現剖海膽，海膽還活著啊啊啊啊！！！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/dc9e9814-ecf8-4dfd-8434-44244c40a922)
+![image](./teuri-island/teuri-53.png)
 
 上圖是第三天民宿提供的早餐。
 
@@ -450,7 +450,7 @@
 
 請參考這個網站 👉 [天売島観光サイト「天売島.jp」](https://www.teuri.jp/tour)
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/07142c7a-b445-4a7c-b7ab-221f74b5cc1e)
+![image](./teuri-island/teuri-54.png)
 
 點進去後，會看到上圖預約的時間表，就是這裡了。
 
@@ -465,15 +465,15 @@
 📍 ウトウの帰巣請在這裡預約，不需要帶手電筒，不要晚上自己去！
 :::
 
-![349031599_635102285190313_1648127449742886780_n](https://github.com/siansiansu/teuri-birding/assets/33391637/8a15df2d-ca2c-47d5-927d-57dd73f03518)
+![image](./teuri-island/teuri-55.jpg)
 
 可以看到這麼近，用手機就可以拍，
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/b95e8c59-3923-4dbb-b7a8-aeceb333c130)
+![image](./teuri-island/teuri-56.png)
 
 從舢舨船尾端往前看大概長這樣。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/152da6f3-3cc1-432c-a266-6e39d243ef9b)
+![image](./teuri-island/teuri-57.png)
 
 從船上往天売島看。
 
@@ -483,27 +483,27 @@
 
 ## 租腳踏車
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/27d498af-f31a-4715-a6bc-45b1a65ab708)
+![image](./teuri-island/teuri-58.png)
 
 上圖是我們租電動腳踏車的地方，店名叫[おろろんレンタル](https://maps.app.goo.gl/jmSJpinPFG6M5ppz8)。
 
 老奶奶非常有活力，我們跟她學很多日語，她非常的開心！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/8bac931b-3831-4d5f-b05a-f144a759436d)
+![image](./teuri-island/teuri-59.png)
 
 離港口很近，一到島上，我們就直接來這裡租電動腳踏車。
 
 ## 當地商店
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/9cf822a2-9a59-4f6d-9651-21b4a418b0f4)
+![image](./teuri-island/teuri-60.png)
 
 當地只有兩家商店。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/517e2237-9df8-45f1-9e4b-c42cd8d6c37d)
+![image](./teuri-island/teuri-61.png)
 
 上圖是[マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較像雜貨店，店面稍微舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/50e6d545-e58f-4f90-981f-dd661409ad66)
+![image](./teuri-island/teuri-62.png)
 
 上圖是[川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)，比較多生鮮蔬菜，賣的東西和`マルサン三浦酒店`稍微錯開。
 
@@ -552,12 +552,12 @@ Instagram
 
 - [投幣式置物櫃](https://www.new-chitose-airport.jp/tw/service/baggage/locker/)
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e06dd8df-c9e3-4963-b689-f1be427d4c51)
+![image](./teuri-island/teuri-63.png)
 
 缺點是只能放三天。
 
 - [手提行李暫時寄放、宅配、行李服務](https://www.new-chitose-airport.jp/tw/service/baggage/baggage_checkroom/)
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/ff10f37d-e61d-4f9b-9b4c-9182f604b76d)
+![image](./teuri-island/teuri-64.png)
 
 我們是使用這個服務，要注意取件時間只到晚上八點，超過就沒辦法取件囉！

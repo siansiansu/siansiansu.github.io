@@ -78,12 +78,12 @@ const config = {
           trackingID: "G-S4S5T3DX6G",
           anonymizeIP: true,
         },
-        sitemap: {
-          lastmod: "date",
-          filename: "sitemap-doc.xml",
-          changefreq: null,
-          priority: null,
-        },
+        // sitemap: {
+        //   lastmod: "date",
+        //   filename: "sitemap.xml",
+        //   changefreq: null,
+        //   priority: null,
+        // },
       }),
     ],
   ],
