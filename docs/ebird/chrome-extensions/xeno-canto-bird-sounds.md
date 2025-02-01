@@ -1,12 +1,10 @@
 # Xeno-canto 鳥音快搜
 
-:::info
-📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/xeno-canto-bird-sounds/fogelmchjlfpdkhbdikigjnimkbgalbj)
-:::
-
 **Xeno-canto 鳥音快搜**是一款基於 Xeno-canto 的 Google Chrome 線上應用程式，幫助您在教學或是日常使用中更快速地查詢鳥音。
 
-![Kapture 2024-08-31 at 19.56.58](https://hackmd.io/_uploads/SkS44Fb2R.gif)
+![gif](./img/xeno-canto.gif)
+
+📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/xeno-canto-bird-sounds/fogelmchjlfpdkhbdikigjnimkbgalbj)
 
 ## 功能
 

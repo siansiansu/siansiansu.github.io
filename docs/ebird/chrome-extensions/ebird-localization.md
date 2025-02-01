@@ -1,10 +1,8 @@
 # eBird 繁體中文地圖
 
-:::info
-📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/ebird-localization/fehgcalgkkjfemgocipbabpkoemcgbnj)
-:::
+![image](./img/ebird-map.png)
 
-![image](https://hackmd.io/_uploads/SyMwcao00.png)
+📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/ebird-localization/fehgcalgkkjfemgocipbabpkoemcgbnj)
 
 ## 功能
 

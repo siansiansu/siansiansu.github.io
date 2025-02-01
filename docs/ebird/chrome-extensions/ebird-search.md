@@ -4,7 +4,7 @@
 📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/ebird-smart-search/kpmgekjpemcgifjphdjhlnadhggapilm)
 :::
 
-![Kapture 2024-10-07 at 00.23.15](https://hackmd.io/_uploads/S1NakgR1Jx.gif)
+![gif](./img/ebird-search.gif)
 
 輸入任何關鍵字、鳥類新舊俗名、台語俗名或是台語羅馬字搜尋。
 
