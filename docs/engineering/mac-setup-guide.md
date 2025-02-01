@@ -56,7 +56,7 @@ Make sure you are already connected to the company's WiFi
 
 ## 4. Setup Magnet/Rectangle/Spectacle
 
-![image](https://hackmd.io/_uploads/HJporJto0.png)
+![image](./mac-setup-guide/setup-guide.png)
 
 ## 5. Download & Install from Browser
 
@@ -112,7 +112,7 @@ Make sure you are already connected to the company's WiFi
       curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
       ```
     - [ ] **Download zimfw Settings**
-        - Copy and paste the settings from [zshrc](https://hackmd.io/@siansiansu/S1-u7GEiR) and [zimrc](https://hackmd.io/@siansiansu/By4bNGEoC)
+        - Copy and paste the settings from [zshrc](./zim-zshrc.md) and [zimrc](./zim-zimrc.md)
 
 ## 10. Install via Homebrew
 
