@@ -9,7 +9,7 @@
 - 🟥 [135\. Candy](https://leetcode.com/problems/candy/) [[Solution](./135.candy.md)]
 - 🟩 [268\. Missing Number](https://leetcode.com/problems/missing-number/) [[Solution](./268.missing-number.md)]
 - 🟩 [1051\. Height Checker](https://leetcode.com/problems/height-checker/)
-- 🟩 [1437\. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) [[Solution](./1437.check-if-all-1's-are-at-least-length-k-places-away.md)]
+- 🟩 [1437\. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) [[Solution](./1437.check-if-all-1s-are-at-least-length-k-places-away.md)]
 - 🟩 [1550\. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) [[Solution](./1550.three-consecutive-odds.md)]
 - 🟩 [1598\. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) [[Solution](./1598.crawler-log-folder.md)]
 - 🟨 [1823\. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
