@@ -114,16 +114,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      headTags: [
-        {
-          tagName: "link",
-          attributes: {
-            rel: "alternate",
-            hreflang: "zh-TW",
-            href: "https://siansiansu.github.io/",
-          },
-        },
-      ],
+      // headTags: [
+      //   {
+      //     tagName: "link",
+      //     attributes: {
+      //       rel: "alternate",
+      //       hreflang: "zh-TW",
+      //       href: "https://siansiansu.github.io/",
+      //     },
+      //   },
+      // ],
       metadata: [
         {
           name: "keywords",
