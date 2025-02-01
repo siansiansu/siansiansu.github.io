@@ -1,6 +1,6 @@
 # 天売島
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/ec2185c8-656a-421b-80cf-31ec2c78021e)
+![image](./teuri-island/cover-photo.png)
 
 上圖標示天売島主要的 7 個鳥點，分別是
 
@@ -27,7 +27,7 @@
 
 ### 新千歲機場 ⭢ 札幌
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0bc33d87-c9dc-43db-9822-d14c715190ea)
+![image](./teuri-island/teuri-1.png)
 
 上圖是`新千歲機場`到`札幌車站`之間的 JR 路線。
 
@@ -35,7 +35,7 @@
 
 雖然也有巴士可以坐，但因為我的腸胃很常不舒服，所以還是習慣搭火車。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/9e85f387-22e0-40f4-ab0b-59f1fe88ca58)
+![image](./teuri-island/teuri-2.png)
 
 到了`札幌車站`後，我們先到明天搭乘巴士的售票處探路。
 
@@ -47,7 +47,7 @@
 
 我們習慣會拍照紀錄，並且核對和網站寫的資訊是不是一致。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a345f5b3-d185-49d4-8ef9-b1a7800fd513)
+![image](./teuri-island/teuri-3.png)
 
 上圖是我們住宿的飯店，[三井ガーデンホテル札幌ウエスト](https://maps.app.goo.gl/7gAZQoJF9Lqt8hUx9)。
 
@@ -67,7 +67,7 @@
 
 ### 札幌 ⭢ 羽幌
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/2f2adf87-07e8-4800-a60e-406dc0564a36)
+![image](./teuri-island/teuri-4.png)
 
 從`札幌`到`羽幌`搭乘的巴士叫做`特急はぼろ号`，公司名稱叫做`沿岸バス株式会社`。
 
@@ -81,13 +81,13 @@
 
 上巴士前請確認上圖紅色箭頭指的三個地方，不要坐錯車囉！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0dea858f-601a-4330-b9a4-9edd8c199b67)
+![image](./teuri-island/teuri-5.png)
 
 上圖是巴士面對司機的方向，前方有個螢幕，會標示到站的站名，請再次確認巴士名稱是`特急はぼろ号`，公司名稱是`沿岸バス株式会社`。
 
 有看到現在是 7:53 分嗎？到了 8:00 會準時開車，不等人的喔！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/adf92442-2b0b-4b36-a240-2a2de85278c4)
+![image](./teuri-island/teuri-6.png)
 
 上圖的 A4 紙是電話預約的資料，右上角釘起來的地方則是車票本人（講本票好像怪怪的）。
 
@@ -99,13 +99,13 @@
 
 出發前只要跟站務人員核對資料就可以了，買票大概花了五分鐘左右。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/8de223de-d192-42c9-8bd2-412eb2e4a3fe)
+![image](./teuri-island/teuri-7.png)
 
 上圖是`砂川休息站`的外觀，上車後大約一個半小時後，會在這裡稍作停留。
 
 要上廁所伸懶腰的請趕快！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/d000e75a-0eee-47d7-9d11-b0b776201b51)
+![image](./teuri-island/teuri-8.png)
 
 上圖是公車的路線圖，中間紅色箭頭處是`砂川休息站`的位置。
 
@@ -116,13 +116,13 @@
 
 :::
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0e6feea9-5cb6-4594-a451-75eb2cd10d8b)
+![image](./teuri-island/teuri-9.png)
 
 到`羽幌`後，巴士會開到一個叫做`沿岸バス 本社ターミナル`的地方，裡面沒有站務人員。
 
 廁所在這棟建築物的後面，很舊，但非常乾淨。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/f2f38eba-377d-47b5-8240-fb4ba569dea4)
+![image](./teuri-island/teuri-10.png)
 
 上圖是候車亭裡面的暖爐。
 
@@ -132,7 +132,7 @@
 
 有看到圖片右邊的書架上放很多摺頁嗎？記得去拿！
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/84ab9cc8-6181-4a8a-94c2-eddf7666ffc2)
+![image](./teuri-island/teuri-11.png)
 
 天売島手繪地圖，這張很值得收藏紀念。
 
