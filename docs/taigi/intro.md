@@ -4,10 +4,7 @@ sidebar_position: 1
 
 # 學台語 Oh Tâi-gí - 台語學習資源整理
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/oh-tai-gi)
-[![hackmd-github-sync-badge](https://hackmd.io/E2ZJao2KRR2GWE0WlBlsdg/badge)](https://hackmd.io/E2ZJao2KRR2GWE0WlBlsdg)
-
-![E90D68E7-42DE-44C8-8E62-37231A7AE2BB_1_201_a](https://github.com/siansiansu/oh-tai-gi/assets/33391637/099de601-0e54-44d2-b5b2-e848117ce336)
+![image](./img/cover.jpeg)
 
 這 ê 清單整理誠濟學習台語 ê 資源，你若有建議 ê 教材，歡迎佇下跤留言共我講，多謝！
 
@@ -350,6 +347,7 @@ Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [歌仔冊語唸歌 - 國立台灣大學數位典藏館](https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/page/home)。
 - [白話字台語文網站](http://ip194097.ntcu.edu.tw/taigu.asp)。
 - [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/)（無支援 Firefox）。
+- [Tâi-gí 做伙耍](https://www.taigi-domiso.com/)
 
 ## 認證考試 Jīn-tsìng Khó-tshì
 

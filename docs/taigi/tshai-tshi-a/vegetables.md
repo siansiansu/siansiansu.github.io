@@ -1,7 +1,4 @@
-# 青菜水果正著時 tshinn-tshài tsuí-kó tsiànn-tio̍h-sî
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/seasonal-food-guide)
-[![hackmd-github-sync-badge](https://hackmd.io/POs3DrBRTjSm3hqS7ohw7Q/badge)](https://hackmd.io/POs3DrBRTjSm3hqS7ohw7Q)
+# 青菜水果正著時
 
 遮只有標示正著時 ê 青菜水果，因為栽培技術 ê 進步，誠濟佇其他 ê 時節嘛食有喔。
 

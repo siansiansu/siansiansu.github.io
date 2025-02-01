@@ -1,0 +1,86 @@
+# 魚仔 ê 台語
+
+- 七星斑魚、紅條 âng-tiâu
+- 三點蟹、三點蠘仔 sann-tiám-tshi̍h-á
+- 刺鯧、肉魚仔、肉鯽仔 bah-hî-á / bah-tsit-á
+- 劍旗魚、劍魚 kiàm-hî
+- 加網魚、春子、鈍頭叫姑魚、黑加網、臭魚仔 oo-bué-tang / oo-bé-tang / ka-bāng-hî
+- 台灣馬加鰆 白腹仔 pe̍h-pak-á
+- 吳郭魚、南洋鮐仔 ngôo-kueh-hî / lām-mī-tâi-á
+- 嘉鱲、真鯛 ka-la̍h
+- 大目孔、大眼華鯿、大目巴郎 ba̍k-khóng / tuā-ba̍k-khóng / tuā-ba̍k-pa-lang
+- 大眼鯛、紅目鰱 âng-ba̍k-liân
+- 小丑魚、三跤娘仔、草丑仔魚 sann-kha-niû-á / tsháu-thiúnn-á-hî
+- 小卷、小管仔 sió-kńg-á
+- 扁魚、小魚乾、曬乾的小魚 pínn-hî
+- 擬刺尾鯛、刺尾鯛、倒吊、粗皮鯛、粗皮仔 tò-tiàu
+- 旗魚 kî-hî
+- 杜氏鰤、紅魽 oo-bué-tang / oo-bé-tang / âng-kam
+- 柴魚、鰹魚乾 tshâ-hî
+- 比目魚、皇帝魚、牛舌魚、鞋底魚 pí-ba̍k-hî / hông-tè-hî / gû-tsi̍h-hî / ê-té-hî
+- 水母、海蜇、石鏡 tsuí-bó / hái-thē / tsio̍h-kiànn
+- 河豚、刺河豚、六斑刺河豚、刺䲅 tshì-kui
+- 油魚 iû-hî
+- 淡水魚、汫水魚 tsiánn-tsuí-hî
+- 烏面眶棘鱸、紅尾冬 âng-bué-tang / âng-bé-tang
+- 烏魚、鯔魚、鱧魚 oo-hî
+- 烏魚子 oo-hî-tsí
+- 烏魚鰾 oo-hî-piō
+- 狗母魚、狗母梭 káu-bó-hî / káu-bó-so
+- 白帶魚、白魚 pe̍h-tuà-hî
+- 白鯧 pe̍h-tshiun
+- 眼眶魚、皮刀 phuê-to
+- 竹筴魚、巴郎 pa-lang
+- 紅蟳 âng-tsîm
+- 紅鰱魚、紅石姥魚 âng-liân-hî
+- 翻車魚、水母鯊 chúi-bó-soa
+- 花身雞魚、斑午魚、花身仔 hue-sin-á
+- 花飛、鯖魚 hue-hui
+- 草魚 tsháu-hî
+- 藍圓鰺、四破、四破魚、硬尾仔、銅鏡鰺 sì-phuà
+- 藍短鰭笛鯛、汕午 suann-ngóo
+- 虱目魚、海草魚 sat-ba̍k-hî / hái-tsháu-hî
+- 蝦、蝦仔、蝦米、蝦仁 hê / hê-á / hê-bí / hê-jîn
+- 豆仔魚、大鱗鮻 tāu-á-hî
+- 透抽 thàu-thiu
+- 金帶細鰺、木葉鰺、目孔 ba̍k-khóng
+- 金線魚、金線鰱 kim-suànn-hî / liân
+- 銀紋笛鯛、紅槽 âng-tsô
+- 雙帶鱗鰭烏尾鮗、烏尾冬 oo-bué-tang / oo-bé-tang
+- 雨傘旗魚、破雨傘 phuà-hōo-suànn
+- 飛魚、飛烏 pe-hî / pue-oo
+- 馬頭魚 pa-tsóo
+- 高背鰏、三角仔 sann-kak-á
+- 鬼頭刀、飛烏虎 pue-oo-hóo
+- 魔鬼簑鮋、獅子魚、虎魚 hóo-hî
+- 魚翅、鯊魚翅 soa-hî-chhì
+- 魩仔魚、鱙仔魚、魩鱙 but-á-hî / jiâu-á-hî
+- 魬魚 puánn-hî / puánn-hû
+- 魬魚、魬鯛 puánn-hî
+- 魴魚、魟魚 hang-hî
+- 鮑魚 pau-hî
+- 鮕鮘、臺灣鱧魚、七星鱧 koo-tai
+- 鮪魚、串仔、黃鰭鮪 tshǹg-á
+- 鮸魚、鮸仔魚、免魚、勉魚、敏魚、三牙 bián-hî / san-gâ-a
+- 鯊魚、沙魚 sua-hî
+- 鯊魚煙 sua-hî-ian
+- 鯨鯊、鴿仔鯊 kap-á-soa
+- 鯰魚、鯰仔 liâm-hî
+- 鯽仔魚、南洋鯽仔、鯽仔、鯽魚 tsit-á-hî
+- 鰆、土魠魚、馬鮫 bé-ka
+- 鰇魚 jiû-hî
+- 鰮仔魚、沙丁魚 un-á-hî
+- 鰱魚、紅鰱魚、鹹鰱魚、鮭魚、三文魚 liân-hî / âng-liân-hî / kiâm-liân-hî / sam-bûn-hî
+- 鰹魚、煙仔魚、正鰹、圓花鰹 ian-á-hî
+- 鱈魚 suat-hî
+- 鱔魚 siān-hî
+- 鱖魚、鮢鱖、龍膽石斑 kuè-hî / tsu-kuè
+- 鱸魚 lôo-hî
+- 鹹水魚 kiâm-tsuí-hî
+- 黃魚、紅花魚 n̂g-hî / âng-hue-hî
+- 黄背牙鯛、赤鯮 tshiah-tsang
+- 黑棘鯛、烏格仔 oo-keh-á
+- 黑鮪魚、烏甕串 oo-àng-tshǹg
+- 黑鯛、烏格仔 oo-keh-á
+- 黑鯧、烏鯧 oo-tshiunn
+- 龍蝦 lîng-hê / liông-hê
