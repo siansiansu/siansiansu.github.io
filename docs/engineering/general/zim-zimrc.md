@@ -1,4 +1,4 @@
-# zimrc
+# Zim Configuration - zimrc
 
 ```shell=
 # Start configuration added by Zim install {{{

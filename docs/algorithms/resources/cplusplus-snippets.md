@@ -140,16 +140,16 @@ bool searchMatrix(vector<vector<int>>& matrix, int target) {
     if (matrix.empty() || matrix[0].empty()) return false;
     int m = matrix.size(), n = matrix[0].size();
     int left = 0, right = m * n - 1;
-    
+
     while (left <= right) {
         int mid = left + (right - left) / 2;
         int midValue = matrix[mid / n][mid % n];
-        
+
         if (midValue == target) return true;
         if (midValue < target) left = mid + 1;
         else right = mid - 1;
     }
-    
+
     return false;
 }
 ```
@@ -163,7 +163,7 @@ class TrieNode {
 public:
     array<TrieNode*, 26> children;
     bool isEndOfWord;
-    
+
     TrieNode() : children(), isEndOfWord(false) {}
 };
 
@@ -173,7 +173,7 @@ private:
 
 public:
     Trie() : root(new TrieNode()) {}
-    
+
     void insert(const string& word) {
         TrieNode* node = root;
         for (char c : word) {
@@ -185,12 +185,12 @@ public:
         }
         node->isEndOfWord = true;
     }
-    
+
     bool search(const string& word) {
         TrieNode* node = findNode(word);
         return node && node->isEndOfWord;
     }
-    
+
     bool startsWith(const string& prefix) {
         return findNode(prefix) != nullptr;
     }
@@ -230,26 +230,26 @@ Perform Breadth-First Search on a binary tree:
 vector<vector<int>> levelOrderTraversal(TreeNode* root) {
     vector<vector<int>> result;
     if (!root) return result;
-    
+
     queue<TreeNode*> q;
     q.push(root);
-    
+
     while (!q.empty()) {
         int levelSize = q.size();
         vector<int> currentLevel;
-        
+
         for (int i = 0; i < levelSize; i++) {
             TreeNode* node = q.front();
             q.pop();
             currentLevel.push_back(node->val);
-            
+
             if (node->left) q.push(node->left);
             if (node->right) q.push(node->right);
         }
-        
+
         result.push_back(currentLevel);
     }
-    
+
     return result;
 }
 ```
@@ -277,13 +277,13 @@ public:
         preorder(root, result);
         return result;
     }
-    
+
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
         inorder(root, result);
         return result;
     }
-    
+
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> result;
         postorder(root, result);
@@ -297,14 +297,14 @@ private:
         preorder(root->left, result);
         preorder(root->right, result);
     }
-    
+
     void inorder(TreeNode* root, vector<int>& result) {
         if (!root) return;
         inorder(root->left, result);
         result.push_back(root->val);
         inorder(root->right, result);
     }
-    
+
     void postorder(TreeNode* root, vector<int>& result) {
         if (!root) return;
         postorder(root->left, result);
@@ -422,19 +422,19 @@ private:
 public:
     bool remove(int val) {
         if (valToIndex.find(val) == valToIndex.end()) return false;
-        
+
         int lastElement = nums.back();
         int indexToRemove = valToIndex[val];
-        
+
         nums[indexToRemove] = lastElement;
         valToIndex[lastElement] = indexToRemove;
-        
+
         nums.pop_back();
         valToIndex.erase(val);
-        
+
         return true;
     }
-    
+
     // Other methods (insert, getRandom) omitted for brevity
 };
 ```
