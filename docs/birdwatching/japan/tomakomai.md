@@ -15,7 +15,7 @@
 
 我們是從`新千歲機場`搭乘 JR `千歲線`接`室蘭本線`到`苫小牧車站`下車，車程大概 `1` 個小時左右，沿途風景滿漂亮的，也很好睡。
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/20f74c36-019a-4f66-af23-309c791f4ce2)
+![image](./tomakomai/tomakomai-station.png)
 
 車站附近，上圖圈起來有一個叫做`苫小牧観光案内所`，是一個類似遊客中心的地方，裡面也有賣東西，如果路途上遇到什麼問題，可以來這裡詢問。
 
@@ -23,7 +23,7 @@
 
 店員很親切，因為我們不會講日文，所以主要用翻譯軟體溝通。
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/3812d64d-efc1-4d72-b35d-19de488e3f66)
+![image](./tomakomai/tomakomai-map.png)
 
 `苫小牧車站`和`苫小牧観光案内所`的櫃檯都有許多摺頁可以拿，我們習慣拿和交通有關的摺頁，雖然 Google 地圖很方便，但紙本地圖也很重要。
 
@@ -31,13 +31,13 @@
 
 到 `ウトナイ湖`要搭公車。
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/4a927a45-c146-4a7b-8956-3cec8ae30bdb)
+![image](./tomakomai/utonai-1.png)
 
 公車站長這樣。
 
 因為我們當時差點錯過公車，把行李箱頂在頭上全力奔跑才勉強趕上，也來不及拍照，這裡只好用 Google 街景代替，真是抱歉啊啊啊啊！
 
-![312A2EE5-DE07-4A6F-9974-056F5E3D8565](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d393c958-49e9-4283-b305-94fc7c16772e)
+![image](./tomakomai/utonai-2.jpeg)
 
 上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間，右邊是預計回程的時間。
 
@@ -45,29 +45,29 @@
 
 要注意一個小時一班喔！
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d5f8aa8-ae13-4b58-ae99-4c72801a1335)
+![image](./tomakomai/utonai-3.png)
 
 車程大約 `40` 分鐘左右，記得預先準備好零錢，免得手忙腳亂。
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/9cbeedab-3e85-4e09-b107-05e74bb5c6ef)
+![image](./tomakomai/utonai-4.png)
 
 上圖圈起來的紅色圈圈，是可以休息上廁所的地方，箭頭是我們從公車站下車後走的路線。
 
-![E62330E3-7BE2-4E6B-9892-F69BF78E3722](https://github.com/siansiansu/tomakomai-birding/assets/33391637/4a84767b-7f10-469b-9413-87ccdef1b7f1)
+![image](./tomakomai/utonai-5.jpeg)
 
 `ウトナイ湖`的公車站牌長這樣，不要坐過頭囉！
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/80d6ccc1-2dfb-4d1a-b331-446204ab7d78)
+![image](./tomakomai/kanade-1.png)
 
 到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息和上廁所，是一棟小木屋。
 
-![B39B482A-F803-4870-A181-5E5E46C9C5CF](https://github.com/siansiansu/tomakomai-birding/assets/33391637/0904ac08-2a2a-4ceb-8de7-f399429f85ec)
+![image](./tomakomai/kanade-2.jpeg)
 
 附上菜單，甜點非常非常的好吃！
 
 老闆很親切也很漂亮！一萬顆星星推薦。
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e9edcac3-3f53-4df9-90cd-61c515c35ea4)
+![image](./tomakomai/michi-no-eki-1.png)
 
 過了馬路，就是非常有名的`道之駅 ウトナイ湖`，裡面有賣各式各樣的鳥周邊和食物，一不小心錢包君就會失血太多。
 
@@ -87,7 +87,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 📍 道の駅ウトナイ湖的營業時間是 9 AM - 5 PM。
 :::
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/0ca646d5-77b1-4322-a5bb-b640e8d7082b)
+![image](./tomakomai/michi-no-eki-2.png)
 
 上圖是`道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗殺貼紙。
 
@@ -95,11 +95,11 @@ bah-pau! hó-tsia̍h ê bah-pau!
 📍 道の駅ウトナイ湖展望台開放的時間是 9 AM - 5 PM。
 :::
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/636275f5-493e-474f-8c90-7efd47c40df5)
+![image](./tomakomai/conservation-center-1.png)
 
 上圖是`ウトナイ湖野生鳥獣保護センター`內部，裡面有很多小朋友做的正面鳥勞作。
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e6d29281-40b4-430f-bb88-b4b8897f880e)
+![image](./tomakomai/conservation-center-2.png)
 
 你們也懂正面鳥？！(請用`你剛剛攻擊我的村莊`的語氣講一遍)。
 
@@ -107,7 +107,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 📍 ウトナイ湖野生鳥獣保護センター每個禮拜一休館，營業時間是 9 AM - 5 PM。
 :::
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/c349fff5-0871-4e0c-ae7b-37877691f1cc)
+![image](./tomakomai/utonai-6.png)
 
 賞鳥的話，沿著湖畔的步道走就可以了，是個非常輕鬆賞鳥行程，沒有什麼要注意的地方。
 
@@ -117,13 +117,13 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 #### 另一個路線
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/cf647f80-8449-4b5f-9b58-4ff4f0c31cd7)
+![image](./tomakomai/utonai-7.png)
 
 上圖是`ウトナイ湖`另一個入口，網路上有些文章提到是從這裡進去，但離道の駅比較遠。
 
 ### 北海道大学苫小牧研究林
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2d621cce-1120-4967-af12-4b7859c3de91)
+![image](./tomakomai/forest.png)
 
 從苫小牧車站出發，在公車乘車處找`01永福三条線`這班公車。
 
@@ -133,17 +133,17 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 ### 苫小牧科學博物館
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/55efb9e0-1d74-45f1-b8e6-9334f6c89c5b)
+![image](./tomakomai/science-center-1.png)
 
 除了剛才提到的兩個鳥點外，我們還另外去了`苫小牧科學博物館`，非常推薦來這裡逛逛。
 
 裡頭展示了各式各樣的交通機械
 
-![005151AF-A5F2-4ACD-8D32-23CBA2A987CC](https://github.com/siansiansu/tomakomai-birding/assets/33391637/219abe2c-aee4-4b70-b5a3-a86d6fda571b)
+![image](./tomakomai/science-center-2.jpeg)
 
 還有一艘退役的太空站
 
-![BF7E9550-D580-4C1C-837D-52B258F68851](https://github.com/siansiansu/tomakomai-birding/assets/33391637/7b36a054-05a1-47f5-8543-0a9bc9544145)
+![image](./tomakomai/science-center-3.jpeg)
 
 導覽員是一名退休的小學老師，非常的專業，我把我們問的鬼問題整理在這邊：
 
@@ -167,7 +167,7 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 ## 吃吃喝喝
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/b788d32e-f94c-4002-b938-d222164c4842)
+![image](./tomakomai/tomakomai-1.png)
 
 [Toncini - Ristorante italiano](https://www.instagram.com/toncini_ristorante_italiano/)
 
@@ -177,23 +177,23 @@ bah-pau! hó-tsia̍h ê bah-pau!
 
 隱藏在普通的民宅內
 
-![C5A3DC6C-4FE8-4FDD-A736-034621D77592](https://github.com/siansiansu/tomakomai-birding/assets/33391637/95f0fc5a-10b4-46be-b4c5-f4cd0283653f)
+![image](./tomakomai/toncini-1.jpeg)
 
 餐點非常非常的厲害，兩萬顆星推薦！
 
-![04A9F3A9-F1CC-4055-94F3-3ECFEF89D2E0_1_201_a](https://github.com/siansiansu/tomakomai-birding/assets/33391637/2ab5c290-849a-431c-bf0a-f1f70315ad59)
+![image](./tomakomai/toncini-2.jpeg)
 
 義大利麵，我可以吃一萬盤！
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/5cdce9a7-1509-4ba7-9f7d-8184824ad532)
+![image](./tomakomai/toncini-3.png)
 
 這是菜單的封面
 
-![D8615E63-B569-4A40-8ED7-586A6A1F4177](https://github.com/siansiansu/tomakomai-birding/assets/33391637/d8be3001-b44b-4c50-8688-3e1e841b854a)
+![image](./tomakomai/toncini-4.jpeg)
 
 ## 住宿
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/227a4244-56fe-49b9-b468-e3a1e18ec3ac)
+![image](./tomakomai/tomakomai-2.png)
 
 我們住在 [Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧](https://maps.app.goo.gl/zyquFViLbNtkY4CC8)，因為離車站很近。
 
@@ -237,12 +237,12 @@ Instagram
 
 1. [投幣式置物櫃](https://www.new-chitose-airport.jp/tw/service/baggage/locker/)
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/e06dd8df-c9e3-4963-b689-f1be427d4c51)
+![image](./tomakomai/tomakomai-3.png)
 
 缺點是只能放三天。
 
 2. [手提行李暫時寄放、宅配、行李服務](https://www.new-chitose-airport.jp/tw/service/baggage/baggage_checkroom/)
 
-![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/ff10f37d-e61d-4f9b-9b4c-9182f604b76d)
+![image](./tomakomai/tomakomai-4.png)
 
 我們是使用這個服務，要注意取件時間只到**晚上八點**，超過就沒辦法取件囉！
