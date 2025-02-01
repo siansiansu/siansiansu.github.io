@@ -2,7 +2,7 @@
 title: Mac Setup Guide
 ---
 
-# Mac Setup Guide for DevOps/SRE Onboarding
+# Mac Setup Guide for DevOps/SRE
 
 :::success
 Make sure you are already connected to the company's WiFi
