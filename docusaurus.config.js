@@ -168,14 +168,14 @@ const config = {
             to: "/docs/birdwatching",
             type: "docSidebar",
             sidebarId: "birdwatchingSidebar",
-            label: "賞鳥簿仔",
+            label: "賞鳥筆記",
             position: "left",
           },
           {
             to: "/docs/ebird",
             type: "docSidebar",
             sidebarId: "ebirdSidebar",
-            label: "eBird",
+            label: "eBird 工具",
             position: "left",
           },
           {
