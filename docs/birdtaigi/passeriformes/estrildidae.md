@@ -4,17 +4,23 @@ description: 本文整理了文鳥的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 嗶仔科 pit-á-kho
+# 筆仔科 pit-á-kho
 
 ## [白喉文鳥 ギンバシ Indian Silverbill](https://ebird.org/species/indsil)
 
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459956489/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+
+<div className="image-caption">
+© William Stephens, some rights reserved (CC-BY)
+</div>
+
 **台語名**
 
-🎯 **白喉嗶仔 pe̍h-âu-pit-á**
+🎯 **白喉筆仔 pe̍h-âu-pit-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考華語鳥類名錄、教育部臺灣台語常用詞辭典
 
 ## [斑文鳥 シマキンパラ Scaly-breasted Munia](https://ebird.org/species/nutman)
 
@@ -26,11 +32,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **斑嗶仔 pan-pit-á**
+🎯 **斑筆仔 pan-pit-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考華語鳥類名錄、教育部臺灣台語常用詞辭典
 
 ## [白腰文鳥 コシジロキンパラ White-rumped Munia](https://ebird.org/species/whrmun)
 
@@ -42,11 +48,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **白腰嗶仔 pe̍h-io-pit-á**
+🎯 **白腰筆仔 pe̍h-io-pit-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考華語鳥類名錄、教育部臺灣台語常用詞辭典
 
 ## [黑頭文鳥 キンパラ Chestnut Munia](https://ebird.org/species/chemun)
 
@@ -58,11 +64,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **烏頭嗶仔 oo-thâu-pit-á**
+🎯 **烏頭筆仔 oo-thâu-pit-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考華語鳥類名錄、教育部臺灣台語常用詞辭典
 
 ## [橙頰梅花雀 ホオアカカエデチョウ Orange-cheeked Waxbill](https://ebird.org/species/orcwax)
 
@@ -106,8 +112,8 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **烏喉嗶仔 oo-âu-pit-á**
+🎯 **烏喉筆仔 oo-âu-pit-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考華語鳥類名錄、教育部臺灣台語常用詞辭典

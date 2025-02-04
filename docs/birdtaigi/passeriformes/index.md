@@ -13,7 +13,7 @@
 ![啄花科 tok-hue-kho](./dicaeidae.md)
 ![烏鶖科 oo-tshiu-kho](./dicruridae.md)
 ![鵐仔科 bû-á-kho](./emberizidae.md)
-![嗶仔科 pit-á-kho](./estrildidae.md)
+![筆仔科 pit-á-kho](./estrildidae.md)
 ![雀仔科 tshiok-á-kho](./fringillidae.md)
 ![燕仔科 ìnn-á-kho](./hirundinidae.md)
 ![伯勞科 pik-lô-kho](./laniidae.md)
