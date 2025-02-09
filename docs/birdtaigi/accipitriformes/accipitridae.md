@@ -370,7 +370,7 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-參考華語鳥類名錄
+2002⁺ 台華線頂辭典查到的白頭鷂為中國的稱呼，台灣華語通常叫東方澤鵟
 
 ## [灰澤鵟 ハイイロチュウヒ Hen Harrier](https://ebird.org/species/norhar1)
 
@@ -386,7 +386,7 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-參考華語鳥類名錄
+2002⁺ 台華線頂辭典查到的白尾鷂為中國的稱呼，台灣華語通常叫灰澤鵟
 
 ## [花澤鵟 マダラチュウヒ Pied Harrier](https://ebird.org/species/piehar1)
 
