@@ -16,11 +16,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **大麻鷺 tuā-muâ-lōo**
+🎯 **大田隙仔 tuā-tshân-khiah-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考黃小鷺台語，Bittern 系列稱作 XX 田隙仔
 
 ## [黃頸黑鷺 タカサゴクロサギ Black Bittern](https://ebird.org/species/blabit1)
 
@@ -32,11 +32,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **黃頸烏鷺 n̂g-kún-oo-lōo**
+🎯 **烏田隙仔 oo-tshân-khiah-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考黃小鷺台語，Bittern 系列稱作 XX 田隙仔
 
 ## [栗小鷺 リュウキュウヨシゴイ Cinnamon Bittern](https://ebird.org/species/cinbit1)
 
@@ -48,11 +48,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **栗小鷺 lik-sió-lōo**
+🎯 **栗色田隙仔 lik-sik-tshân-khiah-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考黃小鷺台語，Bittern 系列稱作 XX 田隙仔
 
 ## [秋小鷺 オオヨシゴイ Schrenck's Bittern](https://ebird.org/species/schbit1)
 
@@ -64,11 +64,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **秋小鷺 tshiu-sió-lōo**
+🎯 **秋田隙仔 tshiu-tshân-khiah-á**
 
 **註解**
 
-參考華語鳥類名錄
+參考黃小鷺台語，Bittern 系列稱作 XX 田隙仔
 
 ## [黃小鷺 ヨシゴイ Yellow Bittern](https://ebird.org/species/yelbit)
 
