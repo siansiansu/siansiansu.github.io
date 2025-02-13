@@ -161,7 +161,7 @@ const config = {
             to: "/docs/taigi",
             type: "docSidebar",
             sidebarId: "taigiSidebar",
-            label: "台語資源",
+            label: "台語筆記",
             position: "left",
           },
           {
