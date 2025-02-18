@@ -1,6 +1,6 @@
 # 新加坡
 
-![image](./sg/cover-photo.png)
+![image](./singapore/cover-photo.png)
 
 這是新加坡主要的 12 個鳥點，如果是第一次去新加坡的話，就先從這邊開始逛吧！
 
@@ -28,7 +28,7 @@
 
 ### Sungei Buloh Wetland Reserve Wetland Centre 雙溪布洛濕地保護區
 
-![image](./sg/sungei-buloh-1.png)
+![image](./singapore/sungei-buloh-1.png)
 
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
 - 週日：搭捷運到 `Kranji 克蘭芝 (NS7)` 站或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
@@ -47,17 +47,17 @@
 - 遊客中心裡面有個食堂，只有裡面才可以吃東西，其他地方都不行隨意飲食。
 - 澤巨蜥很多，還常常懶洋洋的躺在地上，不要踢到了！
 
-![image](./sg/sungei-buloh-2.png)
+![image](./singapore/sungei-buloh-2.png)
 
 在園區裡面可以看到很多這種圓圓的東西，可以當作休息的據點。我們到達後會補充水分休息一下，慢慢前進，不然真的太熱了！
 
-![image](./sg/sungei-buloh-3.png)
+![image](./singapore/sungei-buloh-3.png)
 
 園區裡面有兩個主要的休息點（上圖的紅色圈圈），都有販賣機、飲水機和廁所。
 
 ### Singapore Botanic Gardens 新加坡植物園
 
-![image](./sg/singapore-botanic-gardens.png)
+![image](./singapore/singapore-botanic-gardens.png)
 
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens 植物園 (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens 植物園 (DT9)` 站下車。
@@ -77,7 +77,7 @@
 
 ### Gardens by the Bay 濱海灣花園
 
-![image](./sg/gardens-by-the-bay.png)
+![image](./singapore/gardens-by-the-bay.png)
 
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到 `Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
@@ -85,17 +85,17 @@
 
 ### Pasir Ris Town Park 白沙公園
 
-![image](./sg/pasir-ris-town-park-1.png)
+![image](./singapore/pasir-ris-town-park-1.png)
 
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
 
-![image](./sg/pasir-ris-town-park-2.png)
+![image](./singapore/pasir-ris-town-park-2.png)
 
 因為交通比較順的關係，上圖圈起來的地方可以安排在一起。
 
 ### Pulau Ubin 烏敏島
 
-![image](./sg/pulau-ubin.png)
+![image](./singapore/pulau-ubin.png)
 
 - 從 `Pasir Ris Town Park 白沙公園` 過去的話，搭乘 `89` 號公車，到達 `Changi Village 樟宜村` 公共汽車轉運站後，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘 `2` 號公車至 `Changi Village 樟宜村` 公共汽車轉運站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
@@ -107,26 +107,26 @@
 
 ### Hampstead Wetlands Park 翰仕德濕地公園
 
-![image](./sg/hampstead-wetlands-park.png)
+![image](./singapore/hampstead-wetlands-park.png)
 
 - 搭乘捷運經由 `North East Line` 線到 `Punggol 榜鵝 (NE17)` 站下車，再搭乘公車至 `Hampstead Wetlands Park`。
 
 ### Rifle Range Nature Park 射靶場自然公園
 
-![image](./sg/rifle-range-nature-park-1.png)
+![image](./singapore/rifle-range-nature-park-1.png)
 
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
 - 上圖圈起來是可以休息上廁所的地方。
 - 入口在美世界購物中心樓上。
 - 在購物中心可以上廁所和休息，準備好再出發。
 
-![image](./sg/rifle-range-nature-park-2.png)
+![image](./singapore/rifle-range-nature-park-2.png)
 
 因為交通比較順的關係，上圖圈起來的地方可以安排在一起，不過至少要抓一整天的時間賞鳥。
 
 ### Hindhede Nature Park 海希德自然公園
 
-![image](./sg/hindhede-nature-park.png)
+![image](./singapore/hindhede-nature-park.png)
 
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
 - 上圖圈起來是可以休息上廁所的地方。
@@ -134,30 +134,30 @@
 
 ### Singapore Quarry 新加坡採石場
 
-![image](./sg/singapore-quarry-1.png)
+![image](./singapore/singapore-quarry-1.png)
 
 我們選擇從 `Hindhede Nature Park` 走過去，雖然是平地，但距離也不近，如果還有其他行程的話建議搭公車，保留一點體力。
 
-![image](./sg/singapore-quarry-2.png)
+![image](./singapore/singapore-quarry-2.png)
 
 上圖圈起來的地方有一整排美食街，可以吃飯和休息。再往上就是捷運 `Hillview 山景 (DT3)` 站，從那裡搭車回家。
 
 ### Bukit Batok Nature Park 武吉巴督自然公園
 
-![image](./sg/bukit-batok-nature-park.png)
+![image](./singapore/bukit-batok-nature-park.png)
 
 - 搭乘捷運經由 `Downtown Line` 線到 `Beauty World 美世界 (DT5)` 站下車，再徒步或是搭乘公車至 `Bukit Batok Nature Park`。
 
 ### Windsor Nature Park 溫莎自然公園
 
-![image](./sg/windsor-nature-park.png)
+![image](./singapore/windsor-nature-park.png)
 
 - 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
 - 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
 
 ### Jurong Lake Gardens 裕廊湖花園
 
-![image](./sg/jurong-lake-gardens.png)
+![image](./singapore/jurong-lake-gardens.png)
 
 - 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
 - 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
