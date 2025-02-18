@@ -104,13 +104,9 @@ import TabItem from '@theme/TabItem';
 
 ## 聯絡我
 
-:::info
-
-你若有發現寫毋著 ê 所在，iah 是有建議 ê 名，請留話 iah 是寫電子批 kā 我講，我會趁有閒 ê 時陣來改，請手梳攑懸，多謝！
+因為我是利用下班有閒 ê 時陣來寫這个網站，所以翻新 ê 速度較慢。你若有發現寫毋著 ê 所在，iah 是有建議 ê 名，請留話 iah 是寫電子批 kā 我講，我會盡量揣時間來改，請手梳攑懸，多謝！
 
 🚀 你若有興趣做伙合作，mā 會當 kā 我講。
 
 - ✉️ 電子批: [minsiansu@gmail.com](mailto:minsiansu@gmail.com)
 - 📸 相片冊: [siansiansu](https://www.instagram.com/siansiansu/)
-
-:::
