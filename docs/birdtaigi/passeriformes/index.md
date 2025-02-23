@@ -30,7 +30,7 @@
 ![雀眉科 tshiok-bâi-kho](./pellorneidae.md)
 ![柳鶯科 liú-ing-kho](./phylloscopidae.md)
 ![抾箬仔科 khioh-ha̍h-á-kho](./pittidae.md)
-![織布嗶仔科 tsit-pòo-pit-á-kho](./ploceidae.md)
+![織布筆仔科 tsit-pòo-pit-á-kho](./ploceidae.md)
 ![鷦眉科 tsiau-bâi-kho](./pnoepygidae.md)
 ![岩鷚科 gān-liù-kho](./prunellidae.md)
 ![鵯仔科 pi-á-kho](./pycnonotidae.md)

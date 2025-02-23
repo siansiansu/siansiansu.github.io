@@ -4,7 +4,7 @@ description: 本文整理了織雀的台語名，並對照英語與華語翻譯�
 
 import Image from '@theme/IdealImage';
 
-# 織布嗶仔科 tsit-pòo-pit-á-kho
+# 織布筆仔科 tsit-pòo-pit-á-kho
 
 ## [黑頭織雀 ズグロウロコハタオリ Village Weaver](https://ebird.org/species/vilwea1)
 

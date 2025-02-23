@@ -354,7 +354,9 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-待考證。辭典查到的白頭鷂為中國慣用的稱呼，台灣華語習慣稱作西方澤鵟
+辭典查到的白頭鷂為中國慣用的稱呼，，台灣華語通常叫澤鵟，源自日語 チュウヒ
+
+台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
 
 ## [東方澤鵟 チュウヒ Eastern Marsh Harrier](https://ebird.org/species/easmah1)
 
@@ -370,7 +372,10 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-待考證。2002⁺ 台華線頂辭典查到的白腹鷂為中國慣用的稱呼，台灣華語通常叫東方澤鵟
+2002⁺ 台華線頂辭典查到的白腹鷂為中國慣用的稱呼，台灣華語通常叫澤鵟，源自日語 チュウヒ
+
+台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
+
 
 ## [灰澤鵟 ハイイロチュウヒ Hen Harrier](https://ebird.org/species/norhar1)
 
@@ -386,7 +391,9 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-待考證。2002⁺ 台華線頂辭典查到的白尾鷂為中國慣用的稱呼，台灣華語通常叫灰澤鵟
+2002⁺ 台華線頂辭典查到的白尾鷂為中國慣用的稱呼，，台灣華語通常叫澤鵟，源自日語 チュウヒ
+
+台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
 
 ## [花澤鵟 マダラチュウヒ Pied Harrier](https://ebird.org/species/piehar1)
 
@@ -401,7 +408,9 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-待考證。2002⁺ 台華線頂辭典查到的為中國慣用的稱呼
+2002⁺ 台華線頂辭典查到的為中國慣用的稱呼，台灣華語通常叫澤鵟，源自日語 チュウヒ
+
+台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
 
 ## [黑鳶 トビ Black Kite](https://ebird.org/species/blakit1)
 
