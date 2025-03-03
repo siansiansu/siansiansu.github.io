@@ -226,7 +226,6 @@ import Image from '@theme/IdealImage';
 - 🎯 **粉鳥鷹 hún-tsiáu-ing**
 - 🎯 **鴿鷹 kap-ing**
 - 🎯 **斑鴿鷹 pang-kah-ing**
-- 聳毛蒼鷹 tshàng-moo-tshong-ing
 
 **註解**
 
