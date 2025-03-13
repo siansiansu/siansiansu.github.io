@@ -8,7 +8,6 @@ sidebar_position: 1
 
 - [Array](./core/array/array.md)
 - [Binary Tree](./core/binary-tree/binary-tree.md)
-- [Graph](./core/graph/graph.md)
 - [HashMap](./core/hashmap/hashmap.md)
 - [Linked List](./core/linked-list/linked-list.md)
 - [Queue](./core/queue/queue.md)
@@ -24,6 +23,7 @@ sidebar_position: 1
 - [Design](./advanced/design/design.md)
 - [Dynamic Programming](./advanced/dp/dp.md)
 - [Greedy Algorithm](./advanced/greedy/greedy.md)
+- [Graph](./advanced/graph/graph.md)
 - [Intervals](./advanced/intervals/intervals.md)
 - [Math](./advanced/math/math.md)
 - [Matrix](./advanced/matrix/matrix.md)
