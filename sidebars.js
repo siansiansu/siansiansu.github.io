@@ -58,7 +58,6 @@ const sidebars = {
           items: [
             'algorithms/core/array/array',
             'algorithms/core/binary-tree/binary-tree',
-            'algorithms/core/graph/graph',
             'algorithms/core/hashmap/hashmap',
             'algorithms/core/linked-list/linked-list',
             'algorithms/core/queue/queue',
@@ -78,6 +77,7 @@ const sidebars = {
             'algorithms/advanced/bit/bit',
             'algorithms/advanced/design/design',
             'algorithms/advanced/dp/dp',
+            'algorithms/advanced/graph/graph',
             'algorithms/advanced/greedy/greedy',
             'algorithms/advanced/intervals/intervals',
             'algorithms/advanced/math/math',
