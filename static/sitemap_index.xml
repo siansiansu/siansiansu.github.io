@@ -2,7 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://siansiansu.github.io/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://siansiansu.github.io/sitemap_manual.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://siansiansu.github.io/sitemap.txt</loc>
   </sitemap>
 </sitemapindex>
