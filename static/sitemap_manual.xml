@@ -1,722 +1,546 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/accipitriformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-05</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/accipitriformes/accipitridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-03-03</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/accipitriformes/pandionidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/anseriformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/anseriformes/anatidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-31</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/apodiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-08</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/apodiformes/apodidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/bucerotiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-23</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/bucerotiformes/bucerotidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-23</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/bucerotiformes/upupidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/caprimulgiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-08</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/caprimulgiformes/caprimulgidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/alcidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/charadriidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/glareolidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/haematopodidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/jacanidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/laridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/recurvirostridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/rostratulidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/scolopacidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/stercorariidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/charadriiformes/turnicidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/ciconiiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/ciconiiformes/ciconiidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/columbiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-05</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/columbiformes/columbidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/coraciiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/coraciiformes/alcedinidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-15</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/coraciiformes/coraciidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/coraciiformes/meropidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/cuculiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-06</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/cuculiformes/cuculidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/falconiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/falconiformes/falconidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/galliformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/galliformes/phasianidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/gaviiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/gaviiformes/gaviidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/gruiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-08</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/gruiformes/gruidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/gruiformes/rallidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/intro/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-23</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-23</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/acrocephalidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/aegithalidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/alaudidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/artamidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/bombycillidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/calcariidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/campephagidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/cinclidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/cisticolidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/corvidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/dicaeidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/dicruridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-30</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/emberizidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/estrildidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-04</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/fringillidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/hirundinidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/laniidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-31</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/leiothrichidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/locustellidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/monarchidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/motacillidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/muscicapidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-03</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/nectariniidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/oriolidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/paradoxornithidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/paridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/passeridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/pellorneidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/phylloscopidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/pittidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/ploceidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-23</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/pnoepygidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/prunellidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/pycnonotidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/regulidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-31</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/remizidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/rhipiduridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/scotocercidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/sittidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/stenostiridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/sturnidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/sylviidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/timaliidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/troglodytidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/turdidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/vireonidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/passeriformes/zosteropidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/pelecaniformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/pelecaniformes/ardeidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/pelecaniformes/pelecanidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/pelecaniformes/threskiornithidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/phaethontiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/phaethontiformes/phaethontidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/phoenicopteriformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/phoenicopteriformes/phoenicopteridae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/piciformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/piciformes/megalaimidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/piciformes/picidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/podicipediformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/podicipediformes/podicipedidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/procellariiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/procellariiformes/diomedeidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/procellariiformes/hydrobatidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/procellariiformes/procellariidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/psittaciformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/psittaciformes/cacatuidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/psittaciformes/psittacidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/strigiformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/strigiformes/strigidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/strigiformes/tytonidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/suliformes/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/suliformes/anhingidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/suliformes/fregatidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/suliformes/phalacrocoracidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-11</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdtaigi/suliformes/sulidae/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-14</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdwatching/intro/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-18</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdwatching/japan/teuri-island/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-15</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdwatching/japan/tomakomai/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-14</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/birdwatching/singapore/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-18</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/category/%E6%97%A5%E6%9C%AC/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/ebird/chrome-extensions/ebird-localization/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/ebird/chrome-extensions/ebird-search/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/ebird/chrome-extensions/xeno-canto-bird-sounds/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/ebird/golang-packages/go-ebird/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://siansiansu.github.io/docs/engineering/mac-setup-guide/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://siansiansu.github.io/docs/engineering/zim-zimrc/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://siansiansu.github.io/docs/engineering/zim-zshrc/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://siansiansu.github.io/docs/gaming/zelda/zelda-botw-100-completion/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://siansiansu.github.io/docs/gaming/zelda/zelda-botw-all-locatons/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://siansiansu.github.io/docs/gaming/zelda/zelda-echoes-of-wisdom-100-completion/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://siansiansu.github.io/docs/gaming/zelda/zelda-skyward-sword-100-completion/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2024-12-18</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/taigi/algorithms/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/taigi/intro/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/taigi/tshai-tshi-a/chicken/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/taigi/tshai-tshi-a/fish/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/taigi/tshai-tshi-a/pork/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/docs/taigi/tshai-tshi-a/vegetables/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
   </url>
   <url>
     <loc>https://siansiansu.github.io/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2024-12-16</lastmod>
   </url>
 </urlset>
