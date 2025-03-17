@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://siansiansu.github.io/sitemap.xml
+Sitemap: https://siansiansu.github.io/sitemap_manual.xml
+Sitemap: https://siansiansu.github.io/sitemap.txt
+Sitemap: https://siansiansu.github.io/sitemap_index.xml
