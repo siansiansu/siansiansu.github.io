@@ -113,7 +113,7 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **水浸仔 tsuí-tsìm-á**
+🎯 **水濺仔 tsuí-tsuānn-á**
 
 **註解**
 
@@ -129,11 +129,11 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **白腰水浸仔 pe̍h-io-tsuí-tsìm-á**
+🎯 **白腰水濺仔 pe̍h-io-tsuí-tsuānn-á**
 
 **註解**
 
-參考鵲鴝台語
+參考華語鳥類名錄 + [金門日報](https://www.kmdn.gov.tw/1117/1271/1274/33656)
 
 ## [棕腹大仙鶲 フッケンアオヒタキ Fujian Niltava](https://ebird.org/species/fujnil1)
 
