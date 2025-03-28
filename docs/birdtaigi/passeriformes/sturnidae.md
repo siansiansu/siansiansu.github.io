@@ -1,7 +1,7 @@
 ---
-title: 八哥、椋鳥的台語名與分類
+title: 鵁鴒科 ka-līng-kho
 description: 本文整理了八哥、椋鳥的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
-keywords: ["台語", "鳥類", "八哥", "椋鳥"]
+keywords: ["台語", "鳥類", "八哥", "椋鳥", "鵁鴒"]
 ---
 
 import Image from '@theme/IdealImage';
@@ -10,13 +10,9 @@ import Image from '@theme/IdealImage';
 
 ## [亞洲輝椋鳥 ミドリカラスモドキ Asian Glossy Starling](https://ebird.org/species/asgsta1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59310977/medium.jpg"
-       alt="亞洲輝椋鳥"
-       style={{marginBottom: '0rem'}} />
+![亞洲輝椋鳥](https://inaturalist-open-data.s3.amazonaws.com/photos/59310977/medium.jpg)
 
-<div className="image-caption">
 (c) John Clough, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -24,7 +20,7 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-參考英語、八哥台語
+參考英語、八哥台語，[eBird 物種資料](https://ebird.org/species/asgsta1)
 
 ## [歐洲椋鳥 ホシムクドリ European Starling](https://ebird.org/species/eursta)
 
