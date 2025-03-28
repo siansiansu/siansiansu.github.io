@@ -1,7 +1,7 @@
 ---
 title: 八哥、椋鳥的台語名與分類
 description: 本文整理了八哥、椋鳥的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
-keywords: 台語, 鳥類, 八哥, 椋鳥
+keywords: ["台語", "鳥類", "八哥", "椋鳥"]
 ---
 
 import Image from '@theme/IdealImage';
