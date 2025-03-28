@@ -1,5 +1,7 @@
 ---
+title: 八哥、椋鳥的台語名與分類
 description: 本文整理了八哥、椋鳥的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+keywords: 台語, 鳥類, 八哥, 椋鳥
 ---
 
 import Image from '@theme/IdealImage';
@@ -8,7 +10,9 @@ import Image from '@theme/IdealImage';
 
 ## [亞洲輝椋鳥 ミドリカラスモドキ Asian Glossy Starling](https://ebird.org/species/asgsta1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59310977/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59310977/medium.jpg"
+       alt="亞洲輝椋鳥"
+       style={{marginBottom: '0rem'}} />
 
 <div className="image-caption">
 (c) John Clough, some rights reserved (CC BY-NC)
