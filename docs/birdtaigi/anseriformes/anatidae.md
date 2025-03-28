@@ -1,18 +1,16 @@
 ---
-description: 本文整理了雁鴨的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 雁鴨仔科 gān-ah-á-kho
+description: 本文整理了雁鴨的台語名，並對照英語、華語、日語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雁鴨", "鴨仔"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 雁鴨仔科 gān-ah-á-kho
 
 ## [樹鴨 リュウキュウガモ Lesser Whistling-Duck](https://ebird.org/species/lewduc1)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/9952794/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![樹鴨 リュウキュウガモ Lesser Whistling-Duck](https://inaturalist-open-data.s3.amazonaws.com/photos/9952794/medium.jpg)
 
-<div className="image-caption">
 (c) Saurabh Agrawal, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 

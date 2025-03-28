@@ -1,12 +1,12 @@
 ---
 title: 鷹仔科 ing-á-kho
-description: 本文整理了鷹仔的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+description: 這个頁面整理鷹仔科鳥仔 ê 台語名。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", "鳶"]
 ---
 
-import Image from '@theme/IdealImage';
-
 # 鷹仔科 ing-á-kho
+
+這个頁面整理鷹仔科鳥仔 ê 台語名。
 
 ## [黑翅鳶 カタグロトビ Black-winged Kite](https://ebird.org/species/bkskit1)
 
@@ -20,7 +20,7 @@ import Image from '@theme/IdealImage';
 
 **註解**
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 物種資料](https://ebird.org/species/bkskit1)
 
 ## [黑冠鵑隼 クロカッコウハヤブサ Black Baza](https://ebird.org/species/blabaz1)
 
