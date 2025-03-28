@@ -1,14 +1,13 @@
 ---
 sidebar_position: 1
+title: 鳥仔 ê 名 - 認捌鳥仔 ê 台語
+description: 《鳥仔 ê 名 - 認捌鳥仔 ê 台語》盡量為每一種 ê 鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，有愈來愈濟人來講台灣話。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 鳥仔 ê 名 - 認捌鳥仔 ê 台語
 
-<Image img="https://github.com/siansiansu/siansiansu.github.io/blob/main/docs/birdtaigi/img/cover_photo.jpeg?raw=true" />
-
-<br/>
+![鳥仔 ê 名 - 認捌鳥仔 ê 台語](https://github.com/siansiansu/siansiansu.github.io/blob/main/docs/birdtaigi/img/cover_photo.jpeg?raw=true)
 
 《鳥仔 ê 名 - 認捌鳥仔 ê 台語》依據[號明理路](#號名理路-hō-miâ-lí-lōo)，盡量為每一種 ê 鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，有愈來愈濟人來講台灣話。
 
@@ -19,11 +18,9 @@ import Image from '@theme/IdealImage';
 - 市面上 ê 鳥仔名簿主要是使用華語，用台語寫 ê 鳥仔名簿是誠正少。為著補紩這 ê 空缺，《鳥仔 ê 名 - 認捌鳥仔 ê 台語》希望會當用現代分類學 ê 角度，重新看待台灣本土 ê 鳥仔名，所以內底包含真濟台語新詞 ê 創作，目的是鼓勵 lán 去揣看覓，敢有 khah 適合鳥仔物種 ê 台語名，以期待未來會當有一本台語為主 ê 鳥仔名簿。
 - 真濟人攏認為專業 ê 領域 kan-na 會當用華語講，m̄-koh 其實台語 kah 日語、英語仝款，有文法、有專門 ê 字，認捌鳥仔當然 mā 會當用台語講！
 
-<Image img="https://github.com/siansiansu/siansiansu.github.io/blob/main/docs/birdtaigi/img/519273.png?raw=true" />
+![澳洲水尖仔飛6千公里遠來臺 今臺南揣著影跡](https://github.com/siansiansu/siansiansu.github.io/blob/main/docs/birdtaigi/img/519273.png?raw=true)
 
-<div className="image-caption">
-圖片：https://news.pts.org.tw/article/519273
-</div>
+圖片：[澳洲水尖仔飛6千公里遠來臺 今臺南揣著影跡](https://news.pts.org.tw/article/519273)
 
 來看這 ê 範例，水尖仔是一般鷸科鳥仔 ê 統稱，有真濟物種 lóng 會使叫水尖仔，這是水尖仔、he ê mā 是水尖仔，用台語講，會毋知是佗一 ê 物種，除非用華語講「黦鷸」。
 
