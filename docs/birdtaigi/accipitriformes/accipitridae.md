@@ -8,7 +8,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 這个頁面整理鷹仔科鳥仔 ê 台語名。
 
-## [黑翅鳶 カタグロトビ Black-winged Kite](https://ebird.org/species/bkskit1)
+## 黑翅鳶 カタグロトビ Black-winged Kite
 
 ![黑翅鳶 カタグロトビ Black-winged Kite](https://inaturalist-open-data.s3.amazonaws.com/photos/183749378/medium.jpeg)
 
@@ -18,11 +18,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **烏翼鷹 oo-si̍t-ing**
 
-**註解**
+[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/bkskit1)
 
-參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 物種資料](https://ebird.org/species/bkskit1)
+---
 
-## [黑冠鵑隼 クロカッコウハヤブサ Black Baza](https://ebird.org/species/blabaz1)
+## 黑冠鵑隼 クロカッコウハヤブサ Black Baza
 
 ![黑冠鵑隼 クロカッコウハヤブサ Black Baza](https://inaturalist-open-data.s3.amazonaws.com/photos/12615159/medium.jpeg)
 
@@ -32,11 +32,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **烏冠鵑鷹 oo-kuàn-kuan-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/blabaz1)
 
-參考華語鳥類名錄
+---
 
-## [東方蜂鷹 ハチクマ Oriental Honey-buzzard](https://ebird.org/species/orihob2)
+## 東方蜂鷹 ハチクマ Oriental Honey-buzzard
 
 ![東方蜂鷹 ハチクマ Oriental Honey-buzzard](https://inaturalist-open-data.s3.amazonaws.com/photos/83922668/medium.jpg)
 
@@ -49,11 +49,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **蜂鷹 phang-ing**
 - 🎯 **食蜂鷹 tsia̍h-phang-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/orihob2)
 
-參考華語鳥類名錄
+---
 
-## [禿鷲 クロハゲワシ Cinereous Vulture](https://ebird.org/species/cinvul1)
+## 禿鷲 クロハゲワシ Cinereous Vulture
 
 ![禿鷲 クロハゲワシ Cinereous Vulture](https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/medium.jpeg)
 
@@ -65,11 +65,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **狗頭鵰 káu-thâu-tiau**
 - 🎯 禿鷹 thut-ing
 
-**註解**
+1973 Embree台英辭典、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/cinvul1)
 
-參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典
+---
 
-## [大冠鷲 カンムリワシ Crested Serpent-Eagle](https://ebird.org/species/crseag1)
+## 大冠鷲 カンムリワシ Crested Serpent-Eagle
 
 ![大冠鷲 カンムリワシ Crested Serpent-Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/10099169/medium.jpg)
 
@@ -80,11 +80,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **蛇鷹 tsuâ-ing**
 - **蛇鵰 tsuâ-tiau**
 
-**註解**
+2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/crseag1)
 
-參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [熊鷹 クマタカ Mountain Hawk-Eagle](https://ebird.org/species/mouhae1)
+## 熊鷹 クマタカ Mountain Hawk-Eagle
 
 ![熊鷹 クマタカ Mountain Hawk-Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/174790909/medium.jpeg)
 
@@ -97,12 +97,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **角鷹 kak-ing**
 - 🎯 **大花鵰 tuā-hue-tiau**
 
-**註解**
+2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/mouhae1)
 
-參考 2002⁺ 台華線頂辭典、《Hêng goola Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [林鵰 カザノワシ Black Eagle](https://ebird.org/species/blaeag1)
-
+## 林鵰 カザノワシ Black Eagle
 ![林鵰 カザノワシ Black Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/227323165/medium.jpeg)
 
 (c) awayk3n, some rights reserved (CC BY)
@@ -114,11 +113,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 林鵰 lîm-tiau
 - ✳️ 鷹仔 ing-á
 
-**註解**
+[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/blaeag1)
 
-參考《Hêng goola Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [花鵰 カラフトワシ Greater Spotted Eagle](https://ebird.org/species/grseag1)
+## 花鵰 カラフトワシ Greater Spotted Eagle
 
 ![花鵰 カラフトワシ Greater Spotted Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/57957069/medium.jpg)
 
@@ -129,11 +128,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **花鷹 hue-ing**
 - 🎯 **花鵰 hue-tiau**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/grseag1)
 
-參考華語鳥類名錄
+---
 
-## [靴隼鵰 ヒメクマタカ Booted Eagle](https://ebird.org/species/booeag1)
+## 靴隼鵰 ヒメクマタカ Booted Eagle
 
 ![靴隼鵰 ヒメクマタカ Booted Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/455662036/medium.jpg)
 
@@ -143,11 +142,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **靴管鷹 hia-kóng-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/booeag1)
 
-參考華語鳥類名錄
+---
 
-## [白肩鵰 カタシロワシ Imperial Eagle](https://ebird.org/species/impeag1)
+## 白肩鵰 カタシロワシ Imperial Eagle
 
 ![白肩鵰 カタシロワシ Imperial Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/91597033/medium.jpeg)
 
@@ -158,11 +157,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **白肩鷹 pe̍h-king-ing**
 - 白肩鵰 pe̍h-king-tiau
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/impeag1)
 
-參考華語鳥類名錄
+---
 
-## [金鵰 イヌワシ Golden Eagle](https://ebird.org/species/goleag)
+## 金鵰 イヌワシ Golden Eagle
 
 ![金鵰 イヌワシ Golden Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/458877596/medium.jpeg)
 
@@ -172,11 +171,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **金鷹 kim-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/goleag)
 
-參考華語鳥類名錄
+---
 
-## [白腹鵰 ボネリークマタカ Bonelli's Eagle](https://ebird.org/species/boneag2)
+## 白腹鵰 ボネリークマタカ Bonelli's Eagle
 
 ![白腹鵰 ボネリークマタカ Bonelli's Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/253344531/medium.jpg)
 
@@ -187,11 +186,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **白腹鷹 pe̍h-pak-ing**
 - 白腹鵰 pe̍h-pak-tiau
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/boneag2)
 
-參考華語鳥類名錄
+---
 
-## [鳳頭蒼鷹 カンムリオオタカ Crested Goshawk](https://ebird.org/species/cregos1)
+## 鳳頭蒼鷹 カンムリオオタカ Crested Goshawk
 
 ![鳳頭蒼鷹 カンムリオオタカ Crested Goshawk](https://inaturalist-open-data.s3.amazonaws.com/photos/113687435/medium.jpg)
 
@@ -203,11 +202,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **鴿鷹 kap-ing**
 - 🎯 **斑鴿鷹 pang-kah-ing**
 
-**註解**
+2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/cregos1)
 
-參考 2002⁺ 台華線頂辭典
+---
 
-## [松雀鷹 ミナミツミ Besra](https://ebird.org/species/besra1)
+## 松雀鷹 ミナミツミ Besra
 
 ![松雀鷹 ミナミツミ Besra](https://inaturalist-open-data.s3.amazonaws.com/photos/66481205/medium.jpg)
 
@@ -220,11 +219,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **雀賊 tshiok-tsha̍t**
 - 松雀鷹 siông-tshiok-ing
 
-**註解**
+2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/besra1)
 
-參考 2002⁺ 台華線頂辭典
+---
 
-## [日本松雀鷹 ツミ Japanese Sparrowhawk](https://ebird.org/species/japspa1)
+## 日本松雀鷹 ツミ Japanese Sparrowhawk
 
 ![日本松雀鷹 ツミ Japanese Sparrowhawk](https://inaturalist-open-data.s3.amazonaws.com/photos/251281815/medium.jpg)
 
@@ -237,11 +236,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **日本雀賊 ji̍t-pún-tshiok-tsha̍t**
 - 日本松雀鷹 ji̍t-pún-siông-tshiok-ing
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/japspa1)
 
-參考華語鳥類名錄
+---
 
-## [褐耳鷹 タカサゴダカ Shikra](https://ebird.org/species/shikra1)
+## 褐耳鷹 タカサゴダカ Shikra
 
 ![褐耳鷹 タカサゴダカ Shikra](https://inaturalist-open-data.s3.amazonaws.com/photos/10099183/medium.jpg)
 
@@ -254,9 +253,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 **註解**
 
-參考華語鳥類名錄
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/shikra1)
 
-## [赤腹鷹 アカハラダカ Chinese Sparrowhawk](https://ebird.org/species/grfhaw1)
+---
+
+## 赤腹鷹 アカハラダカ Chinese Sparrowhawk
 
 ![赤腹鷹 アカハラダカ Chinese Sparrowhawk](https://inaturalist-open-data.s3.amazonaws.com/photos/15811956/medium.jpg)
 
@@ -270,11 +271,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 赤腹鷹 tshiah-pak-ing
 - ✳️ 鷹仔 ing-á
 
-**註解**
+2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/grfhaw1)
 
-參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [北雀鷹 ハイタカ Eurasian Sparrowhawk](https://ebird.org/species/eurspa1)
+## 北雀鷹 ハイタカ Eurasian Sparrowhawk
 
 ![北雀鷹 ハイタカ Eurasian Sparrowhawk](https://inaturalist-open-data.s3.amazonaws.com/photos/203152836/medium.jpeg)
 
@@ -285,11 +286,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **北雀鷹 pak-tshiok-ing**
 - 🎯 歐洲雀鷹 au-tsiu-tshiok-ing
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurspa1)
 
-參考華語鳥類名錄
+---
 
-## [蒼鷹 オオタカ Eurasian Goshawk](https://ebird.org/species/norgos1)
+## 蒼鷹 オオタカ Eurasian Goshawk
 
 ![蒼鷹 オオタカ Eurasian Goshawk](https://inaturalist-open-data.s3.amazonaws.com/photos/61773674/medium.jpg)
 
@@ -299,11 +300,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **蒼鷹 tshong-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/norgos1)
 
-參考華語鳥類名錄
+---
 
-## [西方澤鵟 ヨーロッパチュウヒ Western Marsh Harrier](https://ebird.org/species/wemhar1)
+## 西方澤鵟 ヨーロッパチュウヒ Western Marsh Harrier
 
 ![西方澤鵟 ヨーロッパチュウヒ Western Marsh Harrier](https://inaturalist-open-data.s3.amazonaws.com/photos/459240182/medium.jpg)
 
@@ -313,13 +314,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **西方湳仔鷹 se-hong-làm-á-ing**
 
-**註解**
-
 辭典查到的白頭鷂為中國慣用的稱呼，，台灣華語通常叫澤鵟，源自日語 チュウヒ
 
 台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
 
-## [東方澤鵟 チュウヒ Eastern Marsh Harrier](https://ebird.org/species/easmah1)
+[eBird 資料](https://ebird.org/species/wemhar1)
+
+---
+
+## 東方澤鵟 チュウヒ Eastern Marsh Harrier
 
 ![東方澤鵟 チュウヒ Eastern Marsh Harrier](https://inaturalist-open-data.s3.amazonaws.com/photos/127663648/medium.jpg)
 
@@ -329,14 +332,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **東方湳仔鷹 tong-hong-làm-á-ing**
 
-**註解**
-
 2002⁺ 台華線頂辭典查到的白腹鷂為中國慣用的稱呼，台灣華語通常叫澤鵟，源自日語 チュウヒ
 
 台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
 
+[eBird 資料](https://ebird.org/species/easmah1)
 
-## [灰澤鵟 ハイイロチュウヒ Hen Harrier](https://ebird.org/species/norhar1)
+---
+
+## 灰澤鵟 ハイイロチュウヒ Hen Harrier
 
 ![灰澤鵟 ハイイロチュウヒ Hen Harrier](https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/medium.jpg)
 
@@ -346,13 +350,15 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **殕色湳仔鷹 phú-sik-làm-á-ing**
 
-**註解**
-
 2002⁺ 台華線頂辭典查到的白尾鷂為中國慣用的稱呼，，台灣華語通常叫澤鵟，源自日語 チュウヒ
 
 台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
 
-## [花澤鵟 マダラチュウヒ Pied Harrier](https://ebird.org/species/piehar1)
+[eBird 資料](https://ebird.org/species/norhar1)
+
+---
+
+## 花澤鵟 マダラチュウヒ Pied Harrier
 
 ![花澤鵟 マダラチュウヒ Pied Harrier](https://inaturalist-open-data.s3.amazonaws.com/photos/176375263/medium.jpg)
 
@@ -367,7 +373,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 台語若翻譯成 ti̍k-kông 無意義，故參考生態特性和詞義，翻譯成湳仔 làm-á，沼澤的意思
 
-## [黑鳶 トビ Black Kite](https://ebird.org/species/blakit1)
+[eBird 資料](https://ebird.org/species/piehar1)
+
+---
+
+## 黑鳶 トビ Black Kite
 
 ![黑鳶 トビ Black Kite](https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg)
 
@@ -378,11 +388,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **鶆鴞 lāi-hio̍h**
 - 🎯 **鴟鴞 bā-hio̍h**
 
-**註解**
+[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/blakit1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
+---
 
-## [栗鳶 シロガシラトビ Brahminy Kite](https://ebird.org/species/brakit1)
+## 栗鳶 シロガシラトビ Brahminy Kite
 
 ![栗鳶 シロガシラトビ Brahminy Kite](https://inaturalist-open-data.s3.amazonaws.com/photos/56410339/medium.jpg)
 
@@ -395,11 +405,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **白頭鶆鴞 pe̍h-thâu-lāi-hio̍h**
 - 🎯 **白頭鴟鴞 pe̍h-thâu-bā-hio̍h**
 
-**註解**
+參考特徵、[eBird 資料](https://ebird.org/species/brakit1)
 
-參考特徵
+---
 
-## [白尾海鵰 オジロワシ White-tailed Eagle](https://ebird.org/species/whteag)
+## 白尾海鵰 オジロワシ White-tailed Eagle
 
 ![白尾海鵰 オジロワシ White-tailed Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/164904961/medium.jpg)
 
@@ -409,11 +419,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **白尾海鷹 pe̍h-bué-hái-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/whteag)
 
-參考華語鳥類名錄
+---
 
-## [白腹海鵰 シロハラウミワシ White-bellied Sea-Eagle](https://ebird.org/species/wbseag1)
+## 白腹海鵰 シロハラウミワシ White-bellied Sea-Eagle
 
 ![白腹海鵰 シロハラウミワシ White-bellied Sea-Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/60297171/medium.jpeg)
 
@@ -423,11 +433,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **白腹海鷹 pe̍h-pak-hái-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/wbseag1)
 
-參考華語鳥類名錄
+---
 
-## [灰面鵟鷹 サシバ Gray-faced Buzzard](https://ebird.org/species/gyfbuz1)
+## 灰面鵟鷹 サシバ Gray-faced Buzzard
 
 ![灰面鵟鷹 サシバ Gray-faced Buzzard](https://inaturalist-open-data.s3.amazonaws.com/photos/103974891/medium.jpg)
 
@@ -438,11 +448,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **山後鳥 suann-āu-tsiáu**
 - 🎯 **南路鷹 lâm-lōo-ing**
 
-**註解**
+[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/zh-hant/)、[eBird 資料](https://ebird.org/species/gyfbuz1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、教育部臺灣台語常用詞辭典
+---
 
-## [毛足鵟 ケアシノスリ Rough-legged Hawk](https://ebird.org/species/rolhaw)
+## 毛足鵟 ケアシノスリ Rough-legged Hawk
 
 ![毛足鵟 ケアシノスリ Rough-legged Hawk](https://inaturalist-open-data.s3.amazonaws.com/photos/5813/medium.jpg)
 
@@ -454,11 +464,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 - 🎯 **毛跤鷹 moo-kha-ing**
 - ✳️ 鷹仔 ing-á
 
-**註解**
+1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rolhaw)
 
-參考 1973 Embree台英辭典
+---
 
-## [歐亞鵟 ヨーロッパノスリ Common Buzzard](https://ebird.org/species/combuz5)
+## 歐亞鵟 ヨーロッパノスリ Common Buzzard
 
 ![歐亞鵟 ヨーロッパノスリ Common Buzzard](https://inaturalist-open-data.s3.amazonaws.com/photos/458476446/medium.jpeg)
 
@@ -468,11 +478,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **歐亞鵟 au-a-kông**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/combuz5)
 
-參考華語鳥類名錄
+---
 
-## [大鵟 オオノスリ Upland Buzzard](https://ebird.org/species/uplbuz1)
+## 大鵟 オオノスリ Upland Buzzard
 
 ![大鵟 オオノスリ Upland Buzzard](https://inaturalist-open-data.s3.amazonaws.com/photos/228335432/medium.jpeg)
 
@@ -482,11 +492,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **大鵟 tuā-kông**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/uplbuz1)
 
-參考華語鳥類名錄
+---
 
-## [東方鵟 ノスリ Eastern Buzzard](https://ebird.org/species/combuz6)
+## 東方鵟 ノスリ Eastern Buzzard
 
 ![東方鵟 ノスリ Eastern Buzzard](https://inaturalist-open-data.s3.amazonaws.com/photos/254005853/medium.jpeg)
 
@@ -496,11 +506,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **東方鵟 tong-hong-kông**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/combuz6)
 
-參考華語鳥類名錄
+---
 
-## [虎頭海鵰 オオワシ Steller's Sea-Eagle](https://ebird.org/species/stseag)
+## 虎頭海鵰 オオワシ Steller's Sea-Eagle
 
 ![虎頭海鵰 オオワシ Steller's Sea-Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/133749731/medium.jpeg)
 
@@ -510,11 +520,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **虎頭海鷹 hóo-thâu-hái-ing**
 
-**註解**
+華語鳥類名錄、[eBird 資料](https://ebird.org/species/stseag)
 
-參考華語鳥類名錄
+---
 
-## [灰頭魚鵰 ウオクイワシ Gray-headed Fish-Eagle](https://ebird.org/species/gyhfie1)
+## 灰頭魚鵰 ウオクイワシ Gray-headed Fish-Eagle
 
 ![灰頭魚鵰 ウオクイワシ Gray-headed Fish-Eagle](https://inaturalist-open-data.s3.amazonaws.com/photos/1964061/medium.jpg)
 
@@ -524,6 +534,4 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷹仔", 
 
 🎯 **灰頭魚鷹 hue-thâu-hî-ing**
 
-**註解**
-
-參考英語
+參考英語、[eBird 資料](https://ebird.org/species/gyhfie1)
