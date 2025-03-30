@@ -1,18 +1,18 @@
 ---
-description: 本文整理了戴勝的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 墓壙鳥科 bōng-khòng-tsiáu-kho
+description: 這个頁面整理墓壙鳥科鳥仔 ê 台語名，同齊參考本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "戴勝", "墓壙鳥科"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 墓壙鳥科 bōng-khòng-tsiáu-kho
 
+這个頁面整理戴勝（墓壙鳥科）ê 台語名，同齊參考本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+
 ## [戴勝 ヤツガシラ Eurasian Hoopoe](https://ebird.org/species/hoopoe)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/252322419/medium.png" alt="image" style={{marginBottom: '0rem'}} />
+![戴勝](https://inaturalist-open-data.s3.amazonaws.com/photos/252322419/medium.png)
 
-<div className="image-caption">
 (c) Noam Markus, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -27,6 +27,4 @@ import Image from '@theme/IdealImage';
 - 戴髻鳥 tì-kè-tsiáu
 - 戴勝 tì-sìng
 
-**註解**
-
-參考 2002⁺ 台華線頂辭典
+2002⁺ 台華線頂辭典
