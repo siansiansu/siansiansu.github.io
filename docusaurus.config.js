@@ -142,6 +142,10 @@ const config = {
           name: "og:description",
           content: "鳥類的台語",
         },
+        {
+          name: "google-site-verification",
+          content: "QEDNLI8In3Dve5OuHVx9NckoUPYcN2I05JwHQlVER-M"
+        }
       ],
       image: "img/profile.jpg",
       navbar: {
