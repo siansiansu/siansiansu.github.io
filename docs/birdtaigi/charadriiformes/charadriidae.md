@@ -1,18 +1,18 @@
 ---
-description: 本文整理了鴴的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 鴴仔科 hîng-á-kho
+description: 這个頁面整理鴴仔科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 鴴仔科 hîng-á-kho
 
-## [灰斑鴴 ダイゼン Black-bellied Plover](https://ebird.org/species/bkbplo)
+這个頁面整理鴴仔科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/5468412/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+## 灰斑鴴 ダイゼン Black-bellied Plover
 
-<div className="image-caption">
+![灰斑鴴 ダイゼン Black-bellied Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/5468412/medium.jpeg)
+
 (c) joannerusso, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -21,17 +21,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/bkbplo)
 
-參考華語鳥類名錄、英語名稱
+---
 
-## [太平洋金斑鴴 ムナグロ Pacific Golden-Plover](https://ebird.org/species/pagplo)
+## 太平洋金斑鴴 ムナグロ Pacific Golden-Plover
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/43835792/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![太平洋金斑鴴 ムナグロ Pacific Golden-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/43835792/medium.jpg)
 
-<div className="image-caption">
 (c) James M. Maley, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -39,17 +37,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/pagplo)
 
-參考華語鳥類名錄、英語名稱
+---
 
-## [環頸鴴 ハジロコチドリ Common Ringed Plover](https://ebird.org/species/corplo)
+## 環頸鴴 ハジロコチドリ Common Ringed Plover
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/8956/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![環頸鴴 ハジロコチドリ Common Ringed Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/8956/medium.jpg)
 
-<div className="image-caption">
 (c) Paul Roberts, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -57,17 +53,17 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
-參考華語鳥類名錄、英語名稱。頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/corplo)。
 
-## [小環頸鴴 コチドリ Little Ringed Plover](https://ebird.org/species/lirplo)
+---
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/28895106/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 小環頸鴴 コチドリ Little Ringed Plover
 
-<div className="image-caption">
+![小環頸鴴 コチドリ Little Ringed Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/28895106/medium.jpg)
+
 (c) Геннадий, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -76,17 +72,17 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
-參考華語鳥類名錄、英語名稱。頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/lirplo)。
 
-## [劍鴴 イカルチドリ Long-billed Plover](https://ebird.org/species/lobplo1)
+---
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/173683293/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 劍鴴 イカルチドリ Long-billed Plover
 
-<div className="image-caption">
+![劍鴴 イカルチドリ Long-billed Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/173683293/medium.jpg)
+
 (c) Chuangzao, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -95,17 +91,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/lobplo1)
 
-參考華語鳥類名錄、英語名稱
+---
 
-## [小辮鴴 タゲリ Northern Lapwing](https://ebird.org/species/norlap)
+## 小辮鴴 タゲリ Northern Lapwing
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/189856988/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![小辮鴴 タゲリ Northern Lapwing](https://inaturalist-open-data.s3.amazonaws.com/photos/189856988/medium.jpg)
 
-<div className="image-caption">
 (c) vyatka, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -114,49 +108,43 @@ import Image from '@theme/IdealImage';
 - 🎯 **哇仔 ua-á**
 - 🎯 **豆仔鳥 tāu-á-tsiáu**
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/norlap)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2016⁺ iTaigi、1973 Embree台英辭典
+---
 
-## [跳鴴 ケリ Gray-headed Lapwing](https://ebird.org/species/gyhlap1)
+## 跳鴴 ケリ Gray-headed Lapwing
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2544894/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![跳鴴 ケリ Gray-headed Lapwing](https://inaturalist-open-data.s3.amazonaws.com/photos/2544894/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **跳鴴 thiàu-hîng**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gyhlap1)
 
-參考華語鳥類名錄
+---
 
-## [東方紅胸鴴 オオチドリ Oriental Plover](https://ebird.org/species/oriplo1)
+## 東方紅胸鴴 オオチドリ Oriental Plover
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/64412807/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![東方紅胸鴴 オオチドリ Oriental Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/64412807/medium.jpeg)
 
-<div className="image-caption">
 (c) benjamynweil, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **東方紅胸鴴 tong-hong-âng-hing-hîng**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oriplo1)
 
-參考華語鳥類名錄
+---
 
-## [蒙古鴴 メダイチドリ Siberian Sand-Plover](https://ebird.org/species/lessap2)
+## 蒙古鴴 メダイチドリ Siberian Sand-Plover
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/17506363/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![蒙古鴴 メダイチドリ Siberian Sand-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/17506363/medium.jpeg)
 
-<div className="image-caption">
 (c) johnallcock, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -164,17 +152,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lessap2)
 
-參考華語鳥類名錄
+---
 
-## [青藏鴴 チベットメダイチドリ Tibetan Sand-Plover](https://ebird.org/species/lessap1)
+## 青藏鴴 チベットメダイチドリ Tibetan Sand-Plover
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/132569111/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![青藏鴴 チベットメダイチドリ Tibetan Sand-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/132569111/medium.jpg)
 
-<div className="image-caption">
 (c) Wich’yanan L, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -182,17 +168,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lessap1)
 
-參考華語鳥類名錄
+---
 
-## [鐵嘴鴴 オオメダイチドリ Greater Sand-Plover](https://ebird.org/species/grsplo)
+## 鐵嘴鴴 オオメダイチドリ Greater Sand-Plover
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1935738/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![鐵嘴鴴 オオメダイチドリ Greater Sand-Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/1935738/medium.jpg)
 
-<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -200,17 +184,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/grsplo)
 
-參考華語鳥類名錄
+---
 
-## [東方環頸鴴 シロチドリ Kentish Plover](https://ebird.org/species/kenplo1)
+## 東方環頸鴴 シロチドリ Kentish Plover
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/162627410/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![東方環頸鴴 シロチドリ Kentish Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/162627410/medium.jpg)
 
-<div className="image-caption">
 (c) djhird, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -218,17 +200,17 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
+頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
-參考華語鳥類名錄。頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/kenplo1)。
 
-## [白臉鴴 カオジロシロチドリ White-faced Plover](https://ebird.org/species/whfplo2)
+---
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/3886993/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 白臉鴴 カオジロシロチドリ White-faced Plover
 
-<div className="image-caption">
+![白臉鴴 カオジロシロチドリ White-faced Plover](https://inaturalist-open-data.s3.amazonaws.com/photos/3886993/medium.jpg)
+
 (c) Julien Renoult, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -236,6 +218,4 @@ import Image from '@theme/IdealImage';
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whfplo2)

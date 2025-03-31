@@ -7,6 +7,9 @@
     <loc>https://siansiansu.github.io/sitemap_manual.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://siansiansu.github.io/sitemap.txt</loc>
+    <loc>https://siansiansu.netlify.app/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://siansiansu.netlify.app/sitemap_manual.xml</loc>
   </sitemap>
 </sitemapindex>

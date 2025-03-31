@@ -1,75 +1,67 @@
 ---
-description: 本文整理了賊鷗的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 賊仔鷗科 tsha̍t-á-oo-kho
+description: 這个頁面整理賊仔鷗 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "賊鷗"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 賊仔鷗科 tsha̍t-á-oo-kho
 
-## [長尾賊鷗 シロハラトウゾクカモメ Long-tailed Jaeger](https://ebird.org/species/lotjae)
+這个頁面整理賊仔鷗 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/19757/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 長尾賊鷗 シロハラトウゾクカモメ Long-tailed Jaeger
 
-<div className="image-caption">
+![長尾賊鷗 シロハラトウゾクカモメ Long-tailed Jaeger](https://inaturalist-open-data.s3.amazonaws.com/photos/19757/medium.jpg)
+
 (c) Bill Bouton, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **長尾賊仔鷗 tn̂g-bué-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotjae)
 
-參考華語鳥類名錄
+---
 
-## [短尾賊鷗 クロトウゾクカモメ Parasitic Jaeger](https://ebird.org/species/parjae)
+## 短尾賊鷗 クロトウゾクカモメ Parasitic Jaeger
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/208289/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![短尾賊鷗 クロトウゾクカモメ Parasitic Jaeger](https://inaturalist-open-data.s3.amazonaws.com/photos/208289/medium.jpg)
 
-<div className="image-caption">
 (c) Greg Lasley, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **短尾賊仔鷗 té-bé-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/parjae)
 
-參考華語鳥類名錄
+---
 
-## [中賊鷗 トウゾクカモメ Pomarine Jaeger](https://ebird.org/species/pomjae)
+## 中賊鷗 トウゾクカモメ Pomarine Jaeger
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/19752/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![中賊鷗 トウゾクカモメ Pomarine Jaeger](https://inaturalist-open-data.s3.amazonaws.com/photos/19752/medium.jpg)
 
-<div className="image-caption">
 (c) jomilo75, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 - 🎯 **中賊仔鷗 tiong-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/pomjae)
 
-參考華語鳥類名錄
+---
 
-## [灰賊鷗 オオトウゾクカモメ South Polar Skua](https://ebird.org/species/sopsku1)
+## 灰賊鷗 オオトウゾクカモメ South Polar Skua
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/456556767/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![灰賊鷗 オオトウゾクカモメ South Polar Skua](https://inaturalist-open-data.s3.amazonaws.com/photos/456556767/medium.jpeg)
 
-<div className="image-caption">
 © Charlotte Kirchner, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 - 🎯 **殕色賊仔鷗 phú-sik-tsha̍t-á-oo**
 - ✳️ 賊仔鷗 tsha̍t-á-oo
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sopsku1)

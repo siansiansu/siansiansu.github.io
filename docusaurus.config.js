@@ -81,6 +81,7 @@ const config = {
         sitemap: {
           lastmod: "date",
           filename: "sitemap.xml",
+          ignorePatterns: ['/docs/algorithms/**', 'comments', '/docs/gaming/**'],
           changefreq: null,
           priority: null,
         },

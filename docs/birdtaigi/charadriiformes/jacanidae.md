@@ -1,23 +1,21 @@
 ---
-description: 本文整理了水雉的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 菱角鳥科 lîng-kak-tsiáu-kho
+description: 這个頁面整理菱角鳥科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "菱角鳥", "水雉"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 菱角鳥科 lîng-kak-tsiáu-kho
 
-## [水雉 レンカク Pheasant-tailed Jacana](https://ebird.org/species/phtjac1)
+這个頁面整理菱角鳥科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/25837/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 水雉 レンカク Pheasant-tailed Jacana
 
-<div className="image-caption">
+![水雉 レンカク Pheasant-tailed Jacana](https://inaturalist-open-data.s3.amazonaws.com/photos/25837/medium.jpg)
+
 (c) Dhammika Heenpella, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **菱角鳥 lîng-kak-tsiáu**
 
-**註解**
-
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/phtjac1)
