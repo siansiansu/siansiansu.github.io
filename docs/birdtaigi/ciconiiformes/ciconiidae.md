@@ -1,39 +1,35 @@
 ---
-description: 本文整理了鸛的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 鸛科 kuàn-kho
+description: 這个頁面整理鸛科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鸛"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 鸛科 kuàn-kho
 
-## [黑鸛 ナベコウ Black Stork](https://ebird.org/species/blasto1)
+這个頁面整理鸛科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/198512143/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 黑鸛 ナベコウ Black Stork
 
-<div className="image-caption">
+![黑鸛 ナベコウ Black Stork](https://inaturalist-open-data.s3.amazonaws.com/photos/198512143/medium.jpg)
+
 (c) David Cook, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **烏鸛 oo-kuàn**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/blasto1)
 
-參考華語鳥類名錄
+---
 
-## [東方白鸛 コウノトリ Oriental Stork](https://ebird.org/species/oristo1)
+## 東方白鸛 コウノトリ Oriental Stork
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/754972/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![東方白鸛 コウノトリ Oriental Stork](https://inaturalist-open-data.s3.amazonaws.com/photos/754972/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **東方白鸛 tong-hong-pe̍h-kuàn**
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/oristo1)
