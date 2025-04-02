@@ -1,47 +1,44 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Updated to match a modern Apple-style aesthetic
  */
 
-/* You can override the default Infima variables here. */
 :root {
-  /* Airbnb's primary colors */
-  --ifm-color-primary: #FF385C;
-  --ifm-color-primary-dark: #E31C5F;
-  --ifm-color-primary-darker: #D70466;
-  --ifm-color-primary-darkest: #B30359;
-  --ifm-color-primary-light: #FF4D6D;
-  --ifm-color-primary-lighter: #FF6B83;
-  --ifm-color-primary-lightest: #FF8BA0;
+  /* Apple-inspired monochrome primary colors */
+  --ifm-color-primary: #000000;
+  --ifm-color-primary-dark: #1A1A1A;
+  --ifm-color-primary-darker: #141414;
+  --ifm-color-primary-darkest: #0A0A0A;
+  --ifm-color-primary-light: #333333;
+  --ifm-color-primary-lighter: #4D4D4D;
+  --ifm-color-primary-lightest: #666666;
 
-  /* Airbnb's neutral colors */
+  /* Neutral colors */
   --ifm-color-gray-0: #FFFFFF;
-  --ifm-color-gray-100: #F7F7F7;
-  --ifm-color-gray-200: #EBEBEB;
-  --ifm-color-gray-300: #DDDDDD;
-  --ifm-color-gray-400: #CCCCCC;
-  --ifm-color-gray-500: #717171;
-  --ifm-color-gray-600: #484848;
-  --ifm-color-gray-700: #222222;
+  --ifm-color-gray-100: #F5F5F7;
+  --ifm-color-gray-200: #E5E5E7;
+  --ifm-color-gray-300: #D2D2D4;
+  --ifm-color-gray-400: #A1A1A4;
+  --ifm-color-gray-500: #86868B;
+  --ifm-color-gray-600: #515154;
+  --ifm-color-gray-700: #1D1D1F;
   --ifm-color-gray-800: #000000;
 
   /* Typography */
-  --ifm-font-family-base: Circular, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  --ifm-font-size-base: 15px;
+  --ifm-font-family-base: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ifm-font-size-base: 16px;
   --ifm-code-font-size: 95%;
   --ifm-heading-font-weight: 600;
 
   /* Spacing */
-  --ifm-spacing-horizontal: 24px;
-  --ifm-spacing-vertical: 24px;
+  --ifm-spacing-horizontal: 20px;
+  --ifm-spacing-vertical: 20px;
 
   /* Border radius */
-  --ifm-global-radius: 8px;
-  --ifm-button-border-radius: 8px;
+  --ifm-global-radius: 12px;
+  --ifm-button-border-radius: 12px;
 
   /* Code highlighting */
-  --docusaurus-highlighted-code-line-bg: rgba(255, 56, 92, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.05);
 }
 
 .image-caption {
@@ -58,104 +55,91 @@
   margin-bottom: 0.5rem;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark mode adjustments */
 [data-theme='dark'] {
-  --ifm-color-primary: #FF385C;
-  --ifm-color-primary-dark: #E31C5F;
-  --ifm-color-primary-darker: #D70466;
-  --ifm-color-primary-darkest: #B30359;
-  --ifm-color-primary-light: #FF4D6D;
-  --ifm-color-primary-lighter: #FF6B83;
-  --ifm-color-primary-lightest: #FF8BA0;
-
-  /* Dark mode background and text colors */
-  --ifm-background-color: #1A1A1A;
-  --ifm-background-surface-color: #222222;
-  --ifm-color-content: #F7F7F7;
-  --ifm-color-content-secondary: #EBEBEB;
-
-  --docusaurus-highlighted-code-line-bg: rgba(255, 56, 92, 0.2);
+  --ifm-color-primary: #FFFFFF;
+  --ifm-background-color: #000000;
+  --ifm-background-surface-color: #1D1D1F;
+  --ifm-color-content: #F5F5F7;
+  --ifm-color-content-secondary: #A1A1A4;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
 }
 
-/* Additional Airbnb-style global styles */
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Airbnb-style button hover states */
+/* Modern button hover */
 .button {
   transition: all 0.2s ease;
 }
 
 .button:hover {
   transform: translateY(-2px);
+  opacity: 0.85;
 }
 
-/* Airbnb-style card shadows */
+/* Subtle modern shadows */
 .card {
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: var(--ifm-global-radius);
   border: none;
 }
 
-/* Dark mode card styles */
 [data-theme='dark'] .card {
   background-color: var(--ifm-background-surface-color);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
 }
 
-/* Airbnb-style links */
+/* Monochrome hover & links */
 .navbar__link:hover,
 .footer__link-item:hover {
-  color: var(--ifm-color-primary);
+  color: #000000;
   text-decoration: none;
 }
 
-/* Sidebar item styles */
+[data-theme='dark'] .navbar__link:hover,
+[data-theme='dark'] .footer__link-item:hover {
+  color: #FFFFFF;
+}
+
+/* Sidebar items */
 .menu__link {
-  font-size: 14px;
+  font-size: 15px;
   padding: 0.4rem 0.8rem;
-  border-radius: 8px;
+  border-radius: 12px;
   margin: 0.2rem 0;
   transition: background-color 0.2s ease, color 0.2s ease;
-  color: var(--ifm-color-gray-600);
-}
-
-/* Hover state - only change background and text color */
-.menu__link:hover {
-  background-color: var(--ifm-color-gray-100);
-  color: var(--ifm-color-primary);
-  text-decoration: none;
-}
-
-/* Active state */
-.menu__link--active {
-  font-weight: 600;
-  background-color: rgba(255, 56, 92, 0.1);
-  color: var(--ifm-color-primary);
-}
-
-/* Category styles */
-.menu__link--sublist {
-  font-weight: 600;
   color: var(--ifm-color-gray-700);
 }
 
-/* Dark mode styles */
+.menu__link:hover {
+  background-color: var(--ifm-color-gray-100);
+  color: #000000;
+}
+
 [data-theme='dark'] .menu__link {
-  color: var(--ifm-color-gray-300);
+  color: var(--ifm-color-gray-100);
 }
 
 [data-theme='dark'] .menu__link:hover {
   background-color: var(--ifm-color-gray-800);
-  color: var(--ifm-color-primary);
+  color: #FFFFFF;
 }
 
-[data-theme='dark'] .menu__link--sublist {
-  color: var(--ifm-color-gray-200);
+.menu__link--active {
+  font-weight: 600;
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #000000;
 }
 
-/* Nested items styles */
+[data-theme='dark'] .menu__link--active {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #FFFFFF;
+}
+
+/* Nested items */
 .menu__list .menu__list {
   padding-left: 1rem;
   border-left: 2px solid var(--ifm-color-gray-200);

@@ -1,18 +1,18 @@
 ---
-description: 本文整理了翠鳥的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 釣魚翁科 tiò-hî-ang-kho
+description: 這个頁面整理釣魚翁科鳥仔（翠鳥） ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "釣魚翁", "翠鳥"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 釣魚翁科 tiò-hî-ang-kho
 
-## [翠鳥 カワセミ Common Kingfisher](https://ebird.org/species/comkin1)
+這个頁面整理釣魚翁科鳥仔（翠鳥） ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 翠鳥 カワセミ Common Kingfisher
 
-<div className="image-caption">
+![翠鳥 カワセミ Common Kingfisher](https://inaturalist-open-data.s3.amazonaws.com/photos/345215422/medium.jpg)
+
 (c) Tobias Polzer, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -25,17 +25,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、2002⁺ 台華線頂辭典、2011⁺ 教育部辭典⁺、2016⁺ iTaigi、[eBird 資料](https://ebird.org/species/comkin1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典、2002⁺ 台華線頂辭典、2011⁺ 教育部辭典⁺、2016⁺ iTaigi
+---
 
-## [黑背三趾翠鳥 ミツユビカワセミ Black-backed Dwarf-Kingfisher](https://ebird.org/species/bkbkin1)
+## 黑背三趾翠鳥 ミツユビカワセミ Black-backed Dwarf-Kingfisher
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/389472567/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![黑背三趾翠鳥 ミツユビカワセミ Black-backed Dwarf-Kingfisher](https://inaturalist-open-data.s3.amazonaws.com/photos/389472567/medium.jpeg)
 
-<div className="image-caption">
 © Focus Saranpat Ouilapan, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -48,17 +46,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
 
-**註解**
+參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/bkbkin1)
 
-參考華語鳥類名錄、英語
+---
 
-## [赤翡翠 アカショウビン Ruddy Kingfisher](https://ebird.org/species/rudkin1)
+## 赤翡翠 アカショウビン Ruddy Kingfisher
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![赤翡翠 アカショウビン Ruddy Kingfisher](https://inaturalist-open-data.s3.amazonaws.com/photos/129780915/medium.jpg)
 
-<div className="image-caption">
 (c) David Bishop, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -77,17 +73,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
 
-**註解**
+參考 2002⁺ 台華線頂辭典、英語、[eBird 資料](https://ebird.org/species/rudkin1)
 
-參考 2002⁺ 台華線頂辭典、英語
+---
 
-## [蒼翡翠 アオショウビン White-throated Kingfisher](https://ebird.org/species/whtkin2)
+## 蒼翡翠 アオショウビン White-throated Kingfisher
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![蒼翡翠 アオショウビン White-throated Kingfisher](https://inaturalist-open-data.s3.amazonaws.com/photos/204592734/medium.jpg)
 
-<div className="image-caption">
 (c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -102,17 +96,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/whtkin2)
 
-參考英語
+---
 
-## [黑頭翡翠 ヤマショウビン Black-capped Kingfisher](https://ebird.org/species/blckin1)
+## 黑頭翡翠 ヤマショウビン Black-capped Kingfisher
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG" alt="image" style={{marginBottom: '0rem'}} />
+![黑頭翡翠 ヤマショウビン Black-capped Kingfisher](https://inaturalist-open-data.s3.amazonaws.com/photos/802959/medium.JPG)
 
-<div className="image-caption">
 (c) Carmelo López Abad, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -127,17 +119,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/blckin1)
 
-參考英語
+---
 
-## [白領翡翠 ナンヨウショウビン Collared Kingfisher](https://ebird.org/species/colkin1)
+## 白領翡翠 ナンヨウショウビン Collared Kingfisher
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![白領翡翠 ナンヨウショウビン Collared Kingfisher](https://inaturalist-open-data.s3.amazonaws.com/photos/333378715/medium.jpg)
 
-<div className="image-caption">
 (c) 蔡志偉, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -152,17 +142,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/colkin1)
 
-參考英語
+---
 
-## [斑翡翠 ヒメヤマセミ Pied Kingfisher](https://ebird.org/species/piekin1)
+## 斑翡翠 ヒメヤマセミ Pied Kingfisher
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![斑翡翠 ヒメヤマセミ Pied Kingfisher](https://inaturalist-open-data.s3.amazonaws.com/photos/680634/medium.jpg)
 
-<div className="image-caption">
 (c) Koshy Koshy, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -177,6 +165,4 @@ import Image from '@theme/IdealImage';
 - ✳️ 鴗鳥 liu-tshuì
 - ✳️ 翡翠 huí-tshuì
 
-**註解**
-
-參考英語
+參考英語、[eBird 資料](https://ebird.org/species/piekin1)
