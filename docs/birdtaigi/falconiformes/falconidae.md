@@ -1,35 +1,33 @@
 ---
-description: 本文整理了隼的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 隼科 tsún-kho
+description: 這个頁面整理隼科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "隼"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 隼科 tsún-kho
 
-## [黃爪隼 ヒメチョウゲンボウ Lesser Kestrel](https://ebird.org/species/leskes1)
+這个頁面整理隼科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457504160/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 黃爪隼 ヒメチョウゲンボウ Lesser Kestrel
 
-<div className="image-caption">
+![黃爪隼 ヒメチョウゲンボウ Lesser Kestrel](https://inaturalist-open-data.s3.amazonaws.com/photos/457504160/medium.jpg)
+
 © Timothy Whitehead, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 - 🎯 **黃跤鷹 n̂g-kha-ing**
 - ✳️ 鷹仔 ing-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/leskes1)
 
-參考華語鳥類名錄
+---
 
-## [紅隼 チョウゲンボウ Eurasian Kestrel](https://ebird.org/species/eurkes)
+## 紅隼 チョウゲンボウ Eurasian Kestrel
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/202734391/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅隼 チョウゲンボウ Eurasian Kestrel](https://inaturalist-open-data.s3.amazonaws.com/photos/202734391/medium.jpg)
 
-<div className="image-caption">
 (c) Luca Ghiraldi, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -37,17 +35,15 @@ import Image from '@theme/IdealImage';
 - 紅隼 âng-tsún
 - ✳️ 鷹仔 ing-á
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/eurkes)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [紅腳隼 アカアシチョウゲンボウ Amur Falcon](https://ebird.org/species/amufal1)
+## 紅腳隼 アカアシチョウゲンボウ Amur Falcon
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1581574/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅腳隼 アカアシチョウゲンボウ Amur Falcon](https://inaturalist-open-data.s3.amazonaws.com/photos/1581574/medium.jpg)
 
-<div className="image-caption">
 (c) Nigel Voaden, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -57,17 +53,15 @@ import Image from '@theme/IdealImage';
 - 阿穆爾鷹 a-bo̍k-ní-ing
 - ✳️ 鷹仔 ing-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/amufal1)
 
-參考華語鳥類名錄
+---
 
-## [灰背隼 コチョウゲンボウ Merlin](https://ebird.org/species/merlin)
+## 灰背隼 コチョウゲンボウ Merlin
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/200780/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![灰背隼 コチョウゲンボウ Merlin](https://inaturalist-open-data.s3.amazonaws.com/photos/200780/medium.jpg)
 
-<div className="image-caption">
 (c) BJ Stacey, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -75,17 +69,15 @@ import Image from '@theme/IdealImage';
 - 灰背隼 hue-puē-tsún
 - ✳️ 鷹仔 ing-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/merlin)
 
-參考華語鳥類名錄
+---
 
-## [燕隼 チゴハヤブサ Eurasian Hobby](https://ebird.org/species/eurhob)
+## 燕隼 チゴハヤブサ Eurasian Hobby
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/206987601/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![燕隼 チゴハヤブサ Eurasian Hobby](https://inaturalist-open-data.s3.amazonaws.com/photos/206987601/medium.jpeg)
 
-<div className="image-caption">
 (c) Наталия, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -95,23 +87,19 @@ import Image from '@theme/IdealImage';
 - 燕鷹 iàn-ing
 - ✳️ 鷹仔 ing-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurhob)
 
-參考華語鳥類名錄
+---
 
-## [遊隼 ハヤブサ Peregrine Falcon](https://ebird.org/species/perfal)
+## 遊隼 ハヤブサ Peregrine Falcon
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/332585359/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![遊隼 ハヤブサ Peregrine Falcon](https://inaturalist-open-data.s3.amazonaws.com/photos/332585359/medium.jpg)
 
-<div className="image-caption">
 (c) silvertop41, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **鴨虎 ah-hóo**
 - ✳️ 鷹仔 ing-á
 
-**註解**
-
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/perfal)

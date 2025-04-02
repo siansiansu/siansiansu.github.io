@@ -1,18 +1,18 @@
 ---
-description: 本文整理了雉科的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 雉雞仔科 thī-kei-á-kho
+description: 這个頁面整理雉雞仔科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "雉雞仔", "鷓鴣"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 雉雞仔科 thī-kei-á-kho
 
-## [台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge](https://ebird.org/species/taipar1)
+這个頁面整理雉雞仔科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/47721510/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge
 
-<div className="image-caption">
+![台灣山鷓鴣 ミヤマテッケイ Taiwan Partridge](https://inaturalist-open-data.s3.amazonaws.com/photos/47721510/medium.jpg)
+
 @Iain Robson no rights reserved
-</div>
 
 **台語名**
 
@@ -24,18 +24,15 @@ import Image from '@theme/IdealImage';
 - 深山鷓鴣 tshim-suann-tsià-koo
 - ✳️ 紅跤仔 âng-kha-á
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、玉山國家公園鳥類資訊系統、[eBird 資料](https://ebird.org/species/taipar1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典、玉山國家公園鳥類資訊系統
+---
 
+## 黑長尾雉 ミカドキジ Mikado Pheasant
 
-## [黑長尾雉 ミカドキジ Mikado Pheasant](https://ebird.org/species/mikphe1)
+![黑長尾雉 ミカドキジ Mikado Pheasant](https://inaturalist-open-data.s3.amazonaws.com/photos/101854803/medium.jpeg)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/101854803/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<div className="image-caption">
 (c) Christoph Moning, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -44,17 +41,15 @@ import Image from '@theme/IdealImage';
 - 🎯 **帝雉 tè-thī**
 - 🎯 烏長尾雉 oo-tng-bué-thī
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/mikphe1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [環頸雉 コウライキジ Ring-necked Pheasant](https://ebird.org/species/rinphe1)
+## 環頸雉 コウライキジ Ring-necked Pheasant
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/176733796/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![環頸雉 コウライキジ Ring-necked Pheasant](https://inaturalist-open-data.s3.amazonaws.com/photos/176733796/medium.jpg)
 
-<div className="image-caption">
 (c) Frank Lin, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -62,17 +57,15 @@ import Image from '@theme/IdealImage';
 - 環頸雉 khuân-kīng-thī
 - ✳️ 野雞 iá-ke
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/rinphe1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [藍腹鷴 サンケイ Swinhoe's Pheasant](https://ebird.org/species/swiphe1)
+## 藍腹鷴 サンケイ Swinhoe's Pheasant
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/53858000/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![藍腹鷴 サンケイ Swinhoe's Pheasant](https://inaturalist-open-data.s3.amazonaws.com/photos/53858000/medium.jpeg)
 
-<div className="image-caption">
 (c) Gaozi Chen, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -84,52 +77,45 @@ import Image from '@theme/IdealImage';
 - ✳️ 紅跤仔 âng-kha-á
 - ✳️ 雉雞 thī-ke
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/swiphe1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [藍孔雀 インドクジャク Indian Peafowl](https://ebird.org/species/compea)
+## 藍孔雀 インドクジャク Indian Peafowl
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457151108/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![藍孔雀 インドクジャク Indian Peafowl](https://inaturalist-open-data.s3.amazonaws.com/photos/457151108/medium.jpeg)
 
-<div className="image-caption">
 © Rohit Naniwadekar, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 - 🎯 **藍孔雀 nâ-khóng-tshiok**
 - 🎯 **印度孔雀 ìn-tōo-khóng-tshiok**
 
-**註解**
+參考[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、英語、[eBird 資料](https://ebird.org/species/compea)
 
-參考教育部台灣台語常用詞辭典、英語
+---
 
-## [台灣竹雞 テッケイ Taiwan Bamboo-Partridge](https://ebird.org/species/taibap1)
+## 台灣竹雞 テッケイ Taiwan Bamboo-Partridge
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/120166980/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![台灣竹雞 テッケイ Taiwan Bamboo-Partridge](https://inaturalist-open-data.s3.amazonaws.com/photos/120166980/medium.jpeg)
 
-<div className="image-caption">
 (c) chiuluan, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 - 🎯 **台灣竹雞 tâi-uân-tik-ke**
 - 🎯 竹雞 tik-ke
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taibap1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
+## 小鵪鶉 ヒメウズラ Blue-breasted Quail
 
-## [小鵪鶉 ヒメウズラ Blue-breasted Quail](https://ebird.org/species/blbqua1)
+![小鵪鶉 ヒメウズラ Blue-breasted Quail](https://inaturalist-open-data.s3.amazonaws.com/photos/34263960/medium.jpeg)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/34263960/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<div className="image-caption">
 (c) harshithjv, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -140,18 +126,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 無尾鵪鶉 bô-bué-ian-thun
 - ✳️ **紅腹鶉 âng-hôo-tshun
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/blbqua1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典
+---
 
+## 鵪鶉 ウズラ Japanese Quail
 
-## [鵪鶉 ウズラ Japanese Quail](https://ebird.org/species/japqua)
+![鵪鶉 ウズラ Japanese Quail](https://inaturalist-open-data.s3.amazonaws.com/photos/2708257/medium.jpg)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2708257/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
-
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -159,17 +142,15 @@ import Image from '@theme/IdealImage';
 - 🎯 **紅腹鶉 âng-hôo-tshun
 - 🎯 無尾鵪鶉 bô-bué-ian-thun
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/japqua)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典、2016⁺ iTaigi、1973 Embree台英辭典
+---
 
-## [雷鳥 ライチョウ Rock Ptarmigan](https://ebird.org/species/rocpta1)
+## 雷鳥 ライチョウ Rock Ptarmigan
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/45166074/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![雷鳥 ライチョウ Rock Ptarmigan](https://inaturalist-open-data.s3.amazonaws.com/photos/45166074/medium.jpg)
 
-<div className="image-caption">
 (c) Ryan Shaw, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -177,6 +158,4 @@ import Image from '@theme/IdealImage';
 - 🎯 **雷鳥 luî-tsiáu**
 - 🎯 **雷公鳥 luî-kong-tsiáu**
 
-**註解**
-
-參考日語、英語
+參考日語、英語、[eBird 資料](https://ebird.org/species/rocpta1)
