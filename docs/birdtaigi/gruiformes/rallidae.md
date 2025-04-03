@@ -1,18 +1,18 @@
 ---
+title: 米雞仔科 bí-ke-á-kho
 description: 本文整理了秧雞的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "米雞仔", "秧雞"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 米雞仔科 bí-ke-á-kho
 
-## [西方秧雞 ヨーロッパクイナ Water Rail](https://ebird.org/species/watrai1)
+這个頁面整理米雞仔科（秧雞）鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址鏈，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457442495/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 西方秧雞 ヨーロッパクイナ Water Rail
 
-<div className="image-caption">
+![西方秧雞 ヨーロッパクイナ Water Rail](https://inaturalist-open-data.s3.amazonaws.com/photos/457442495/medium.jpg)
+
 © Gergely Nigg, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -25,17 +25,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 紅雞 âng-kue
 - ✳️ 青跤仔 tshenn-kha-á
 
-**註解**
+參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/watrai1)
 
-參考華語鳥類名錄、日語
+---
 
-## [東亞秧雞 クイナ Brown-cheeked Rail](https://ebird.org/species/bncrai1)
+## 東亞秧雞 クイナ Brown-cheeked Rail
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/351215957/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![東亞秧雞 クイナ Brown-cheeked Rail](https://inaturalist-open-data.s3.amazonaws.com/photos/351215957/medium.jpeg)
 
-<div className="image-caption">
 © mami_t_t, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -47,17 +45,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 紅雞 âng-kue
 - ✳️ 青跤仔 tshenn-kha-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/bncrai1)
 
-參考華語鳥類名錄
+---
 
-## [灰胸秧雞 ハシナガクイナ Slaty-breasted Rail](https://ebird.org/species/slbrai1)
+## 灰胸秧雞 ハシナガクイナ Slaty-breasted Rail
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/11787275/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![灰胸秧雞 ハシナガクイナ Slaty-breasted Rail](https://inaturalist-open-data.s3.amazonaws.com/photos/11787275/medium.jpeg)
 
-<div className="image-caption">
 (c) Catalina Tong, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -69,17 +65,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 紅雞 âng-kue
 - ✳️ 青跤仔 tshenn-kha-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/slbrai1)
 
-參考華語鳥類名錄
+---
 
-## [斑胸秧雞 コモンクイナ Spotted Crake](https://ebird.org/species/spocra1)
+## 斑胸秧雞 コモンクイナ Spotted Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/426872479/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![斑胸秧雞 コモンクイナ Spotted Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/426872479/medium.jpeg)
 
-<div className="image-caption">
 © SIA, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -91,17 +85,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 紅雞 âng-kue
 - ✳️ 青跤仔 tshenn-kha-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/spocra1)
 
-參考華語鳥類名錄
+---
 
-## [紅冠水雞 バン Eurasian Moorhen](https://ebird.org/species/commoo3)
+## 紅冠水雞 バン Eurasian Moorhen
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅冠水雞 バン Eurasian Moorhen](https://inaturalist-open-data.s3.amazonaws.com/photos/171773229/medium.jpg)
 
-<div className="image-caption">
 (c) Alexis Lours, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -116,17 +108,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 紅雞 âng-kue
 - ✳️ 青跤仔 tshenn-kha-á
 
-**註解**
+參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/commoo3)
 
-參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [白冠雞 オオバン Eurasian Coot](https://ebird.org/species/eurcoo)
+## 白冠雞 オオバン Eurasian Coot
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![白冠雞 オオバン Eurasian Coot](https://inaturalist-open-data.s3.amazonaws.com/photos/123574818/medium.jpg)
 
-<div className="image-caption">
 (c) Wei Li Jiang, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -134,17 +124,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 烏雞仔 oo-ke-á
 - ✳️ 烏水雞 oo-súi-ke
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/eurcoo)
 
-參考華語鳥類名錄
+---
 
-## [灰頭紫水雞 ハイガシラセイケイ Gray-headed Swamphen](https://ebird.org/species/purswa3)
+## 灰頭紫水雞 ハイガシラセイケイ Gray-headed Swamphen
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/344911929/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![灰頭紫水雞 ハイガシラセイケイ Gray-headed Swamphen](https://inaturalist-open-data.s3.amazonaws.com/photos/344911929/medium.jpg)
 
-<div className="image-caption">
 (c) cdewerowe, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -155,49 +143,43 @@ import Image from '@theme/IdealImage';
 - ✳️ 水雞 tsuí-kue
 - ✳️ 米雞仔 bí-ke-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/purswa3)
 
-參考華語鳥類名錄
+---
 
-## [白眉秧雞 マミジロクイナ White-browed Crake](https://ebird.org/species/whbcra1)
+## 白眉秧雞 マミジロクイナ White-browed Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/441732701/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![白眉秧雞 マミジロクイナ White-browed Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/441732701/medium.jpeg)
 
-<div className="image-caption">
 © Legawa, Everest C, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 🎯 **白眉米雞仔 pe̍h-bâi-bí-ke-á**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/whbcra1)
 
-參考華語鳥類名錄
+---
 
-## [董雞 ツルクイナ Watercock](https://ebird.org/species/waterc1)
+## 董雞 ツルクイナ Watercock
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1513783/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![董雞 ツルクイナ Watercock](https://inaturalist-open-data.s3.amazonaws.com/photos/1513783/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **田頓 tshân-tòm**
 
-**註解**
+參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/waterc1)
 
-參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [白腹秧雞 シロハラクイナ White-breasted Waterhen](https://ebird.org/species/whbwat1)
+## 白腹秧雞 シロハラクイナ White-breasted Waterhen
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![白腹秧雞 シロハラクイナ White-breasted Waterhen](https://inaturalist-open-data.s3.amazonaws.com/photos/70658386/medium.jpeg)
 
-<div className="image-caption">
 (c) bscrl, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -210,17 +192,15 @@ import Image from '@theme/IdealImage';
 - 白胸秧雞 pe̍h-hing-iong-kue
 - ✳️ 紅尻川仔 âng-kha-tshng-á
 
-**註解**
+參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whbwat1)
 
-參考 1973 Embree台英辭典、2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [紅腳秧雞 ナンヨウオオクイナ Red-legged Crake](https://ebird.org/species/relcra1)
+## 紅腳秧雞 ナンヨウオオクイナ Red-legged Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13561160/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![紅腳秧雞 ナンヨウオオクイナ Red-legged Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/13561160/medium.jpeg)
 
-<div className="image-caption">
 (c) tanhk, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -229,17 +209,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 紅跤鳥 âng-kha-tsiáu
 - ✳️ 米雞仔 bí-ke-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/relcra1)
 
-參考華語鳥類名錄
+---
 
-## [灰腳秧雞 オオクイナ Slaty-legged Crake](https://ebird.org/species/sllcra1)
+## 灰腳秧雞 オオクイナ Slaty-legged Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/80007025/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![灰腳秧雞 オオクイナ Slaty-legged Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/80007025/medium.jpg)
 
-<div className="image-caption">
 (c) Sharma BC, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -247,17 +225,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 秧雞 iong-kue
 - ✳️ 米雞仔 bí-ke-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sllcra1)
 
-參考華語鳥類名錄
+---
 
-## [緋秧雞 ヒクイナ Ruddy-breasted Crake](https://ebird.org/species/rubcra1)
+## 緋秧雞 ヒクイナ Ruddy-breasted Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/89570100/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![緋秧雞 ヒクイナ Ruddy-breasted Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/89570100/medium.jpg)
 
-<div className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -272,17 +248,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 米雞仔 bí-ke-á
 - ✳️ 紅跤鳥 âng-kha-tsiáu
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rubcra1)
 
-參考華語鳥類名錄
+---
 
-## [斑脇秧雞 コウライクイナ Band-bellied Crake](https://ebird.org/species/babcra1)
+## 斑脇秧雞 コウライクイナ Band-bellied Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![斑脇秧雞 コウライクイナ Band-bellied Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/14585537/medium.jpg)
 
-<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -291,17 +265,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 水雞 tsuí-kue
 - ✳️ 米雞仔 bí-ke-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/babcra1)
 
-參考華語鳥類名錄
+---
 
-## [紅腳苦惡鳥 チャバネクイナ Brown Crake](https://ebird.org/species/brocra1)
+## 紅腳苦惡鳥 チャバネクイナ Brown Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/398887224/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅腳苦惡鳥 チャバネクイナ Brown Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/398887224/medium.jpg)
 
-<div className="image-caption">
 © Sun Jiao, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -310,17 +282,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 姑婆鳥 koo-pō-tsiáu
 - ✳️ 苦惡鳥 khóo-ònn-tsiáu
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/brocra1)
 
-參考華語鳥類名錄
+---
 
-## [小秧雞 ヒメクイナ Baillon's Crake](https://ebird.org/species/baicra1)
+## 小秧雞 ヒメクイナ Baillon's Crake
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![小秧雞 ヒメクイナ Baillon's Crake](https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg)
 
-<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -329,6 +299,4 @@ import Image from '@theme/IdealImage';
 - ✳️ 水雞 tsuí-kue
 - ✳️ 米雞仔 bí-ke-á
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/baicra1)
