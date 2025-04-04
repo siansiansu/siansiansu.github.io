@@ -1,87 +1,77 @@
 ---
+title: 海燕仔科 hái-iàn-á-kho
 description: 本文整理了海燕的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "海燕"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 海燕仔科 hái-iàn-á-kho
 
-## [黃蹼洋海燕 アシナガウミツバメ Wilson's Storm-Petrel](https://ebird.org/species/wispet)
+這个頁面整理海燕仔科鳥仔（海燕） ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/456928200/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 黃蹼洋海燕 アシナガウミツバメ Wilson's Storm-Petrel
 
-<div className="image-caption">
+![黃蹼洋海燕 アシナガウミツバメ Wilson's Storm-Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/456928200/medium.jpg)
+
 © Ingvild Riska, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 🎯 **黃扒洋海燕仔 n̂g-pê-iûnn-hái-iàn-á**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/wispet)
 
-參考華語鳥類名錄
+---
 
-## [白腰叉尾海燕 コシジロウミツバメ Leach's Storm-Petrel](https://ebird.org/species/lcspet)
+## 白腰叉尾海燕 コシジロウミツバメ Leach's Storm-Petrel
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/97169797/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![白腰叉尾海燕 コシジロウミツバメ Leach's Storm-Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/97169797/medium.jpg)
 
-<div className="image-caption">
 (c) pleasantbaymac, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **白腰叉尾海燕仔 pe̍h-io-tshe-bé-hái-iàn-á**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lcspet)
 
-參考華語鳥類名錄
+---
 
-## [黑叉尾海燕 ヒメクロウミツバメ Swinhoe's Storm-Petrel](https://ebird.org/species/swspet)
+## 黑叉尾海燕 ヒメクロウミツバメ Swinhoe's Storm-Petrel
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/26332137/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![黑叉尾海燕 ヒメクロウミツバメ Swinhoe's Storm-Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/26332137/medium.jpeg)
 
-<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **烏叉尾海燕仔 oo-tshe-bé-hái-iàn-á**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/swspet)
 
-參考華語鳥類名錄
+---
 
-## [日本叉尾海燕 クロウミツバメ Matsudaira's Storm-Petrel](https://ebird.org/species/maspet2)
+## 日本叉尾海燕 クロウミツバメ Matsudaira's Storm-Petrel
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/232431/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![日本叉尾海燕 クロウミツバメ Matsudaira's Storm-Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/232431/medium.jpg)
 
-<div className="image-caption">
 (c) Tony Morris, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **日本叉尾海燕仔 ji̍t-pún-tshe-bé-hái-iàn-á**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/maspet2)
 
-參考華語鳥類名錄
+---
 
-## [褐翅叉尾海燕 オーストンウミツバメ Tristram's Storm-Petrel](https://ebird.org/species/trspet)
+## 褐翅叉尾海燕 オーストンウミツバメ Tristram's Storm-Petrel
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/279914354/original.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![褐翅叉尾海燕 オーストンウミツバメ Tristram's Storm-Petrel](https://inaturalist-open-data.s3.amazonaws.com/photos/279914354/original.jpg)
 
-<div className="image-caption">
 © Tony Palliser, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
 🎯 **赤翅叉尾海燕仔 tshiah-tshì-tshe-bé-hái-iàn-á**
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/trspet)

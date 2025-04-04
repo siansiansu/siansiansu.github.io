@@ -1,18 +1,18 @@
 ---
-description: 本文整理了信天翁的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 信天翁科 sìn-thian-ang-kho
+description: 這个頁面整理信天翁科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，以期待會當予未來較精確 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "信天翁"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 信天翁科 sìn-thian-ang-kho
 
-## [黑背信天翁 コアホウドリ Laysan Albatross](https://ebird.org/species/layalb)
+這个頁面整理信天翁科鳥仔 ê 台語名，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，以期待會當予未來較精確 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12671058/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+## 黑背信天翁 コアホウドリ Laysan Albatross
 
-<div className="image-caption">
+![黑背信天翁 コアホウドリ Laysan Albatross](https://inaturalist-open-data.s3.amazonaws.com/photos/12671058/medium.jpeg)
+
 (c) Frank, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -22,17 +22,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 信天翁 sìn-thian-ang
 - ✳️ 海鵝 hái-gô
 
-**註解**
+參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/layalb)
 
-參考華語鳥類名錄、2002⁺ 台華線頂辭典
+---
 
-## [黑腳信天翁 クロアシアホウドリ Black-footed Albatross](https://ebird.org/species/bkfalb)
+## 黑腳信天翁 クロアシアホウドリ Black-footed Albatross
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/4767337/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![黑腳信天翁 クロアシアホウドリ Black-footed Albatross](https://inaturalist-open-data.s3.amazonaws.com/photos/4767337/medium.jpeg)
 
-<div className="image-caption">
 (c) David J Barton, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -42,17 +40,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 信天翁 sìn-thian-ang
 - ✳️ 海鵝 hái-gô
 
-**註解**
+參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/bkfalb)
 
-參考華語鳥類名錄、2002⁺ 台華線頂辭典
+---
 
-## [短尾信天翁 アホウドリ Short-tailed Albatross](https://ebird.org/species/shtalb)
+## 短尾信天翁 アホウドリ Short-tailed Albatross
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/186779763/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![短尾信天翁 アホウドリ Short-tailed Albatross](https://inaturalist-open-data.s3.amazonaws.com/photos/186779763/medium.jpg)
 
-<div className="image-caption">
 (c) Tony Morris, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -62,6 +58,4 @@ import Image from '@theme/IdealImage';
 - ✳️ 信天翁 sìn-thian-ang
 - ✳️ 海鵝 hái-gô
 
-**註解**
-
-參考華語鳥類名錄、2002⁺ 台華線頂辭典
+參考華語鳥類名錄、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/shtalb)
