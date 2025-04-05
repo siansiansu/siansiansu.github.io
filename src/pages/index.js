@@ -20,7 +20,7 @@ export function HomepageHeader() {
         />
       </div>
       <h1 className={styles.name}>Soo bîn-hiân</h1>
-      <p className={styles.title}>Tâi-uân lâng | Nature Lover | Software Engineer</p>
+      <p className={styles.title}>Tâi-uân lâng | Wildlife Lover | Software Engineer</p>
 
       <div className={styles.socialLinks}>
         <Link

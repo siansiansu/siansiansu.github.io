@@ -1,18 +1,18 @@
 ---
-description: 本文整理了鷦鶯、扇尾鶯、縫葉鶯鳥類的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 扇尾鶯科 sìnn-bué-ing-kho
+description: 扇尾鶯科（sìnn-bué-ing-kho，例如：鷦鶯、扇尾鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶯", "鷦鶯"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 扇尾鶯科 sìnn-bué-ing-kho
 
-## [斑紋鷦鶯 Striped Prinia](https://ebird.org/species/strpri8)
+扇尾鶯科（sìnn-bué-ing-kho，例如：鷦鶯、扇尾鶯）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/36122856/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+## 斑紋鷦鶯 Striped Prinia
 
-<div className="image-caption">
+![斑紋鷦鶯 Striped Prinia](https://inaturalist-open-data.s3.amazonaws.com/photos/36122856/medium.jpeg)
+
 (c) breeze-lin, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -20,17 +20,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 布袋鳥 pòo-tē-tsiáu
 - ✳️ 望冬丟仔 bāng-tang-tiú-á
 
-**註解**
+頭前加上特徵、[eBird 資料](https://ebird.org/species/strpri8)
 
-頭前加上特徵
+---
 
-## [灰頭鷦鶯 アオハウチワドリ Yellow-bellied Prinia](https://ebird.org/species/yebpri1)
+## 灰頭鷦鶯 アオハウチワドリ Yellow-bellied Prinia
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/293220944/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![灰頭鷦鶯 アオハウチワドリ Yellow-bellied Prinia](https://inaturalist-open-data.s3.amazonaws.com/photos/293220944/medium.jpg)
 
-<div className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -38,17 +36,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 布袋鳥 pòo-tē-tsiáu
 - ✳️ 望冬丟仔 bāng-tang-tiú-á
 
-**註解**
+頭前加上特徵、[eBird 資料](https://ebird.org/species/yebpri1)
 
-頭前加上特徵
+---
 
-## [褐頭鷦鶯 アジアマミハウチワドリ Plain Prinia](https://ebird.org/species/plapri1)
+## 褐頭鷦鶯 アジアマミハウチワドリ Plain Prinia
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/90040125/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![褐頭鷦鶯 アジアマミハウチワドリ Plain Prinia](https://inaturalist-open-data.s3.amazonaws.com/photos/90040125/medium.jpg)
 
-<div className="image-caption">
 (c) Uday Agashe, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -56,17 +52,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 布袋鳥 pòo-tē-tsiáu
 - ✳️ 望冬丟仔 bāng-tang-tiú-á
 
-**註解**
+頭前加上特徵、[eBird 資料](https://ebird.org/species/plapri1)
 
-頭前加上特徵
+---
 
-## [棕扇尾鶯 セッカ Zitting Cisticola](https://ebird.org/species/zitcis1)
+## 棕扇尾鶯 セッカ Zitting Cisticola
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/32875519/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![棕扇尾鶯 セッカ Zitting Cisticola](https://inaturalist-open-data.s3.amazonaws.com/photos/32875519/medium.jpg)
 
-<div className="image-caption">
 (c) Bird Explorers, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -74,17 +68,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 布袋鳥 pòo-tē-tsiáu
 - ✳️ 布袋鳥仔 pòo-tē-tsiáu-á
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/zitcis1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [黃頭扇尾鶯 タイワンセッカ Golden-headed Cisticola](https://ebird.org/species/gohcis1)
+## 黃頭扇尾鶯 タイワンセッカ Golden-headed Cisticola
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/56925736/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![黃頭扇尾鶯 タイワンセッカ Golden-headed Cisticola](https://inaturalist-open-data.s3.amazonaws.com/photos/56925736/medium.jpg)
 
-<div className="image-caption">
 (c) Ron Greer, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -93,22 +85,18 @@ import Image from '@theme/IdealImage';
 - ✳️ 塚仔鳥 thióng-á-tsiáu
 - ✳️ 布袋鳥 pòo-tē-tsiáu
 
-**註解**
+頭前加上特徵、[eBird 資料](https://ebird.org/species/gohcis1)
 
-頭前加上特徵
+---
 
-## [長尾縫葉鶯 オナガサイホウチョウ Common Tailorbird](https://ebird.org/species/comtai1)
+## 長尾縫葉鶯 オナガサイホウチョウ Common Tailorbird
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/56547209/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![長尾縫葉鶯 オナガサイホウチョウ Common Tailorbird](https://inaturalist-open-data.s3.amazonaws.com/photos/56547209/medium.jpeg)
 
-<div className="image-caption">
 (c) tonipons, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **長尾裁縫鳥 tn̂g-bé-tshâi-hông-tsiáu**
 
-**註解**
-
-參考華語、日語
+參考華語、日語、[eBird 資料](https://ebird.org/species/comtai1)

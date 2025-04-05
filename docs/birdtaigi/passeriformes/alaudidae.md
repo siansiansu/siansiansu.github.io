@@ -1,88 +1,78 @@
 ---
-description: 本文整理了雲雀、百靈的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 百靈科 pik-lîng-kho
+description: 百靈科（pik-lîng-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "百靈", "雲雀"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 百靈科 pik-lîng-kho
 
-## [歐亞雲雀 ヒバリ Eurasian Skylark](https://ebird.org/species/skylar)
+百靈科（pik-lîng-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/7408707/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+## 歐亞雲雀 ヒバリ Eurasian Skylark
 
-<div className="image-caption">
+![歐亞雲雀 ヒバリ Eurasian Skylark](https://inaturalist-open-data.s3.amazonaws.com/photos/7408707/medium.jpeg)
+
 (c) Ani Sarkisyan, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **歐亞半天鳥 au-a-puànn-thinn-tsiáu**
 
-**註解**
+參考華語、英語、小雲雀台語、[eBird 資料](https://ebird.org/species/skylar)
 
-參考華語、英語、小雲雀台語
+---
 
-## [小雲雀 タイワンヒバリ Oriental Skylark](https://ebird.org/species/orisky1)
+## 小雲雀 タイワンヒバリ Oriental Skylark
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/10937041/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![小雲雀 タイワンヒバリ Oriental Skylark](https://inaturalist-open-data.s3.amazonaws.com/photos/10937041/medium.jpeg)
 
-<div className="image-caption">
 (c) robbythai, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **半天鳥 puànn-thinn-tsiáu**
 - 叫天鳥 kiò-thinn-tsiáu
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、2002⁺ 台華線頂辭典、[eBird 資料](https://ebird.org/species/orisky1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、2002⁺ 台華線頂辭典
+---
 
-## [賽氏短趾百靈 ヒメコウテンシ Mongolian Short-toed Lark](https://ebird.org/species/sstlar4)
+## 賽氏短趾百靈 ヒメコウテンシ Mongolian Short-toed Lark
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459909384/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![賽氏短趾百靈 ヒメコウテンシ Mongolian Short-toed Lark](https://inaturalist-open-data.s3.amazonaws.com/photos/459909384/medium.jpeg)
 
-<div className="image-caption">
 © Afsar Nayakkan, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 **🎯 蒙古短爪百靈 bông-kóo-té-jiáu-pik-lîng**
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/sstlar4)
 
-參考英語
+---
 
-## [蒙古百靈 コウテンシ Mongolian Lark](https://ebird.org/species/monlar1)
+## 蒙古百靈 コウテンシ Mongolian Lark
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/348250218/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![蒙古百靈 コウテンシ Mongolian Lark](https://inaturalist-open-data.s3.amazonaws.com/photos/348250218/medium.jpeg)
 
-<div className="image-caption">
 © fattakhova_olga, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
 🎯 **蒙古百靈 bông-kóo-pik-lîng**
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/monlar1)
 
-參考英語
+---
 
-## [亞洲短址百靈 アジアコヒバリ Asian Short-toed Lark](https://ebird.org/species/lstlar2)
+## 亞洲短址百靈 アジアコヒバリ Asian Short-toed Lark
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2684046/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![亞洲短址百靈 アジアコヒバリ Asian Short-toed Lark](https://inaturalist-open-data.s3.amazonaws.com/photos/2684046/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **亞洲短爪百靈 a-tsiu-té-jiáu-pik-lîng**
 
-**註解**
-
-參考英語
+參考英語、[eBird 資料](https://ebird.org/species/lstlar2)

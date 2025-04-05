@@ -1,119 +1,105 @@
 ---
-description: 本文整理了文鳥的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 筆仔科 pit-á-kho
+description: 筆仔（pit-á，華語：文鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "文鳥", "筆仔"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 筆仔科 pit-á-kho
 
-## [白喉文鳥 ギンバシ Indian Silverbill](https://ebird.org/species/indsil)
+筆仔（pit-á，華語：文鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459956489/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 白喉文鳥 ギンバシ Indian Silverbill
 
-<div className="image-caption">
+![白喉文鳥 ギンバシ Indian Silverbill](https://inaturalist-open-data.s3.amazonaws.com/photos/459956489/medium.jpg)
+
 © William Stephens, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 🎯 **白喉筆仔 pe̍h-âu-pit-á**
 
-**註解**
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/indsil)
 
-參考華語鳥類名錄、教育部臺灣台語常用詞辭典
+---
 
-## [斑文鳥 シマキンパラ Scaly-breasted Munia](https://ebird.org/species/nutman)
+## 斑文鳥 シマキンパラ Scaly-breasted Munia
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/161725682/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![斑文鳥 シマキンパラ Scaly-breasted Munia](https://inaturalist-open-data.s3.amazonaws.com/photos/161725682/medium.jpeg)
 
-<div className="image-caption">
 (c) Daniel Raposo, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **斑筆仔 pan-pit-á**
 
-**註解**
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/nutman)
 
-參考華語鳥類名錄、教育部臺灣台語常用詞辭典
+---
 
-## [白腰文鳥 コシジロキンパラ White-rumped Munia](https://ebird.org/species/whrmun)
+## 白腰文鳥 コシジロキンパラ White-rumped Munia
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/94111218/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![白腰文鳥 コシジロキンパラ White-rumped Munia](https://inaturalist-open-data.s3.amazonaws.com/photos/94111218/medium.jpeg)
 
-<div className="image-caption">
 (c) Altaf Hussain Talpur, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **白腰筆仔 pe̍h-io-pit-á**
 
-**註解**
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/whrmun)
 
-參考華語鳥類名錄、教育部臺灣台語常用詞辭典
+---
 
-## [黑頭文鳥 キンパラ Chestnut Munia](https://ebird.org/species/chemun)
+## 黑頭文鳥 キンパラ Chestnut Munia
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/109990638/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![黑頭文鳥 キンパラ Chestnut Munia](https://inaturalist-open-data.s3.amazonaws.com/photos/109990638/medium.jpg)
 
-<div className="image-caption">
 (c) David Monroy R, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **烏頭筆仔 oo-thâu-pit-á**
 
-**註解**
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/chemun)
 
-參考華語鳥類名錄、教育部臺灣台語常用詞辭典
+---
 
-## [橙頰梅花雀 ホオアカカエデチョウ Orange-cheeked Waxbill](https://ebird.org/species/orcwax)
+## 橙頰梅花雀 ホオアカカエデチョウ Orange-cheeked Waxbill
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1939265/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![橙頰梅花雀 ホオアカカエデチョウ Orange-cheeked Waxbill](https://inaturalist-open-data.s3.amazonaws.com/photos/1939265/medium.jpg)
 
-<div className="image-caption">
 (c) Paul Cools, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **柑仔面梅花雀 kam-á-bīn-muî-hue-tshiok**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/orcwax)
 
-參考華語鳥類名錄
+---
 
-## [橫斑梅花雀 オナガカエデチョウ Common Waxbill](https://ebird.org/species/comwax)
+## 橫斑梅花雀 オナガカエデチョウ Common Waxbill
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/461779783/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![橫斑梅花雀 オナガカエデチョウ Common Waxbill](https://inaturalist-open-data.s3.amazonaws.com/photos/461779783/medium.jpeg)
 
-<div className="image-caption">
 © Damien Wallace, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 🎯 **橫斑梅花雀 huâinn-pan-muî-hue-tshiok**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/comwax)
 
-參考華語鳥類名錄
+---
 
-## [黑喉文鳥 コシグロキンパラ Javan Munia](https://ebird.org/species/javmun1)
+## 黑喉文鳥 コシグロキンパラ Javan Munia
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/361888379/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![黑喉文鳥 コシグロキンパラ Javan Munia](https://inaturalist-open-data.s3.amazonaws.com/photos/361888379/medium.jpeg)
 
-<div className="image-caption">
 © Catalina Tong, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
 🎯 **烏喉筆仔 oo-âu-pit-á**
 
-**註解**
-
-參考華語鳥類名錄、教育部臺灣台語常用詞辭典
+參考華語鳥類名錄、[教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)、[eBird 資料](https://ebird.org/species/javmun1)

@@ -1,39 +1,35 @@
 ---
-description: 本文整理了鐵爪鵐的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 鐵爪鵐仔科 thih-jiáu-bû-á-kho
+description: 鐵爪鵐（thih-jiáu-bû）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鐵爪鵐"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 鐵爪鵐仔科 thih-jiáu-bû-á-kho
 
-## [鐵爪鵐 ツメナガホオジロ Lapland Longspur](https://ebird.org/species/laplon)
+鐵爪鵐（thih-jiáu-bû）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/31194127/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+## 鐵爪鵐 ツメナガホオジロ Lapland Longspur
 
-<div className="image-caption">
+![鐵爪鵐 ツメナガホオジロ Lapland Longspur](https://inaturalist-open-data.s3.amazonaws.com/photos/31194127/medium.jpeg)
+
 (c) Joanne Muis Redwood, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **鐵爪鵐仔 thih-jiáu-bû-á**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/laplon)
 
-參考華語鳥類名錄
+---
 
-## [雪鵐 ユキホオジロ Snow Bunting](https://ebird.org/species/snobun)
+## 雪鵐 ユキホオジロ Snow Bunting
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/19720126/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![雪鵐 ユキホオジロ Snow Bunting](https://inaturalist-open-data.s3.amazonaws.com/photos/19720126/medium.jpeg)
 
-<div className="image-caption">
 (c) Donna Pomeroy, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **雪鵐仔 seh-bû-á**
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/snobun)

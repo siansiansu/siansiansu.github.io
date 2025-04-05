@@ -1,69 +1,63 @@
 ---
-description: 本文整理了伯勞的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 伯勞科 pik-lô-kho
+description: 伯勞（pik-lô）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "伯勞"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 伯勞科 pik-lô-kho
 
-## [虎紋伯勞 チゴモズ Tiger Shrike](https://ebird.org/species/tigshr1)
+伯勞（pik-lô）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2741359/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 虎紋伯勞 チゴモズ Tiger Shrike
 
-<div className="image-caption">
+![虎紋伯勞 チゴモズ Tiger Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/2741359/medium.jpg)
+
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 - 🎯 **虎紋伯勞 hóo-bûn-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/tigshr1)
 
-參考華語鳥類名錄
+---
 
-## [紅頭伯勞 モズ Bull-headed Shrike](https://ebird.org/species/buhshr1)
+## 紅頭伯勞 モズ Bull-headed Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12428902/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅頭伯勞 モズ Bull-headed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/12428902/medium.jpg)
 
-<div className="image-caption">
 (c) Alexander Ganse, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **紅頭伯勞 âng-thâu-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/buhshr1)
 
-參考華語鳥類名錄
+---
 
-## [紅背伯勞 セアカモズ Red-backed Shrike](https://ebird.org/species/rebshr1)
+## 紅背伯勞 セアカモズ Red-backed Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅背伯勞 セアカモズ Red-backed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg)
 
-<div className="image-caption">
 (c) Radovan Václav, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **紅背伯勞 âng-puè-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rebshr1)
 
-參考華語鳥類名錄
+---
 
-## [荒漠伯勞 モウコアカモズ Isabelline Shrike](https://ebird.org/species/isashr1)
+## 荒漠伯勞 モウコアカモズ Isabelline Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459956441/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![荒漠伯勞 モウコアカモズ Isabelline Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/459956441/medium.jpg)
 
-<div className="image-caption">
 © William Stephens, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -71,17 +65,15 @@ import Image from '@theme/IdealImage';
 - 🎯 **沙漠伯勞 sua-bo̍k-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/isashr1)
 
-參考華語鳥類名錄、日語
+---
 
-## [紅尾伯勞 アカモズ Brown Shrike](https://ebird.org/species/brnshr)
+## 紅尾伯勞 アカモズ Brown Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/209577632/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![紅尾伯勞 アカモズ Brown Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/209577632/medium.jpeg)
 
-<div className="image-caption">
 (c) Afsar Nayakkan, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
@@ -89,17 +81,15 @@ import Image from '@theme/IdealImage';
 - 🎯 **赤色伯勞 tshiah-sik-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/brnshr)
 
-參考華語鳥類名錄、英語
+---
 
-## [栗背伯勞 ハイガシラモズ Burmese Shrike](https://ebird.org/species/burshr1)
+## 栗背伯勞 ハイガシラモズ Burmese Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/448840434/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![栗背伯勞 ハイガシラモズ Burmese Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/448840434/medium.jpg)
 
-<div className="image-caption">
 © Griha Hasanov, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -107,17 +97,15 @@ import Image from '@theme/IdealImage';
 - 🎯 **殕色頭伯勞 phú-sik-thâu-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/burshr1)
 
-參考華語鳥類名錄、日語
+---
 
-## [棕背伯勞 タカサゴモズ Long-tailed Shrike](https://ebird.org/species/lotshr1)
+## 棕背伯勞 タカサゴモズ Long-tailed Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/60942640/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![棕背伯勞 タカサゴモズ Long-tailed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/60942640/medium.jpg)
 
-<div className="image-caption">
 (c) Luan Mai Sy, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -125,34 +113,30 @@ import Image from '@theme/IdealImage';
 - 棕背伯勞 tsang-puē-pik-lô
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/lotshr1)
 
-參考華語鳥類名錄
+---
 
-## [灰背伯勞 チベットモズ Gray-backed Shrike](https://ebird.org/species/gybshr1)
+## 灰背伯勞 チベットモズ Gray-backed Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/457844807/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![灰背伯勞 チベットモズ Gray-backed Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/457844807/medium.jpeg)
 
-<div className="image-caption">
 © Dutta Roy Sagnik, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 - 🎯 **殕色背伯勞 phú-sik-puē-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/gybshr1)
 
-參考華語鳥類名錄
+---
 
-## [西方灰伯勞 ヨーロッパオオモズ Great Gray Shrike](https://ebird.org/species/norshr1)
+## 西方灰伯勞 ヨーロッパオオモズ Great Gray Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459263045/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![西方灰伯勞 ヨーロッパオオモズ Great Gray Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/459263045/medium.jpeg)
 
-<div className="image-caption">
 © Mourad Harzallah, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
@@ -160,17 +144,15 @@ import Image from '@theme/IdealImage';
 - 🎯 **大殕色伯勞 tuā-phú-sik-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/norshr1)
 
-參考華語鳥類名錄
+---
 
-## [喫尾伯勞 オオカラモズ Chinese Gray Shrike](https://ebird.org/species/chgshr1)
+## 喫尾伯勞 オオカラモズ Chinese Gray Shrike
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![喫尾伯勞 オオカラモズ Chinese Gray Shrike](https://inaturalist-open-data.s3.amazonaws.com/photos/27959717/medium.jpeg)
 
-<div className="image-caption">
 (c) Yongchul Kim, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -178,6 +160,4 @@ import Image from '@theme/IdealImage';
 - 🎯 **中國殕色伯勞 tiong-kok-phú-sik-pik-lô**
 - ✳️ 伯勞仔 pik-lô-á
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chgshr1)
