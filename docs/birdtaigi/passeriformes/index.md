@@ -24,7 +24,7 @@
 - [鶲仔科 ong-á-kho](./muscicapidae.md)
 - [食蜜鳥科 tsia̍h-bi̍t-tsiáu-kho](./nectariniidae.md)
 - [黃鶯科 hông-ing-kho](./oriolidae.md)
-- [鸚哥喙科 ing-tshuì-kho](./paradoxornithidae.md)
+- [圓頭仔科 înn-thâu-á-kho](./paradoxornithidae.md)
 - [山雀科 suann-tshiok-kho](./paridae.md)
 - [粟鳥仔科 tshik-tsiáu-á-kho](./passeridae.md)
 - [雀眉科 tshiok-bâi-kho](./pellorneidae.md)

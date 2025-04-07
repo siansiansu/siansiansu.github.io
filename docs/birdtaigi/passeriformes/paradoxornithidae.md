@@ -1,59 +1,52 @@
 ---
-description: 本文整理了鸚嘴科鳥類的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 圓頭仔科 înn-thâu-á-kho
+description: 圓頭仔科（înn-thâu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "圓頭仔", "鸚嘴"]
 ---
 
-import Image from '@theme/IdealImage';
+# 圓頭仔科 înn-thâu-á-kho
 
-# 鸚哥喙科 ing-tshuì-kho
+圓頭仔科（înn-thâu-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## [褐頭花翼 タイワンチメドリ Taiwan Fulvetta](https://ebird.org/species/taiful1)
+## 褐頭花翼 タイワンチメドリ Taiwan Fulvetta
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![褐頭花翼 タイワンチメドリ Taiwan Fulvetta](https://inaturalist-open-data.s3.amazonaws.com/photos/119091522/medium.jpeg)
 
-<div className="image-caption">
 © Allen Lyu, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
-- 🎯 **赤頭花翼 tshiah-thâu-hue-i̍k**
-- 🎯 **臺灣花眉仔 tâi-uân-hue-bâi-á**
+- 🎯 **赤頭圓頭仔 tshiah-thâu-înn-thâu-á**
 - ✳️ 花眉仔 hue-bâi-á
 
-**註解**
+參考 2002⁺ 台華線頂辭典、日語、華語、特徵、[eBird 資料](https://ebird.org/species/taiful1)
 
-參考 2002⁺ 台華線頂辭典、日語、華語、特徵
+---
 
-## [黃羽鸚嘴 キンイロダルマエナガ Golden Parrotbill](https://ebird.org/species/golpar2)
+## 黃羽鸚嘴 キンイロダルマエナガ Golden Parrotbill
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2683250/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![黃羽鸚嘴 キンイロダルマエナガ Golden Parrotbill](https://inaturalist-open-data.s3.amazonaws.com/photos/2683250/medium.jpg)
 
-<div className="image-caption">
 (c) Ron Knight, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
-- 🎯 **黃毛鸚哥喙 n̂g-moo-ing-ko-tshuì**
+- 🎯 **黃毛圓頭仔 n̂g-moo-înn-thâu-á**
 - ✳️ 圓頭仔 înn-thâu-á
 
-**註解**
+參考 1973 Embree台英辭典、英語、[eBird 資料](https://ebird.org/species/golpar2)
 
-參考 1973 Embree台英辭典、英語
+---
 
-## [粉紅鸚嘴 ダルマエナガ Vinous-throated Parrotbill](https://ebird.org/species/vitpar1)
+## 粉紅鸚嘴 ダルマエナガ Vinous-throated Parrotbill
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2619096/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![粉紅鸚嘴 ダルマエナガ Vinous-throated Parrotbill](https://inaturalist-open-data.s3.amazonaws.com/photos/2619096/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
-- 🎯 **粉紅鸚哥喙 hún-âng-ing-ko-tshuì**
+- 🎯 **粉紅圓頭仔 hún-âng-înn-thâu-á**
 - ✳️ 圓頭仔 înn-thâu-á
 
-**註解**
-
-參考 1973 Embree台英辭典、英語、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+參考 1973 Embree台英辭典、英語、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/vitpar1)
