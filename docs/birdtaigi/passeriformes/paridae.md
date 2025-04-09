@@ -1,18 +1,18 @@
 ---
-description: 本文整理了山雀科鳥類的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 山雀科 suann-tshiok-kho
+description: 山雀科（suann-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "山雀"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 山雀科 suann-tshiok-kho
 
-## [煤山雀 ヒガラ Coal Tit](https://ebird.org/species/coatit2)
+山雀科（suann-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/336291168/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 煤山雀 ヒガラ Coal Tit
 
-<div className="image-caption">
+![煤山雀 ヒガラ Coal Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/336291168/medium.jpg)
+
 (c) Leonid, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -20,106 +20,92 @@ import Image from '@theme/IdealImage';
 - 🎯 **小山雀 sió-suann-tshiok**
 - 煤山雀 muê-suann-tshiok
 
-**註解**
+參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/coatit2)
 
-參考華語鳥類名錄、日語
+---
 
-## [黃腹山雀 キバラガラ Yellow-bellied Tit](https://ebird.org/species/yebtit4)
+## 黃腹山雀 キバラガラ Yellow-bellied Tit
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/12521301/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![黃腹山雀 キバラガラ Yellow-bellied Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/12521301/medium.jpeg)
 
-<div className="image-caption">
 (c) andriy, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **黃腹山雀 n̂g-pak-suann-tshiok**
 
-**註解**
+參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/yebtit4)
 
-參考華語鳥類名錄、英語
+---
 
-## [赤腹山雀 タイワンヤマガラ Chestnut-bellied Tit](https://ebird.org/species/vartit3)
+## 赤腹山雀 タイワンヤマガラ Chestnut-bellied Tit
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/90712077/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![赤腹山雀 タイワンヤマガラ Chestnut-bellied Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/90712077/medium.jpg)
 
-<div className="image-caption">
 (c) 洪廷維, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **紅腹山雀 âng-pak-suann-tshiok**
 - 🎯 **赤腹山雀 tshiah-pak-suann-tshiok**
 
-**註解**
+參考英語、特徵、[eBird 資料](https://ebird.org/species/vartit3)
 
-參考英語、特徵
+---
 
-## [雜色山雀 ヤマガラ Varied Tit](https://ebird.org/species/vartit1)
+## 雜色山雀 ヤマガラ Varied Tit
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/58182987/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![雜色山雀 ヤマガラ Varied Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/58182987/medium.jpg)
 
-<div className="image-caption">
 (c) Bird Explorers, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **雜色山雀 tsa̍p-sik-suann-tshiok**
 - 🎯 **山雀 suann-tshiok**
 
-**註解**
+參考英語、日語、[eBird 資料](https://ebird.org/species/vartit1)
 
-參考英語、日語
+---
 
-## [青背山雀 キバラシジュウカラ Green-backed Tit](https://ebird.org/species/grbtit1)
+## 青背山雀 キバラシジュウカラ Green-backed Tit
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/13384954/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![青背山雀 キバラシジュウカラ Green-backed Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/13384954/medium.jpg)
 
-<div className="image-caption">
 (c) Scott Bowers, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **青背山雀 tshinn-puē-suann-tshiok**
 
-**註解**
+參考英語、特徵、[eBird 資料](https://ebird.org/species/grbtit1)
 
-參考英語、特徵
+---
 
-## [白頰山雀 シジュウカラ Japanese Tit](https://ebird.org/species/gretit4)
+## 白頰山雀 シジュウカラ Japanese Tit
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2744133/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![白頰山雀 シジュウカラ Japanese Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/2744133/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 - 🎯 **日本山雀 ji̍t-pún-suann-tshiok**
 - 🎯 **白喙䫌山雀 pe̍h-tshuì-phué-suann-tshiok**
 
-**註解**
+參考英語、特徵、[eBird 資料](https://ebird.org/species/gretit4)
 
-參考英語、特徵
+---
 
-## [黃山雀 タイワンシジュウカラ Taiwan Yellow Tit](https://ebird.org/species/yeltit2)
+## 黃山雀 タイワンシジュウカラ Taiwan Yellow Tit
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/358192307/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![黃山雀 タイワンシジュウカラ Taiwan Yellow Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/358192307/medium.jpg)
 
-<div className="image-caption">
 © huaitech, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **司公仔鳥 sai-kong-á-tsiáu**
 - 🎯 **黃山雀 n̂g-suann-tshiok**
 
-**註解**
-
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/yeltit2)
