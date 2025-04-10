@@ -12,7 +12,7 @@ import rehypeKatex from "rehype-katex";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "鳥仔 ê 名",
+  title: "鳥仔 ê 名 - 認捌鳥仔 ê 台語",
   tagline: "鳥仔 | 台語 | 賞鳥簿仔 | eBird | 軟工 | 演算法 | 遊戲",
   favicon: "img/favicon.ico",
   trailingSlash: true,
