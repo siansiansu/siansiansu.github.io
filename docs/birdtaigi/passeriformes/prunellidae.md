@@ -1,39 +1,35 @@
 ---
-description: 本文整理了岩鷚的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 岩鷚科 gān-liù-kho
+description: 岩鷚科（gān-liù-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "岩鷚"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 岩鷚科 gān-liù-kho
 
-## [岩鷚 イワヒバリ Alpine Accentor](https://ebird.org/species/alpacc1)
+岩鷚科（gān-liù-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/43962743/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 岩鷚 イワヒバリ Alpine Accentor
 
-<div className="image-caption">
+![岩鷚 イワヒバリ Alpine Accentor](https://inaturalist-open-data.s3.amazonaws.com/photos/43962743/medium.jpg)
+
 (c) Kinmatsu Lin, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **岩鷚 gâm-liù**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/alpacc1)
 
-參考華語鳥類名錄
+---
 
-## [棕眉山岩鷚 ヤマヒバリ Siberian Accentor](https://ebird.org/species/sibacc)
+## 棕眉山岩鷚 ヤマヒバリ Siberian Accentor
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2743860/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![棕眉山岩鷚 ヤマヒバリ Siberian Accentor](https://inaturalist-open-data.s3.amazonaws.com/photos/2743860/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **山岩鷚 suann-gān-liù**
 
-**註解**
-
-參考華語鳥類名錄、日語
+參考華語鳥類名錄、日語、[eBird 資料](https://ebird.org/species/sibacc)

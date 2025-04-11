@@ -1,18 +1,18 @@
 ---
-description: 本文整理了八色鳥的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 抾箬仔科 khioh-ha̍h-á-kho
+description: 抾箬仔（khioh-ha̍h-á，華語：八色鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "抾箬仔", "八色鳥"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 抾箬仔科 khioh-ha̍h-á-kho
 
-## [藍翅八色鳥 ミナミヤイロチョウ Blue-winged Pitta](https://ebird.org/species/blwpit1)
+抾箬仔（khioh-ha̍h-á，華語：八色鳥）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/97686974/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 藍翅八色鳥 ミナミヤイロチョウ Blue-winged Pitta
 
-<div className="image-caption">
+![藍翅八色鳥 ミナミヤイロチョウ Blue-winged Pitta](https://inaturalist-open-data.s3.amazonaws.com/photos/97686974/medium.jpg)
+
 (c) Peter Ericsson, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -22,17 +22,15 @@ import Image from '@theme/IdealImage';
 - ✳️ 抾箬仔 khioh-ha̍h-á
 - ✳️ 八色鳥 peh-sik-tsiáu
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/blwpit1)
 
-參考英語
+---
 
-## [八色鳥 ヤイロチョウ Fairy Pitta](https://ebird.org/species/faipit1)
+## 八色鳥 ヤイロチョウ Fairy Pitta
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/195561792/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![八色鳥 ヤイロチョウ Fairy Pitta](https://inaturalist-open-data.s3.amazonaws.com/photos/195561792/medium.jpeg)
 
-<div className="image-caption">
 (c) Sajee Kongsuwan, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -40,17 +38,15 @@ import Image from '@theme/IdealImage';
 - 🎯 **青翼仔 tshenn-si̍t-á**
 - 八色鳥 peh-sik-tsiáu
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/faipit1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [綠胸八色鳥 Western Hooded Pitta](https://ebird.org/species/wehpit1)
+## 綠胸八色鳥 Western Hooded Pitta
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/48339955/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![綠胸八色鳥 Western Hooded Pitta](https://inaturalist-open-data.s3.amazonaws.com/photos/48339955/medium.jpeg)
 
-<div className="image-caption">
 (c) Nina Lester Finley, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -60,6 +56,4 @@ import Image from '@theme/IdealImage';
 - ✳️ 抾箬仔 khioh-ha̍h-á
 - ✳️ 八色鳥 peh-sik-tsiáu
 
-**註解**
-
-參考特徵
+參考特徵、[eBird 資料](https://ebird.org/species/wehpit1)
