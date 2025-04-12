@@ -1,39 +1,35 @@
 ---
-description: 本文整理了林鶯的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 鶯科 ing-kho
+description: 鶯科（ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鶯科", "林鶯"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 鶯科 ing-kho
 
-## [白喉林鶯 コノドジロムシクイ Lesser Whitethroat](https://ebird.org/species/leswhi4)
+鶯科（ing-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/67069975/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 白喉林鶯 コノドジロムシクイ Lesser Whitethroat
 
-<div className="image-caption">
+![白喉林鶯 コノドジロムシクイ Lesser Whitethroat](https://inaturalist-open-data.s3.amazonaws.com/photos/67069975/medium.jpg)
+
 (c) Максим Исмайлов, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **白喉林鶯 pe̍h-âu-lîm-ing**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/leswhi4)
 
-參考華語鳥類名錄
+---
 
-## [漠地林鶯 サバクムシクイ Asian Desert Warbler](https://ebird.org/species/asdwar1)
+## 漠地林鶯 サバクムシクイ Asian Desert Warbler
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/1635533/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![漠地林鶯 サバクムシクイ Asian Desert Warbler](https://inaturalist-open-data.s3.amazonaws.com/photos/1635533/medium.jpg)
 
-<div className="image-caption">
 (c) Birds of Qatar and Middle East, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **沙漠林鶯 sua-bôo-lîm-ing**
 
-**註解**
-
-參考華語鳥類名錄、英語
+參考華語鳥類名錄、英語、[eBird 資料](https://ebird.org/species/asdwar1)

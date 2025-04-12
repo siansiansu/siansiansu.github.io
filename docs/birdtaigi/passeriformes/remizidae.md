@@ -1,23 +1,21 @@
 ---
-description: 本文整理了攀雀的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 攀雀科 phan-tshiok-kho
+description: 攀雀科（phan-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "攀雀"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 攀雀科 phan-tshiok-kho
 
-## [攀雀 ツリスガラ Chinese Penduline-Tit](https://ebird.org/species/chptit1)
+攀雀科（phan-tshiok-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2744070/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 攀雀 ツリスガラ Chinese Penduline-Tit
 
-<div className="image-caption">
+![攀雀 ツリスガラ Chinese Penduline-Tit](https://inaturalist-open-data.s3.amazonaws.com/photos/2744070/medium.jpg)
+
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **攀雀 phan-tshiok**
 
-**註解**
-
-參考華語鳥類名錄
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chptit1)

@@ -1,14 +1,14 @@
 ---
-title: 鵁鴒科 ka-līng-kho
-description: 本文整理了八哥、椋鳥的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
-keywords: ["台語", "鳥類", "八哥", "椋鳥", "鵁鴒"]
+title: liông-tsiáu-kho
+description: 椋鳥科（liông-tsiáu-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "八哥", "椋鳥", "鵁鴒"]
 ---
 
-import Image from '@theme/IdealImage';
+# 椋鳥科 liông-tsiáu-kho
 
-# 鵁鴒科 ka-līng-kho
+椋鳥科（liông-tsiáu-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-## [亞洲輝椋鳥 ミドリカラスモドキ Asian Glossy Starling](https://ebird.org/species/asgsta1)
+## 亞洲輝椋鳥 ミドリカラスモドキ Asian Glossy Starling
 
 ![亞洲輝椋鳥](https://inaturalist-open-data.s3.amazonaws.com/photos/59310977/medium.jpg)
 
@@ -16,222 +16,191 @@ import Image from '@theme/IdealImage';
 
 **台語名**
 
-🎯 **亞洲輝鵁鴒 a-tsiu-hui-ka-līng**
+🎯 **亞洲輝椋鳥 a-tsiu-hui-liông-tsiáu**
 
-**註解**
+參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/asgsta1)
 
-參考英語、八哥台語，[eBird 物種資料](https://ebird.org/species/asgsta1)
+---
 
-## [歐洲椋鳥 ホシムクドリ European Starling](https://ebird.org/species/eursta)
+## 歐洲椋鳥 ホシムクドリ European Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/112860960/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![歐洲椋鳥 ホシムクドリ European Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/112860960/medium.jpg)
 
-<div className="image-caption">
 (c) Cameron Eckert, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
-🎯 **歐洲鵁鴒 au-tsiu-ka-līng**
+🎯 **歐洲椋鳥 au-tsiu-liông-tsiáu**
 
-**註解**
+參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/eursta)
 
-參考英語、八哥台語
+---
 
-## [粉紅椋鳥 バライロムクドリ Rosy Starling](https://ebird.org/species/rossta2)
+## 粉紅椋鳥 バライロムクドリ Rosy Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/459865557/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![粉紅椋鳥 バライロムクドリ Rosy Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/459865557/medium.jpeg)
 
-<div className="image-caption">
 © Rohit Naniwadekar, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
-🎯 **粉紅鵁鴒 hún-âng-ka-līng**
+🎯 **粉紅椋鳥 hún-âng-liông-tsiáu**
 
-**註解**
+參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rossta2)
 
-參考英語、八哥台語
+---
 
-## [北椋鳥 シベリアムクドリ Daurian Starling](https://ebird.org/species/dausta1)
+## 北椋鳥 シベリアムクドリ Daurian Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/179215594/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![北椋鳥 シベリアムクドリ Daurian Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/179215594/medium.jpeg)
 
-<div className="image-caption">
 (c) y jessica, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
-🎯 **北鵁鴒 pak-ka-līng**
+🎯 **北椋鳥 pak-liông-tsiáu**
 
-**註解**
+參考華語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/dausta1)
 
-參考華語、八哥台語
+---
 
-## [小椋鳥 コムクドリ Chestnut-cheeked Starling](https://ebird.org/species/chcsta1)
+## 小椋鳥 コムクドリ Chestnut-cheeked Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/135435728/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![小椋鳥 コムクドリ Chestnut-cheeked Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/135435728/medium.jpg)
 
-<div className="image-caption">
 (c) Griha Hasanov, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
-🎯 **小鵁鴒 sió-ka-līng**
+🎯 **小椋鳥 sió-liông-tsiáu**
 
-**註解**
+參考華語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/chcsta1)
 
-參考華語、八哥台語
+---
 
-## [黑領椋鳥 クビワムクドリ Black-collared Starling](https://ebird.org/species/bkcsta1)
+## 黑領椋鳥 クビワムクドリ Black-collared Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/146525/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![黑領椋鳥 クビワムクドリ Black-collared Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/146525/medium.jpg)
 
-<div className="image-caption">
 (c) Darren, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
-- 🎯 **白鵁鴒 pe̍h-ka-līng**
-- 🎯 **烏領鵁鴒 oo-niá-ka-līng**
+- 🎯 **烏領椋鳥 oo-niá-liông-tsiáu**
 
-**註解**
+參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/bkcsta1)
 
-參考英語、八哥台語
+---
 
-## [灰背椋鳥 カラムクドリ White-shouldered Starling](https://ebird.org/species/whssta2)
+## 灰背椋鳥 カラムクドリ White-shouldered Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2781305/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![灰背椋鳥 カラムクドリ White-shouldered Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/2781305/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
-🎯 **殕色背鵁鴒 phú-sik-puē-ka-līng**
+🎯 **殕色背椋鳥 phú-sik-puē-liông-tsiáu**
 
-**註解**
+參考英語、特徵、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/whssta2)
 
-參考英語、特徵、八哥台語
+---
 
-## [灰頭椋鳥 インドコムクドリ Chestnut-tailed Starling](https://ebird.org/species/chtsta2)
+## 灰頭椋鳥 インドコムクドリ Chestnut-tailed Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/89729965/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![灰頭椋鳥 インドコムクドリ Chestnut-tailed Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/89729965/medium.jpg)
 
-<div className="image-caption">
 (c) Uday Agashe, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
-- 🎯 **殕色頭鵁鴒 hue-thâu-ka-līng**
-- 🎯 **赤尾鵁鴒 tshiah-bué-ka-līng**
+- 🎯 **殕色頭椋鳥 hue-thâu-liông-tsiáu**
 
-**註解**
+參考華語、英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/chtsta2)
 
-參考華語、英語、八哥台語
+---
 
-## [絲光椋鳥 ギンムクドリ Red-billed Starling](https://ebird.org/species/rebsta1)
+## 絲光椋鳥 ギンムクドリ Red-billed Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/2722579/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![絲光椋鳥 ギンムクドリ Red-billed Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/2722579/medium.jpg)
 
-<div className="image-caption">
 (c) Kim, Hyun-tae, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
-🎯 **紅喙鵁鴒 âng-tshuì-ka-līng**
+🎯 **紅喙椋鳥 âng-tshuì-liông-tsiáu**
 
-**註解**
+參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/rebsta1)
 
-參考英語、八哥台語
+---
 
-## [灰椋鳥 ムクドリ White-cheeked Starling](https://ebird.org/species/whcsta1)
+## 灰椋鳥 ムクドリ White-cheeked Starling
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/151623881/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![灰椋鳥 ムクドリ White-cheeked Starling](https://inaturalist-open-data.s3.amazonaws.com/photos/151623881/medium.jpg)
 
-<div className="image-caption">
 (c) ts04, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
-🎯 **殕色鵁鴒 phú-sik-ka-līng**
+🎯 **殕色椋鳥 phú-sik-liông-tsiáu**
 
-**註解**
+參考英語、特徵、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/whcsta1)
 
-參考英語、特徵、八哥台語
+---
 
-## [家八哥 インドハッカ Common Myna](https://ebird.org/species/commyn)
+## 家八哥 インドハッカ Common Myna
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/40176800/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![家八哥 インドハッカ Common Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/40176800/medium.jpeg)
 
-<div className="image-caption">
 (c) Joshua Doby, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
-- 🎯 **厝鵁鴒 tshù-ka-līng**
+🎯 **目鏡鵁鴒 tshù-ka-līng**
 
+遮 ê「家」和「厝鳥仔」的「厝」意義無仝，建議用台語 ê 方式依外觀特徵命名
 
+[eBird 資料](https://ebird.org/species/commyn)
 
-**註解**
-參考華語、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
+## 葡萄胸椋鳥 Vinous-breasted Myna
 
-## [葡萄胸椋鳥 Vinous-breasted Myna](https://ebird.org/species/vibsta4)
+![葡萄胸椋鳥 Vinous-breasted Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/450128929/medium.jpeg)
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450128929/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
-
-<div className="image-caption">
 © zr217, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
-🎯 **葡萄色胸鵁鴒 phû-tô-sik-hing-ka-līng**
+🎯 **葡萄色胸椋鳥 phû-tô-sik-hing-liông-tsiáu**
 
-**註解**
+參考英語、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/vibsta4)
 
-參考英語、八哥台語
+---
 
-## [白尾八哥 ジャワハッカ Javan Myna](https://ebird.org/species/whvmyn)
+## 白尾八哥 ジャワハッカ Javan Myna
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/6931082/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![白尾八哥 ジャワハッカ Javan Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/6931082/medium.jpg)
 
-<div className="image-caption">
 (c) budak, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
-- 🎯 **白尾鵁鴒 pe̍h-bué-ka-līn**
-- 🎯 **爪哇鵁鴒 jiáu-ua-ka-līng**
+🎯 **白尾鵁鴒 pe̍h-bué-ka-līn**
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/whvmyn)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [冠八哥 ハッカチョウ Crested Myna](https://ebird.org/species/cremyn)
+## 冠八哥 ハッカチョウ Crested Myna
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![冠八哥 ハッカチョウ Crested Myna](https://inaturalist-open-data.s3.amazonaws.com/photos/126315754/medium.jpeg)
 
-<div className="image-caption">
 (c) Manel Ferreira, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **台灣鵁鴒 tâi-oân-ka-līng**
 - 🎯 **聳毛鵁鴒 tshàng-thâu-ka-līng**
 
-**註解**
-
-參考特徵、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+參考特徵、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/cremyn)

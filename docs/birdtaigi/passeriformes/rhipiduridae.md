@@ -1,35 +1,33 @@
 ---
-description: 本文整理了扇尾鶲科鳥類的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 扇尾鶲科 sìnn-bué-ong-kho
+description: 扇尾鶲科（sìnn-bué-ong-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "扇尾鶲"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 扇尾鶲科 sìnn-bué-ong-kho
 
-## [菲律賓扇尾鶲 フィリピンオビオウギビタキ Philippine Pied-Fantail](https://ebird.org/species/phipif1)
+扇尾鶲科（sìnn-bué-ong-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/373449797/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+## 菲律賓扇尾鶲 フィリピンオビオウギビタキ Philippine Pied-Fantail
 
-<div className="image-caption">
+![菲律賓扇尾鶲 フィリピンオビオウギビタキ Philippine Pied-Fantail](https://inaturalist-open-data.s3.amazonaws.com/photos/373449797/medium.jpg)
+
 © Casey Clark Sumalinog, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 - 🎯 **菲律賓烏白扇尾鶲 hui-lu̍t-pin-oo-pe̍h-sìnn-bué-ong**
 - 🎯 **菲律賓烏白尾扇 hui-lu̍t-pin-oo-pe̍h-bué-sìnn**
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/phipif1)
 
-參考英語
+---
 
-## [斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail](https://ebird.org/species/piefan1)
+## 斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/188717255/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![斑扇尾鶲 ムナオビオウギビタキ Malaysian Pied-Fantail](https://inaturalist-open-data.s3.amazonaws.com/photos/188717255/medium.jpg)
 
-<div className="image-caption">
 (c) Sam Hambly, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -37,23 +35,19 @@ import Image from '@theme/IdealImage';
 - 🎯 **烏白扇尾鶲 oo-pe̍h-sìnn-bué-ong**
 - 🎯 **馬來西亞烏白扇尾鶲 Má-lâi-se-a-oo-pe̍h-sìnn-bué-ong**
 
-**註解**
+參考英語、特徵、[eBird 資料](https://ebird.org/species/piefan1)
 
-參考英語、特徵
+---
 
-## [白喉扇尾鶲 ノドジロオウギビタキ White-throated Fantail](https://ebird.org/species/whtfan1)
+## 白喉扇尾鶲 ノドジロオウギビタキ White-throated Fantail
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/87761856/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![白喉扇尾鶲 ノドジロオウギビタキ White-throated Fantail](https://inaturalist-open-data.s3.amazonaws.com/photos/87761856/medium.jpg)
 
-<div className="image-caption">
 (c) Md. Zaber Ansary, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **白喉扇尾鶲 pe̍h-âu-sìnn-bué-ong**
 - 🎯 **白喉尾扇 pe̍h-âu-bué-sìnn**
 
-**註解**
-
-參考英語、特徵
+參考英語、特徵、[eBird 資料](https://ebird.org/species/whtfan1)

@@ -92,7 +92,7 @@ import TabItem from '@theme/TabItem';
 ## 重要 ê 參考
 
 - 📕 上新 ê 分類參考 [eBird](https://ebird.org/home) kah [eBird Taiwan鳥類名錄 2024.10 (製表：eBird Taiwan))](https://docs.google.com/spreadsheets/d/1PnZ2V8jMjw9MvGLlXNs05gSz43sigs-tewDdx19YebA/edit?usp=sharing)。
-- 📕 台語俗名參考 [《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/) kah [台灣野鳥鄉土名](https://www.oocities.org/~smewmao/taiwan/twnname.html)。
+- 📕 台語俗名參考 [《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/) kah [《台灣野鳥鄉土名》](https://www.oocities.org/~smewmao/taiwan/twnname.html)。
 - 📕 華語俗名參考 [eBird](https://ebird.org/home) 佮[台灣生物多樣性網絡](https://www.tbn.org.tw/)。
 - 📕 台語字參考 [ChhoeTaigi 台語辭典](https://chhoe.taigi.info/) kah [教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/)。
 - 📕 鳥仔 ê 外觀參考 [The Sibley Field Guide by David Allen Sibley](https://www.audubon.org/marketplace/sibley-field-guides)。

@@ -1,34 +1,32 @@
 ---
-description: 本文整理了綠繡眼的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 青笛仔科 tshenn-thî-á-kho
+description: 青笛仔科（tshenn-thî-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "青笛仔", "綠繡眼"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 青笛仔科 tshenn-thî-á-kho
 
-## [栗耳鳳眉 インドシナミミチメドリ Indochinese Yuhina](https://ebird.org/species/indyuh1)
+青笛仔科（tshenn-thî-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/248713731/medium.png" alt="image" style={{marginBottom: '0rem'}} />
+## 栗耳鳳眉 インドシナミミチメドリ Indochinese Yuhina
 
-<div className="image-caption">
+![栗耳鳳眉 インドシナミミチメドリ Indochinese Yuhina](https://inaturalist-open-data.s3.amazonaws.com/photos/248713731/medium.png)
+
 © Andrew Lai, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 🎯 **紅耳尖頭花眉 âng-hīnn-tsiam-thâu-hue-bâi**
 
-**註解**
+參考華語鳥類名錄、特徵、[eBird 資料](https://ebird.org/species/indyuh1)
 
-參考華語鳥類名錄、特徵
+---
 
-## [冠羽畫眉 カンムリチメドリ Taiwan Yuhina](https://ebird.org/species/taiyuh1)
+## 冠羽畫眉 カンムリチメドリ Taiwan Yuhina
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20671024/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![冠羽畫眉 カンムリチメドリ Taiwan Yuhina](https://inaturalist-open-data.s3.amazonaws.com/photos/20671024/medium.jpg)
 
-<div className="image-caption">
 (c) Hong, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -36,34 +34,30 @@ import Image from '@theme/IdealImage';
 - ✳️ 尖頭仔 tsiam-thâu-á
 - ✳️ 花眉仔 hue-bâi-á
 
-**註解**
+參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/taiyuh1)
 
-參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [紅脇繡眼 チョウセンメジロ Chestnut-flanked White-eye](https://ebird.org/species/cfweye1)
+## 紅脇繡眼 チョウセンメジロ Chestnut-flanked White-eye
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/450773912/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅脇繡眼 チョウセンメジロ Chestnut-flanked White-eye](https://inaturalist-open-data.s3.amazonaws.com/photos/450773912/medium.jpg)
 
-<div className="image-caption">
 © Griha Hasanov, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 - 🎯 **胳紅青笛仔 koh-âng-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-**註解**
+參考特徵、英語、[eBird 資料](https://ebird.org/species/cfweye1)
 
-參考綠繡眼台語、特徵、英語
+---
 
-## [斯氏繡眼 ミナミメジロ Swinhoe's White-eye](https://ebird.org/species/swiwhe1)
+## 斯氏繡眼 ミナミメジロ Swinhoe's White-eye
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20010236/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![斯氏繡眼 ミナミメジロ Swinhoe's White-eye](https://inaturalist-open-data.s3.amazonaws.com/photos/20010236/medium.jpg)
 
-<div className="image-caption">
 (c) Bronze Cheung Kwok Yee, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -71,40 +65,34 @@ import Image from '@theme/IdealImage';
 - 🎯 **斯文豪青笛仔 su-bûn-hô-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-**註解**
+參考英語、參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/swiwhe1)
 
-參考英語、參考華語鳥類名錄
+---
 
-## [日菲繡眼 メジロ Warbling White-eye](https://ebird.org/species/warwhe1)
+## 日菲繡眼 メジロ Warbling White-eye
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![日菲繡眼 メジロ Warbling White-eye](https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/medium.jpeg)
 
-<div className="image-caption">
 © Vitan2011, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **日菲青笛仔 ji̍t-hui-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/warwhe1)
 
-參考華語鳥類名錄
+---
 
-## [低地繡眼 フィリピンメジロ Lowland White-eye](https://ebird.org/species/loweye2)
+## 低地繡眼 フィリピンメジロ Lowland White-eye
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![低地繡眼 フィリピンメジロ Lowland White-eye](https://inaturalist-open-data.s3.amazonaws.com/photos/362820086/medium.jpeg)
 
-<div className="image-caption">
 © Vitan2011, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **低地青笛仔 kē-tē-tshenn-thî-á**
 - ✳️ 青笛仔 tshenn-thî-á
 
-**註解**
-
-參考英語
+參考英語、[eBird 資料](https://ebird.org/species/loweye2)

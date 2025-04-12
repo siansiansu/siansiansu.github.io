@@ -1,50 +1,46 @@
 ---
-description: 本文整理了白頭翁、鵯科的台語名，並對照英語與華語翻譯，與最新的鳥類分類，期待能夠供未來的台語鳥類圖鑑當作參考
+title: 鵯仔科 pi-á-kho
+description: 鵯仔科（pi-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鵯仔", "白頭翁"]
 ---
-
-import Image from '@theme/IdealImage';
 
 # 鵯仔科 pi-á-kho
 
-## [栗背短腳鵯 クリイロヒヨドリ Chestnut Bulbul](https://ebird.org/species/chebul1)
+鵯仔科（pi-á-kho）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/367129749/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+## 栗背短腳鵯 クリイロヒヨドリ Chestnut Bulbul
 
-<div className="image-caption">
+![栗背短腳鵯 クリイロヒヨドリ Chestnut Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/367129749/medium.jpeg)
+
 © shiguangshi, some rights reserved (CC-BY-NC)
-</div>
 
 **台語名**
 
 🎯 **栗背短跤鵯 lik-puè-té-kha-pi**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/chebul1)
 
-參考華語鳥類名錄
+---
 
-## [棕耳鵯 ヒヨドリ Brown-eared Bulbul](https://ebird.org/species/brebul1)
+## 棕耳鵯 ヒヨドリ Brown-eared Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20566056/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![棕耳鵯 ヒヨドリ Brown-eared Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/20566056/medium.jpg)
 
-<div className="image-caption">
 (c) Toshihiro Gamo, some rights reserved (CC BY)
-</div>
 
 **台語名**
 
 🎯 **棕耳鵯 tsang-hīnn-pi**
 
-**註解**
+參考英語、[eBird 資料](https://ebird.org/species/brebul1)
 
-參考英語
+---
 
-## [紅嘴黑鵯 シロガシラクロヒヨドリ Black Bulbul](https://ebird.org/species/blabul1)
+## 紅嘴黑鵯 シロガシラクロヒヨドリ Black Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/76309732/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅嘴黑鵯 シロガシラクロヒヨドリ Black Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/76309732/medium.jpg)
 
-<div className="image-caption">
 (c) Liu JimFood, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -53,17 +49,15 @@ import Image from '@theme/IdealImage';
 - 紅喙烏鵯 âng-tshuì-oo-pi
 - 烏鵯 oo-pi
 
-**註解**
+參考 2016⁺ iTaigi、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/blabul1)
 
-參考 2016⁺ iTaigi、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典
+---
 
-## [白環鸚嘴鵯 カヤノボリ Collared Finchbill](https://ebird.org/species/colfin1)
+## 白環鸚嘴鵯 カヤノボリ Collared Finchbill
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/33420257/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![白環鸚嘴鵯 カヤノボリ Collared Finchbill](https://inaturalist-open-data.s3.amazonaws.com/photos/33420257/medium.jpg)
 
-<div className="image-caption">
 (c) sunmr, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -73,17 +67,15 @@ import Image from '@theme/IdealImage';
 - 圓嘴鵯 înn-tshuì-pi
 - 白環鸚嘴鵯 pe̍h-khuân-ing-tshuì-pi
 
-**註解**
+參考 2002⁺ 台華線頂辭典、[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、1973 Embree台英辭典、[eBird 資料](https://ebird.org/species/colfin1)
 
-參考 2002⁺ 台華線頂辭典、《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》、1973 Embree台英辭典
+---
 
-## [白頭翁 シロガシラ Light-vented bulbul](https://ebird.org/species/livbul1)
+## 白頭翁 シロガシラ Light-vented bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/59227677/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![白頭翁 シロガシラ Light-vented bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/59227677/medium.jpeg)
 
-<div className="image-caption">
 no rights reserved, uploaded by 葉子
-</div>
 
 **台語名**
 
@@ -91,17 +83,15 @@ no rights reserved, uploaded by 葉子
 - 白頭翁 pe̍h-thâu-ong
 - [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/livbul1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [烏頭翁 クロガシラ Styan's Bulbul](https://ebird.org/species/stybul1)
+## 烏頭翁 クロガシラ Styan's Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/31238957/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![烏頭翁 クロガシラ Styan's Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/31238957/medium.jpg)
 
-<div className="image-caption">
 (c) jacob7349, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
@@ -109,88 +99,76 @@ no rights reserved, uploaded by 葉子
 - 烏頭翁 oo-thâu-ong
 - [雜] 白頭烏頭半仿種 pe̍h-thâu-oo-thâu-puànn-hóng-tsíng
 
-**註解**
+參考[《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》](https://siaulahjih.github.io/TaiOanChiauA/)、[eBird 資料](https://ebird.org/species/stybul1)
 
-參考《Hêng góa Tâi-oân Chiáu-á Miâ（還我台灣鳥á名）》
+---
 
-## [紅耳鵯 コウラウン Red-whiskered Bulbul](https://ebird.org/species/rewbul)
+## 紅耳鵯 コウラウン Red-whiskered Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/460288318/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![紅耳鵯 コウラウン Red-whiskered Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/460288318/medium.jpeg)
 
-<div className="image-caption">
 © Daniel S. Katz, some rights reserved (CC-BY)
-</div>
 
 **台語名**
 
 🎯 **紅耳鵯 âng-hīnn-pi**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/rewbul)
 
-參考華語鳥類名錄
+---
 
-## [白喉紅臀鵯 コシジロヒヨドリ Sooty-headed Bulbul](https://ebird.org/species/sohbul1)
+## 白喉紅臀鵯 コシジロヒヨドリ Sooty-headed Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/5265681/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![白喉紅臀鵯 コシジロヒヨドリ Sooty-headed Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/5265681/medium.jpeg)
 
-<div className="image-caption">
 (c) Bruno Durand, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **白喉紅臀鵯 pe̍h-âu-âng-tûn-pi**
 
-**註解**
+參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/sohbul1)
 
-參考華語鳥類名錄
+---
 
-## [橄欖褐鵯 アカメヒヨドリ Olive-winged Bulbul](https://ebird.org/species/olwbul1)
+## 橄欖褐鵯 アカメヒヨドリ Olive-winged Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/18876219/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![橄欖褐鵯 アカメヒヨドリ Olive-winged Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/18876219/medium.jpg)
 
-<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **橄欖褐鵯 kan-ná-hat-pi**
 - 🎯 **紅目橄欖鵯 âng-ba̍k-kan-ná-pi**
 
-**註解**
+參考華語、日語、[eBird 資料](https://ebird.org/species/olwbul1)
 
-參考華語、日語
+---
 
-## [橄欖鵯 オリーブヒヨドリ Olive Bulbul](https://ebird.org/species/olibul1)
+## 橄欖鵯 オリーブヒヨドリ Olive Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/14865961/medium.jpeg" alt="image" style={{marginBottom: '0rem'}} />
+![橄欖鵯 オリーブヒヨドリ Olive Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/14865961/medium.jpeg)
 
-<div className="image-caption">
 (c) robbythai, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 🎯 **橄欖鵯 kan-ná-pi**
 
-**註解**
+參考華語、[eBird 資料](https://ebird.org/species/olibul1)
 
-參考華語
+---
 
-## [紅目鵯 アカメチャイロヒヨ Red-eyed Bulbul](https://ebird.org/species/reebul1)
+## 紅目鵯 アカメチャイロヒヨ Red-eyed Bulbul
 
-<Image img="https://inaturalist-open-data.s3.amazonaws.com/photos/20022944/medium.jpg" alt="image" style={{marginBottom: '0rem'}} />
+![紅目鵯 アカメチャイロヒヨ Red-eyed Bulbul](https://inaturalist-open-data.s3.amazonaws.com/photos/20022944/medium.jpg)
 
-<div className="image-caption">
 (c) Tan Kok Hui, some rights reserved (CC BY-NC)
-</div>
 
 **台語名**
 
 - 🎯 **紅目茶色鵯 âng-ba̍k-tê-sik-pi**
 - 🎯 **紅目鵯 âng-ba̍k-pi**
 
-**註解**
-
-參考華語、日語
+參考華語、日語、[eBird 資料](https://ebird.org/species/reebul1)
