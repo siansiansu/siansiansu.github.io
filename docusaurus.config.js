@@ -131,7 +131,7 @@ const config = {
         {
           name: "og:url",
           content: "https://siansiansu.github.io/docs/birdtaigi/intro/"
-        }
+        },
         {
           name: "description",
           content: "為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。《鳥仔 ê 名 - 認捌鳥仔 ê 台語》依據上新 ê 鳥類分類研究 kah 號明理路，盡量為每一種鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，嘛有愈來愈濟人來使用這个漸漸消失 ê 語言。"
