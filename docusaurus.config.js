@@ -17,26 +17,16 @@ const config = {
   favicon: "img/favicon.ico",
   trailingSlash: true,
 
-  // Set the production url of your site here
   url: "https://siansiansu.github.io/",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: "siansiansu", // Usually your GitHub org/user name.
   projectName: "siansiansu.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "zh-TW",
+    locales: ["zh-TW", "en"],
   },
 
   // themes: ['@docusaurus/theme-search-algolia'],
@@ -128,7 +118,7 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: "台語, 鳥仔, 鳥仔 ê 名 - 認捌鳥仔 ê 台語",
+          content: "台語, 鳥, 鳥仔, 台語鳥名, 鳥類, 鳥類台語, 鳥名, 鳥仔 ê 名, 台語教學, 認識鳥類, 台語動物名"
         },
         {
           name: "twitter:card",
@@ -136,11 +126,31 @@ const config = {
         },
         {
           name: "og:title",
-          content: "鳥仔 ê 名 - 認捌鳥仔 ê 台語",
+          content: "鳥仔 ê 名｜認捌鳥仔 ê 台語"
+        },
+        {
+          name: "og:url",
+          content: "https://siansiansu.github.io/docs/birdtaigi/intro/"
+        }
+        {
+          name: "description",
+          content: "為著予大家認捌鳥仔 ê 台語，我整理了這个清單，予大家方便揣鳥仔 ê 台語名。《鳥仔 ê 名 - 認捌鳥仔 ê 台語》依據上新 ê 鳥類分類研究 kah 號明理路，盡量為每一種鳥仔揣適合 ê 名，希望會當藉著認捌鳥仔 ê 名，嘛有愈來愈濟人來使用這个漸漸消失 ê 語言。"
         },
         {
           name: "og:description",
-          content: "鳥類的台語",
+          content: "了解鳥類的台語名稱，學習台語中鳥仔的知識"
+        },
+        {
+          name: "og:image",
+          content: "https://siansiansu.github.io/img/profile.jpg"
+        },
+        {
+          name: "twitter:image",
+          content: "https://siansiansu.github.io/img/profile.jpg"
+        },
+        {
+          name: "og:type",
+          content: "article"
         },
         {
           name: "google-site-verification",
