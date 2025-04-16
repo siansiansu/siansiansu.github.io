@@ -4,8 +4,8 @@
 - 🟨 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) [[Solution](./98.validate-binary-search-tree.md)]
 - 🟩 [100. Same Tree](https://leetcode.com/problems/same-tree/) [[Solution](./100.same-tree.md)]
 - 🟩 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) [[Solution](./101.symmetric-tree.md)]
-- 🟨 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- 🟨 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- 🟨 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)[[Solution](./102.binary-tree-level-order-traversal.md)]
+- 🟨 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)[[Solution](./103.binary-tree-zigzag-level-order-traversal.md)]
 - 🟩 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[Solution](./104.maximum-depth-of-binary-tree.md)]
 - 🟨 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[Solution](./105.construct-binary-tree-from-preorder-and-inorder-traversal.md)]
 - 🟨 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
