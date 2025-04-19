@@ -134,28 +134,28 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 | 硬毛 ngē-moo                                 |                                              | 剛毛     | bristle                                  | 翼 si̍t       |
 |                                              | 手根雨覆（しゅこんあまおおい）               |          | carpal covert                            | 翼 si̍t       |
 | 風切毛 hong-tshiat-moo                       | 風切羽 （かざきりばね）                      |          | flight feathers                          | 翼 si̍t       |
-| 大遮雨毛 tuā-jia-hōo-moo                     | 大雨覆（おおあまおおい）                     | 大覆羽   | greater coverts, greater wing coverts    | 翼 si̍t       |
-| 初級大遮雨毛 tshoo-kip-tuā-jia-hōo-moo       | 初列大雨覆（しょれつおおあまおおい）         |          | greater primary coverts                  | 翼 si̍t       |
-| 次級大遮雨毛 tshù-kip-tuā-jia-hōo-moo        | 次列大雨覆（じれつおおあまおおい）           |          | greater secondary coverts                | 翼 si̍t       |
-| 下初級大遮雨毛 ē-tshoo-kip-tuā-jia-hōo-moo   | 下初列大雨覆（したしょれつおおあまおおい）   |          | greater under primary coverts            | 翼 si̍t       |
-| 下大遮雨毛 ē-tuā-jia-hōo-moo                 | 下大雨覆（したおおあまおおい）               |          | greater underwing-coverts                | 翼 si̍t       |
+| 大崁毛 tuā-khàm-moo                          | 大雨覆（おおあまおおい）                     | 大覆羽   | greater coverts, greater wing coverts    | 翼 si̍t       |
+| 初級大崁毛 tshoo-kip-tuā-khàm-moo            | 初列大雨覆（しょれつおおあまおおい）         |          | greater primary coverts                  | 翼 si̍t       |
+| 次級大崁毛 tshù-kip-tuā-khàm-moo             | 次列大雨覆（じれつおおあまおおい）           |          | greater secondary coverts                | 翼 si̍t       |
+| 下初級大崁毛 ē-tshoo-kip-tuā-khàm-moo        | 下初列大雨覆（したしょれつおおあまおおい）   |          | greater under primary coverts            | 翼 si̍t       |
+| 下大崁毛 ē-tuā-khàm-moo                      | 下大雨覆（したおおあまおおい）               |          | greater underwing-coverts                | 翼 si̍t       |
 |                                              | 上膊雨覆（じょうはくあまおおい）             |          | humeral coverts                          | 翼 si̍t       |
 |                                              | 上膊風切（じょうはくかざきり）               |          | humerals                                 | 翼 si̍t       |
 | 邊 pinn                                      | 前縁（ぜんえん）                             |          | leading edge                             | 翼 si̍t       |
-| 小遮雨毛 sió-jia-hōo-moo                     | 小雨覆（しょうあまおおい）                   | 小覆羽   | lesser coverts, lesser wing coverts      | 翼 si̍t       |
-| 初級小遮雨毛 tshoo-kip-sió-jia-hōo-moo       | 初列小雨覆（しょれつしょうあまおおい）       |          | lesser primary coverts                   | 翼 si̍t       |
-| 次級小遮雨毛 tshù-kip-sió-jia-hōo-moo        | 次列小雨覆                                   |          | lesser secondary coverts                 | 翼 si̍t       |
-| 下初級小遮雨毛 ē-tshoo-kip-sió-jia-hōo-moo   | 下初列小雨覆（したしょれつしょうあまおおい） |          | lesser under primary coverts             | 翼 si̍t       |
-| 下小遮雨毛 ē-sió-jia-hōo-moo                 | 下小雨覆（したしょうあまおおい）             |          | lesser underwing-coverts                 | 翼 si̍t       |
+| 小崁毛 sió-khàm-moo                          | 小雨覆（しょうあまおおい）                   | 小覆羽   | lesser coverts, lesser wing coverts      | 翼 si̍t       |
+| 初級小崁毛 tshoo-kip-sió-khàm-moo            | 初列小雨覆（しょれつしょうあまおおい）       |          | lesser primary coverts                   | 翼 si̍t       |
+| 次級小崁毛 tshù-kip-sió-khàm-moo             | 次列小雨覆                                   |          | lesser secondary coverts                 | 翼 si̍t       |
+| 下初級小崁毛 ē-tshoo-kip-sió-khàm-moo        | 下初列小雨覆（したしょれつしょうあまおおい） |          | lesser under primary coverts             | 翼 si̍t       |
+| 下小崁毛 ē-sió-khàm-moo                      | 下小雨覆（したしょうあまおおい）             |          | lesser underwing-coverts                 | 翼 si̍t       |
 | 下肩胛毛 ē-king-kah-moo                      |                                              |          | lower scapulars                          | 翼 si̍t       |
-| 邊遮雨毛 pinn-jia-hōo-moo                    | 前縁雨覆（ぜんえんあまおおい）               |          | marginal coverts                         | 翼 si̍t       |
-| 中遮雨毛 tiong-jia-hōo-moo                   | 中雨覆（ちゅうあまおおい）                   | 中覆羽   | median coverts, median wing coverts      | 翼 si̍t       |
-| 初級中遮雨毛 tshoo-kip-tiong-jia-hōo-moo     | 初列中雨覆（しょれつちゅうあまおおい）       |          | median primary coverts                   | 翼 si̍t       |
-| 次級中遮雨毛 tshù-kip-tiong-jia-hōo-moo      | 次列中雨覆                                   |          | median secondary coverts                 | 翼 si̍t       |
-| 下初級中遮雨毛 ē-tshoo-kip-tiong-jia-hōo-moo | 下初列中雨覆（したしょれつちゅうあまおおい） |          | median under primary coverts             | 翼 si̍t       |
-| 下中遮雨毛 ē-tiong-jia-hōo-moo               | 下中雨覆（したちゅうあまおおい）             |          | median underwing-coverts                 | 翼 si̍t       |
+| 邊崁毛 pinn-khàm-moo                         | 前縁雨覆（ぜんえんあまおおい）               |          | marginal coverts                         | 翼 si̍t       |
+| 中崁毛 tiong-khàm-moo                        | 中雨覆（ちゅうあまおおい）                   | 中覆羽   | median coverts, median wing coverts      | 翼 si̍t       |
+| 初級中崁毛 tshoo-kip-tiong-khàm-moo          | 初列中雨覆（しょれつちゅうあまおおい）       |          | median primary coverts                   | 翼 si̍t       |
+| 次級中崁毛 tshù-kip-tiong-khàm-moo           | 次列中雨覆                                   |          | median secondary coverts                 | 翼 si̍t       |
+| 下初級中崁毛 ē-tshoo-kip-tiong-khàm-moo      | 下初列中雨覆（したしょれつちゅうあまおおい） |          | median under primary coverts             | 翼 si̍t       |
+| 下中崁毛 ē-tiong-khàm-moo                    | 下中雨覆（したちゅうあまおおい）             |          | median underwing-coverts                 | 翼 si̍t       |
 | 初級風切毛 tshoo-kip-hong-tshiat-moo         | 初列風切（しょれつかざきり）                 | 初級飛羽 | primaries                                | 翼 si̍t       |
-| 初級遮雨毛 tshoo-kip-jia-hōo-moo             | 初列雨覆（しょれつあまおおい）               |          | primary coverts                          | 翼 si̍t       |
+| 初級崁毛 tshoo-kip-khàm-moo                  | 初列雨覆（しょれつあまおおい）               |          | primary coverts                          | 翼 si̍t       |
 | 初級風切毛捅 tshoo-kip-hong-tshiat-moo-thóng |                                              |          | primary projection                       | 翼 si̍t       |
 | 翼股毛 si̍t-kóo-moo                           |                                              |          | remiges                                  | 翼 si̍t       |
 | 肩胛毛 king-kah-moo                          | 肩羽（かたばね）                             | 肩羽     | scapulars, upper scapulars               | 翼 si̍t       |
@@ -166,11 +166,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 | 三級風切毛 sann-kip-hong-tshiat-moo          | 三列風切（さんれつかざきり）                 | 三級飛羽 | tertials                                 | 翼 si̍t       |
 | 後邊 āu-pinn                                 | 後縁（こうえん）                             |          | trailing edge                            | 翼 si̍t       |
 | 翼股底 si̍t-kóo-té                            | 翼下面（よくかめん）                         |          | under wing                               | 翼 si̍t       |
-| 下尾遮雨毛 ē-bué-jia-hōo-moo                 | 下尾筒（かびとう）                           | 尾下覆羽 | undertail coverts                        | 翼 si̍t       |
-| 下翼遮雨毛 ē-si̍t-jia-hōo-moo                 |                                              | 翼下覆羽 | underwing covers                         | 翼 si̍t       |
+| 下尾崁毛 ē-bué-khàm-moo                      | 下尾筒（かびとう）                           | 尾下覆羽 | undertail coverts                        | 翼 si̍t       |
+| 下翼崁毛 ē-si̍t-khàm-moo                      |                                              | 翼下覆羽 | underwing covers                         | 翼 si̍t       |
 | 翼股頂 si̍t-kóo-tíng                          | 翼上面（よくじょうめん）                     |          | upper wing                               | 翼 si̍t       |
-| 遮雨毛 jia-hōo-moo                           | 上雨覆（うえあまおおい）                     |          | upper wing-coverts                       | 翼 si̍t       |
-| 頂尾遮雨毛 tíng-bué-jia-hōo-moo              | 上尾筒（じょうびとう）                       | 尾上覆羽 | uppertail coverts                        | 翼 si̍t       |
+| 崁毛 khàm-moo                                | 上雨覆（うえあまおおい）                     |          | upper wing-coverts                       | 翼 si̍t       |
+| 頂尾崁毛 tíng-bué-khàm-moo                   | 上尾筒（じょうびとう）                       | 尾上覆羽 | uppertail coverts                        | 翼 si̍t       |
 | 翼股帶 si̍t-kóo-tuà                           | 翼帯（よくたい）                             | 翼帶     | wing bar                                 | 翼 si̍t       |
 |                                              | 雨覆（あまおおい）                           |          | wing coverts                             | 翼 si̍t       |
 | 翼股窗 si̍t-kóo-thang                         |                                              | 翼窗     | wing window                              | 翼 si̍t       |
