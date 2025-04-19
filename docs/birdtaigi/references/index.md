@@ -1,3 +1,9 @@
+---
+title: 捷用 ê 整理
+description: 鳥仔台語捷用 ê 整理
+keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
+---
+
 # 捷用 ê 整理
 
 - [人名 kap 地名](./names-and-places.md)
