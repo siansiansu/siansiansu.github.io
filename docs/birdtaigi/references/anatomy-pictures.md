@@ -6,7 +6,7 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 # 鳥仔 ê 身體部位（圖）
 
-用圖介紹鳥仔 ê 身體部位，圖來自 [The Sibley Field Guide by David Allen Sibley](https://www.audubon.org/marketplace/sibley-field-guides)，翻譯來自[鳥仔身體部位 ê 台](./anatomy.md)。
+用圖介紹鳥仔 ê 身體部位，圖來自 [The Sibley Field Guide by David Allen Sibley](https://www.audubon.org/marketplace/sibley-field-guides)，翻譯來自[鳥仔身體部位 ê 台語](./anatomy.md)。
 
 ## 雀 tshiok
 
