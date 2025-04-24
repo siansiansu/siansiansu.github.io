@@ -1,12 +1,12 @@
 ---
-title: 鷸仔科 llu̍t-á-kho
-description: 鷸仔（llu̍t-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+title: 鷸仔科 lu̍t-á-kho
+description: 鷸仔（lu̍t-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 ---
 
-# 鷸仔科 llu̍t-á-kho
+# 鷸仔科 lu̍t-á-kho
 
-鷸仔（llu̍t-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
+鷸仔（lu̍t-á）台語名整理，同齊對照本土 ê 台語號名、鳥仔特徵、英語、日語、華語翻譯，嘛有物種 ê eBird 網址，予未來 ê 物種命名參考。
 
 ## 中勺鷸 チュウシャクシギ Whimbrel
 
@@ -17,8 +17,8 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 **台語名**
 
 - 🎯 **中土礱鉤仔 tiong-thôo-lâng-kau-á**
-- 🎯 **中土礱鉤鷸 tiong-thôo-lâng-kau-llu̍t**
-- 中勺鷸 tiong-sia̍h-llu̍t
+- 🎯 **中土礱鉤鷸 tiong-thôo-lâng-kau-lu̍t**
+- 中勺鷸 tiong-sia̍h-lu̍t
 - ✳️ 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ 水尖仔 Tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
@@ -35,9 +35,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **台語名**
 
-- 🎯 **小土礱鉤鷸 sió-thôo-lâng-kau-llu̍t**
+- 🎯 **小土礱鉤鷸 sió-thôo-lâng-kau-lu̍t**
 - 🎯 **小土礱鉤仔 sió-thôo-lâng-kau-á**
-- 小勺鷸 sió-sia̍h-llu̍t
+- 小勺鷸 sió-sia̍h-lu̍t
 - ✳️ 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ 水尖仔 Tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
@@ -54,10 +54,10 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **台語名**
 
-- 🎯 **紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-llu̍t**
+- 🎯 **紅腰土礱鉤鷸 âng-io-thôo-lâng-kau-lu̍t**
 - 🎯 **紅腰土礱鉤仔 âng-io-thôo-lâng-kau-á**
-- 🎯 黦鷸 iat-llu̍t
-- 焙烙鷸 puē-lo̍k-llu̍t
+- 🎯 黦鷸 iat-lu̍t
+- 焙烙鷸 puē-lo̍k-lu̍t
 - ✳️ 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ 水尖仔 Tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
@@ -74,9 +74,9 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鷸仔"]
 
 **台語名**
 
-- 🎯 **大土礱鉤鷸 tuā-thôo-lâng-kau-llu̍t**
+- 🎯 **大土礱鉤鷸 tuā-thôo-lâng-kau-lu̍t**
 - 🎯 **大土礱鉤仔 tuā-thôo-lâng-kau-á**
-- 大勺鷸 tuā-sia̍h-llu̍t
+- 大勺鷸 tuā-sia̍h-lu̍t
 - ✳️ 土礱鉤仔 thôo-lâng-kau-á
 - ✳️ 水尖仔 Tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
