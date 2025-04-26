@@ -1,4 +1,12 @@
+---
+title: 天売島
+description: 天売島賞鳥筆記，提供交通、住宿、廁所、飲水、賞鳥熱點等資訊。
+keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
+---
+
 # 天売島
+
+天売島賞鳥筆記，提供交通、住宿、廁所、飲水、賞鳥熱點等資訊。
 
 ![image](./teuri-island/cover-photo.png)
 
