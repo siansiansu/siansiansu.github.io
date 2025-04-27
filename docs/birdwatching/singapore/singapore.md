@@ -9,7 +9,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 新加坡賞鳥筆記，分享交通、住宿、廁所、飲水等旅行中需要知道的實用資訊。
 
-![image](./singapore/cover-photo.png)
+![image](/singapore/cover-photo.png)
 
 ▲ 新加坡主要的 12 個賞鳥點，如果是第一次去新加坡的話，就先從這邊開始逛吧！
 
@@ -37,7 +37,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Sungei Buloh Wetland Reserve Wetland Centre 雙溪布洛濕地保護區
 
-![image](./singapore/sungei-buloh-1.png)
+![image](/singapore/sungei-buloh-1.png)
 
 ▲ 公車到達後的行走路線。
 
@@ -58,17 +58,17 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 - 遊客中心裡面有個食堂，只有裡面才可以吃東西，其他地方都不行隨意飲食。
 - 澤巨蜥很多，還常常懶洋洋的躺在地上，不要踢到了！
 
-![image](./singapore/sungei-buloh-2.png)
+![image](/singapore/sungei-buloh-2.png)
 
 ▲ 在園區裡面可以看到很多這種圓圓的東西，可以當作休息的據點。我們到達後會補充水分休息一下，慢慢前進，不然真的太熱了！
 
-![image](./singapore/sungei-buloh-3.png)
+![image](/singapore/sungei-buloh-3.png)
 
 ▲ 園區裡面有兩個主要的休息點，都有販賣機、飲水機和廁所。
 
 ### Singapore Botanic Gardens 新加坡植物園
 
-![image](./singapore/singapore-botanic-gardens.png)
+![image](/singapore/singapore-botanic-gardens.png)
 
 ▲ 新加坡植物園的行走路線。
 
@@ -90,7 +90,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Gardens by the Bay 濱海灣花園
 
-![image](./singapore/gardens-by-the-bay.png)
+![image](/singapore/gardens-by-the-bay.png)
 
 ▲ 濱海灣花園的行走路線。
 
@@ -100,19 +100,19 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Pasir Ris Town Park 白沙公園
 
-![image](./singapore/pasir-ris-town-park-1.png)
+![image](/singapore/pasir-ris-town-park-1.png)
 
 ▲ 白沙公園的行走路線。
 
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
 
-![image](./singapore/pasir-ris-town-park-2.png)
+![image](/singapore/pasir-ris-town-park-2.png)
 
 ▲ 上圖圈起來的地方可以安排在一起。
 
 ### Pulau Ubin 烏敏島
 
-![image](./singapore/pulau-ubin.png)
+![image](/singapore/pulau-ubin.png)
 
 ▲ 搭乘船到烏敏島。
 
@@ -126,7 +126,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Hampstead Wetlands Park 翰仕德濕地公園
 
-![image](./singapore/hampstead-wetlands-park.png)
+![image](/singapore/hampstead-wetlands-park.png)
 
 ▲ 翰仕德濕地公園。
 
@@ -134,7 +134,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Rifle Range Nature Park 射靶場自然公園
 
-![image](./singapore/rifle-range-nature-park-1.png)
+![image](/singapore/rifle-range-nature-park-1.png)
 
 ▲ 射靶場自然公園，圈起來是可以休息上廁所的地方。
 
@@ -142,13 +142,13 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 - 入口在美世界購物中心樓上。
 - 在購物中心可以上廁所和休息，準備好再出發。
 
-![image](./singapore/rifle-range-nature-park-2.png)
+![image](/singapore/rifle-range-nature-park-2.png)
 
 ▲ 上圖圈起來的地方可以安排在一起，不過至少要抓一整天的時間賞鳥。
 
 ### Hindhede Nature Park 海希德自然公園
 
-![image](./singapore/hindhede-nature-park.png)
+![image](/singapore/hindhede-nature-park.png)
 
 ▲ 海希德自然公園，圈起來是可以休息上廁所的地方。
 
@@ -157,17 +157,17 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Singapore Quarry 新加坡採石場
 
-![image](./singapore/singapore-quarry-1.png)
+![image](/singapore/singapore-quarry-1.png)
 
 ▲ 我們選擇從 `Hindhede Nature Park` 走過去，雖然是平地，但距離也不近，如果還有其他行程的話建議搭公車，保留一點體力。
 
-![image](./singapore/singapore-quarry-2.png)
+![image](/singapore/singapore-quarry-2.png)
 
 ▲ 圈起來的地方有一整排美食街，可以吃飯和休息。再往上就是捷運 `Hillview 山景 (DT3)` 站，從那裡搭車回家。
 
 ### Bukit Batok Nature Park 武吉巴督自然公園
 
-![image](./singapore/bukit-batok-nature-park.png)
+![image](/singapore/bukit-batok-nature-park.png)
 
 ▲ 武吉巴督自然公園。
 
@@ -175,7 +175,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Windsor Nature Park 溫莎自然公園
 
-![image](./singapore/windsor-nature-park.png)
+![image](/singapore/windsor-nature-park.png)
 
 ▲ 溫莎自然公園。
 
@@ -184,7 +184,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### Jurong Lake Gardens 裕廊湖花園
 
-![image](./singapore/jurong-lake-gardens.png)
+![image](/singapore/jurong-lake-gardens.png)
 
 ▲ 圈起來的地方是科學博物館，可以參觀或休息。
 

@@ -150,18 +150,12 @@ html {
   border-left-color: var(--ifm-color-gray-800);
 }
 
-/* Links underline */
-/* a {
+.markdown a {
   text-decoration: underline;
-} */
+}
 
-/* Navbar and footer links hover underline */
-/* .navbar__link,
-.footer__link-item {
-  text-decoration: underline;
-} */
-
-/* .navbar__link:hover,
-.footer__link-item:hover {
-  text-decoration: underline;
-} */
+.navbar__link,
+.footer__link-item,
+.menu__link {
+  text-decoration: none;
+}
