@@ -1,35 +1,25 @@
 ---
-title: 天売島
-description: 天売島賞鳥筆記，提供交通、住宿、廁所、飲水、賞鳥熱點等資訊。
+title: 我的賞鳥筆記 - 天売島
+sidebar_label: 天売島
+description: 天売島賞鳥筆記，分享交通、住宿、廁所、飲水等旅行中需要知道的實用資訊。
 keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 ---
 
-# 天売島
+# 我的賞鳥筆記 - 天売島
 
-天売島賞鳥筆記，提供交通、住宿、廁所、飲水、賞鳥熱點等資訊。
+天売島賞鳥筆記，分享交通、住宿、廁所、飲水等旅行中需要知道的實用資訊。
 
 ![image](./teuri-island/cover-photo.png)
 
-▲ 天売島 7 個主要的賞鳥點：
+▲ 天売島 7 個主要的賞鳥熱點：
 
 1. [厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)
-2. [海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)和[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)之間步道
+2. [海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)和[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)之間的步道
 3. [黒崎海岸](https://maps.app.goo.gl/NeHcrmf8iSvTeeSx6)
 4. [赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)
 5. [海鳥観察舎](https://maps.app.goo.gl/XASqdGmt8J14GNpT8)
 6. [観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)
 7. [愛鳥公園](https://maps.app.goo.gl/hSxJCDbeqyduQpka8)
-
-## 重點懶人包
-
-- 札幌到羽幌的巴士採預約制，如果不會日語，請在出發的一個月前，使用 [JCB 的貴賓服務中心諮詢專線](https://www.tw.jcb/zh-tw/consumers/platinum/concierge-desk/index.html)或是請熟悉日語的朋友打電話預約。
-- 天売島的旺季是夏季。
-- 當地的導遊請提早預約，網址是[天売島観光サイト「天売島.jp」](https://www.teuri.jp/)。
-- 如果打算在旺季過去，記得提早預約當地的住宿。
-- 船有可能因為天氣的關係停駛，旅程請抓點緩衝。
-- 船有沒有開請參考：[羽幌沿海フェリー](https://haboro-enkai.com/)
-- 帶暈船藥。
-- 島上比預期冷，注意防風保暖。
 
 ## 交通
 
@@ -37,11 +27,9 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ![image](./teuri-island/teuri-1.png)
 
-▲ `新千歲機場`到`札幌車站`之間的 JR 路線。
+▲ `新千歲機場`到`札幌車站`之間的鐵路。
 
-從`新千歲機場`搭乘 `JR 千歲線`到`札幌車站`下車，車程大概 `50` 分鐘左右。
-
-除了火車以外，也有巴士可以坐。
+下飛機後搭乘 `JR 千歲線`到`札幌車站`下車，大約 50 分鐘，也可以搭巴士。
 
 ![image](./teuri-island/teuri-2.png)
 

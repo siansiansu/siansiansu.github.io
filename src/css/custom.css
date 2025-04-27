@@ -149,3 +149,19 @@ html {
 [data-theme='dark'] .menu__list .menu__list {
   border-left-color: var(--ifm-color-gray-800);
 }
+
+/* Links underline */
+a {
+  text-decoration: underline;
+}
+
+/* Navbar and footer links hover underline */
+.navbar__link,
+.footer__link-item {
+  text-decoration: underline;
+}
+
+.navbar__link:hover,
+.footer__link-item:hover {
+  text-decoration: underline;
+}
