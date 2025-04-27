@@ -85,8 +85,14 @@ Kinabatangan River 位於[山打根](https://maps.app.goo.gl/XcDrgrwd5VWuoe7F8)�
 
 這次去程和回程各待了一個半天，差不多可以把亞庇市區比較熱鬧的地方逛完。
 
-
-![Todak Waterfront](./kinabatangan/IMG_0511.mp4)
+<video
+  controls
+  autoplay
+  muted
+  loop
+  width="100%"
+  src="https://github.com/siansiansu/siansiansu.github.io/blob/main/docs/birdwatching/borneo/kinabatangan/IMG_0511.mp4"
+/>
 
 ▲ [Todak Waterfront](https://maps.app.goo.gl/evKdMvbRQayknULZ6) 廣場，很多遊客會在這裡拍照。
 

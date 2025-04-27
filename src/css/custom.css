@@ -151,17 +151,17 @@ html {
 }
 
 /* Links underline */
-a {
+/* a {
   text-decoration: underline;
-}
+} */
 
 /* Navbar and footer links hover underline */
-.navbar__link,
+/* .navbar__link,
 .footer__link-item {
   text-decoration: underline;
-}
+} */
 
-.navbar__link:hover,
+/* .navbar__link:hover,
 .footer__link-item:hover {
   text-decoration: underline;
-}
+} */
