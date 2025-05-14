@@ -391,7 +391,7 @@ no rights reserved, uploaded by 葉子
 
 **台語名**
 
-- 🎯 **紫色翎鷥 tsí-sik-līng-si**
+- 🎯 **紫色海徛仔 tsí-hái-khiā-á**
 - 🎯 紫色鷺 tsí-sik-lōo
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/purher1)
