@@ -9,7 +9,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 [Kinabatangan River](https://maps.app.goo.gl/6prazKm6F1ABtU4dA) 賞鳥筆記，分享交通、住宿、廁所、飲水等旅行中需要知道的實用資訊。
 
-<img src="/kinabatangan/kinabatangan.png" width="100%"/>
+![](/kinabatangan/kinabatangan.png)
 
 ▲ 我們此行的目標：[婆羅洲 (Borneo)](https://maps.app.goo.gl/tb1GGuSqGfLQs5do6) 的 Kinabatangan River。
 
@@ -17,7 +17,7 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 ### 1. 台灣 → 亞庇(Kota Kinabalu, KK)
 
-<img src="/kinabatangan/airplane-1.png" width="60%"/>
+<img src="/kinabatangan/airplane-1.png" width="100%"/>
 
 ▲ [亞航 (Air Asia)](https://www.airasia.com/) 直飛的航班。
 
@@ -31,23 +31,23 @@ keywords: ["鳥類", "鳥仔", "台灣", "鳥名", "eBird"]
 
 Kinabatangan River 位於[山打根](https://maps.app.goo.gl/XcDrgrwd5VWuoe7F8)，所以還需要轉搭國內線飛機。
 
-<img src="/kinabatangan/airplane-3.png" width="60%"/>
+<img src="/kinabatangan/airplane-3.png" width="100%"/>
 
 ▲ 飛行時間約 45 分鐘，除了亞航，也有其他航空公司可以選擇。
 
 考慮旅程的緩衝時間，我們選擇在亞庇市區住一晚，隔天一早從亞庇機場搭國內線飛往[山打根機場 (Sandakan Airport)](https://maps.app.goo.gl/PEz1SZWWP9hMu7w99)，機場代號是 SDK。
 
-<img src="/kinabatangan/airport-1.JPG" width="60%"/>
+<img src="/kinabatangan/airport-1.JPG" width="100%"/>
 
 ▲ 山打根機場內的書店，裡面有賣圖鑑和明信片，但價格不便宜。
 
 ### 3. 飛機餐
 
-<img src="/kinabatangan/In-flight-meal-1.JPG" width="60%"/>
+<img src="/kinabatangan/In-flight-meal-1.JPG" width="100%"/>
 
 ▲ 有些餐點很辣，但目錄都有標示。
 
-<img src="/kinabatangan/In-flight-meal-2.JPG" width="60%"/>
+<img src="/kinabatangan/In-flight-meal-2.JPG" width="100%"/>
 
 ▲ 雞腿飯。
 
@@ -57,33 +57,77 @@ Kinabatangan River 位於[山打根](https://maps.app.goo.gl/XcDrgrwd5VWuoe7F8)�
 
 市區移動主要靠 [Grab](https://www.grab.com/sg/)，我們出發前就先在台灣下載好 APP，並綁定信用卡，使用起來很方便，而且不會太貴。
 
-<img src="/kinabatangan/grab-1.png" width="60%"/>
+<img src="/kinabatangan/grab-1.png" width="100%"/>
 
 ▲ Grab 的操作介面，和 Uber 差不多，有停靠點可以選擇。
 
-<img src="/kinabatangan/grab-2.JPG" width="60%" />
+<img src="/kinabatangan/grab-2.JPG" width="100%" />
 
 ▲ 入境後走到 5 號接送點等計程車。
 
 ### 2. 住宿
 
-<img src="/kinabatangan/hotel63-1.JPG" width="60%"/>
+<img src="/kinabatangan/hotel63-1.JPG" width="100%"/>
 
 ▲ 我們住在 [Hotel Sixty3](https://maps.app.goo.gl/3Esocyrb52gYu9Nx7)，房間寬敞舒適乾淨。
 
 會選這裡主要是因為交通機能方便，離土產街和漁市都近，價格也算合理。
 
-<img src="/kinabatangan/hotel63-2.png" width="60%"/>
+<img src="/kinabatangan/hotel63-2.png" width="100%"/>
 
 ▲ 從機場坐車到 Hotel Sixty3 約 30 分鐘，但是市區會有點塞車。
 
-### 3. 逛街
+### 3. 逛街路線
 
-<img src="/kinabatangan/hotel63-3.png" width="60%"/>
+<img src="/kinabatangan/hotel63-3.png" width="100%"/>
 
-▲ 我們行走的路線，從飯店出發，逆時鐘繞了一圈，回來剛好逛夜市。
+▲ 地圖上畫的是我們行走的路線，從飯店出發逆時鐘繞了一圈，經過購物中心、市集，回來逛加雅街 (Gaya Street) 夜市。
 
-這次去程和回程各待了一個半天，差不多可以把亞庇市區比較熱鬧的地方逛完。
+差不多一天可以把亞庇市區比較熱鬧的地方逛完，不過建議可以分不同天逛，因為想吃的東西太多了，胃的容量有限，用走的腳也很累。
+
+### 4. 購物中心
+
+#### 4.1 Suria Sabah 曙光購物中心
+
+<img src="/kinabatangan/suria-sabah-3.JPG" width="100%"/>
+
+從飯店往左上走一段路，可以到 [Suria Sabah](https://maps.app.goo.gl/fthZSQZv4P9uAfQYA)，一個很新很大的購物商場，裡面有服飾店、超市和書店等等。
+
+我們在超市買了一些零食和土產，也在書店晃了一下。
+
+<img src="/kinabatangan/suria-sabah-1.JPG" width="100%"/>
+
+▲ ChekHup 的熱可可很好喝。
+
+<img src="/kinabatangan/suria-sabah-2.png" width="100%"/>
+
+▲ 亞庇市區的人行道高高低低的，很容易跌倒，而且行人可以站立的地方狹小，再加上晚上很暗，在這裡行走要小心。
+
+紅綠燈秒數等的秒數很長，行走的秒數很短，過一條馬路都要走走停停很久。
+
+還好因為市區車子很多，車速普遍不快。
+
+<img src="/kinabatangan/wisma-merdeka-3.JPG" width="100%"/>
+
+▲ 一張很喜歡的壁畫，在 Suria Sabah 對面。
+
+#### 4.2 Wisma Merdeka 默迪卡購物商場
+
+<img src="/kinabatangan/wisma-merdeka-2.png" width="100%"/>
+
+[Wisma Merdeka](https://maps.app.goo.gl/Y9b81kBP46RKwndx9) 是一間外觀看起來舊舊的商場，但什麼東西都有賣，也有美食街。
+
+剛抵達亞庇的時候，我們第一站就是來這裡換錢，可以用台幣換馬幣，匯率比機場好一點。
+
+<img src="/kinabatangan/wisma-merdeka-1.JPG" width="100%"/>
+
+▲ 裡面有一間 [The Borneo Shop](https://maps.app.goo.gl/R1WpGcJSFYm4eZbu9) 書店，裡頭販賣各式各樣的生態書籍。
+
+#### 4.3 市集
+
+![](/kinabatangan/market-3.png)
+
+▲ 從 [I Love KK](https://maps.app.goo.gl/H6DaSTwNjKRL5bLk9) 打卡點往南走，會經過一系列的市集，非常熱鬧。
 
 <video
   controls
@@ -98,51 +142,35 @@ Kinabatangan River 位於[山打根](https://maps.app.goo.gl/XcDrgrwd5VWuoe7F8)�
 
 ▲ [Todak Waterfront](https://maps.app.goo.gl/evKdMvbRQayknULZ6) 廣場，很多遊客會在這裡駐足拍照。
 
-### 4. 購物
 
-#### 4.1 Suria Sabah
+<img src="/kinabatangan/fish-1.JPG" width="100%"/>
 
-<img src="/kinabatangan/suria-sabah-3.JPG" width="60%"/>
+可以到達 [Todak Waterfront Hawker Center](https://maps.app.goo.gl/XXsM6d9Z2CUC8q1Z6)。
 
-從飯店往左上走一段路，可以到 [Suria Sabah](https://maps.app.goo.gl/fthZSQZv4P9uAfQYA)，一個很新很大的購物商場，裡面有服飾店、超市和書店等等。
+這裡有現流仔海鮮快炒，餐廳的員工會緊追不捨的攬客，不擅長拒絕的人請小心一下這裡，或是趕快快步走離開。
 
-我們在超市買了一些零食和土產，也在書店晃了一下。
+<video
+  controls
+  autoplay
+  muted
+  loop
+  width="40%"
+  playsinline
+>
+  <source src="/kinabatangan/IMG_0515.mov" />
+</video>
 
-<img src="/kinabatangan/suria-sabah-1.JPG" width="60%"/>
+▲ 煙霧彌漫，各種香氣混雜在一起，只是經過而已衣服都是燒烤的味道，也有街頭藝人表演。
 
-▲ ChekHup 的熱可可很好喝，個人覺得比美祿還好喝。
+沿著 [Todak Waterfront Hawker Center](https://maps.app.goo.gl/XXsM6d9Z2CUC8q1Z6) 繼續往南走，可以到達 [Kota Kinabalu Central Market](https://maps.app.goo.gl/y8qmdAQ8M932QA3S7)
 
-<img src="/kinabatangan/suria-sabah-2.png" width="60%"/>
 
-▲ 亞庇市區的人行道高高低低的，很容易跌倒，而且行人可以站立的地方狹小，再加上晚上很暗，在這裡行走要小心。
+![](/kinabatangan/market-2.png)
 
-紅綠燈秒數等的秒數很長，行走的秒數很短，過一條馬路都要走走停停很久。
+▲ Kota Kinabalu Central Market，賣些水果、乾貨、手工藝的市場，要特別注意的是，因為我們是晚上去，周圍的燈光不太足夠，經過的時候其實有點不安。
 
-還好因為市區車子很多，車速普遍不快。
+![](/kinabatangan/market-1.JPG)
 
-<img src="/kinabatangan/wisma-merdeka-3.JPG" width="60%"/>
-
-▲ 一張很喜歡的壁畫，在 Suria Sabah 對面。
-
-#### 4.2 Wisma Merdeka
-
-<img src="/kinabatangan/wisma-merdeka-2.png" width="60%"/>
-
-[Wisma Merdeka](https://maps.app.goo.gl/Y9b81kBP46RKwndx9) 是一間外觀看起來舊舊的商場，但什麼東西都有賣，也有美食街。
-
-剛抵達亞庇的時候，我們第一站就是來這裡換錢，可以用台幣換馬幣，匯率比機場好一點。
-
-<img src="/kinabatangan/wisma-merdeka-1.JPG" width="60%"/>
-
-▲ 裡面有一間 [The Borneo Shop](https://maps.app.goo.gl/R1WpGcJSFYm4eZbu9) 書店，裡頭販賣各式各樣的生態書籍。
-
-#### 4.3 市集
-
-<img src="/kinabatangan/fish-1.JPG" width="60%"/>
-
-▲ 從 [I Love KK](https://maps.app.goo.gl/H6DaSTwNjKRL5bLk9) 往下走可以到達 [Todak Waterfront Hawker Center](https://maps.app.goo.gl/XXsM6d9Z2CUC8q1Z6)。
-
-這裡餐廳的員工會緊追不捨的攬客，I 人請小心一下這裡，或是快步走離開。
 
 #### 加雅街 (Gaya Street)
 
@@ -152,7 +180,7 @@ Kinabatangan River 位於[山打根](https://maps.app.goo.gl/XcDrgrwd5VWuoe7F8)�
 
 ### 預訂當地導覽
 
-<img src="/kinabatangan/sukau-greenview-2.JPG" width="60%"/>
+<img src="/kinabatangan/sukau-greenview-2.JPG" width="100%"/>
 
 我們選擇的民宿叫 [Sukau Greenview](https://www.sukaugreenview.net/)，直接寫信跟他們說你們想賞鳥，也給他們人數、預計停留的時間等，他們會寄一封 private tour 給你們參考(網站沒有放)。
 
@@ -161,11 +189,11 @@ Kinabatangan River 位於[山打根](https://maps.app.goo.gl/XcDrgrwd5VWuoe7F8)�
 
 當天從山打根機場出去後，在門口就會看到民宿的接駁車了，鳥導也會在會機場外等候。
 
-<img src="/kinabatangan/sukau-greenview-1.png" width="60%"/>
+<img src="/kinabatangan/sukau-greenview-1.png" width="100%"/>
 
 ▲ 機場往民宿的車程大概需要兩個小時，中間停一個加油站稍作休息。
 
-<img src="/kinabatangan/sukau-greenview-3.JPG" width="60%"/>
+<img src="/kinabatangan/sukau-greenview-3.JPG" width="100%"/>
 
 ▲ 路上看到的野獸巨人。
 
