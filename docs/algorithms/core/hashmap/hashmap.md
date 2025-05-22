@@ -19,5 +19,6 @@
 - 🟨 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) [[Solution](./846.hand-of-straights.md)]
 - 🟩 [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) [[Solution](./1122.relative-sort-array.md)]
 - 🟩 [1460. Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) [[Solution](./1460.make-two-arrays-equal-by-reversing-subarrays.md)]
+- [1742. Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/) [[Solution](./1742.maximum-number-of-balls-in-a-box.md)]
 - 🟩 [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) [[Solution](./2053.kth-distinct-string-in-an-array.md)]
 - 🟨 [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) [[Solution](./3223.minimum-length-of-string-after-operations.md)]

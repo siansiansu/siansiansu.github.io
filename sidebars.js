@@ -63,7 +63,6 @@ const sidebars = {
             'algorithms/core/queue/queue',
             'algorithms/core/stack/stack',
             'algorithms/core/string/string',
-            'algorithms/core/trie/trie',
           ],
         },
         {
@@ -85,6 +84,7 @@ const sidebars = {
             'algorithms/advanced/prefix-sum/prefix-sum',
             'algorithms/advanced/sliding-window/sliding-window',
             'algorithms/advanced/sorting/sorting',
+            'algorithms/advanced/trie/trie',
             'algorithms/advanced/two-pointers/two-pointers',
           ],
         },
