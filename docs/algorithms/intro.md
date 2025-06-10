@@ -13,7 +13,6 @@ sidebar_position: 1
 - [Queue](./core/queue/queue.md)
 - [Stack](./core/stack/stack.md)
 - [String](./core/string/string.md)
-- [Trie (Prefix Tree)](./core/trie/trie.md)
 
 ## Advanced Topics
 
@@ -30,6 +29,7 @@ sidebar_position: 1
 - [Prefix Sum](./advanced/prefix-sum/prefix-sum.md)
 - [Sliding Window](./advanced/sliding-window/sliding-window.md)
 - [Sorting](./advanced/sorting/sorting.md)
+- [Trie (Prefix Tree)](./advanced/trie/trie.md)
 - [Two Pointers](./advanced/two-pointers/two-pointers.md)
 
 ## Other Resources
