@@ -4,36 +4,6 @@ sidebar_position: 1
 
 # Data Structures and Algorithms
 
-## Core Topics
-
-- [Array](./core/array/array.md)
-- [Binary Tree](./core/binary-tree/binary-tree.md)
-- [HashMap](./core/hashmap/hashmap.md)
-- [Linked List](./core/linked-list/linked-list.md)
-- [Queue](./core/queue/queue.md)
-- [Stack](./core/stack/stack.md)
-- [String](./core/string/string.md)
-
-## Advanced Topics
-
-- [Backtracking](./advanced/backtracking/backtracking.md)
-- [Binary Search](./advanced/binary-search/binary-search.md)
-- [Bit Manipulation](./advanced/bit/bit.md)
-- [Design](./advanced/design/design.md)
-- [Dynamic Programming](./advanced/dp/dp.md)
-- [Graph](./advanced/graph/graph.md)
-- [Greedy Algorithm](./advanced/greedy/greedy.md)
-- [Intervals](./advanced/intervals/intervals.md)
-- [Math](./advanced/math/math.md)
-- [Matrix](./advanced/matrix/matrix.md)
-- [Prefix Sum](./advanced/prefix-sum/prefix-sum.md)
-- [Sliding Window](./advanced/sliding-window/sliding-window.md)
-- [Sorting](./advanced/sorting/sorting.md)
-- [Trie (Prefix Tree)](./advanced/trie/trie.md)
-- [Two Pointers](./advanced/two-pointers/two-pointers.md)
-
-## Other Resources
-
 - [Basic Implementation](./resources/basic.md)
 - [SQL](./resources/sql.md)
 - [USACO Guide](https://usaco.guide/)

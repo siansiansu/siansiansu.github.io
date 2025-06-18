@@ -1,4 +1,4 @@
-## Count number of squares in a rectangle
+# Count number of squares in a rectangle
 
 Given a m x n rectangle, how many squares are there in it?
 
