@@ -1,4 +1,6 @@
-# [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
+# FrogRiverOne
+
+https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 
 ```cpp
 #include <bits/stdc++.h>

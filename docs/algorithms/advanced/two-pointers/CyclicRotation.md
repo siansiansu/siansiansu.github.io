@@ -1,4 +1,6 @@
-# [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
+# CyclicRotation
+
+https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
 
 ```cpp
 #include <bits/stdc++.h>

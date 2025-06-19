@@ -1,4 +1,6 @@
-# [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
+# TapeEquilibrium
+
+https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
 
 - 初始化 `head = A[0]` 和 `tail = accumulate(A.begin() + 1, A.end(), 0)`
 - 再用一個迴圈加一個元素、減一個元素，比 `minDiff` 的大小

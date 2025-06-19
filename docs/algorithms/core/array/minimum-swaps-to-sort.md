@@ -1,4 +1,6 @@
-# [Minimum Swaps to Sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1)
+# Minimum Swaps to Sort
+
+https://www.geeksforgeeks.org/problems/minimum-swaps/1
 
 Given an array of n distinct elements. Find the minimum number of swaps required to sort the array in strictly increasing order.
 
