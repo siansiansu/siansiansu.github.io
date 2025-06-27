@@ -108,8 +108,14 @@ pip install -r requirements.txt
 
 ### 3. 執行 MCP Server
 
-設定完成後重新啟動 Claude 桌面版，Claude 會自動啟動並管理這個 MCP Server。您現在可以在任何對話中，透過 `@ebird-api` 來呼叫相關工具。
+設定完成後重新啟動 Claude 桌面版，Claude 會自動啟動並管理這個 MCP Server。
+
+![](/ebird-mcp-server/claude.png)
 
 進入先前的設定頁面可以看到關於 eBird MCP Server 的設定。
 
 ![](/ebird-mcp-server/server.png)
+
+之後回到聊天頁面就可以使用囉！
+
+![](/ebird-mcp-server/demo2.gif)
