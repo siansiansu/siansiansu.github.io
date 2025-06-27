@@ -52,11 +52,6 @@ const config = {
             type: ["rss", "atom"],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
@@ -212,6 +207,11 @@ const config = {
             type: "docSidebar",
             sidebarId: "gamingSidebar",
             label: "遊戲",
+            position: "left",
+          },
+          {
+            to: "/blog",
+            label: "Blog",
             position: "left",
           },
           {

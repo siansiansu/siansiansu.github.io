@@ -119,7 +119,7 @@ Make sure you are already connected to the company's WiFi
 - [ ] **Install Homebrew Packages**
   - [ ] [ansible-lint](https://formulae.brew.sh/formula/ansible-lint)
   - [ ] [ansible](https://formulae.brew.sh/formula/ansible)
-  - [ ] [asdf](https://github.com/asdf-vm/asdf)
+  - [ ] [mise](https://github.com/jdx/mise)
   - [ ] [awscli](https://aws.amazon.com/cli/)
   - [ ] [colordiff](https://github.com/daveewart/colordiff)
   - [ ] [coreutils](https://www.gnu.org/software/coreutils/)
@@ -151,24 +151,9 @@ Make sure you are already connected to the company's WiFi
   - [ ] [tree](https://oldmanprogrammer.net/source.php?dir=projects/tree)
   - [ ] [yq](https://github.com/mikefarah/yq)
 
-## 11. Setup asdf/mise Plugins
+## 11. Setup mise Plugins
 
-- [ ] **[Node.js](https://github.com/asdf-vm/asdf-nodejs.git)**
-    ```shell
-    asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
-    ```
-- [ ] **[Python](https://github.com/asdf-community/asdf-python)**
-    ```shell
-    asdf plugin-add python
-    ```
-- [ ] **[Terraform](https://github.com/asdf-community/asdf-hashicorp)**
-    ```shell
-    asdf plugin-add terraform https://github.com/asdf-community/asdf-hashicorp.git
-    ```
-- [ ] **[Go](https://github.com/asdf-community/asdf-golang)**
-    ```shell
-    asdf plugin add golang https://github.com/asdf-community/asdf-golang.git
-    ```
+[mise - Getting Started](https://mise.jdx.dev/getting-started.html)
 
 ## 12. Generate a New SSH Key and Set Up Git
 
