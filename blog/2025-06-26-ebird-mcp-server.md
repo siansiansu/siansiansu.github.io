@@ -3,7 +3,7 @@ slug: ebird-mcp-server
 tags: [eBird]
 ---
 
-# 使用 MCP Server 打造個人化 eBird AI 助理
+# 結合 eBird 與 AI：使用 MCP Server 打造個人鳥類資料助理
 
 ![demo](/ebird-mcp-server/demo.gif)
 
