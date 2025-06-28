@@ -119,7 +119,6 @@ Make sure you are already connected to the company's WiFi
 - [ ] **Install Homebrew Packages**
   - [ ] [ansible-lint](https://formulae.brew.sh/formula/ansible-lint)
   - [ ] [ansible](https://formulae.brew.sh/formula/ansible)
-  - [ ] [mise](https://github.com/jdx/mise)
   - [ ] [awscli](https://aws.amazon.com/cli/)
   - [ ] [colordiff](https://github.com/daveewart/colordiff)
   - [ ] [coreutils](https://www.gnu.org/software/coreutils/)
@@ -140,15 +139,18 @@ Make sure you are already connected to the company's WiFi
   - [ ] [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)
   - [ ] [kubectx](https://github.com/ahmetb/kubectx)
   - [ ] [lazygit](https://github.com/jesseduffield/lazygit)
+  - [ ] [mise](https://github.com/jdx/mise)
   - [ ] [neovim](https://neovim.io)
   - [ ] [ngrok](https://formulae.brew.sh/cask/ngrok)
   - [ ] [orbstack](https://orbstack.dev)
   - [ ] [ranger](https://github.com/ranger/ranger)
   - [ ] [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - [ ] [ruff](https://github.com/astral-sh/ruff)
   - [ ] [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
   - [ ] [terragrunt](https://terragrunt.gruntwork.io)
   - [ ] [tldr](https://tldr.sh)
   - [ ] [tree](https://oldmanprogrammer.net/source.php?dir=projects/tree)
+  - [ ] [uv](https://github.com/astral-sh/uv)
   - [ ] [yq](https://github.com/mikefarah/yq)
 
 ## 11. Setup mise Plugins
