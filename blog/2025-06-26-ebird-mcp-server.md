@@ -52,13 +52,12 @@ tags: [eBird]
 
 請參考[給自學者的Python教學(0) : 如何安裝Python(Mac/Windows)](https://chunyeung.medium.com/%E7%B5%A6%E8%87%AA%E5%AD%B8%E8%80%85%E7%9A%84python%E6%95%99%E5%AD%B8-1-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9Dpython-126f8ce2f967)
 
-
 ## 安裝與執行
 
 ### 1. 設定 Python 環境
 
 ```bash
-# Clone 專案
+# Clone 專案或點選下方連結手動下載
 git clone git@github.com:siansiansu/ebird-mcp-server.git
 
 # 進入專案目錄
