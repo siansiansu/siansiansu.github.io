@@ -214,11 +214,11 @@ const config = {
             label: "Blog",
             position: "left",
           },
-          {
-            to: "comments",
-            label: "留話予我",
-            position: "right",
-          },
+          // {
+          //   to: "comments",
+          //   label: "留話予我",
+          //   position: "right",
+          // },
           {
             type: "search",
             position: "right",
