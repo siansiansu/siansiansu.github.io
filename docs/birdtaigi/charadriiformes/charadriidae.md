@@ -49,11 +49,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **頸箍鴴 kún-khoo-hîng**
+- 🎯 **頷箍鴴 ām-khoo-hîng**
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
 參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/corplo)。
 
@@ -67,12 +67,12 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **小頸箍鴴 sió-kún-khoo-hîng**
+- 🎯 **小頷箍鴴 sió-ām-khoo-hîng**
 - ✳️ 金眼 kim-gán
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
 參考華語鳥類名錄、英語名稱、[eBird 資料](https://ebird.org/species/lirplo)。
 
@@ -196,11 +196,11 @@ keywords: ["台語", "鳥類", "鳥仔", "台灣", "鳥名", "eBird", "鴴"]
 
 **台語名**
 
-- 🎯 **東方頸箍鴴 tong-hong-kún-khoo-hîng**
+- 🎯 **東方頷箍鴴 tong-hong-ām-khoo-hîng**
 - ✳️ 水尖仔 tsúi-tsiam-á
 - ✳️ 海滑溜仔 hái-ku̍t-liu-á
 
-頸箍 kún-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
+頷箍 ām-khoo 意思是頷仔頸 ām-á-kún + 箍仔 khoo-á
 
 參考華語鳥類名錄、[eBird 資料](https://ebird.org/species/kenplo1)。
 
