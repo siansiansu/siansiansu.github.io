@@ -1,6 +1,6 @@
 ---
 slug: ebird-mcp-server
-tags: [eBird]
+tags: [ebird]
 ---
 
 # 結合 eBird 與 AI：用 MCP Server 打造你的個人鳥類資料助理
