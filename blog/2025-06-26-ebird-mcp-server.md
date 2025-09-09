@@ -9,6 +9,8 @@ tags: [ebird]
 
 這是一個結合 eBird 與 Model Context Protocol (MCP) Server 的工具，讓使用者可以透過自然語言，直接在 Claude 的對話視窗中查詢鳥類觀測資料。
 
+<!-- truncate -->
+
 ## 功能特色
 
 以下是一些可以使用 eBird MCP Server 查詢觀測資料的提示詞範例，AI 會自行判斷是否需要使用 eBird MCP Server，或者也可以在提示詞告訴 AI 使用 eBird 資料：

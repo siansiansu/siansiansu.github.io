@@ -1,5 +1,6 @@
 ---
-title: Mac Setup Guide
+slug: mac-setup-guide
+tags: [mac, setup, devops, sre]
 ---
 
 # Mac Setup Guide for DevOps/SRE
@@ -7,6 +8,8 @@ title: Mac Setup Guide
 :::success
 Make sure you are already connected to the company's WiFi
 :::
+
+<!-- truncate -->
 
 ## 1. Setup Bluetooth for External Devices
 
@@ -56,7 +59,7 @@ Make sure you are already connected to the company's WiFi
 
 ## 4. Setup Magnet/Rectangle/Spectacle
 
-![image](./mac-setup-guide/setup-guide.png)
+![image](/mac-setup-guide-setup-guide.png)
 
 ## 5. Download & Install from Browser
 
@@ -112,7 +115,7 @@ Make sure you are already connected to the company's WiFi
       curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
       ```
     - [ ] **Download zimfw Settings**
-        - Copy and paste the settings from [zshrc](./zim-zshrc.md) and [zimrc](./zim-zimrc.md)
+        - Copy and paste the settings from [zshrc](/blog/2024-09-04-zim-zshrc) and [zimrc](/blog/2024-09-04-zim-zimrc)
 
 ## 10. Install via Homebrew
 
