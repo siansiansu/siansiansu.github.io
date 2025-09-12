@@ -48,8 +48,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          blogTitle: '技術筆記與心得分享',
-          blogDescription: '探索技術世界：從賞鳥程式到系統架構，分享我的學習心得與實作經驗',
+          blogTitle: '最近的文章',
+          blogDescription: '賞鳥、野外、台語、軟體、生活',
           postsPerPage: 9,
           blogSidebarTitle: '最近文章',
           blogSidebarCount: 5,
