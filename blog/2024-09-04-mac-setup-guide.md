@@ -115,7 +115,7 @@ Make sure you are already connected to the company's WiFi
       curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
       ```
     - [ ] **Download zimfw Settings**
-        - Copy and paste the settings from [zshrc](/blog/2024-09-04-zim-zshrc) and [zimrc](/blog/2024-09-04-zim-zimrc)
+        - Copy and paste the settings from [zshrc](/blog/zim-zshrc) and [zimrc](/blog/zim-zimrc)
 
 ## 10. Install via Homebrew
 
